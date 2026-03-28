@@ -13,7 +13,8 @@ import type {
 } from '@/types'
 
 async function fetchJson<T>(path: string): Promise<T> {
-  const res = await fetch(path)
+  const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+  const res = await fetch(base + path)
   if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.statusText}`)
   return res.json()
 }
