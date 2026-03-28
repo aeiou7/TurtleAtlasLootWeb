@@ -10,6 +10,7 @@ const router = useRouter()
 const store = useDataStore()
 const ready = ref(false)
 const items = ref<LootItem[]>([])
+const bossNavOpen = ref(false)
 
 const categoryInfo = computed<CategoryInfo | undefined>(() => getCategoryByKey(props.category))
 
@@ -24,6 +25,35 @@ const pageTitle = computed(() => {
 const prevPage = computed(() => store.buttonRegistry?.[props.pageKey]?.prevPage)
 const nextPage = computed(() => store.buttonRegistry?.[props.pageKey]?.nextPage)
 const backPage = computed(() => store.buttonRegistry?.[props.pageKey]?.backPage)
+
+/** Walk the nextPage chain from the first boss to build an ordered boss list. */
+const bossList = computed(() => {
+  const reg = store.buttonRegistry
+  if (!reg) return []
+
+  // Walk backwards from current page to find the first boss
+  let first = props.pageKey
+  while (reg[first]?.prevPage) {
+    first = reg[first].prevPage!
+  }
+
+  // Walk forward collecting all bosses
+  const list: { key: string; label: string }[] = []
+  let cur: string | undefined = first
+  const seen = new Set<string>()
+  while (cur && !seen.has(cur)) {
+    seen.add(cur)
+    const title =
+      store.tableRegister?.[cur]?.title ??
+      reg[cur]?.title ??
+      cur
+    // Strip the dungeon prefix ("Molten Core - Ragnaros" → "Ragnaros")
+    const label = title.includes(' - ') ? title.split(' - ').slice(1).join(' - ') : title
+    list.push({ key: cur, label })
+    cur = reg[cur]?.nextPage
+  }
+  return list
+})
 
 async function loadItems() {
   ready.value = false
@@ -70,7 +100,7 @@ watch(() => props.pageKey, loadItems)
     </div>
 
     <!-- Page title + navigation -->
-    <div class="flex items-center justify-between mb-6">
+    <div class="flex items-center justify-between mb-4">
       <h1 class="text-xl font-bold text-[var(--accent)]">{{ pageTitle }}</h1>
       <div class="flex gap-2">
         <button
@@ -86,6 +116,33 @@ watch(() => props.pageKey, loadItems)
           class="px-3 py-1.5 text-sm bg-[var(--bg-card)] border border-[var(--border)] rounded-lg hover:border-[var(--accent)] transition-colors"
         >
           Next →
+        </button>
+      </div>
+    </div>
+
+    <!-- Boss sub-nav -->
+    <div v-if="bossList.length > 1" class="mb-4">
+      <button
+        @click="bossNavOpen = !bossNavOpen"
+        class="flex items-center gap-2 px-3 py-2 text-sm bg-[var(--bg-card)] border border-[var(--border)] rounded-lg hover:border-[var(--accent)] transition-colors w-full sm:w-auto"
+      >
+        <span class="text-[var(--text-secondary)]">Jump to boss</span>
+        <span class="text-xs text-[var(--text-secondary)] ml-auto sm:ml-0">{{ bossNavOpen ? '▲' : '▼' }}</span>
+      </button>
+      <div
+        v-if="bossNavOpen"
+        class="mt-1 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-1 bg-[var(--bg-card)] border border-[var(--border)] rounded-lg p-2"
+      >
+        <button
+          v-for="boss in bossList"
+          :key="boss.key"
+          @click="router.push(`/${category}/${boss.key}`); bossNavOpen = false"
+          class="px-2 py-1.5 text-sm text-left rounded transition-colors truncate"
+          :class="boss.key === pageKey
+            ? 'bg-[var(--accent)] text-white font-semibold'
+            : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-base)]'"
+        >
+          {{ boss.label }}
         </button>
       </div>
     </div>

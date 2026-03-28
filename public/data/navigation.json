@@ -186,6 +186,11 @@
       "extra": "Silithus"
     },
     {
+      "lootpage": "MCIncindis",
+      "name": "[RAID] Molten Core",
+      "extra": "Burning Steppes"
+    },
+    {
       "lootpage": "Axelus",
       "name": "[RAID] Onyxia's Lair",
       "extra": "Dustwallow Marsh"

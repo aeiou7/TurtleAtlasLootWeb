@@ -3,8 +3,6 @@ import type { TooltipData, LootItem } from '@/types'
 import { useDataStore } from '@/stores/dataStore'
 
 const HOVER_DELAY = 150
-const OFFSET_X = 16
-const OFFSET_Y = 16
 const TOUCH_MOVE_THRESHOLD = 10
 
 export function useTooltip() {
@@ -23,25 +21,6 @@ export function useTooltip() {
   let currentItemId: number | null = null
   let touchStartX = 0
   let touchStartY = 0
-
-  function clampPosition(x: number, y: number, tooltipWidth = 320, tooltipHeight = 200) {
-    const vw = window.innerWidth
-    const vh = window.innerHeight
-
-    if (x + tooltipWidth + OFFSET_X > vw) {
-      x = x - tooltipWidth - OFFSET_X
-    } else {
-      x = x + OFFSET_X
-    }
-
-    if (y + tooltipHeight + OFFSET_Y > vh) {
-      y = y - tooltipHeight - OFFSET_Y
-    } else {
-      y = y + OFFSET_Y
-    }
-
-    return { x: Math.max(0, x), y: Math.max(0, y) }
-  }
 
   function hideTooltip() {
     if (hoverTimer) {
@@ -63,9 +42,8 @@ export function useTooltip() {
     currentItemId = item.id
     activeItem.value = item
 
-    const pos = clampPosition(event.clientX, event.clientY)
-    tooltipX.value = pos.x
-    tooltipY.value = pos.y
+    tooltipX.value = event.clientX
+    tooltipY.value = event.clientY
 
     if (hoverTimer) clearTimeout(hoverTimer)
     hoverTimer = setTimeout(async () => {
@@ -82,9 +60,8 @@ export function useTooltip() {
   function onItemMouseMove(event: MouseEvent) {
     if (isTouch.value) return
     if (!visible.value && !hoverTimer) return
-    const pos = clampPosition(event.clientX, event.clientY)
-    tooltipX.value = pos.x
-    tooltipY.value = pos.y
+    tooltipX.value = event.clientX
+    tooltipY.value = event.clientY
   }
 
   function onItemMouseLeave() {
@@ -118,9 +95,8 @@ export function useTooltip() {
       currentItemId = item.id
       activeItem.value = item
 
-      const pos = clampPosition(endTouch.clientX, endTouch.clientY)
-      tooltipX.value = pos.x
-      tooltipY.value = pos.y
+      tooltipX.value = endTouch.clientX
+      tooltipY.value = endTouch.clientY
 
       const tooltipPromise = (item.type === 'spell' || item.type === 'enchant')
         ? store.getSpellTooltip(item.id, item.type)

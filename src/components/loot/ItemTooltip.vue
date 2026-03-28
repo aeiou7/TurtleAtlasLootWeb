@@ -1,6 +1,9 @@
 <script setup lang="ts">
+import { ref, watch, onMounted } from 'vue'
 import type { TooltipData, LootItem } from '@/types'
 import { getIconUrl, qualityClass } from '@/utils/icons'
+
+const OFFSET = 16
 
 const props = defineProps<{
   tooltip: TooltipData | null
@@ -8,6 +11,47 @@ const props = defineProps<{
   x: number
   y: number
 }>()
+
+const el = ref<HTMLElement | null>(null)
+const posLeft = ref(props.x + OFFSET)
+const posTop = ref(props.y + OFFSET)
+
+function reposition() {
+  if (!el.value) return
+  const rect = el.value.getBoundingClientRect()
+  const vw = window.innerWidth
+  const vh = window.innerHeight
+
+  let x: number
+  let y: number
+
+  // Horizontal: prefer right of cursor; flip left if it overflows
+  if (props.x + OFFSET + rect.width > vw) {
+    x = props.x - rect.width - OFFSET
+  } else {
+    x = props.x + OFFSET
+  }
+
+  // Vertical: prefer below cursor; flip up if it overflows
+  if (props.y + OFFSET + rect.height > vh) {
+    y = props.y - rect.height - OFFSET
+  } else {
+    y = props.y + OFFSET
+  }
+
+  posLeft.value = Math.max(0, x)
+  posTop.value = Math.max(0, y)
+}
+
+// Position once the DOM element exists (before the first browser paint)
+onMounted(reposition)
+
+// Reposition whenever cursor coordinates or tooltip content change
+watch(
+  () => [props.x, props.y, props.tooltip],
+  reposition,
+  { flush: 'post' }
+)
 
 const GREEN_PREFIXES = ['equip:', 'use:', 'chance on hit:']
 
@@ -58,8 +102,9 @@ function formatReagent(r: { name: string; quantity: number }): string {
 <template>
   <Teleport to="body">
     <div
+      ref="el"
       class="item-tooltip"
-      :style="{ left: x + 'px', top: y + 'px' }"
+      :style="{ left: posLeft + 'px', top: posTop + 'px' }"
     >
       <!-- Spell/recipe info pane (shown above item tooltip for crafting spells) -->
       <template v-if="tooltip?.spellInfo">
@@ -124,6 +169,8 @@ function formatReagent(r: { name: string; quantity: number }): string {
   pointer-events: none;
   min-width: 180px;
   max-width: 320px;
+  max-height: calc(100vh - 16px);
+  overflow-y: auto;
   padding: 8px 10px;
   background: linear-gradient(to bottom, #1a0a2e, #0d0416);
   border: 1px solid #6040a0;
