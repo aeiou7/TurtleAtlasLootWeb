@@ -1,0 +1,4924 @@
+{
+  "DUNGEONSMENU1": {
+    "title": "Dungeons & Raids",
+    "nextPage": "DUNGEONSMENU2"
+  },
+  "DUNGEONSMENU2": {
+    "title": "Dungeons & Raids",
+    "prevPage": "DUNGEONSMENU1"
+  },
+  "FMHTansha": {
+    "title": "Tan'sha the Sleek",
+    "nextPage": "FMHKanza",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "FMHKanza": {
+    "title": "Kan'za the Seer",
+    "nextPage": "FMHBattlemaster",
+    "prevPage": "FMHTansha",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "FMHBattlemaster": {
+    "title": "Battlemaster Ubukaz",
+    "nextPage": "FMHHailar",
+    "prevPage": "FMHKanza",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "FMHHailar": {
+    "title": "Hailar the Frigid",
+    "prevPage": "FMHBattlemaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCPathun": {
+    "title": "Pathun Duskhide",
+    "nextPage": "WHCAhgktos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCAhgktos": {
+    "title": "Ahgk'tos the Pure",
+    "nextPage": "WHCAmbassador",
+    "prevPage": "WHCPathun",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCAmbassador": {
+    "title": "Ambassador Vortalus",
+    "nextPage": "WHCWalgan",
+    "prevPage": "WHCAhgktos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCWalgan": {
+    "title": "Walgan Bloodcaller",
+    "nextPage": "WHCBonespeaker",
+    "prevPage": "WHCAmbassador",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCBonespeaker": {
+    "title": "Bonespeaker Narlgom",
+    "nextPage": "WHCProphet",
+    "prevPage": "WHCWalgan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCProphet": {
+    "title": "Prophet Stormhoof",
+    "nextPage": "WHCChieftan",
+    "prevPage": "WHCBonespeaker",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WHCChieftan": {
+    "title": "Chieftain Shalk Blackwind",
+    "prevPage": "WHCProphet",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRGowlfang": {
+    "title": "Gowlfang",
+    "nextPage": "DMRBroodmother",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRBroodmother": {
+    "title": "Cavernweb Broodmother",
+    "nextPage": "DMRWebMaster",
+    "prevPage": "DMRGowlfang",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRWebMaster": {
+    "title": "Web Master Torkon",
+    "nextPage": "DMRGarlok",
+    "prevPage": "DMRBroodmother",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRGarlok": {
+    "title": "Garlok Flamekeeper",
+    "nextPage": "DMRHalgan",
+    "prevPage": "DMRWebMaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRHalgan": {
+    "title": "Halgan Redbrand",
+    "nextPage": "DMRSlagfist",
+    "prevPage": "DMRGarlok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRSlagfist": {
+    "title": "Slagfist Destroyer",
+    "nextPage": "DMROverlord",
+    "prevPage": "DMRHalgan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMROverlord": {
+    "title": "Overlord Blackheart",
+    "nextPage": "DMRElderHollowblood",
+    "prevPage": "DMRSlagfist",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRElderHollowblood": {
+    "title": "Elder Hollowblood",
+    "nextPage": "DMRSearistrasz",
+    "prevPage": "DMROverlord",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRSearistrasz": {
+    "title": "Searistrasz",
+    "nextPage": "DMRZuluhed",
+    "prevPage": "DMRElderHollowblood",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRZuluhed": {
+    "title": "Zuluhed the Whacked",
+    "nextPage": "DMRTrash",
+    "prevPage": "DMRSearistrasz",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "DMRZuluhed",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWROronok": {
+    "title": "Oronok Torn-Heart",
+    "nextPage": "SWRDagar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRDagar": {
+    "title": "Dagar the Glutton",
+    "nextPage": "SWRDukeBalor",
+    "prevPage": "SWROronok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRDukeBalor": {
+    "title": "Duke Balor the IV",
+    "nextPage": "SWRLibrarian",
+    "prevPage": "SWRDagar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRLibrarian": {
+    "title": "Librarian Theodorus",
+    "nextPage": "SWRChieftain",
+    "prevPage": "SWRDukeBalor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRChieftain": {
+    "title": "Chieftain Stormsong",
+    "nextPage": "SWRDeathlord",
+    "prevPage": "SWRLibrarian",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRDeathlord": {
+    "title": "Deathlord Tidebane",
+    "nextPage": "SWRSubjugator",
+    "prevPage": "SWRChieftain",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRSubjugator": {
+    "title": "Subjugator Halthas Shadecrest",
+    "nextPage": "SWRMycellakos",
+    "prevPage": "SWRDeathlord",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRMycellakos": {
+    "title": "Mycellakos",
+    "nextPage": "SWREldermaw",
+    "prevPage": "SWRSubjugator",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWREldermaw": {
+    "title": "Eldermaw the Primordial",
+    "nextPage": "SWRLadyDrazare",
+    "prevPage": "SWRMycellakos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRLadyDrazare": {
+    "title": "Lady Drazare",
+    "nextPage": "SWRRemains",
+    "prevPage": "SWREldermaw",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRRemains": {
+    "title": "Remains of the Innocent",
+    "nextPage": "SWRMergothid",
+    "prevPage": "SWRLadyDrazare",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRMergothid": {
+    "title": "Mergothid",
+    "nextPage": "SWRTrash",
+    "prevPage": "SWRRemains",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWRTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SWRMergothid",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQHighForemanBargulBlackhammer": {
+    "title": "High Foreman Bargul Blackhammer",
+    "nextPage": "HQEngineerFiggles",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQEngineerFiggles": {
+    "title": "Engineer Figgles",
+    "nextPage": "HQCorrosis",
+    "prevPage": "HQHighForemanBargulBlackhammer",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQCorrosis": {
+    "title": "Corrosis",
+    "nextPage": "HQHatereaverAnnihilator",
+    "prevPage": "HQEngineerFiggles",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQHatereaverAnnihilator": {
+    "title": "Hatereaver Annihilator",
+    "nextPage": "HQHargeshDoomcaller",
+    "prevPage": "HQCorrosis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQHargeshDoomcaller": {
+    "title": "Har'gesh Doomcaller",
+    "nextPage": "HQTrash",
+    "prevPage": "HQHatereaverAnnihilator",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "HQTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "HQHargeshDoomcaller",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "KCMarrowspike": {
+    "title": "Marrowspike",
+    "nextPage": "KCHivaxxis",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCHivaxxis": {
+    "title": "Hivaxxis",
+    "nextPage": "KCCorpsemuncher",
+    "prevPage": "KCMarrowspike",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCCorpsemuncher": {
+    "title": "Corpsemuncher",
+    "nextPage": "KCGuardCaptainGort",
+    "prevPage": "KCHivaxxis",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCGuardCaptainGort": {
+    "title": "Guard Captain Gort",
+    "nextPage": "KCArchlichEnkhraz",
+    "prevPage": "KCCorpsemuncher",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCArchlichEnkhraz": {
+    "title": "Archlich Enkhraz",
+    "nextPage": "KCCommanderAndreon",
+    "prevPage": "KCGuardCaptainGort",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCCommanderAndreon": {
+    "title": "Commander Andreon",
+    "nextPage": "KCAlarus",
+    "prevPage": "KCArchlichEnkhraz",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCAlarus": {
+    "title": "Alarus",
+    "nextPage": "KCTreasure",
+    "prevPage": "KCCommanderAndreon",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCTreasure": {
+    "title": "Half-Buried Treasure Chest",
+    "nextPage": "KCTrash",
+    "prevPage": "KCAlarus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "KCTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "KCTreasure",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMChronar": {
+    "title": "Chronar",
+    "nextPage": "COTBMEpidamu",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMEpidamu": {
+    "title": "Epidamu",
+    "nextPage": "COTBMDriftingAvatar",
+    "prevPage": "COTBMChronar",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMDriftingAvatar": {
+    "title": "Drifting Avatar of Sand",
+    "nextPage": "COTBMTimeLordEpochronos",
+    "prevPage": "COTBMEpidamu",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMTimeLordEpochronos": {
+    "title": "Time-Lord Epochronos",
+    "nextPage": "COTBMMossheart",
+    "prevPage": "COTBMDriftingAvatar",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMMossheart": {
+    "title": "Mossheart",
+    "nextPage": "COTBMRotmaw",
+    "prevPage": "COTBMTimeLordEpochronos",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMRotmaw": {
+    "title": "Rotmaw",
+    "nextPage": "COTBMAntnormi",
+    "prevPage": "COTBMMossheart",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTBMAntnormi": {
+    "title": "Antnormi",
+    "nextPage": "COTTrash",
+    "prevPage": "COTBMRotmaw",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "COTTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "COTBMAntnormi",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVAszoshGrimflame": {
+    "title": "Aszosh Grimflame",
+    "nextPage": "SWVThamGrarr",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVThamGrarr": {
+    "title": "Tham'Grarr",
+    "nextPage": "SWVBlackBride",
+    "prevPage": "SWVAszoshGrimflame",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVBlackBride": {
+    "title": "Black Bride",
+    "nextPage": "SWVDamian",
+    "prevPage": "SWVThamGrarr",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVDamian": {
+    "title": "Damian",
+    "nextPage": "SWVVolkanCruelblade",
+    "prevPage": "SWVBlackBride",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVVolkanCruelblade": {
+    "title": "Volkan Cruelblade",
+    "nextPage": "SWVVaultArmoryEquipment",
+    "prevPage": "SWVDamian",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVVaultArmoryEquipment": {
+    "title": "Arc'tiras",
+    "nextPage": "SWVTrash",
+    "prevPage": "SWVVolkanCruelblade",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SWVTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SWVVaultArmoryEquipment",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "TCGGrovetenderEngryss": {
+    "title": "Grovetender Engryss",
+    "nextPage": "TCGKeeperRanathos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "TCGKeeperRanathos": {
+    "title": "Keeper Ranathos",
+    "nextPage": "TCGHighPriestessAlathea",
+    "prevPage": "TCGGrovetenderEngryss",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "TCGHighPriestessAlathea": {
+    "title": "High Priestess A'lathea",
+    "nextPage": "TCGFenektistheDeceiver",
+    "prevPage": "TCGKeeperRanathos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "TCGFenektistheDeceiver": {
+    "title": "Fenektis the Deceiver",
+    "nextPage": "TCGMasterRaxxieth",
+    "prevPage": "TCGHighPriestessAlathea",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "TCGMasterRaxxieth": {
+    "title": "Master Raxxieth",
+    "nextPage": "TCGTrash",
+    "prevPage": "TCGFenektistheDeceiver",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "TCGTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "TCGMasterRaxxieth",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UKHGnarlmoon": {
+    "title": "Keeper Gnarlmoon",
+    "nextPage": "UKHIncantagos",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHIncantagos": {
+    "title": "Ley-Watcher Incantagos",
+    "nextPage": "UKHAnomalus",
+    "prevPage": "UKHGnarlmoon",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHAnomalus": {
+    "title": "Anomalus",
+    "nextPage": "UKHEcho",
+    "prevPage": "UKHIncantagos",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHEcho": {
+    "title": "Echo of Medivh",
+    "nextPage": "UKHKing",
+    "prevPage": "UKHAnomalus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHKing": {
+    "title": "King (Chess fight)",
+    "nextPage": "UKHSanvTasdal",
+    "prevPage": "UKHEcho",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHSanvTasdal": {
+    "title": "Sanv Tas'dal",
+    "nextPage": "UKHKruul",
+    "prevPage": "UKHKing",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHKruul": {
+    "title": "Kruul",
+    "nextPage": "UKHRupturan",
+    "prevPage": "UKHSanvTasdal",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHRupturan": {
+    "title": "Rupturan the Broken",
+    "nextPage": "UKHMephistroth",
+    "prevPage": "UKHKruul",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHMephistroth": {
+    "title": "Mephistroth",
+    "nextPage": "UKHTrash",
+    "prevPage": "UKHRupturan",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "UKHTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "UKHMephistroth",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "GCMatthiasHoltz": {
+    "title": "Matthias Holtz",
+    "nextPage": "GCPackmasterRagetooth",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCPackmasterRagetooth": {
+    "title": "Packmaster Ragetooth",
+    "nextPage": "GCJudgeSutherland",
+    "prevPage": "GCMatthiasHoltz",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCJudgeSutherland": {
+    "title": "Judge Sutherland",
+    "nextPage": "GCDustivanBlackcowl",
+    "prevPage": "GCPackmasterRagetooth",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCDustivanBlackcowl": {
+    "title": "Dustivan Blackcowl",
+    "nextPage": "GCMarshalMagnusGreystone",
+    "prevPage": "GCJudgeSutherland",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCMarshalMagnusGreystone": {
+    "title": "Marshal Magnus Greystone",
+    "nextPage": "GCHorsemasterLevvin",
+    "prevPage": "GCDustivanBlackcowl",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCHorsemasterLevvin": {
+    "title": "Horsemaster Levvin",
+    "nextPage": "GCHarlowFamilyChest",
+    "prevPage": "GCMarshalMagnusGreystone",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCHarlowFamilyChest": {
+    "title": "Harlow Family Chest",
+    "nextPage": "GCGennGreymane",
+    "prevPage": "GCHorsemasterLevvin",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCGennGreymane": {
+    "title": "Genn Greymane",
+    "nextPage": "GCTrash",
+    "prevPage": "GCHarlowFamilyChest",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GCTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "GCGennGreymane",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDLordRoccor": {
+    "title": "Lord Roccor",
+    "nextPage": "BRDHighInterrogatorGerstahn",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDHighInterrogatorGerstahn": {
+    "title": "High Interrogator Gerstahn",
+    "nextPage": "BRDAnubshiah",
+    "prevPage": "BRDLordRoccor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDAnubshiah": {
+    "title": "Anub'shiah",
+    "nextPage": "BRDEviscerator",
+    "prevPage": "BRDHighInterrogatorGerstahn",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDEviscerator": {
+    "title": "Eviscerator",
+    "nextPage": "BRDGorosh",
+    "prevPage": "BRDAnubshiah",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDGorosh": {
+    "title": "Gorosh the Dervish",
+    "nextPage": "BRDGrizzle",
+    "prevPage": "BRDEviscerator",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDGrizzle": {
+    "title": "Grizzle",
+    "nextPage": "BRDHedrum",
+    "prevPage": "BRDGorosh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDHedrum": {
+    "title": "Hedrum the Creeper",
+    "nextPage": "BRDOkthor",
+    "prevPage": "BRDGrizzle",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDOkthor": {
+    "title": "Ok'thor the Breaker",
+    "nextPage": "BRDTheldren",
+    "prevPage": "BRDHedrum",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDTheldren": {
+    "title": "Theldren",
+    "nextPage": "BRDHoundmaster",
+    "prevPage": "BRDOkthor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDHoundmaster": {
+    "title": "Houndmaster Grebmar",
+    "nextPage": "BRDPyromancerLoregrain",
+    "prevPage": "BRDTheldren",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDPyromancerLoregrain": {
+    "title": "Pyromancer Loregrain",
+    "nextPage": "BRDTheVault",
+    "prevPage": "BRDHoundmaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDTheVault": {
+    "title": "The Vault",
+    "nextPage": "BRDWarderStilgiss",
+    "prevPage": "BRDPyromancerLoregrain",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDWarderStilgiss": {
+    "title": "Warder Stilgiss",
+    "nextPage": "BRDVerek",
+    "prevPage": "BRDTheVault",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDVerek": {
+    "title": "Verek",
+    "nextPage": "BRDFineousDarkvire",
+    "prevPage": "BRDWarderStilgiss",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDFineousDarkvire": {
+    "title": "Fineous Darkvire",
+    "nextPage": "BRDLordIncendius",
+    "prevPage": "BRDVerek",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDLordIncendius": {
+    "title": "Lord Incendius",
+    "nextPage": "BRDBaelGar",
+    "prevPage": "BRDFineousDarkvire",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDBaelGar": {
+    "title": "Bael'Gar",
+    "nextPage": "BRDGeneralAngerforge",
+    "prevPage": "BRDLordIncendius",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDGeneralAngerforge": {
+    "title": "General Angerforge",
+    "nextPage": "BRDGolemLordArgelmach",
+    "prevPage": "BRDBaelGar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDGolemLordArgelmach": {
+    "title": "Golem Lord Argelmach",
+    "nextPage": "BRDGuzzler",
+    "prevPage": "BRDGeneralAngerforge",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDGuzzler": {
+    "title": "The Grim Guzzler",
+    "nextPage": "BRDFlamelash",
+    "prevPage": "BRDGolemLordArgelmach",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDFlamelash": {
+    "title": "Ambassador Flamelash",
+    "nextPage": "BRDPanzor",
+    "prevPage": "BRDGuzzler",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDPanzor": {
+    "title": "Panzor the Invincible",
+    "nextPage": "BRDTomb",
+    "prevPage": "BRDFlamelash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDTomb": {
+    "title": "Summoner's Tomb",
+    "nextPage": "BRDMagmus",
+    "prevPage": "BRDPanzor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDMagmus": {
+    "title": "Magmus",
+    "nextPage": "BRDPrincess",
+    "prevPage": "BRDTomb",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDPrincess": {
+    "title": "Princess Moira Bronzebeard",
+    "nextPage": "BRDEmperorDagranThaurissan",
+    "prevPage": "BRDMagmus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDEmperorDagranThaurissan": {
+    "title": "Emperor Dagran Thaurissan",
+    "nextPage": "BRDTrash",
+    "prevPage": "BRDPrincess",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BRDTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "BRDEmperorDagranThaurissan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSSpirestoneButcher": {
+    "title": "Spirestone Butcher",
+    "nextPage": "LBRSSpirestoneBattleLord",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSSpirestoneBattleLord": {
+    "title": "Spirestone Battle Lord",
+    "nextPage": "LBRSSpirestoneLordMagus",
+    "prevPage": "LBRSSpirestoneButcher",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSSpirestoneLordMagus": {
+    "title": "Spirestone Lord Magus",
+    "nextPage": "LBRSOmokk",
+    "prevPage": "LBRSSpirestoneBattleLord",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSOmokk": {
+    "title": "Highlord Omokk",
+    "nextPage": "LBRSVosh",
+    "prevPage": "LBRSSpirestoneLordMagus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSVosh": {
+    "title": "Shadow Hunter Vosh'gajin",
+    "nextPage": "LBRSVoone",
+    "prevPage": "LBRSOmokk",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSVoone": {
+    "title": "War Master Voone",
+    "nextPage": "LBRSFelguard",
+    "prevPage": "LBRSVosh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSFelguard": {
+    "title": "Burning Felguard",
+    "nextPage": "LBRSGrayhoof",
+    "prevPage": "LBRSVoone",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSGrayhoof": {
+    "title": "Mor Grayhoof",
+    "nextPage": "LBRSGrimaxe",
+    "prevPage": "LBRSFelguard",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSGrimaxe": {
+    "title": "Bannok Grimaxe",
+    "nextPage": "LBRSSmolderweb",
+    "prevPage": "LBRSGrayhoof",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSSmolderweb": {
+    "title": "Mother Smolderweb",
+    "nextPage": "LBRSCrystalFang",
+    "prevPage": "LBRSGrimaxe",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSCrystalFang": {
+    "title": "Crystal Fang",
+    "nextPage": "LBRSDoomhowl",
+    "prevPage": "LBRSSmolderweb",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSDoomhowl": {
+    "title": "Urok Doomhowl",
+    "nextPage": "LBRSZigris",
+    "prevPage": "LBRSCrystalFang",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSZigris": {
+    "title": "Quartermaster Zigris",
+    "nextPage": "LBRSHalycon",
+    "prevPage": "LBRSDoomhowl",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSHalycon": {
+    "title": "Halycon",
+    "nextPage": "LBRSSlavener",
+    "prevPage": "LBRSZigris",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSSlavener": {
+    "title": "Gizrul the Slavener",
+    "nextPage": "LBRSBashguud",
+    "prevPage": "LBRSHalycon",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSBashguud": {
+    "title": "Ghok Bashguud",
+    "nextPage": "LBRSWyrmthalak",
+    "prevPage": "LBRSSlavener",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSWyrmthalak": {
+    "title": "Overlord Wyrmthalak",
+    "nextPage": "LBRSTrash",
+    "prevPage": "LBRSBashguud",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "LBRSTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "LBRSWyrmthalak",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSEmberseer": {
+    "title": "Pyroguard Emberseer",
+    "nextPage": "UBRSSolakar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSSolakar": {
+    "title": "Solakar Flamewreath",
+    "nextPage": "UBRSFlame",
+    "prevPage": "UBRSEmberseer",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSFlame": {
+    "title": "Father Flame",
+    "nextPage": "UBRSRunewatcher",
+    "prevPage": "UBRSSolakar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSRunewatcher": {
+    "title": "Jed Runewatcher",
+    "nextPage": "UBRSAnvilcrack",
+    "prevPage": "UBRSFlame",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSAnvilcrack": {
+    "title": "Goraluk Anvilcrack",
+    "nextPage": "UBRSRend",
+    "prevPage": "UBRSRunewatcher",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSRend": {
+    "title": "Warchief Rend Blackhand",
+    "nextPage": "UBRSGyth",
+    "prevPage": "UBRSAnvilcrack",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSGyth": {
+    "title": "Gyth",
+    "nextPage": "UBRSBeast",
+    "prevPage": "UBRSRend",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSBeast": {
+    "title": "The Beast",
+    "nextPage": "UBRSValthalak",
+    "prevPage": "UBRSGyth",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSValthalak": {
+    "title": "Lord Valthalak",
+    "nextPage": "UBRSDrakkisath",
+    "prevPage": "UBRSBeast",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSDrakkisath": {
+    "title": "General Drakkisath",
+    "nextPage": "UBRSTrash",
+    "prevPage": "UBRSValthalak",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UBRSTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "UBRSDrakkisath",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BWLRazorgore": {
+    "title": "Razorgore the Untamed",
+    "nextPage": "BWLVaelastrasz",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLVaelastrasz": {
+    "title": "Vaelastrasz the Corrupt",
+    "nextPage": "BWLLashlayer",
+    "prevPage": "BWLRazorgore",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLLashlayer": {
+    "title": "Broodlord Lashlayer",
+    "nextPage": "BWLFiremaw",
+    "prevPage": "BWLVaelastrasz",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLFiremaw": {
+    "title": "Firemaw",
+    "nextPage": "BWLEzzel",
+    "prevPage": "BWLLashlayer",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLEzzel": {
+    "title": "Ezzel Darkbrewer",
+    "nextPage": "BWLEbonroc",
+    "prevPage": "BWLFiremaw",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLEbonroc": {
+    "title": "Ebonroc",
+    "nextPage": "BWLFlamegor",
+    "prevPage": "BWLEzzel",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLFlamegor": {
+    "title": "Flamegor",
+    "nextPage": "BWLChromaggus",
+    "prevPage": "BWLEbonroc",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLChromaggus": {
+    "title": "Chromaggus",
+    "nextPage": "BWLNefarian",
+    "prevPage": "BWLFlamegor",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLNefarian": {
+    "title": "Nefarian",
+    "nextPage": "BWLTrashMobs",
+    "prevPage": "BWLChromaggus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BWLTrashMobs": {
+    "title": "Trash Mobs",
+    "prevPage": "BWLNefarian",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "DMJaredVoss": {
+    "title": "Jared Voss",
+    "nextPage": "DMRhahkZor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMRhahkZor": {
+    "title": "Rhahk'Zor",
+    "nextPage": "DMMinerJohnson",
+    "prevPage": "DMJaredVoss",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMMinerJohnson": {
+    "title": "Miner Johnson",
+    "nextPage": "DMSneed",
+    "prevPage": "DMRhahkZor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMSneed": {
+    "title": "Sneed",
+    "nextPage": "DMSneedsShredder",
+    "prevPage": "DMMinerJohnson",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMSneedsShredder": {
+    "title": "Sneed's Shredder",
+    "nextPage": "DMGilnid",
+    "prevPage": "DMSneed",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMGilnid": {
+    "title": "Gilnid",
+    "nextPage": "DMHarvester",
+    "prevPage": "DMSneedsShredder",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMHarvester": {
+    "title": "Masterpiece Harvester",
+    "nextPage": "DMMrSmite",
+    "prevPage": "DMGilnid",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMMrSmite": {
+    "title": "Mr. Smite",
+    "nextPage": "DMCookie",
+    "prevPage": "DMHarvester",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMCookie": {
+    "title": "Cookie",
+    "nextPage": "DMCaptainGreenskin",
+    "prevPage": "DMMrSmite",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMCaptainGreenskin": {
+    "title": "Captain Greenskin",
+    "nextPage": "DMVanCleef",
+    "prevPage": "DMCookie",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMVanCleef": {
+    "title": "Edwin VanCleef",
+    "nextPage": "DMTrash",
+    "prevPage": "DMCaptainGreenskin",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "DMVanCleef",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnGrubbis": {
+    "title": "Grubbis",
+    "nextPage": "GnViscousFallout",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnViscousFallout": {
+    "title": "Viscous Fallout",
+    "nextPage": "GnElectrocutioner6000",
+    "prevPage": "GnGrubbis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnElectrocutioner6000": {
+    "title": "Electrocutioner 6000",
+    "nextPage": "GnCrowdPummeler960",
+    "prevPage": "GnViscousFallout",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnCrowdPummeler960": {
+    "title": "Crowd Pummeler 9-60",
+    "nextPage": "GnDIAmbassador",
+    "prevPage": "GnElectrocutioner6000",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnDIAmbassador": {
+    "title": "Dark Iron Ambassador",
+    "nextPage": "GnMekgineerThermaplugg",
+    "prevPage": "GnCrowdPummeler960",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnMekgineerThermaplugg": {
+    "title": "Mekgineer Thermaplugg",
+    "nextPage": "GnTrash",
+    "prevPage": "GnDIAmbassador",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "GnTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "GnMekgineerThermaplugg",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MCIncindis": {
+    "title": "Incindis",
+    "nextPage": "MCLucifron",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCLucifron": {
+    "title": "Lucifron",
+    "nextPage": "MCMagmadar",
+    "prevPage": "MCIncindis",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCMagmadar": {
+    "title": "Magmadar",
+    "nextPage": "MCGarr",
+    "prevPage": "MCLucifron",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCGarr": {
+    "title": "Garr",
+    "nextPage": "MCShazzrah",
+    "prevPage": "MCMagmadar",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCShazzrah": {
+    "title": "Shazzrah",
+    "nextPage": "MCGeddon",
+    "prevPage": "MCGarr",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCGeddon": {
+    "title": "Baron Geddon",
+    "nextPage": "MCGolemagg",
+    "prevPage": "MCShazzrah",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCGolemagg": {
+    "title": "Golemagg the Incinerator",
+    "nextPage": "MCTwins",
+    "prevPage": "MCGeddon",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCTwins": {
+    "title": "Basalthar & Smoldaris",
+    "nextPage": "MCThaurissan",
+    "prevPage": "MCGolemagg",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCThaurissan": {
+    "title": "Sorcerer-Thane Thaurissan",
+    "nextPage": "MCSulfuron",
+    "prevPage": "MCTwins",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCSulfuron": {
+    "title": "Sulfuron Harbinger",
+    "nextPage": "MCMajordomo",
+    "prevPage": "MCThaurissan",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCMajordomo": {
+    "title": "Majordomo Executus",
+    "nextPage": "MCRagnaros",
+    "prevPage": "MCSulfuron",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCRagnaros": {
+    "title": "Ragnaros",
+    "nextPage": "MCTrashMobs",
+    "prevPage": "MCMajordomo",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCTrashMobs": {
+    "title": "Trash Mobs",
+    "nextPage": "MCRANDOMBOSSDROPS",
+    "prevPage": "MCRagnaros",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "MCRANDOMBOSSDROPS": {
+    "title": "Random Boss Loot",
+    "prevPage": "MCTrashMobs",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXPatchwerk": {
+    "title": "Patchwerk",
+    "nextPage": "NAXGrobbulus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXGrobbulus": {
+    "title": "Grobbulus",
+    "nextPage": "NAXGluth",
+    "prevPage": "NAXPatchwerk",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXGluth": {
+    "title": "Gluth",
+    "nextPage": "NAXThaddius",
+    "prevPage": "NAXGrobbulus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXThaddius": {
+    "title": "Thaddius",
+    "nextPage": "NAXAnubRekhan",
+    "prevPage": "NAXGluth",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXAnubRekhan": {
+    "title": "Anub'Rekhan",
+    "nextPage": "NAXGrandWidowFaerlina",
+    "prevPage": "NAXThaddius",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXGrandWidowFaerlina": {
+    "title": "Grand Widow Faerlina",
+    "nextPage": "NAXMaexxna",
+    "prevPage": "NAXAnubRekhan",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXMaexxna": {
+    "title": "Maexxna",
+    "nextPage": "NAXNoththePlaguebringer",
+    "prevPage": "NAXGrandWidowFaerlina",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXNoththePlaguebringer": {
+    "title": "Noth the Plaguebringer",
+    "nextPage": "NAXHeigantheUnclean",
+    "prevPage": "NAXMaexxna",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXHeigantheUnclean": {
+    "title": "Heigan the Unclean",
+    "nextPage": "NAXLoatheb",
+    "prevPage": "NAXNoththePlaguebringer",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXLoatheb": {
+    "title": "Loatheb",
+    "nextPage": "NAXInstructorRazuvious",
+    "prevPage": "NAXHeigantheUnclean",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXInstructorRazuvious": {
+    "title": "Instructor Razuvious",
+    "nextPage": "NAXGothiktheHarvester",
+    "prevPage": "NAXLoatheb",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXGothiktheHarvester": {
+    "title": "Gothik the Harvester",
+    "nextPage": "NAXTheFourHorsemen",
+    "prevPage": "NAXInstructorRazuvious",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXTheFourHorsemen": {
+    "title": "The Four Horsemen",
+    "nextPage": "NAXSapphiron",
+    "prevPage": "NAXGothiktheHarvester",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXSapphiron": {
+    "title": "Sapphiron",
+    "nextPage": "NAXKelThuzard",
+    "prevPage": "NAXTheFourHorsemen",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXKelThuzard": {
+    "title": "Kel'Thuzad",
+    "nextPage": "NAXTrash",
+    "prevPage": "NAXSapphiron",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "NAXTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "NAXKelThuzard",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "SMVishas": {
+    "title": "Interrogator Vishas",
+    "nextPage": "SMDukeDreadmoore",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMDukeDreadmoore": {
+    "title": "Duke Dreadmoore",
+    "nextPage": "SMScorn",
+    "prevPage": "SMVishas",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMScorn": {
+    "title": "Scorn",
+    "nextPage": "SMIronspine",
+    "prevPage": "SMDukeDreadmoore",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMIronspine": {
+    "title": "Ironspine",
+    "nextPage": "SMAzshir",
+    "prevPage": "SMScorn",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMAzshir": {
+    "title": "Azshir the Sleepless",
+    "nextPage": "SMFallenChampion",
+    "prevPage": "SMIronspine",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMFallenChampion": {
+    "title": "Fallen Champion",
+    "nextPage": "SMBloodmageThalnos",
+    "prevPage": "SMAzshir",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMBloodmageThalnos": {
+    "title": "Bloodmage Thalnos",
+    "nextPage": "SMGTrash",
+    "prevPage": "SMFallenChampion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMGTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SMBloodmageThalnos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMHoundmasterLoksey": {
+    "title": "Houndmaster Loksey",
+    "nextPage": "SMBrotherWystan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMBrotherWystan": {
+    "title": "Brother Wystan",
+    "nextPage": "SMDoan",
+    "prevPage": "SMHoundmasterLoksey",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMDoan": {
+    "title": "Arcanist Doan",
+    "nextPage": "SMLTrash",
+    "prevPage": "SMBrotherWystan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMLTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SMDoan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMHerod": {
+    "title": "Herod",
+    "nextPage": "SMQuartermaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMQuartermaster": {
+    "title": "Armory Quartermaster Daghelm",
+    "nextPage": "SMATrash",
+    "prevPage": "SMHerod",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMATrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SMQuartermaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMFairbanks": {
+    "title": "High Inquisitor Fairbanks",
+    "nextPage": "SMMograine",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMMograine": {
+    "title": "Scarlet Commander Mograine",
+    "nextPage": "SMWhitemane",
+    "prevPage": "SMFairbanks",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMWhitemane": {
+    "title": "High Inquisitor Whitemane",
+    "nextPage": "SMCTrash",
+    "prevPage": "SMMograine",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SMCTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SMWhitemane",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOBlood": {
+    "title": "Blood Steward of Kirtonos",
+    "nextPage": "SCHOLOKirtonostheHerald",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOKirtonostheHerald": {
+    "title": "Kirtonos the Herald",
+    "nextPage": "SCHOLOJandiceBarov",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOJandiceBarov": {
+    "title": "Jandice Barov",
+    "nextPage": "SCHOLOLordBlackwood",
+    "prevPage": "SCHOLOKirtonostheHerald",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOLordBlackwood": {
+    "title": "Lord Blackwood",
+    "nextPage": "SCHOLORattlegore",
+    "prevPage": "SCHOLOJandiceBarov",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLORattlegore": {
+    "title": "Rattlegore",
+    "nextPage": "SCHOLODeathKnight",
+    "prevPage": "SCHOLOLordBlackwood",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLODeathKnight": {
+    "title": "Death Knight Darkreaver",
+    "nextPage": "SCHOLOMarduk",
+    "prevPage": "SCHOLORattlegore",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOMarduk": {
+    "title": "Marduk Blackpool",
+    "nextPage": "SCHOLOVectus",
+    "prevPage": "SCHOLODeathKnight",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOVectus": {
+    "title": "Vectus",
+    "nextPage": "SCHOLORasFrostwhisper",
+    "prevPage": "SCHOLOMarduk",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLORasFrostwhisper": {
+    "title": "Ras Frostwhisper",
+    "nextPage": "SCHOLOKormok",
+    "prevPage": "SCHOLOVectus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOKormok": {
+    "title": "Kormok",
+    "nextPage": "SCHOLOInstructorMalicia",
+    "prevPage": "SCHOLORasFrostwhisper",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOInstructorMalicia": {
+    "title": "Instructor Malicia",
+    "nextPage": "SCHOLODoctorTheolenKrastinov",
+    "prevPage": "SCHOLOKormok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLODoctorTheolenKrastinov": {
+    "title": "Doctor Theolen Krastinov",
+    "nextPage": "SCHOLOLorekeeperPolkelt",
+    "prevPage": "SCHOLOInstructorMalicia",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOLorekeeperPolkelt": {
+    "title": "Lorekeeper Polkelt",
+    "nextPage": "SCHOLOTheRavenian",
+    "prevPage": "SCHOLODoctorTheolenKrastinov",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOTheRavenian": {
+    "title": "The Ravenian",
+    "nextPage": "SCHOLOLordAlexeiBarov",
+    "prevPage": "SCHOLOLorekeeperPolkelt",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOLordAlexeiBarov": {
+    "title": "Lord Alexei Barov",
+    "nextPage": "SCHOLOLadyIlluciaBarov",
+    "prevPage": "SCHOLOTheRavenian",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOLadyIlluciaBarov": {
+    "title": "Lady Illucia Barov",
+    "nextPage": "SCHOLODarkmasterGandling",
+    "prevPage": "SCHOLOLordAlexeiBarov",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLODarkmasterGandling": {
+    "title": "Darkmaster Gandling",
+    "nextPage": "SCHOLOTrash",
+    "prevPage": "SCHOLOLadyIlluciaBarov",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SCHOLOTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SCHOLODarkmasterGandling",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKRethilgore": {
+    "title": "Rethilgore",
+    "nextPage": "SFKFelSteed",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKFelSteed": {
+    "title": "Fel Steed",
+    "nextPage": "SFKRazorclawtheButcher",
+    "prevPage": "SFKRethilgore",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKRazorclawtheButcher": {
+    "title": "Razorclaw the Butcher",
+    "nextPage": "SFKSilverlaine",
+    "prevPage": "SFKFelSteed",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKSilverlaine": {
+    "title": "Baron Silverlaine",
+    "nextPage": "SFKSpringvale",
+    "prevPage": "SFKRazorclawtheButcher",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKSpringvale": {
+    "title": "Commander Springvale",
+    "nextPage": "SFKSever",
+    "prevPage": "SFKSilverlaine",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKSever": {
+    "title": "Sever",
+    "nextPage": "SFKOdotheBlindwatcher",
+    "prevPage": "SFKSpringvale",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKOdotheBlindwatcher": {
+    "title": "Odo the Blindwatcher",
+    "nextPage": "SFKDeathswornCaptain",
+    "prevPage": "SFKSever",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKDeathswornCaptain": {
+    "title": "Deathsworn Captain",
+    "nextPage": "SFKFenrustheDevourer",
+    "prevPage": "SFKOdotheBlindwatcher",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKFenrustheDevourer": {
+    "title": "Fenrus the Devourer",
+    "nextPage": "SFKArugalsVoidwalker",
+    "prevPage": "SFKDeathswornCaptain",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKArugalsVoidwalker": {
+    "title": "Arugal's Voidwalker",
+    "nextPage": "SFKWolfMasterNandos",
+    "prevPage": "SFKFenrustheDevourer",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKWolfMasterNandos": {
+    "title": "Wolf Master Nandos",
+    "nextPage": "SFKArchmageArugal",
+    "prevPage": "SFKArugalsVoidwalker",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKArchmageArugal": {
+    "title": "Archmage Arugal",
+    "nextPage": "SFKPrelate",
+    "prevPage": "SFKWolfMasterNandos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKPrelate": {
+    "title": "Prelate Ironmane",
+    "nextPage": "SFKTrash",
+    "prevPage": "SFKArchmageArugal",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SFKTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SFKPrelate",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStTargorr": {
+    "title": "Targorr the Dread",
+    "nextPage": "SWStKamDeepfury",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStKamDeepfury": {
+    "title": "Kam Deepfury",
+    "nextPage": "SWStHamhock",
+    "prevPage": "SWStTargorr",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStHamhock": {
+    "title": "Hamhock",
+    "nextPage": "SWStDextren",
+    "prevPage": "SWStKamDeepfury",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStDextren": {
+    "title": "Dextren Ward",
+    "nextPage": "SWStBazil",
+    "prevPage": "SWStHamhock",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStBazil": {
+    "title": "Bazil Thredd",
+    "nextPage": "SWStBruegalIronknuckle",
+    "prevPage": "SWStDextren",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStBruegalIronknuckle": {
+    "title": "Bruegal Ironknuckle",
+    "nextPage": "SWStTrash",
+    "prevPage": "SWStBazil",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "SWStTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "SWStBruegalIronknuckle",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATSkull": {
+    "title": "Skul",
+    "nextPage": "STRATStratholmeCourier",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATStratholmeCourier": {
+    "title": "Stratholme Courier",
+    "nextPage": "STRATPostmaster",
+    "prevPage": "STRATSkull",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATPostmaster": {
+    "title": "Postmaster Malown",
+    "nextPage": "STRATFrasSiabi",
+    "prevPage": "STRATStratholmeCourier",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATFrasSiabi": {
+    "title": "Fras Siabi",
+    "nextPage": "STRATAtiesh",
+    "prevPage": "STRATPostmaster",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATAtiesh": {
+    "title": "Atiesh",
+    "nextPage": "STRATBalzaphon",
+    "prevPage": "STRATFrasSiabi",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATBalzaphon": {
+    "title": "Balzaphon",
+    "nextPage": "STRATHearthsingerForresten",
+    "prevPage": "STRATAtiesh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATHearthsingerForresten": {
+    "title": "Hearthsinger Forresten",
+    "nextPage": "STRATTheUnforgiven",
+    "prevPage": "STRATBalzaphon",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATTheUnforgiven": {
+    "title": "The Unforgiven",
+    "nextPage": "STRATTimmytheCruel",
+    "prevPage": "STRATHearthsingerForresten",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATTimmytheCruel": {
+    "title": "Timmy the Cruel",
+    "nextPage": "STRATMalor",
+    "prevPage": "STRATTheUnforgiven",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATMalor": {
+    "title": "Malor the Zealous",
+    "nextPage": "STRATMalorsStrongbox",
+    "prevPage": "STRATTimmytheCruel",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATMalorsStrongbox": {
+    "title": "Malor's Strongbox",
+    "nextPage": "STRATCrimsonHammersmith",
+    "prevPage": "STRATMalor",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATCrimsonHammersmith": {
+    "title": "Crimson Hammersmith",
+    "nextPage": "STRATCannonMasterWilley",
+    "prevPage": "STRATMalorsStrongbox",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATCannonMasterWilley": {
+    "title": "Cannon Master Willey",
+    "nextPage": "STRATArchivistGalford",
+    "prevPage": "STRATCrimsonHammersmith",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATArchivistGalford": {
+    "title": "Archivist Galford",
+    "nextPage": "STRATBalnazzar",
+    "prevPage": "STRATCannonMasterWilley",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATBalnazzar": {
+    "title": "Balnazzar",
+    "nextPage": "STRATSothosJarien",
+    "prevPage": "STRATArchivistGalford",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATSothosJarien": {
+    "title": "Sothos",
+    "nextPage": "STRATStonespine",
+    "prevPage": "STRATBalnazzar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATStonespine": {
+    "title": "Stonespine",
+    "nextPage": "STRATBaronessAnastari",
+    "prevPage": "STRATSothosJarien",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATBaronessAnastari": {
+    "title": "Baroness Anastari",
+    "nextPage": "STRATBlackGuardSwordsmith",
+    "prevPage": "STRATStonespine",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATBlackGuardSwordsmith": {
+    "title": "Black Guard Swordsmith",
+    "nextPage": "STRATNerubenkan",
+    "prevPage": "STRATBaronessAnastari",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATNerubenkan": {
+    "title": "Nerub'enkan",
+    "nextPage": "STRATMalekithePallid",
+    "prevPage": "STRATBlackGuardSwordsmith",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATMalekithePallid": {
+    "title": "Maleki the Pallid",
+    "nextPage": "STRATMagistrateBarthilas",
+    "prevPage": "STRATNerubenkan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATMagistrateBarthilas": {
+    "title": "Magistrate Barthilas",
+    "nextPage": "STRATRamsteintheGorger",
+    "prevPage": "STRATMalekithePallid",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATRamsteintheGorger": {
+    "title": "Ramstein the Gorger",
+    "nextPage": "STRATBaronRivendare",
+    "prevPage": "STRATMagistrateBarthilas",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATBaronRivendare": {
+    "title": "Baron Rivendare",
+    "nextPage": "STRATTrash",
+    "prevPage": "STRATRamsteintheGorger",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STRATTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "STRATBaronRivendare",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STBalconyMinibosses": {
+    "title": "Balcony Minibosses",
+    "nextPage": "STAtalalarion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STAtalalarion": {
+    "title": "Atal'alarion",
+    "nextPage": "STSpawnOfHakkar",
+    "prevPage": "STBalconyMinibosses",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STSpawnOfHakkar": {
+    "title": "Spawn of Hakkar",
+    "nextPage": "STAvatarofHakkar",
+    "prevPage": "STAtalalarion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STAvatarofHakkar": {
+    "title": "Avatar of Hakkar",
+    "nextPage": "STJammalan",
+    "prevPage": "STSpawnOfHakkar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STJammalan": {
+    "title": "Jammal'an the Prophet",
+    "nextPage": "STOgom",
+    "prevPage": "STAvatarofHakkar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STOgom": {
+    "title": "Ogom the Wretched",
+    "nextPage": "STDreamscythe",
+    "prevPage": "STJammalan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STDreamscythe": {
+    "title": "Dreamscythe",
+    "nextPage": "STWeaver",
+    "prevPage": "STOgom",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STWeaver": {
+    "title": "Weaver",
+    "nextPage": "STMorphaz",
+    "prevPage": "STDreamscythe",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STMorphaz": {
+    "title": "Morphaz",
+    "nextPage": "STHazzas",
+    "prevPage": "STWeaver",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STHazzas": {
+    "title": "Hazzas",
+    "nextPage": "STEranikus",
+    "prevPage": "STMorphaz",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STEranikus": {
+    "title": "Shade of Eranikus",
+    "nextPage": "STTrash",
+    "prevPage": "STHazzas",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "STTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "STEranikus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldBaelog": {
+    "title": "Baelog",
+    "nextPage": "UldOlaf",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldOlaf": {
+    "title": "Olaf",
+    "nextPage": "UldEric",
+    "prevPage": "UldBaelog",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldEric": {
+    "title": "Eric 'The Swift'",
+    "nextPage": "UldRevelosh",
+    "prevPage": "UldOlaf",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldRevelosh": {
+    "title": "Revelosh",
+    "nextPage": "UldIronaya",
+    "prevPage": "UldEric",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldIronaya": {
+    "title": "Ironaya",
+    "nextPage": "UldAncientStoneKeeper",
+    "prevPage": "UldRevelosh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldAncientStoneKeeper": {
+    "title": "Ancient Stone Keeper",
+    "nextPage": "UldGalgannFirehammer",
+    "prevPage": "UldIronaya",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldGalgannFirehammer": {
+    "title": "Galgann Firehammer",
+    "nextPage": "UldGrimlok",
+    "prevPage": "UldAncientStoneKeeper",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldGrimlok": {
+    "title": "Grimlok",
+    "nextPage": "UldArchaedas",
+    "prevPage": "UldGalgannFirehammer",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldArchaedas": {
+    "title": "Archaedas",
+    "nextPage": "UldTrash",
+    "prevPage": "UldGrimlok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "UldTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "UldArchaedas",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZGJeklik": {
+    "title": "High Priestess Jeklik",
+    "nextPage": "ZGVenoxis",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGVenoxis": {
+    "title": "High Priest Venoxis",
+    "nextPage": "ZGMarli",
+    "prevPage": "ZGJeklik",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGMarli": {
+    "title": "High Priestess Mar'li",
+    "nextPage": "ZGMandokir",
+    "prevPage": "ZGVenoxis",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGMandokir": {
+    "title": "Bloodlord Mandokir",
+    "nextPage": "ZGGrilek",
+    "prevPage": "ZGMarli",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGGrilek": {
+    "title": "Gri'lek",
+    "nextPage": "ZGHazzarah",
+    "prevPage": "ZGMandokir",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGHazzarah": {
+    "title": "Hazza'rah",
+    "nextPage": "ZGRenataki",
+    "prevPage": "ZGGrilek",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGRenataki": {
+    "title": "Renataki",
+    "nextPage": "ZGWushoolay",
+    "prevPage": "ZGHazzarah",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGWushoolay": {
+    "title": "Wushoolay",
+    "nextPage": "ZGGahzranka",
+    "prevPage": "ZGRenataki",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGGahzranka": {
+    "title": "Gahz'ranka",
+    "nextPage": "ZGThekal",
+    "prevPage": "ZGWushoolay",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGThekal": {
+    "title": "High Priest Thekal",
+    "nextPage": "ZGArlokk",
+    "prevPage": "ZGGahzranka",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGArlokk": {
+    "title": "High Priestess Arlokk",
+    "nextPage": "ZGJindo",
+    "prevPage": "ZGThekal",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGJindo": {
+    "title": "Jin'do the Hexxer",
+    "nextPage": "ZGHakkar",
+    "prevPage": "ZGArlokk",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGHakkar": {
+    "title": "Hakkar",
+    "nextPage": "ZGShared",
+    "prevPage": "ZGJindo",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGShared": {
+    "title": "Random Boss Loot",
+    "nextPage": "ZGTrash1",
+    "prevPage": "ZGHakkar",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGTrash1": {
+    "title": "Trash Mobs",
+    "nextPage": "ZGTrash2",
+    "prevPage": "ZGShared",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGTrash2": {
+    "title": "Trash Mobs",
+    "nextPage": "ZGEnchants",
+    "prevPage": "ZGTrash1",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ZGEnchants": {
+    "title": "ZG Enchants",
+    "prevPage": "ZGTrash2",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "BFDGhamoora": {
+    "title": "Ghamoo-ra",
+    "nextPage": "BFDLadySarevess",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDLadySarevess": {
+    "title": "Lady Sarevess",
+    "nextPage": "BFDGelihast",
+    "prevPage": "BFDGhamoora",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDGelihast": {
+    "title": "Gelihast",
+    "nextPage": "BFDBaronAquanis",
+    "prevPage": "BFDLadySarevess",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDBaronAquanis": {
+    "title": "Baron Aquanis",
+    "nextPage": "BFDVelthelaxx",
+    "prevPage": "BFDGelihast",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDVelthelaxx": {
+    "title": "Velthelaxx the Defiler",
+    "nextPage": "BFDTwilightLordKelris",
+    "prevPage": "BFDBaronAquanis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDTwilightLordKelris": {
+    "title": "Twilight Lord Kelris",
+    "nextPage": "BFDOldSerrakis",
+    "prevPage": "BFDVelthelaxx",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDOldSerrakis": {
+    "title": "Old Serra'kis",
+    "nextPage": "BFDAkumai",
+    "prevPage": "BFDTwilightLordKelris",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDAkumai": {
+    "title": "Aku'mai",
+    "nextPage": "BFDTrash",
+    "prevPage": "BFDOldSerrakis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "BFDTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "BFDAkumai",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEPusillin": {
+    "title": "Pusillin",
+    "nextPage": "DMEZevrimThornhoof",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEZevrimThornhoof": {
+    "title": "Zevrim Thornhoof",
+    "nextPage": "DMEHydro",
+    "prevPage": "DMEPusillin",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEHydro": {
+    "title": "Hydrospawn",
+    "nextPage": "DMELethtendris",
+    "prevPage": "DMEZevrimThornhoof",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMELethtendris": {
+    "title": "Lethtendris",
+    "nextPage": "DMEPimgib",
+    "prevPage": "DMEHydro",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEPimgib": {
+    "title": "Pimgib",
+    "nextPage": "DMEIsalien",
+    "prevPage": "DMELethtendris",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEIsalien": {
+    "title": "Isalien",
+    "nextPage": "DMEAlzzin",
+    "prevPage": "DMEPimgib",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEAlzzin": {
+    "title": "Alzzin the Wildshaper",
+    "nextPage": "DMETrash",
+    "prevPage": "DMEIsalien",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMETrash": {
+    "title": "Trash Mobs",
+    "nextPage": "DMEBooks",
+    "prevPage": "DMEAlzzin",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMEBooks": {
+    "title": "Dire Maul Books",
+    "prevPage": "DMETrash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWTendrisWarpwood": {
+    "title": "Tendris Warpwood",
+    "nextPage": "DMWIllyannaRavenoak",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWIllyannaRavenoak": {
+    "title": "Illyanna Ravenoak",
+    "nextPage": "DMWMagisterKalendris",
+    "prevPage": "DMWTendrisWarpwood",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWMagisterKalendris": {
+    "title": "Magister Kalendris",
+    "nextPage": "DMWTsuzee",
+    "prevPage": "DMWIllyannaRavenoak",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWTsuzee": {
+    "title": "Tsu'zee",
+    "nextPage": "DMWRevanchion",
+    "prevPage": "DMWMagisterKalendris",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWRevanchion": {
+    "title": "Revanchion",
+    "nextPage": "DMWImmolthar",
+    "prevPage": "DMWTsuzee",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWImmolthar": {
+    "title": "Immol'thar",
+    "nextPage": "DMWHelnurath",
+    "prevPage": "DMWRevanchion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWHelnurath": {
+    "title": "Lord Hel'nurath",
+    "nextPage": "DMWPrinceTortheldrin",
+    "prevPage": "DMWImmolthar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWPrinceTortheldrin": {
+    "title": "Prince Tortheldrin",
+    "nextPage": "DMWTrash",
+    "prevPage": "DMWHelnurath",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWTrash": {
+    "title": "Trash Mobs",
+    "nextPage": "DMWBooks",
+    "prevPage": "DMWPrinceTortheldrin",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMWBooks": {
+    "title": "Dire Maul Books",
+    "prevPage": "DMWTrash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNGuardMoldar": {
+    "title": "Guard Mol'dar",
+    "nextPage": "DMNStomperKreeg",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNStomperKreeg": {
+    "title": "Stomper Kreeg",
+    "nextPage": "DMNGuardFengus",
+    "prevPage": "DMNGuardMoldar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNGuardFengus": {
+    "title": "Guard Fengus",
+    "nextPage": "DMNThimblejack",
+    "prevPage": "DMNStomperKreeg",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNThimblejack": {
+    "title": "Knot Thimblejack",
+    "nextPage": "DMNGuardSlipkik",
+    "prevPage": "DMNGuardFengus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNGuardSlipkik": {
+    "title": "Guard Slip'kik",
+    "nextPage": "DMNCaptainKromcrush",
+    "prevPage": "DMNThimblejack",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNCaptainKromcrush": {
+    "title": "Captain Kromcrush",
+    "nextPage": "DMNChoRush",
+    "prevPage": "DMNGuardSlipkik",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNChoRush": {
+    "title": "Cho'Rush the Observer",
+    "nextPage": "DMNKingGordok",
+    "prevPage": "DMNCaptainKromcrush",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNKingGordok": {
+    "title": "King Gordok",
+    "nextPage": "DMNTRIBUTERUN",
+    "prevPage": "DMNChoRush",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNTRIBUTERUN": {
+    "title": "Tribute Run",
+    "nextPage": "DMNTrash",
+    "prevPage": "DMNKingGordok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNTrash": {
+    "title": "Trash Mobs",
+    "nextPage": "DMNBooks",
+    "prevPage": "DMNTRIBUTERUN",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "DMNBooks": {
+    "title": "Dire Maul Books",
+    "prevPage": "DMNTrash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraNoxxion": {
+    "title": "Noxxion",
+    "nextPage": "MaraRazorlash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraRazorlash": {
+    "title": "Razorlash",
+    "nextPage": "MaraLordVyletongue",
+    "prevPage": "MaraNoxxion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraLordVyletongue": {
+    "title": "Lord Vyletongue",
+    "nextPage": "MaraMeshlok",
+    "prevPage": "MaraRazorlash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraMeshlok": {
+    "title": "Meshlok the Harvester",
+    "nextPage": "MaraCelebras",
+    "prevPage": "MaraLordVyletongue",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraCelebras": {
+    "title": "Celebras the Cursed",
+    "nextPage": "MaraLandslide",
+    "prevPage": "MaraMeshlok",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraLandslide": {
+    "title": "Landslide",
+    "nextPage": "MaraTinkererGizlock",
+    "prevPage": "MaraCelebras",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraTinkererGizlock": {
+    "title": "Tinkerer Gizlock",
+    "nextPage": "MaraRotgrip",
+    "prevPage": "MaraLandslide",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraRotgrip": {
+    "title": "Rotgrip",
+    "nextPage": "MaraPrincessTheradras",
+    "prevPage": "MaraTinkererGizlock",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraPrincessTheradras": {
+    "title": "Princess Theradras",
+    "nextPage": "MaraTrash",
+    "prevPage": "MaraRotgrip",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "MaraTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "MaraPrincessTheradras",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFCTaragaman": {
+    "title": "Taragaman the Hungerer",
+    "nextPage": "RFCOggleflint",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFCOggleflint": {
+    "title": "Oggleflint",
+    "nextPage": "RFCJergosh",
+    "prevPage": "RFCTaragaman",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFCJergosh": {
+    "title": "Jergosh the Invoker",
+    "nextPage": "RFCBazzalan",
+    "prevPage": "RFCOggleflint",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFCBazzalan": {
+    "title": "Bazzalan",
+    "prevPage": "RFCJergosh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDTutenkash": {
+    "title": "Tuten'kash",
+    "nextPage": "RFDLadyF",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDLadyF": {
+    "title": "Lady Falther'ess",
+    "nextPage": "RFDPlaguemaw",
+    "prevPage": "RFDTutenkash",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDPlaguemaw": {
+    "title": "Plaguemaw the Rotting",
+    "nextPage": "RFDMordreshFireEye",
+    "prevPage": "RFDLadyF",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDMordreshFireEye": {
+    "title": "Mordresh Fire Eye",
+    "nextPage": "RFDGlutton",
+    "prevPage": "RFDPlaguemaw",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDGlutton": {
+    "title": "Glutton",
+    "nextPage": "RFDDeathProphet",
+    "prevPage": "RFDMordreshFireEye",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDDeathProphet": {
+    "title": "Death Prophet Rakameg",
+    "nextPage": "RFDRagglesnout",
+    "prevPage": "RFDGlutton",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDRagglesnout": {
+    "title": "Ragglesnout",
+    "nextPage": "RFDAmnennar",
+    "prevPage": "RFDDeathProphet",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDAmnennar": {
+    "title": "Amnennar the Coldbringer",
+    "nextPage": "RFDTrash",
+    "prevPage": "RFDRagglesnout",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFDTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "RFDAmnennar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKAggem": {
+    "title": "Aggem Thorncurse",
+    "nextPage": "RFKDeathSpeakerJargba",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKDeathSpeakerJargba": {
+    "title": "Death Speaker Jargba",
+    "nextPage": "RFKOverlordRamtusk",
+    "prevPage": "RFKAggem",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKOverlordRamtusk": {
+    "title": "Overlord Ramtusk",
+    "nextPage": "RFKRazorfenSpearhide",
+    "prevPage": "RFKDeathSpeakerJargba",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKRazorfenSpearhide": {
+    "title": "Razorfen Spearhide",
+    "nextPage": "RFKAgathelos",
+    "prevPage": "RFKOverlordRamtusk",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKAgathelos": {
+    "title": "Agathelos the Raging",
+    "nextPage": "RFKBlindHunter",
+    "prevPage": "RFKRazorfenSpearhide",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKBlindHunter": {
+    "title": "Blind Hunter",
+    "nextPage": "RFKCharlgaRazorflank",
+    "prevPage": "RFKAgathelos",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKCharlgaRazorflank": {
+    "title": "Charlga Razorflank",
+    "nextPage": "RFKEarthcallerHalmgar",
+    "prevPage": "RFKBlindHunter",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKEarthcallerHalmgar": {
+    "title": "Earthcaller Halmgar",
+    "nextPage": "RFKRotthorn",
+    "prevPage": "RFKCharlgaRazorflank",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKRotthorn": {
+    "title": "Rotthorn",
+    "nextPage": "RFKTrash",
+    "prevPage": "RFKEarthcallerHalmgar",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "RFKTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "RFKRotthorn",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "AQ20Kurinnaxx": {
+    "title": "Kurinnaxx",
+    "nextPage": "AQ20Andorov",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Andorov": {
+    "title": "Lieutenant General Andorov",
+    "nextPage": "AQ20CAPTAIN",
+    "prevPage": "AQ20Kurinnaxx",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20CAPTAIN": {
+    "title": "Rajaxx's Captains",
+    "nextPage": "AQ20Rajaxx",
+    "prevPage": "AQ20Andorov",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Rajaxx": {
+    "title": "General Rajaxx",
+    "nextPage": "AQ20Moam",
+    "prevPage": "AQ20CAPTAIN",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Moam": {
+    "title": "Moam",
+    "nextPage": "AQ20Buru",
+    "prevPage": "AQ20Rajaxx",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Buru": {
+    "title": "Buru the Gorger",
+    "nextPage": "AQ20Ayamiss",
+    "prevPage": "AQ20Moam",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Ayamiss": {
+    "title": "Ayamiss the Hunter",
+    "nextPage": "AQ20Ossirian",
+    "prevPage": "AQ20Buru",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Ossirian": {
+    "title": "Ossirian the Unscarred",
+    "nextPage": "AQ20Trash",
+    "prevPage": "AQ20Ayamiss",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Trash": {
+    "title": "Trash Mobs",
+    "nextPage": "AQ20ClassBooks",
+    "prevPage": "AQ20Ossirian",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20ClassBooks": {
+    "title": "Class Books",
+    "nextPage": "AQ20Enchants",
+    "prevPage": "AQ20Trash",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ20Enchants": {
+    "title": "AQ Enchants",
+    "prevPage": "AQ20ClassBooks",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Skeram": {
+    "title": "The Prophet Skeram",
+    "nextPage": "AQ40Trio",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Trio": {
+    "title": "The Bug Family",
+    "nextPage": "AQ40Sartura",
+    "prevPage": "AQ40Skeram",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Sartura": {
+    "title": "Battleguard Sartura",
+    "nextPage": "AQ40Fankriss",
+    "prevPage": "AQ40Trio",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Fankriss": {
+    "title": "Fankriss the Unyielding",
+    "nextPage": "AQ40Viscidus",
+    "prevPage": "AQ40Sartura",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Viscidus": {
+    "title": "Viscidus",
+    "nextPage": "AQ40Huhuran",
+    "prevPage": "AQ40Fankriss",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Huhuran": {
+    "title": "Princess Huhuran",
+    "nextPage": "AQ40Emperors",
+    "prevPage": "AQ40Viscidus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Emperors": {
+    "title": "The Twin Emperors",
+    "nextPage": "AQ40Ouro",
+    "prevPage": "AQ40Huhuran",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Ouro": {
+    "title": "Ouro",
+    "nextPage": "AQ40CThun",
+    "prevPage": "AQ40Emperors",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40CThun": {
+    "title": "C'Thun",
+    "nextPage": "AQ40Trash1",
+    "prevPage": "AQ40Ouro",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Trash1": {
+    "title": "Trash Mobs",
+    "nextPage": "AQ40Trash2",
+    "prevPage": "AQ40CThun",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQ40Trash2": {
+    "title": "Trash Mobs",
+    "nextPage": "AQEnchants",
+    "prevPage": "AQ40Trash1",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQEnchants": {
+    "title": "AQ Enchants",
+    "nextPage": "AQOpening",
+    "prevPage": "AQ40Trash2",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AQOpening": {
+    "title": "AQ Opening Quest Chain",
+    "prevPage": "AQEnchants",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "WCLordCobrahn": {
+    "title": "Lord Cobrahn",
+    "nextPage": "WCLadyAnacondra",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCLadyAnacondra": {
+    "title": "Lady Anacondra",
+    "nextPage": "WCKresh",
+    "prevPage": "WCLordCobrahn",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCKresh": {
+    "title": "Kresh",
+    "nextPage": "WCDeviateFaerieDragon",
+    "prevPage": "WCLadyAnacondra",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCDeviateFaerieDragon": {
+    "title": "Deviate Faerie Dragon",
+    "nextPage": "WCZandara",
+    "prevPage": "WCKresh",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCZandara": {
+    "title": "Zandara Windhoof",
+    "nextPage": "WCLordPythas",
+    "prevPage": "WCDeviateFaerieDragon",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCLordPythas": {
+    "title": "Lord Pythas",
+    "nextPage": "WCSkum",
+    "prevPage": "WCZandara",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCSkum": {
+    "title": "Skum",
+    "nextPage": "WCVangros",
+    "prevPage": "WCLordPythas",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCVangros": {
+    "title": "Vangros",
+    "nextPage": "WCLordSerpentis",
+    "prevPage": "WCSkum",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCLordSerpentis": {
+    "title": "Lord Serpentis",
+    "nextPage": "WCVerdan",
+    "prevPage": "WCVangros",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCVerdan": {
+    "title": "Verdan the Everliving",
+    "nextPage": "WCMutanus",
+    "prevPage": "WCLordSerpentis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCMutanus": {
+    "title": "Mutanus the Devourer",
+    "nextPage": "WCTrash",
+    "prevPage": "WCVerdan",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "WCTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "WCMutanus",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFAntusul": {
+    "title": "Antu'sul",
+    "nextPage": "ZFWitchDoctorZumrah",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFWitchDoctorZumrah": {
+    "title": "Witch Doctor Zum'rah",
+    "nextPage": "ZFSezzziz",
+    "prevPage": "ZFAntusul",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFSezzziz": {
+    "title": "Shadowpriest Sezz'ziz",
+    "nextPage": "ZFDustwraith",
+    "prevPage": "ZFWitchDoctorZumrah",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFDustwraith": {
+    "title": "Dustwraith",
+    "nextPage": "ZFZerillis",
+    "prevPage": "ZFSezzziz",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFZerillis": {
+    "title": "Zerillis",
+    "nextPage": "ZFGahzrilla",
+    "prevPage": "ZFDustwraith",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFGahzrilla": {
+    "title": "Gahz'rilla",
+    "nextPage": "ZFChiefUkorzSandscalp",
+    "prevPage": "ZFZerillis",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFChiefUkorzSandscalp": {
+    "title": "Chief Ukorz Sandscalp",
+    "nextPage": "ZFZeljeb",
+    "prevPage": "ZFGahzrilla",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFZeljeb": {
+    "title": "Zel'jeb the Ancient",
+    "nextPage": "ZFChampion",
+    "prevPage": "ZFChiefUkorzSandscalp",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFChampion": {
+    "title": "Champion Razjal the Quick",
+    "nextPage": "ZFTrash",
+    "prevPage": "ZFZeljeb",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ZFTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "ZFChampion",
+    "backPage": "DUNGEONSMENU1"
+  },
+  "ESErennius": {
+    "title": "Erennius",
+    "nextPage": "ESSolnius1",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ESSolnius1": {
+    "title": "Solnius the Awakener",
+    "nextPage": "ESHardMode",
+    "prevPage": "ESErennius",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ESHardMode": {
+    "title": "Favor of Erennius (ES Hard Mode)",
+    "nextPage": "ESTrash",
+    "prevPage": "ESSolnius1",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "ESTrash": {
+    "title": "Trash Mobs",
+    "prevPage": "ESHardMode",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHRolfen": {
+    "title": "Master Blacksmith Rolfen",
+    "nextPage": "LKHBroodQueenAraxxna",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHBroodQueenAraxxna": {
+    "title": "Brood Queen Araxxna",
+    "nextPage": "LKHGrizikil",
+    "prevPage": "LKHRolfen",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHGrizikil": {
+    "title": "Grizikil",
+    "nextPage": "LKHClawlordHowlfang",
+    "prevPage": "LKHBroodQueenAraxxna",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHClawlordHowlfang": {
+    "title": "Clawlord Howlfang",
+    "nextPage": "LKHLordBlackwaldII",
+    "prevPage": "LKHGrizikil",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHLordBlackwaldII": {
+    "title": "Lord Blackwald II",
+    "nextPage": "LKHMoroes",
+    "prevPage": "LKHClawlordHowlfang",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHMoroes": {
+    "title": "Moroes",
+    "nextPage": "LKHTrash",
+    "prevPage": "LKHLordBlackwaldII",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHTrash": {
+    "title": "Trash Mobs",
+    "nextPage": "LKHEnchants",
+    "prevPage": "LKHMoroes",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "LKHEnchants": {
+    "title": "LKH Enchants",
+    "prevPage": "LKHTrash",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "Axelus": {
+    "title": "Broodcommander Axelus",
+    "nextPage": "Onyxia",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "Onyxia": {
+    "title": "Onyxia",
+    "prevPage": "Axelus",
+    "backPage": "DUNGEONSMENU2"
+  },
+  "AAzuregos": {
+    "title": "Azuregos",
+    "nextPage": "DEmeriss",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "DEmeriss": {
+    "title": "Emeriss",
+    "nextPage": "DLethon",
+    "prevPage": "AAzuregos",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "DLethon": {
+    "title": "Lethon",
+    "nextPage": "DTaerar",
+    "prevPage": "DEmeriss",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "DTaerar": {
+    "title": "Taerar",
+    "nextPage": "DYsondre",
+    "prevPage": "DLethon",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "DYsondre": {
+    "title": "Ysondre",
+    "nextPage": "KKazzak",
+    "prevPage": "DTaerar",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "KKazzak": {
+    "title": "Lord Kazzak",
+    "nextPage": "Nerubian",
+    "prevPage": "DYsondre",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "Nerubian": {
+    "title": "Nerubian Overseer",
+    "nextPage": "Reaver",
+    "prevPage": "KKazzak",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "Reaver": {
+    "title": "Dark Reaver of Karazhan",
+    "nextPage": "Ostarius",
+    "prevPage": "Nerubian",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "Ostarius": {
+    "title": "Ostarius",
+    "nextPage": "Concavius",
+    "prevPage": "Reaver",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "Concavius": {
+    "title": "Concavius",
+    "nextPage": "CowKing",
+    "prevPage": "Ostarius",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "CowKing": {
+    "title": "Moo",
+    "nextPage": "Clackora",
+    "prevPage": "Concavius",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "Clackora": {
+    "title": "Cla'ckora",
+    "prevPage": "CowKing",
+    "backPage": "WORLDBOSSMENU"
+  },
+  "EarthcallerRezengal": {
+    "title": "Earthcaller Rezengal",
+    "nextPage": "ShadeMage"
+  },
+  "ShadeMage": {
+    "title": "Shade Mage",
+    "nextPage": "GraypawAlpha",
+    "prevPage": "EarthcallerRezengal"
+  },
+  "GraypawAlpha": {
+    "title": "Graypaw Alpha",
+    "nextPage": "Blazespark",
+    "prevPage": "ShadeMage"
+  },
+  "Blazespark": {
+    "title": "Blazespark",
+    "nextPage": "WitchDoctorTanzo",
+    "prevPage": "GraypawAlpha"
+  },
+  "WitchDoctorTanzo": {
+    "title": "Witch Doctor Tan'zo",
+    "nextPage": "Dawnhowl",
+    "prevPage": "Blazespark"
+  },
+  "Dawnhowl": {
+    "title": "Dawnhowl",
+    "nextPage": "MaltimorsPrototype",
+    "prevPage": "WitchDoctorTanzo"
+  },
+  "MaltimorsPrototype": {
+    "title": "Maltimor's Prototype",
+    "nextPage": "Bonecruncher",
+    "prevPage": "Dawnhowl"
+  },
+  "Bonecruncher": {
+    "title": "Bonecruncher",
+    "nextPage": "Duskskitter",
+    "prevPage": "MaltimorsPrototype"
+  },
+  "Duskskitter": {
+    "title": "Duskskitter",
+    "nextPage": "BaronPerenolde",
+    "prevPage": "Bonecruncher"
+  },
+  "BaronPerenolde": {
+    "title": "Baron Perenolde",
+    "nextPage": "Grugthok",
+    "prevPage": "Duskskitter"
+  },
+  "Grugthok": {
+    "title": "Grug'thok the Seer",
+    "nextPage": "Ashbeard",
+    "prevPage": "BaronPerenolde"
+  },
+  "Ashbeard": {
+    "title": "Explorer Ashbeard",
+    "nextPage": "Jalakar",
+    "prevPage": "Grugthok"
+  },
+  "Jalakar": {
+    "title": "Jal'akar",
+    "nextPage": "Embereye",
+    "prevPage": "Ashbeard"
+  },
+  "Embereye": {
+    "title": "Embereye",
+    "nextPage": "Rukthok",
+    "prevPage": "Jalakar"
+  },
+  "Rukthok": {
+    "title": "Ruk'thok the Pyromancer",
+    "nextPage": "Tarangos",
+    "prevPage": "Embereye"
+  },
+  "Tarangos": {
+    "title": "Tarangos",
+    "nextPage": "Ripjaw",
+    "prevPage": "Rukthok"
+  },
+  "Ripjaw": {
+    "title": "Ripjaw",
+    "nextPage": "Xalvic",
+    "prevPage": "Tarangos"
+  },
+  "Xalvic": {
+    "title": "Xalvic Blackclaw",
+    "nextPage": "Aquitus",
+    "prevPage": "Ripjaw"
+  },
+  "Aquitus": {
+    "title": "Aquitus",
+    "nextPage": "FirstbornofArugal",
+    "prevPage": "Xalvic"
+  },
+  "FirstbornofArugal": {
+    "title": "Firstborn of Arugal",
+    "nextPage": "Letashaz",
+    "prevPage": "Aquitus"
+  },
+  "Letashaz": {
+    "title": "Letashaz",
+    "nextPage": "MargontheMighty",
+    "prevPage": "FirstbornofArugal"
+  },
+  "MargontheMighty": {
+    "title": "Margon the Mighty",
+    "nextPage": "WanderingKnight",
+    "prevPage": "Letashaz"
+  },
+  "WanderingKnight": {
+    "title": "The Wandering Knight",
+    "nextPage": "Stoneshell",
+    "prevPage": "MargontheMighty"
+  },
+  "Stoneshell": {
+    "title": "Stoneshell",
+    "nextPage": "Zareth",
+    "prevPage": "WanderingKnight"
+  },
+  "Zareth": {
+    "title": "Zareth Terrorblade",
+    "nextPage": "HighvaleSilverback",
+    "prevPage": "Stoneshell"
+  },
+  "HighvaleSilverback": {
+    "title": "Highvale Silverback",
+    "nextPage": "Mallon",
+    "prevPage": "Zareth"
+  },
+  "Mallon": {
+    "title": "Mallon The Moontouched",
+    "nextPage": "Kargron",
+    "prevPage": "HighvaleSilverback"
+  },
+  "Kargron": {
+    "title": "Blademaster Kargron",
+    "nextPage": "AdmiralBareanWestwind",
+    "prevPage": "Mallon"
+  },
+  "ProfessorLysander": {
+    "title": "Professor Lysander",
+    "nextPage": "AdmiralBareanWestwind",
+    "prevPage": "Kargron"
+  },
+  "AdmiralBareanWestwind": {
+    "title": "Admiral Barean Westwind",
+    "nextPage": "Azurebeak",
+    "prevPage": "ProfessorLysander"
+  },
+  "Azurebeak": {
+    "title": "Azurebeak",
+    "nextPage": "BarkskinFisher",
+    "prevPage": "AdmiralBareanWestwind"
+  },
+  "BarkskinFisher": {
+    "title": "Barkskin Fisher",
+    "nextPage": "CrusaderLarsarius",
+    "prevPage": "Azurebeak"
+  },
+  "CrusaderLarsarius": {
+    "title": "Crusader Larsarius",
+    "nextPage": "ShadeflayerGoliath",
+    "prevPage": "BarkskinFisher"
+  },
+  "ShadeflayerGoliath": {
+    "title": "Shadeflayer Goliath",
+    "nextPage": "WidowoftheWoods",
+    "prevPage": "CrusaderLarsarius"
+  },
+  "WidowoftheWoods": {
+    "title": "Widow of the Woods",
+    "nextPage": "M0L1Y",
+    "prevPage": "ShadeflayerGoliath"
+  },
+  "M0L1Y": {
+    "title": "M-0L1Y",
+    "prevPage": "WidowoftheWoods"
+  },
+  "EarthenRing": {
+    "title": "Earthen Ring",
+    "backPage": "REPMENU"
+  },
+  "DraeneiExiles": {
+    "title": "Draenei Exiles",
+    "backPage": "REPMENU"
+  },
+  "Argent1": {
+    "title": "Argent Dawn",
+    "nextPage": "Argent2",
+    "backPage": "REPMENU"
+  },
+  "Argent2": {
+    "title": "Argent Dawn",
+    "nextPage": "Argent3",
+    "prevPage": "Argent1",
+    "backPage": "REPMENU"
+  },
+  "Argent3": {
+    "title": "Argent Dawn",
+    "prevPage": "Argent2",
+    "backPage": "REPMENU"
+  },
+  "Bloodsail1": {
+    "title": "Bloodsail Buccaneers",
+    "backPage": "REPMENU"
+  },
+  "Wardens1": {
+    "title": "Wardens of Time",
+    "nextPage": "Wardens2",
+    "backPage": "REPMENU"
+  },
+  "Wardens2": {
+    "title": "Wardens of Time",
+    "prevPage": "Wardens1",
+    "backPage": "REPMENU"
+  },
+  "AQBroodRings": {
+    "title": "Brood of Nozdormu",
+    "backPage": "REPMENU"
+  },
+  "Cenarion1": {
+    "title": "Cenarion Circle",
+    "nextPage": "Cenarion2",
+    "backPage": "REPMENU"
+  },
+  "Cenarion2": {
+    "title": "Cenarion Circle",
+    "nextPage": "Cenarion3",
+    "prevPage": "Cenarion1",
+    "backPage": "REPMENU"
+  },
+  "Cenarion3": {
+    "title": "Cenarion Circle",
+    "nextPage": "Cenarion4",
+    "prevPage": "Cenarion2",
+    "backPage": "REPMENU"
+  },
+  "Cenarion4": {
+    "title": "Cenarion Circle",
+    "prevPage": "Cenarion3",
+    "backPage": "REPMENU"
+  },
+  "Darkmoon": {
+    "title": "Darkmoon Faire",
+    "backPage": "REPMENU"
+  },
+  "Defilers": {
+    "title": "The Defilers",
+    "backPage": "REPMENU"
+  },
+  "Frostwolf1": {
+    "title": "Frostwolf Clan",
+    "backPage": "REPMENU"
+  },
+  "GelkisClan1": {
+    "title": "Gelkis Clan Centaur",
+    "backPage": "REPMENU"
+  },
+  "WaterLords1": {
+    "title": "Hydraxian Waterlords",
+    "backPage": "REPMENU"
+  },
+  "LeagueofArathor": {
+    "title": "The League of Arathor",
+    "backPage": "REPMENU"
+  },
+  "Ironforge": {
+    "title": "Ironforge",
+    "backPage": "REPMENU"
+  },
+  "Darnassus": {
+    "title": "Darnassus",
+    "backPage": "REPMENU"
+  },
+  "Stormwind": {
+    "title": "Stormwind",
+    "backPage": "REPMENU"
+  },
+  "GnomereganExiles": {
+    "title": "Gnomeregan Exiles",
+    "backPage": "REPMENU"
+  },
+  "DarkspearTrolls": {
+    "title": "Darkspear Trolls",
+    "backPage": "REPMENU"
+  },
+  "DurotarLaborUnion": {
+    "title": "Durotar Labor Union",
+    "backPage": "REPMENU"
+  },
+  "Undercity": {
+    "title": "Undercity",
+    "backPage": "REPMENU"
+  },
+  "Orgrimmar": {
+    "title": "Orgrimmar",
+    "backPage": "REPMENU"
+  },
+  "ThunderBluff": {
+    "title": "Thunder Bluff",
+    "backPage": "REPMENU"
+  },
+  "Dalaran": {
+    "title": "Dalaran",
+    "backPage": "REPMENU"
+  },
+  "Helf": {
+    "title": "Silvermoon Remnant",
+    "nextPage": "Helf2",
+    "backPage": "REPMENU"
+  },
+  "Helf2": {
+    "title": "Silvermoon Remnant",
+    "nextPage": "Helf3",
+    "prevPage": "Helf",
+    "backPage": "REPMENU"
+  },
+  "Helf3": {
+    "title": "Silvermoon Remnant",
+    "prevPage": "Helf2",
+    "backPage": "REPMENU"
+  },
+  "Revantusk": {
+    "title": "Revantusk Trolls",
+    "nextPage": "Revantusk2",
+    "backPage": "REPMENU"
+  },
+  "Revantusk2": {
+    "title": "Revantusk Trolls",
+    "nextPage": "Revantusk3",
+    "prevPage": "Revantusk",
+    "backPage": "REPMENU"
+  },
+  "Revantusk3": {
+    "title": "Revantusk Trolls",
+    "prevPage": "Revantusk2",
+    "backPage": "REPMENU"
+  },
+  "MagramClan1": {
+    "title": "Magram Clan Centaur",
+    "backPage": "REPMENU"
+  },
+  "Stormpike1": {
+    "title": "Stormpike Guard",
+    "backPage": "REPMENU"
+  },
+  "Thorium1": {
+    "title": "Thorium Brotherhood",
+    "nextPage": "Thorium2",
+    "backPage": "REPMENU"
+  },
+  "Thorium2": {
+    "title": "Thorium Brotherhood",
+    "prevPage": "Thorium1",
+    "backPage": "REPMENU"
+  },
+  "Timbermaw": {
+    "title": "Timbermaw Hold",
+    "backPage": "REPMENU"
+  },
+  "Wildhammer": {
+    "title": "Wildhammer Clan",
+    "backPage": "REPMENU"
+  },
+  "Shendralar": {
+    "title": "Shen'dralar",
+    "backPage": "REPMENU"
+  },
+  "Wintersaber1": {
+    "title": "Wintersaber Trainers",
+    "backPage": "REPMENU"
+  },
+  "Zandalar1": {
+    "title": "Zandalar Tribe",
+    "nextPage": "Zandalar2",
+    "backPage": "REPMENU"
+  },
+  "Zandalar2": {
+    "title": "Zandalar Tribe",
+    "prevPage": "Zandalar1",
+    "backPage": "REPMENU"
+  },
+  "BRRepFriendly": {
+    "title": "Blood Ring Friendly Rewards",
+    "nextPage": "BRRepHonored",
+    "backPage": "BRRepMenu"
+  },
+  "BRRepHonored": {
+    "title": "Blood Ring Honored Rewards",
+    "nextPage": "BRRepRevered",
+    "prevPage": "BRRepFriendly",
+    "backPage": "BRRepMenu"
+  },
+  "BRRepRevered": {
+    "title": "Blood Ring Revered Rewards",
+    "nextPage": "BRRepExalted",
+    "prevPage": "BRRepHonored",
+    "backPage": "BRRepMenu"
+  },
+  "BRRepExalted": {
+    "title": "Blood Ring Exalted Rewards",
+    "nextPage": "BRRepTokens",
+    "prevPage": "BRRepRevered",
+    "backPage": "BRRepMenu"
+  },
+  "BRRepTokens": {
+    "title": "Token of Blood Rewards",
+    "prevPage": "BRRepExalted",
+    "backPage": "BRRepMenu"
+  },
+  "ABRepFriendly": {
+    "title": "AB Friendly Rewards",
+    "nextPage": "ABRepHonored2029",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepHonored2029": {
+    "title": "AB 20-29 Honored Rewards",
+    "nextPage": "ABRepHonored3039",
+    "prevPage": "ABRepFriendly",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepHonored3039": {
+    "title": "AB 30-39 Honored Rewards",
+    "nextPage": "ABRepHonored4049",
+    "prevPage": "ABRepHonored2029",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepHonored4049": {
+    "title": "AB 40-49 Honored Rewards",
+    "nextPage": "ABRepHonored5059",
+    "prevPage": "ABRepHonored3039",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepHonored5059": {
+    "title": "AB 50-59 Honored Rewards",
+    "nextPage": "ABRepRevered2029",
+    "prevPage": "ABRepHonored4049",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepRevered2029": {
+    "title": "AB 20-29 Revered Rewards",
+    "nextPage": "ABRepRevered3039",
+    "prevPage": "ABRepHonored5059",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepRevered3039": {
+    "title": "AB 30-39 Revered Rewards",
+    "nextPage": "ABRepRevered4049",
+    "prevPage": "ABRepRevered2029",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepRevered4049": {
+    "title": "AB 40-49 Revered Rewards",
+    "nextPage": "ABRepRevered5059",
+    "prevPage": "ABRepRevered3039",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepRevered5059": {
+    "title": "AB 50-59 Revered Rewards",
+    "nextPage": "ABRepExalted",
+    "prevPage": "ABRepRevered4049",
+    "backPage": "ABRepMenu"
+  },
+  "ABRepExalted": {
+    "title": "AB Exalted Rewards",
+    "prevPage": "ABRepRevered5059",
+    "backPage": "ABRepMenu"
+  },
+  "AVRepFriendly": {
+    "title": "AV Friendly Rewards",
+    "nextPage": "AVRepHonored",
+    "backPage": "AVRepMenu"
+  },
+  "AVRepHonored": {
+    "title": "AV Honored Rewards",
+    "nextPage": "AVRepRevered",
+    "prevPage": "AVRepFriendly",
+    "backPage": "AVRepMenu"
+  },
+  "AVRepRevered": {
+    "title": "AV Revered Rewards",
+    "nextPage": "AVRepExalted",
+    "prevPage": "AVRepHonored",
+    "backPage": "AVRepMenu"
+  },
+  "AVRepExalted": {
+    "title": "AV Exalted Rewards",
+    "nextPage": "AVKorrak",
+    "prevPage": "AVRepRevered",
+    "backPage": "AVRepMenu"
+  },
+  "AVKorrak": {
+    "title": "Korrak the Bloodrager",
+    "nextPage": "AVLokholarIvus",
+    "prevPage": "AVRepExalted",
+    "backPage": "AVRepMenu"
+  },
+  "AVLokholarIvus": {
+    "title": "Ivus & Lokholar",
+    "prevPage": "AVKorrak",
+    "backPage": "AVRepMenu"
+  },
+  "WSGRepFriendly": {
+    "title": "WSG Friendly Rewards",
+    "nextPage": "WSGRepHonored1019",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepHonored1019": {
+    "title": "WSG 10-19 Honored Rewards",
+    "nextPage": "WSGRepHonored2029",
+    "prevPage": "WSGRepFriendly",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepHonored2029": {
+    "title": "WSG 20-29 Honored Rewards",
+    "nextPage": "WSGRepHonored3039",
+    "prevPage": "WSGRepHonored1019",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepHonored3039": {
+    "title": "WSG 30-39 Honored Rewards",
+    "nextPage": "WSGRepHonored4049",
+    "prevPage": "WSGRepHonored2029",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepHonored4049": {
+    "title": "WSG 40-49 Honored Rewards",
+    "nextPage": "WSGRepHonored5059",
+    "prevPage": "WSGRepHonored3039",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepHonored5059": {
+    "title": "WSG 50-59 Honored Rewards",
+    "nextPage": "WSGRepRevered1019",
+    "prevPage": "WSGRepHonored4049",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepRevered1019": {
+    "title": "WSG 10-19 Revered Rewards",
+    "nextPage": "WSGRepRevered2029",
+    "prevPage": "WSGRepHonored5059",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepRevered2029": {
+    "title": "WSG 20-29 Revered Rewards",
+    "nextPage": "WSGRepRevered3039",
+    "prevPage": "WSGRepRevered1019",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepRevered3039": {
+    "title": "WSG 30-39 Revered Rewards",
+    "nextPage": "WSGRepRevered4049",
+    "prevPage": "WSGRepRevered2029",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepRevered4049": {
+    "title": "WSG 40-49 Revered Rewards",
+    "nextPage": "WSGRepRevered5059",
+    "prevPage": "WSGRepRevered3039",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepRevered5059": {
+    "title": "WSG 50-59 Revered Rewards",
+    "nextPage": "WSGRepExalted4049",
+    "prevPage": "WSGRepRevered4049",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepExalted4049": {
+    "title": "WSG 40-49 Exalted Rewards",
+    "nextPage": "WSGRepExalted5059",
+    "prevPage": "WSGRepRevered5059",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepExalted5059": {
+    "title": "WSG 50-59 Exalted Rewards",
+    "nextPage": "WSGRepExalted60",
+    "prevPage": "WSGRepExalted4049",
+    "backPage": "WSGRepMenu"
+  },
+  "WSGRepExalted60": {
+    "title": "WSG 60 Exalted Rewards",
+    "prevPage": "WSGRepExalted5059",
+    "backPage": "WSGRepMenu"
+  },
+  "PvP60Accessories1": {
+    "title": "PvP Accessories",
+    "nextPage": "PvP60Accessories2",
+    "backPage": "PVPMENU"
+  },
+  "PvP60Accessories2": {
+    "title": "Rank 2-9",
+    "nextPage": "PvP60Accessories3",
+    "prevPage": "PvP60Accessories1",
+    "backPage": "PVPMENU"
+  },
+  "PvP60Accessories3": {
+    "title": "Rank 2-9",
+    "prevPage": "PvP60Accessories2",
+    "backPage": "PVPMENU"
+  },
+  "PVPWeapons1": {
+    "title": "PvP Weapons",
+    "nextPage": "PVPWeapons2",
+    "backPage": "PVPMENU"
+  },
+  "PVPWeapons2": {
+    "title": "PvP Weapons",
+    "prevPage": "PVPWeapons1",
+    "backPage": "PVPMENU"
+  },
+  "PVPDruid": {
+    "title": "Druid",
+    "backPage": "PVPSET"
+  },
+  "PVPHunter": {
+    "title": "Hunter",
+    "backPage": "PVPSET"
+  },
+  "PVPMage": {
+    "title": "Mage",
+    "backPage": "PVPSET"
+  },
+  "PVPPaladin": {
+    "title": "Paladin",
+    "backPage": "PVPSET"
+  },
+  "PVPPriest": {
+    "title": "Priest",
+    "backPage": "PVPSET"
+  },
+  "PVPRogue": {
+    "title": "Rogue",
+    "backPage": "PVPSET"
+  },
+  "PVPShaman": {
+    "title": "Shaman",
+    "backPage": "PVPSET"
+  },
+  "PVPWarlock": {
+    "title": "Warlock",
+    "backPage": "PVPSET"
+  },
+  "PVPWarrior": {
+    "title": "Warrior",
+    "backPage": "PVPSET"
+  },
+  "T0Druid": {
+    "title": "Druid",
+    "backPage": "T0SET"
+  },
+  "T0Hunter": {
+    "title": "Hunter",
+    "backPage": "T0SET"
+  },
+  "T0Mage": {
+    "title": "Mage",
+    "backPage": "T0SET"
+  },
+  "T0Paladin": {
+    "title": "Paladin",
+    "backPage": "T0SET"
+  },
+  "T0Priest": {
+    "title": "Priest",
+    "backPage": "T0SET"
+  },
+  "T0Rogue": {
+    "title": "Rogue",
+    "backPage": "T0SET"
+  },
+  "T0Shaman": {
+    "title": "Shaman",
+    "backPage": "T0SET"
+  },
+  "T0Warlock": {
+    "title": "Warlock",
+    "backPage": "T0SET"
+  },
+  "T0Warrior": {
+    "title": "Warrior",
+    "backPage": "T0SET"
+  },
+  "T1Druid": {
+    "title": "Druid",
+    "backPage": "T1SET"
+  },
+  "T1Hunter": {
+    "title": "Hunter",
+    "backPage": "T1SET"
+  },
+  "T1Mage": {
+    "title": "Mage",
+    "backPage": "T1SET"
+  },
+  "T1Paladin": {
+    "title": "Paladin",
+    "backPage": "T1SET"
+  },
+  "T1Priest": {
+    "title": "Priest",
+    "backPage": "T1SET"
+  },
+  "T1Rogue": {
+    "title": "Rogue",
+    "backPage": "T1SET"
+  },
+  "T1Shaman": {
+    "title": "Shaman",
+    "backPage": "T1SET"
+  },
+  "T1Warlock": {
+    "title": "Warlock",
+    "backPage": "T1SET"
+  },
+  "T1Warrior": {
+    "title": "Warrior",
+    "backPage": "T1SET"
+  },
+  "T2Druid": {
+    "title": "Druid",
+    "backPage": "T2SET"
+  },
+  "T2Hunter": {
+    "title": "Hunter",
+    "backPage": "T2SET"
+  },
+  "T2Mage": {
+    "title": "Mage",
+    "backPage": "T2SET"
+  },
+  "T2Paladin": {
+    "title": "Paladin",
+    "backPage": "T2SET"
+  },
+  "T2Priest": {
+    "title": "Priest",
+    "backPage": "T2SET"
+  },
+  "T2Rogue": {
+    "title": "Rogue",
+    "backPage": "T2SET"
+  },
+  "T2Shaman": {
+    "title": "Shaman",
+    "backPage": "T2SET"
+  },
+  "T2Warlock": {
+    "title": "Warlock",
+    "backPage": "T2SET"
+  },
+  "T2Warrior": {
+    "title": "Warrior",
+    "backPage": "T2SET"
+  },
+  "T3Druid": {
+    "title": "Druid",
+    "backPage": "T3SET"
+  },
+  "T3Hunter": {
+    "title": "Hunter",
+    "backPage": "T3SET"
+  },
+  "T3Mage": {
+    "title": "Mage",
+    "backPage": "T3SET"
+  },
+  "T3Paladin": {
+    "title": "Paladin",
+    "backPage": "T3SET"
+  },
+  "T3Priest": {
+    "title": "Priest",
+    "backPage": "T3SET"
+  },
+  "T3Rogue": {
+    "title": "Rogue",
+    "backPage": "T3SET"
+  },
+  "T3Shaman": {
+    "title": "Shaman",
+    "backPage": "T3SET"
+  },
+  "T3Warlock": {
+    "title": "Warlock",
+    "backPage": "T3SET"
+  },
+  "T3Warrior": {
+    "title": "Warrior",
+    "backPage": "T3SET"
+  },
+  "T35Druid": {
+    "title": "Druid",
+    "backPage": "KARASET"
+  },
+  "T35Hunter": {
+    "title": "Hunter",
+    "backPage": "KARASET"
+  },
+  "T35Mage": {
+    "title": "Mage",
+    "backPage": "KARASET"
+  },
+  "T35Paladin": {
+    "title": "Paladin",
+    "backPage": "KARASET"
+  },
+  "T35Priest": {
+    "title": "Priest",
+    "backPage": "KARASET"
+  },
+  "T35Rogue": {
+    "title": "Rogue",
+    "backPage": "KARASET"
+  },
+  "T35Shaman": {
+    "title": "Shaman",
+    "backPage": "KARASET"
+  },
+  "T35Warlock": {
+    "title": "Warlock",
+    "backPage": "KARASET"
+  },
+  "T35Warrior": {
+    "title": "Warrior",
+    "backPage": "KARASET"
+  },
+  "AQ40Druid": {
+    "title": "Druid",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Hunter": {
+    "title": "Hunter",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Mage": {
+    "title": "Mage",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Paladin": {
+    "title": "Paladin",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Priest": {
+    "title": "Priest",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Rogue": {
+    "title": "Rogue",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Shaman": {
+    "title": "Shaman",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Warlock": {
+    "title": "Warlock",
+    "backPage": "AQ40SET"
+  },
+  "AQ40Warrior": {
+    "title": "Warrior",
+    "backPage": "AQ40SET"
+  },
+  "AQ20Druid": {
+    "title": "Druid",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Hunter": {
+    "title": "Hunter",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Mage": {
+    "title": "Mage",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Paladin": {
+    "title": "Paladin",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Priest": {
+    "title": "Priest",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Rogue": {
+    "title": "Rogue",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Shaman": {
+    "title": "Shaman",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Warlock": {
+    "title": "Warlock",
+    "backPage": "AQ20SET"
+  },
+  "AQ20Warrior": {
+    "title": "Warrior",
+    "backPage": "AQ20SET"
+  },
+  "ZGDruid": {
+    "title": "Druid",
+    "backPage": "ZGSET"
+  },
+  "ZGHunter": {
+    "title": "Hunter",
+    "backPage": "ZGSET"
+  },
+  "ZGMage": {
+    "title": "Mage",
+    "backPage": "ZGSET"
+  },
+  "ZGPaladin": {
+    "title": "Paladin",
+    "backPage": "ZGSET"
+  },
+  "ZGPriest": {
+    "title": "Priest",
+    "backPage": "ZGSET"
+  },
+  "ZGRogue": {
+    "title": "Rogue",
+    "backPage": "ZGSET"
+  },
+  "ZGShaman": {
+    "title": "Shaman",
+    "backPage": "ZGSET"
+  },
+  "ZGWarlock": {
+    "title": "Warlock",
+    "backPage": "ZGSET"
+  },
+  "ZGWarrior": {
+    "title": "Warrior",
+    "backPage": "ZGSET"
+  },
+  "DEADMINES": {
+    "title": "Defias Leather",
+    "backPage": "PRE60SET"
+  },
+  "WAILING": {
+    "title": "Embrace of the Viper",
+    "backPage": "PRE60SET"
+  },
+  "SCARLET": {
+    "title": "Chain of the Scarlet Crusade",
+    "backPage": "PRE60SET"
+  },
+  "BLACKROCKD": {
+    "title": "The Gladiator",
+    "backPage": "PRE60SET"
+  },
+  "IRONWEAVE": {
+    "title": "Ironweave Battlesuit",
+    "backPage": "PRE60SET"
+  },
+  "ScholoCloth": {
+    "title": "Scholomance",
+    "backPage": "PRE60SET"
+  },
+  "ScholoLeather": {
+    "title": "Scholomance",
+    "backPage": "PRE60SET"
+  },
+  "ScholoMail": {
+    "title": "Scholomance",
+    "backPage": "PRE60SET"
+  },
+  "ScholoPlate": {
+    "title": "Scholomance",
+    "backPage": "PRE60SET"
+  },
+  "STRAT": {
+    "title": "The Postmaster",
+    "backPage": "PRE60SET"
+  },
+  "ScourgeInvasion": {
+    "title": "Scourge Invasion",
+    "backPage": "PRE60SET"
+  },
+  "ShardOfGods": {
+    "title": "Shard of the Gods",
+    "backPage": "PRE60SET"
+  },
+  "ZGRings": {
+    "title": "Zul'Gurub Rings",
+    "backPage": "ZGSET"
+  },
+  "HakkariBlades": {
+    "title": "The Twin Blades of Hakkari",
+    "backPage": "ZGSET"
+  },
+  "PrimalBlessing": {
+    "title": "Primal Blessing",
+    "backPage": "ZGSET"
+  },
+  "SpiritofEskhandar": {
+    "title": "Spirit of Eskhandar",
+    "backPage": "PRE60SET"
+  },
+  "DalRend": {
+    "title": "Dal'Rend's Arms",
+    "backPage": "PRE60SET"
+  },
+  "SpiderKiss": {
+    "title": "Spider's Kiss",
+    "backPage": "PRE60SET"
+  },
+  "SteelPlate": {
+    "title": "Steel Plate",
+    "backPage": "CRAFTSET"
+  },
+  "ImperialPlate": {
+    "title": "Imperial Plate",
+    "backPage": "CRAFTSET"
+  },
+  "TheDarksoul": {
+    "title": "The Darksoul",
+    "backPage": "CRAFTSET"
+  },
+  "BloodsoulEmbrace": {
+    "title": "Bloodsoul Embrace",
+    "backPage": "CRAFTSET"
+  },
+  "AugerersAttire": {
+    "title": "Augerer's Attire",
+    "backPage": "CRAFTSET"
+  },
+  "ShadoweaveSet": {
+    "title": "Shadoweave",
+    "backPage": "CRAFTSET"
+  },
+  "DivinersGarments": {
+    "title": "Diviner's Garments",
+    "backPage": "CRAFTSET"
+  },
+  "PillagersGarb": {
+    "title": "Pillager's Garb",
+    "backPage": "CRAFTSET"
+  },
+  "BloodvineG": {
+    "title": "Bloodvine Garb",
+    "backPage": "CRAFTSET"
+  },
+  "MoonclothSet": {
+    "title": "Mooncloth Regalia",
+    "backPage": "CRAFTSET"
+  },
+  "GriftersArmor": {
+    "title": "Grifter's Armor",
+    "backPage": "CRAFTSET"
+  },
+  "PrimalistsTrappings": {
+    "title": "Primalist's Trappings",
+    "backPage": "CRAFTSET"
+  },
+  "VolcanicArmor": {
+    "title": "Volcanic Armor",
+    "backPage": "CRAFTSET"
+  },
+  "IronfeatherArmor": {
+    "title": "Ironfeather Armor",
+    "backPage": "CRAFTSET"
+  },
+  "StormshroudArmor": {
+    "title": "Stormshroud Armor",
+    "backPage": "CRAFTSET"
+  },
+  "DevilsaurArmor": {
+    "title": "Devilsaur Armor",
+    "backPage": "CRAFTSET"
+  },
+  "BloodTigerH": {
+    "title": "Blood Tiger Harness",
+    "backPage": "CRAFTSET"
+  },
+  "PrimalBatskin": {
+    "title": "Primal Batskin",
+    "backPage": "CRAFTSET"
+  },
+  "RedDragonM": {
+    "title": "Red Dragon Mail",
+    "backPage": "CRAFTSET"
+  },
+  "GreenDragonM": {
+    "title": "Green Dragon Mail",
+    "backPage": "CRAFTSET"
+  },
+  "BlueDragonM": {
+    "title": "Blue Dragon Mail",
+    "backPage": "CRAFTSET"
+  },
+  "BlackDragonM": {
+    "title": "Black Dragon Mail",
+    "backPage": "CRAFTSET"
+  },
+  "CraftedWeapons1": {
+    "title": "Crafted Epic Weapons",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Tabards": {
+    "title": "Tabards",
+    "backPage": "SETMENU"
+  },
+  "Legendaries": {
+    "title": "Legendary Items",
+    "backPage": "SETMENU"
+  },
+  "PvPMountsPvP": {
+    "title": "PvP Mounts",
+    "backPage": "PVPMENU"
+  },
+  "RareMounts": {
+    "title": "Rare Mounts",
+    "backPage": "SETMENU"
+  },
+  "RarePets1": {
+    "title": "Rare Pets",
+    "nextPage": "RarePets2",
+    "backPage": "SETMENU"
+  },
+  "RarePets2": {
+    "title": "Rare Pets",
+    "prevPage": "RarePets1",
+    "backPage": "SETMENU"
+  },
+  "WorldEpics1": {
+    "nextPage": "WorldEpics2",
+    "backPage": "SETMENU"
+  },
+  "WorldEpics2": {
+    "nextPage": "WorldEpics3",
+    "prevPage": "WorldEpics1",
+    "backPage": "SETMENU"
+  },
+  "WorldEpics3": {
+    "prevPage": "WorldEpics2",
+    "backPage": "SETMENU"
+  },
+  "ChildrensWeek": {
+    "title": "Children's Week",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Winterviel1": {
+    "title": "Feast of Winter Veil",
+    "nextPage": "Winterviel2",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Winterviel2": {
+    "title": "Feast of Winter Veil",
+    "prevPage": "Winterviel1",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Halloween1": {
+    "title": "Hallow's End",
+    "nextPage": "Halloween2",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Halloween2": {
+    "title": "Hallow's End",
+    "prevPage": "Halloween1",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "HarvestFestival": {
+    "title": "Harvest Festival",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Valentineday": {
+    "title": "Love is in the Air",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "LunarFestival1": {
+    "title": "Lunar Festival",
+    "nextPage": "LunarFestival2",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "LunarFestival2": {
+    "title": "Lunar Festival",
+    "prevPage": "LunarFestival1",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "MidsummerFestival": {
+    "title": "Midsummer Fire Festival",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "Noblegarden": {
+    "title": "Noblegarden",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "ElementalInvasion": {
+    "title": "Elemental Invasion",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "GurubashiArena": {
+    "title": "Gurubashi Arena",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "ScourgeInvasionEvent1": {
+    "title": "Scourge Invasion",
+    "nextPage": "ScourgeInvasionEvent2",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "ScourgeInvasionEvent2": {
+    "title": "Scourge Invasion Bosses",
+    "prevPage": "ScourgeInvasionEvent1",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "FishingExtravaganza": {
+    "title": "Stranglethorn Fishing Extravaganza",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "AbyssalTemplars": {
+    "title": "Templars",
+    "nextPage": "AbyssalDukes",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "AbyssalDukes": {
+    "title": "Dukes",
+    "nextPage": "AbyssalLords",
+    "prevPage": "AbyssalTemplars",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "AbyssalLords": {
+    "title": "High Council",
+    "prevPage": "AbyssalDukes",
+    "backPage": "WORLDEVENTMENU"
+  },
+  "AlchemyApprentice1": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyJourneyman1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyJourneyman1": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyExpert1",
+    "prevPage": "AlchemyApprentice1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyExpert1": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyArtisan1",
+    "prevPage": "AlchemyJourneyman1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyArtisan1": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyArtisan2",
+    "prevPage": "AlchemyExpert1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyArtisan2": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyArtisan3",
+    "prevPage": "AlchemyArtisan1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyArtisan3": {
+    "title": "Alchemy",
+    "nextPage": "AlchemyFlasks1",
+    "prevPage": "AlchemyArtisan2",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyFlasks1": {
+    "title": "Flasks",
+    "nextPage": "AlchemyProtectionPots1",
+    "prevPage": "AlchemyArtisan3",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyProtectionPots1": {
+    "title": "Protection Potions",
+    "nextPage": "AlchemyHealingAndMana1",
+    "prevPage": "AlchemyFlasks1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyHealingAndMana1": {
+    "title": "Health and Mana Potions",
+    "nextPage": "AlchemyTransmutes1",
+    "prevPage": "AlchemyProtectionPots1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyTransmutes1": {
+    "title": "Transmutes",
+    "nextPage": "AlchemyDefensive1",
+    "prevPage": "AlchemyHealingAndMana1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyDefensive1": {
+    "title": "Defensive Potions and Elixirs",
+    "nextPage": "AlchemyOffensive1",
+    "prevPage": "AlchemyTransmutes1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyOffensive1": {
+    "title": "Offensive Potions and Elixirs",
+    "nextPage": "AlchemyOffensive2",
+    "prevPage": "AlchemyDefensive1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyOffensive2": {
+    "title": "Offensive Potions and Elixirs",
+    "nextPage": "AlchemyMisc1",
+    "prevPage": "AlchemyOffensive1",
+    "backPage": "ALCHEMYMENU"
+  },
+  "AlchemyMisc1": {
+    "title": "Miscellaneous",
+    "prevPage": "AlchemyOffensive2",
+    "backPage": "ALCHEMYMENU"
+  },
+  "SmithingApprentice1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingJourneyman1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingJourneyman1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingJourneyman2",
+    "prevPage": "SmithingApprentice1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingJourneyman2": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingExpert1",
+    "prevPage": "SmithingJourneyman1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingExpert1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingExpert2",
+    "prevPage": "SmithingJourneyman2",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingExpert2": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingExpert3",
+    "prevPage": "SmithingExpert1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingExpert3": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingArtisan1",
+    "prevPage": "SmithingExpert2",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingArtisan1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingArtisan2",
+    "prevPage": "SmithingExpert3",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingArtisan2": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingArtisan3",
+    "prevPage": "SmithingArtisan1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingArtisan3": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingArtisan4",
+    "prevPage": "SmithingArtisan2",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingArtisan4": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingHelm1",
+    "prevPage": "SmithingArtisan3",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingHelm1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingShoulders1",
+    "prevPage": "SmithingArtisan4",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingShoulders1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingChest1",
+    "prevPage": "SmithingHelm1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingChest1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingChest2",
+    "prevPage": "SmithingShoulders1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingChest2": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingBracers1",
+    "prevPage": "SmithingChest1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingBracers1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingGloves1",
+    "prevPage": "SmithingChest2",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingGloves1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingBelt1",
+    "prevPage": "SmithingBracers1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingBelt1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingPants1",
+    "prevPage": "SmithingGloves1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingPants1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingBoots1",
+    "prevPage": "SmithingBelt1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingBoots1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingBuckles1",
+    "prevPage": "SmithingPants1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingBuckles1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingAxes1",
+    "prevPage": "SmithingBoots1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingAxes1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingSwords1",
+    "prevPage": "SmithingBuckles1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingSwords1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingMaces1",
+    "prevPage": "SmithingAxes1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingMaces1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingFist1",
+    "prevPage": "SmithingSwords1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingFist1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingDaggers1",
+    "prevPage": "SmithingMaces1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingDaggers1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingMisc1",
+    "prevPage": "SmithingFist1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingMisc1": {
+    "title": "Blacksmithing",
+    "nextPage": "SmithingMisc2",
+    "prevPage": "SmithingDaggers1",
+    "backPage": "SMITHINGMENU"
+  },
+  "SmithingMisc2": {
+    "title": "Blacksmithing",
+    "nextPage": "Armorsmith1",
+    "prevPage": "SmithingMisc1",
+    "backPage": "SMITHINGMENU"
+  },
+  "Armorsmith1": {
+    "title": "Blacksmithing",
+    "nextPage": "Weaponsmith1",
+    "prevPage": "SmithingMisc2",
+    "backPage": "SMITHINGMENU"
+  },
+  "Weaponsmith1": {
+    "title": "Blacksmithing",
+    "nextPage": "Axesmith1",
+    "prevPage": "Armorsmith1",
+    "backPage": "SMITHINGMENU"
+  },
+  "Axesmith1": {
+    "title": "Blacksmithing",
+    "nextPage": "Hammersmith1",
+    "prevPage": "Weaponsmith1",
+    "backPage": "SMITHINGMENU"
+  },
+  "Hammersmith1": {
+    "title": "Blacksmithing",
+    "nextPage": "Swordsmith1",
+    "prevPage": "Axesmith1",
+    "backPage": "SMITHINGMENU"
+  },
+  "Swordsmith1": {
+    "title": "Blacksmithing",
+    "prevPage": "Hammersmith1",
+    "backPage": "SMITHINGMENU"
+  },
+  "EnchantingApprentice1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingJourneyman1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingJourneyman1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingJourneyman2",
+    "prevPage": "EnchantingApprentice1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingJourneyman2": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingExpert1",
+    "prevPage": "EnchantingJourneyman1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingExpert1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingExpert2",
+    "prevPage": "EnchantingJourneyman2",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingExpert2": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingArtisan1",
+    "prevPage": "EnchantingExpert1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingArtisan1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingArtisan2",
+    "prevPage": "EnchantingExpert2",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingArtisan2": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingArtisan3",
+    "prevPage": "EnchantingArtisan1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingArtisan3": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingCloak1",
+    "prevPage": "EnchantingArtisan2",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingCloak1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingChest1",
+    "prevPage": "EnchantingArtisan3",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingChest1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingBracer1",
+    "prevPage": "EnchantingCloak1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingBracer1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingGlove1",
+    "prevPage": "EnchantingChest1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingGlove1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingBoots1",
+    "prevPage": "EnchantingBracer1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingBoots1": {
+    "title": "Enchanting",
+    "nextPage": "Enchanting2HWeapon1",
+    "prevPage": "EnchantingGlove1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "Enchanting2HWeapon1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingWeapon1",
+    "prevPage": "EnchantingBoots1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingWeapon1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingShield1",
+    "prevPage": "Enchanting2HWeapon1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingShield1": {
+    "title": "Enchanting",
+    "nextPage": "EnchantingMisc1",
+    "prevPage": "EnchantingWeapon1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EnchantingMisc1": {
+    "title": "Enchanting",
+    "prevPage": "EnchantingShield1",
+    "backPage": "ENCHANTINGMENU"
+  },
+  "EngineeringApprentice1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringJourneyman1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringJourneyman1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringJourneyman2",
+    "prevPage": "EngineeringApprentice1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringJourneyman2": {
+    "title": "Engineering",
+    "nextPage": "EngineeringExpert1",
+    "prevPage": "EngineeringJourneyman1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringExpert1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringExpert2",
+    "prevPage": "EngineeringJourneyman2",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringExpert2": {
+    "title": "Engineering",
+    "nextPage": "EngineeringArtisan1",
+    "prevPage": "EngineeringExpert1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringArtisan1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringArtisan2",
+    "prevPage": "EngineeringExpert2",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringArtisan2": {
+    "title": "Engineering",
+    "nextPage": "EngineeringEquipment1",
+    "prevPage": "EngineeringArtisan1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringEquipment1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringTrinkets1",
+    "prevPage": "EngineeringArtisan2",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringTrinkets1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringExplosives1",
+    "prevPage": "EngineeringEquipment1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringExplosives1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringWeapons1",
+    "prevPage": "EngineeringTrinkets1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringWeapons1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringParts1",
+    "prevPage": "EngineeringExplosives1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringParts1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringMisc1",
+    "prevPage": "EngineeringWeapons1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringMisc1": {
+    "title": "Engineering",
+    "nextPage": "EngineeringMisc2",
+    "prevPage": "EngineeringParts1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringMisc2": {
+    "title": "Engineering",
+    "nextPage": "EngineeringMisc3",
+    "prevPage": "EngineeringMisc1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "EngineeringMisc3": {
+    "title": "Engineering",
+    "nextPage": "Gnomish1",
+    "prevPage": "EngineeringMisc2",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "Gnomish1": {
+    "title": "Gnomish Engineering",
+    "nextPage": "Goblin1",
+    "prevPage": "EngineeringMisc3",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "Goblin1": {
+    "title": "Goblin Engineering",
+    "prevPage": "Gnomish1",
+    "backPage": "ENGINEERINGMENU"
+  },
+  "LeatherApprentice1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherJourneyman1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherJourneyman1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherJourneyman2",
+    "prevPage": "LeatherApprentice1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherJourneyman2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherExpert1",
+    "prevPage": "LeatherJourneyman1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherExpert1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherExpert2",
+    "prevPage": "LeatherJourneyman2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherExpert2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherArtisan1",
+    "prevPage": "LeatherExpert1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherArtisan1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherArtisan2",
+    "prevPage": "LeatherExpert2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherArtisan2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherArtisan3",
+    "prevPage": "LeatherArtisan1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherArtisan3": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherArtisan4",
+    "prevPage": "LeatherArtisan2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherArtisan4": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherHelm1",
+    "prevPage": "LeatherArtisan3",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherHelm1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherShoulders1",
+    "prevPage": "LeatherArtisan4",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherShoulders1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherCloak1",
+    "prevPage": "LeatherHelm1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherCloak1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherChest1",
+    "prevPage": "LeatherShoulders1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherChest1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherChest2",
+    "prevPage": "LeatherCloak1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherChest2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherBracers1",
+    "prevPage": "LeatherChest1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherBracers1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherGloves1",
+    "prevPage": "LeatherChest2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherGloves1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherGloves2",
+    "prevPage": "LeatherBracers1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherGloves2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherBelt1",
+    "prevPage": "LeatherGloves1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherBelt1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherPants1",
+    "prevPage": "LeatherGloves2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherPants1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherPants2",
+    "prevPage": "LeatherBelt1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherPants2": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherBoots1",
+    "prevPage": "LeatherPants1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherBoots1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherBags1",
+    "prevPage": "LeatherPants2",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherBags1": {
+    "title": "Leatherworking",
+    "nextPage": "LeatherMisc1",
+    "prevPage": "LeatherBoots1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "LeatherMisc1": {
+    "title": "Leatherworking",
+    "nextPage": "Dragonscale1",
+    "prevPage": "LeatherBags1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "Dragonscale1": {
+    "title": "Dragonscale Leatherworking",
+    "nextPage": "Elemental1",
+    "prevPage": "LeatherMisc1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "Elemental1": {
+    "title": "Elemental Leatherworking",
+    "nextPage": "Tribal1",
+    "prevPage": "Dragonscale1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "Tribal1": {
+    "title": "Tribal Leatherworking",
+    "prevPage": "Elemental1",
+    "backPage": "LEATHERWORKINGMENU"
+  },
+  "JewelcraftingApprentice1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingJourneyman1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingJourneyman1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingJourneyman2",
+    "prevPage": "JewelcraftingApprentice1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingJourneyman2": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingExpert1",
+    "prevPage": "JewelcraftingJourneyman1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingExpert1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingExpert2",
+    "prevPage": "JewelcraftingJourneyman2",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingExpert2": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingExpert3",
+    "prevPage": "JewelcraftingExpert1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingExpert3": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingArtisan1",
+    "prevPage": "JewelcraftingExpert2",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingArtisan1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingArtisan2",
+    "prevPage": "JewelcraftingExpert3",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingArtisan2": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingGemstones1",
+    "prevPage": "JewelcraftingArtisan1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingGemstones1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingRings1",
+    "prevPage": "JewelcraftingArtisan2",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingRings1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingRings2",
+    "prevPage": "JewelcraftingGemstones1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingRings2": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingAmulets1",
+    "prevPage": "JewelcraftingRings1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingAmulets1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingHelm1",
+    "prevPage": "JewelcraftingRings2",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingHelm1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingBracers1",
+    "prevPage": "JewelcraftingAmulets1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingBracers1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingOffHands1",
+    "prevPage": "JewelcraftingHelm1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingOffHands1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingStaves1",
+    "prevPage": "JewelcraftingBracers1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingStaves1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingTrinkets1",
+    "prevPage": "JewelcraftingOffHands1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingTrinkets1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingMisc1",
+    "prevPage": "JewelcraftingStaves1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingMisc1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingGemology1",
+    "prevPage": "JewelcraftingTrinkets1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingGemology1": {
+    "title": "Jewelcrafting",
+    "nextPage": "JewelcraftingGoldsmithing1",
+    "prevPage": "JewelcraftingMisc1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "JewelcraftingGoldsmithing1": {
+    "title": "Jewelcrafting",
+    "prevPage": "JewelcraftingGemology1",
+    "backPage": "JEWELCRAFTMENU"
+  },
+  "Herbalism1": {
+    "title": "Herbalism",
+    "nextPage": "Herbalism2",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Herbalism2": {
+    "title": "Herbalism",
+    "prevPage": "Herbalism1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Mining1": {
+    "title": "Mining",
+    "nextPage": "Smelting1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Smelting1": {
+    "title": "Smelting",
+    "prevPage": "Mining1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "TailoringApprentice1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringApprentice2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringApprentice2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringJourneyman1",
+    "prevPage": "TailoringApprentice1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringJourneyman1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringJourneyman2",
+    "prevPage": "TailoringApprentice2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringJourneyman2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringExpert1",
+    "prevPage": "TailoringJourneyman1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringExpert1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringExpert2",
+    "prevPage": "TailoringJourneyman2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringExpert2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringExpert3",
+    "prevPage": "TailoringExpert1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringExpert3": {
+    "title": "Tailoring",
+    "nextPage": "TailoringArtisan1",
+    "prevPage": "TailoringExpert2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringArtisan1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringArtisan2",
+    "prevPage": "TailoringExpert3",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringArtisan2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringArtisan3",
+    "prevPage": "TailoringArtisan1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringArtisan3": {
+    "title": "Tailoring",
+    "nextPage": "TailoringArtisan4",
+    "prevPage": "TailoringArtisan2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringArtisan4": {
+    "title": "Tailoring",
+    "nextPage": "TailoringArtisan5",
+    "prevPage": "TailoringArtisan3",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringArtisan5": {
+    "title": "Tailoring",
+    "nextPage": "TailoringHelm1",
+    "prevPage": "TailoringArtisan4",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringHelm1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringShoulders1",
+    "prevPage": "TailoringArtisan5",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringShoulders1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringCloak1",
+    "prevPage": "TailoringHelm1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringCloak1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringChest1",
+    "prevPage": "TailoringShoulders1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringChest1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringChest2",
+    "prevPage": "TailoringCloak1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringChest2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringBracers1",
+    "prevPage": "TailoringChest1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringBracers1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringGloves1",
+    "prevPage": "TailoringChest2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringGloves1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringGloves2",
+    "prevPage": "TailoringBracers1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringGloves2": {
+    "title": "Tailoring",
+    "nextPage": "TailoringBelt1",
+    "prevPage": "TailoringGloves1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringBelt1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringPants1",
+    "prevPage": "TailoringGloves2",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringPants1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringBoots1",
+    "prevPage": "TailoringBelt1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringBoots1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringShirt1",
+    "prevPage": "TailoringPants1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringShirt1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringBags1",
+    "prevPage": "TailoringBoots1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringBags1": {
+    "title": "Tailoring",
+    "nextPage": "TailoringMisc1",
+    "prevPage": "TailoringShirt1",
+    "backPage": "TAILORINGMENU"
+  },
+  "TailoringMisc1": {
+    "title": "Tailoring",
+    "prevPage": "TailoringBags1",
+    "backPage": "TAILORINGMENU"
+  },
+  "CookingApprentice1": {
+    "title": "Cooking",
+    "nextPage": "CookingJourneyman1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "CookingJourneyman1": {
+    "title": "Cooking",
+    "nextPage": "CookingExpert1",
+    "prevPage": "CookingApprentice1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "CookingExpert1": {
+    "title": "Cooking",
+    "nextPage": "CookingArtisan1",
+    "prevPage": "CookingJourneyman1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "CookingArtisan1": {
+    "title": "Cooking",
+    "prevPage": "CookingExpert1",
+    "backPage": "CRAFTINGMENU"
+  },
+  "FirstAid1": {
+    "title": "First Aid",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Survival1": {
+    "title": "Survival",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Survival2": {
+    "title": "Gardening",
+    "backPage": "CRAFTINGMENU"
+  },
+  "Poisons1": {
+    "title": "Poisons",
+    "backPage": "CRAFTINGMENU"
+  }
+}

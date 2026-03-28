@@ -1,0 +1,2134 @@
+{
+  "dungeons": [
+    {
+      "lootpage": "RFCTaragaman",
+      "name": "[13-18] Ragefire Chasm",
+      "extra": "Orgrimmar"
+    },
+    {
+      "lootpage": "FMHTansha",
+      "name": "[13-20] Frostmane Hollow",
+      "extra": "Dun Morogh"
+    },
+    {
+      "lootpage": "WCLordCobrahn",
+      "name": "[17-24] Wailing Caverns",
+      "extra": "Barrens"
+    },
+    {
+      "lootpage": "DMRhahkZor",
+      "name": "[17-24] The Deadmines",
+      "extra": "Westfall"
+    },
+    {
+      "lootpage": "SFKRethilgore",
+      "name": "[22-30] Shadowfang Keep",
+      "extra": "Silverpine Forest"
+    },
+    {
+      "lootpage": "SWStTargorr",
+      "name": "[22-30] The Stockade",
+      "extra": "Stormwind"
+    },
+    {
+      "lootpage": "BFDGhamoora",
+      "name": "[23-32] Blackfathom Deeps",
+      "extra": "Ashenvale"
+    },
+    {
+      "lootpage": "WHCPathun",
+      "name": "[25-33] Windhorn Canyon",
+      "extra": "Thousand Needles"
+    },
+    {
+      "lootpage": "DMRGowlfang",
+      "name": "[26-35] Dragonmaw Retreat",
+      "extra": "Wetlands"
+    },
+    {
+      "lootpage": "GnGrubbis",
+      "name": "[29-38] Gnomeregan",
+      "extra": "Dun Morogh"
+    },
+    {
+      "lootpage": "RFKAggem",
+      "name": "[29-38] Razorfen Kraul",
+      "extra": "Barrens"
+    },
+    {
+      "lootpage": "TCGGrovetenderEngryss",
+      "name": "[32-38] The Crescent Grove",
+      "extra": "Ashenvale"
+    },
+    {
+      "lootpage": "SMVishas",
+      "name": "[27-36] Scarlet Monastery (Graveyard)",
+      "extra": "Tirisfal Glades"
+    },
+    {
+      "lootpage": "SMHoundmasterLoksey",
+      "name": "[28-39] Scarlet Monastery (Library)",
+      "extra": "Tirisfal Glades"
+    },
+    {
+      "lootpage": "SMHerod",
+      "name": "[32-41] Scarlet Monastery (Armory)",
+      "extra": "Tirisfal Glades"
+    },
+    {
+      "lootpage": "SMFairbanks",
+      "name": "[35-45] Scarlet Monastery (Cathedral)",
+      "extra": "Tirisfal Glades"
+    },
+    {
+      "lootpage": "SWROronok",
+      "name": "[32-44] Stormwrought Ruins",
+      "extra": "Balor"
+    },
+    {
+      "lootpage": "RFDTutenkash",
+      "name": "[36-46] Razorfen Downs",
+      "extra": "Barrens"
+    },
+    {
+      "lootpage": "UldBaelog",
+      "name": "[40-51] Uldaman",
+      "extra": "Badlands"
+    },
+    {
+      "lootpage": "GCMatthiasHoltz",
+      "name": "[42-50] Gilneas City",
+      "extra": "Gilneas"
+    },
+    {
+      "lootpage": "MaraNoxxion",
+      "name": "[45-55] Maraudon",
+      "extra": "Desolace"
+    },
+    {
+      "lootpage": "ZFAntusul",
+      "name": "[44-54] Zul'Farrak",
+      "extra": "Tanaris"
+    },
+    {
+      "lootpage": "STBalconyMinibosses",
+      "name": "[50-60] The Sunken Temple",
+      "extra": "Swamp of Sorrows"
+    },
+    {
+      "lootpage": "HQHighForemanBargulBlackhammer",
+      "name": "[50-60] Hateforge Quarry",
+      "extra": "Burning Steppes"
+    },
+    {
+      "lootpage": "BRDLordRoccor",
+      "name": "[52-60] Blackrock Depths",
+      "extra": "Burning Steppes"
+    },
+    {
+      "lootpage": "DMEPusillin",
+      "name": "[55-60] Dire Maul (East)",
+      "extra": "Feralas"
+    },
+    {
+      "lootpage": "DMWTendrisWarpwood",
+      "name": "[57-60] Dire Maul (West)",
+      "extra": "Feralas"
+    },
+    {
+      "lootpage": "DMNGuardMoldar",
+      "name": "[57-60] Dire Maul (North)",
+      "extra": "Feralas"
+    },
+    {
+      "lootpage": "SCHOLOKirtonostheHerald",
+      "name": "[58-60] Scholomance",
+      "extra": "Western Plaguelands"
+    },
+    {
+      "lootpage": "STRATSkull",
+      "name": "[58-60] Stratholme",
+      "extra": "Eastern Plaguelands"
+    },
+    {
+      "lootpage": "LBRSSpirestoneButcher",
+      "name": "[55-60] Lower Blackrock Spire",
+      "extra": "Burning Steppes"
+    },
+    {
+      "lootpage": "UBRSEmberseer",
+      "name": "[58-60] Upper Blackrock Spire",
+      "extra": "Burning Steppes"
+    },
+    {
+      "lootpage": "COTBMChronar",
+      "name": "[60] Caverns of Time: Black Morass",
+      "extra": "Tanaris"
+    },
+    {
+      "lootpage": "SWVAszoshGrimflame",
+      "name": "[60] Stormwind Vault",
+      "extra": "Stormwind"
+    },
+    {
+      "lootpage": "KCMarrowspike",
+      "name": "[60] Karazhan Crypt",
+      "extra": "Deadwind Pass"
+    },
+    {
+      "lootpage": "ZGJeklik",
+      "name": "[RAID] Zul'Gurub",
+      "extra": "Stranglethorn Vale"
+    },
+    {
+      "lootpage": "AQ20Kurinnaxx",
+      "name": "[RAID] Ruins of Ahn'Qiraj",
+      "extra": "Silithus"
+    },
+    {
+      "lootpage": "Axelus",
+      "name": "[RAID] Onyxia's Lair",
+      "extra": "Dustwallow Marsh"
+    },
+    {
+      "lootpage": "LKHRolfen",
+      "name": "[RAID] Lower Karazhan Halls",
+      "extra": "Deadwind Pass"
+    },
+    {
+      "lootpage": "BWLRazorgore",
+      "name": "[RAID] Blackwing Lair",
+      "extra": "Burning Steppes"
+    },
+    {
+      "lootpage": "ESErennius",
+      "name": "[RAID] Emerald Sanctum",
+      "extra": "Hyjal"
+    },
+    {
+      "lootpage": "AQ40Skeram",
+      "name": "[RAID] Temple of Ahn'Qiraj",
+      "extra": "Silithus"
+    },
+    {
+      "lootpage": "NAXPatchwerk",
+      "name": "[RAID] Naxxramas",
+      "extra": "Eastern Plaguelands"
+    },
+    {
+      "lootpage": "UKHGnarlmoon",
+      "name": "[RAID] Upper Karazhan Halls",
+      "extra": "Deadwind Pass"
+    }
+  ],
+  "crafting": [
+    {
+      "name": "Alchemy",
+      "lootpage": "ALCHEMYMENU",
+      "isHeader": true,
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Alchemy: Apprentice",
+      "lootpage": "AlchemyApprentice1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Alchemy: Journeyman",
+      "lootpage": "AlchemyJourneyman1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Alchemy: Expert",
+      "lootpage": "AlchemyExpert1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Alchemy: Artisan",
+      "lootpage": "AlchemyArtisan1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Flasks",
+      "lootpage": "AlchemyFlasks1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Protection Potions",
+      "lootpage": "AlchemyProtectionPots1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Health and Mana Potions",
+      "lootpage": "AlchemyHealingAndMana1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Transmutes",
+      "lootpage": "AlchemyTransmutes1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Defensive Potions and Elixirs",
+      "lootpage": "AlchemyDefensive1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Offensive Potions and Elixirs",
+      "lootpage": "AlchemyOffensive1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Miscellaneous",
+      "lootpage": "AlchemyMisc1",
+      "icon": "Trade_Alchemy"
+    },
+    {
+      "name": "Enchanting",
+      "lootpage": "ENCHANTINGMENU",
+      "isHeader": true,
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Apprentice",
+      "lootpage": "EnchantingApprentice1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Journeyman",
+      "lootpage": "EnchantingJourneyman1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Expert",
+      "lootpage": "EnchantingExpert1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Artisan",
+      "lootpage": "EnchantingArtisan1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Cloak",
+      "lootpage": "EnchantingCloak1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Chest",
+      "lootpage": "EnchantingChest1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Bracers",
+      "lootpage": "EnchantingBracer1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Gloves",
+      "lootpage": "EnchantingGlove1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Boots",
+      "lootpage": "EnchantingBoots1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: 2H Weapon",
+      "lootpage": "Enchanting2HWeapon1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Weapon",
+      "lootpage": "EnchantingWeapon1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Shield",
+      "lootpage": "EnchantingShield1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Enchanting: Misc",
+      "lootpage": "EnchantingMisc1",
+      "icon": "Trade_Engraving"
+    },
+    {
+      "name": "Engineering",
+      "lootpage": "ENGINEERINGMENU",
+      "isHeader": true,
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Apprentice",
+      "lootpage": "EngineeringApprentice1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Journeyman",
+      "lootpage": "EngineeringJourneyman1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Expert",
+      "lootpage": "EngineeringExpert1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Artisan",
+      "lootpage": "EngineeringArtisan1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Equipment",
+      "lootpage": "EngineeringEquipment1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Trinkets",
+      "lootpage": "EngineeringTrinkets1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Explosives",
+      "lootpage": "EngineeringExplosives1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Weapons",
+      "lootpage": "EngineeringWeapons1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Parts",
+      "lootpage": "EngineeringParts1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Engineering: Misc",
+      "lootpage": "EngineeringMisc1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Gnomish Engineering",
+      "lootpage": "Gnomish1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Goblin Engineering",
+      "lootpage": "Goblin1",
+      "icon": "Trade_Engineering"
+    },
+    {
+      "name": "Leatherworking",
+      "lootpage": "LEATHERWORKINGMENU",
+      "isHeader": true,
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Apprentice",
+      "lootpage": "LeatherApprentice1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Journeyman",
+      "lootpage": "LeatherJourneyman1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Expert",
+      "lootpage": "LeatherExpert1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Artisan",
+      "lootpage": "LeatherArtisan1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Helm",
+      "lootpage": "LeatherHelm1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Shoulders",
+      "lootpage": "LeatherShoulders1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Cloak",
+      "lootpage": "LeatherCloak1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Chest",
+      "lootpage": "LeatherChest1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Bracers",
+      "lootpage": "LeatherBracers1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Gloves",
+      "lootpage": "LeatherGloves1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Belt",
+      "lootpage": "LeatherBelt1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Pants",
+      "lootpage": "LeatherPants1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Boots",
+      "lootpage": "LeatherBoots1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Bags",
+      "lootpage": "LeatherBags1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Leatherworking: Misc",
+      "lootpage": "LeatherMisc1",
+      "icon": "INV_Misc_ArmorKit_17"
+    },
+    {
+      "name": "Dragonscale Leatherworking",
+      "lootpage": "Dragonscale1",
+      "icon": "INV_Misc_MonsterScales_03"
+    },
+    {
+      "name": "Elemental Leatherworking",
+      "lootpage": "Elemental1",
+      "icon": "Spell_Fire_Volcano"
+    },
+    {
+      "name": "Tribal Leatherworking",
+      "lootpage": "Tribal1",
+      "icon": "Spell_Nature_NullWard"
+    },
+    {
+      "name": "Blacksmithing",
+      "lootpage": "SMITHINGMENU",
+      "isHeader": true,
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Apprentice",
+      "lootpage": "SmithingApprentice1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Journeyman",
+      "lootpage": "SmithingJourneyman1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Expert",
+      "lootpage": "SmithingExpert1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Artisan",
+      "lootpage": "SmithingArtisan1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Helm",
+      "lootpage": "SmithingHelm1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Shoulders",
+      "lootpage": "SmithingShoulders1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Chest",
+      "lootpage": "SmithingChest1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Bracers",
+      "lootpage": "SmithingBracers1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Gloves",
+      "lootpage": "SmithingGloves1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Belt",
+      "lootpage": "SmithingBelt1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Pants",
+      "lootpage": "SmithingPants1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Boots",
+      "lootpage": "SmithingBoots1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Belt Buckles",
+      "lootpage": "SmithingBuckles1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Axes",
+      "lootpage": "SmithingAxes1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Swords",
+      "lootpage": "SmithingSwords1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Maces",
+      "lootpage": "SmithingMaces1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Fist",
+      "lootpage": "SmithingFist1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Daggers",
+      "lootpage": "SmithingDaggers1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Blacksmithing: Misc",
+      "lootpage": "SmithingMisc1",
+      "icon": "Trade_BlackSmithing"
+    },
+    {
+      "name": "Armorsmith",
+      "lootpage": "Armorsmith1",
+      "icon": "INV_Chest_Plate04"
+    },
+    {
+      "name": "Weaponsmith",
+      "lootpage": "Weaponsmith1",
+      "icon": "INV_Sword_25"
+    },
+    {
+      "name": "Master Axesmith",
+      "lootpage": "Axesmith1",
+      "icon": "INV_Axe_05"
+    },
+    {
+      "name": "Master Hammersmith",
+      "lootpage": "Hammersmith1",
+      "icon": "INV_Hammer_23"
+    },
+    {
+      "name": "Master Swordsmith",
+      "lootpage": "Swordsmith1",
+      "icon": "INV_Sword_41"
+    },
+    {
+      "name": "Tailoring",
+      "lootpage": "TAILORINGMENU",
+      "isHeader": true,
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Apprentice",
+      "lootpage": "TailoringApprentice1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Journeyman",
+      "lootpage": "TailoringJourneyman1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Expert",
+      "lootpage": "TailoringExpert1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Artisan",
+      "lootpage": "TailoringArtisan1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Helm",
+      "lootpage": "TailoringHelm1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Shoulders",
+      "lootpage": "TailoringShoulders1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Cloak",
+      "lootpage": "TailoringCloak1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Chest",
+      "lootpage": "TailoringChest1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Bracers",
+      "lootpage": "TailoringBracers1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Gloves",
+      "lootpage": "TailoringGloves1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Belt",
+      "lootpage": "TailoringBelt1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Pants",
+      "lootpage": "TailoringPants1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Boots",
+      "lootpage": "TailoringBoots1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Shirt",
+      "lootpage": "TailoringShirt1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Bags",
+      "lootpage": "TailoringBags1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Tailoring: Misc",
+      "lootpage": "TailoringMisc1",
+      "icon": "Trade_Tailoring"
+    },
+    {
+      "name": "Jewelcrafting",
+      "lootpage": "JEWELCRAFTMENU",
+      "isHeader": true,
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Apprentice",
+      "lootpage": "JewelcraftingApprentice1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Journeyman",
+      "lootpage": "JewelcraftingJourneyman1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Expert",
+      "lootpage": "JewelcraftingExpert1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Artisan",
+      "lootpage": "JewelcraftingArtisan1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Gemstones",
+      "lootpage": "JewelcraftingGemstones1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Rings",
+      "lootpage": "JewelcraftingRings1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Amulets",
+      "lootpage": "JewelcraftingAmulets1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Head",
+      "lootpage": "JewelcraftingHelm1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Bracers",
+      "lootpage": "JewelcraftingBracers1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Off Hand",
+      "lootpage": "JewelcraftingOffHands1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Staff",
+      "lootpage": "JewelcraftingStaves1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Trinkets",
+      "lootpage": "JewelcraftingTrinkets1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Misc",
+      "lootpage": "JewelcraftingMisc1",
+      "icon": "INV_Jewelry_Necklace_01"
+    },
+    {
+      "name": "Jewelcrafting: Gemology",
+      "lootpage": "JewelcraftingGemology1",
+      "icon": "INV_Misc_Gem_Variety_01"
+    },
+    {
+      "name": "Jewelcrafting: Goldsmithing",
+      "lootpage": "JewelcraftingGoldsmithing1",
+      "icon": "INV_Jewelry_Ring_03"
+    },
+    {
+      "name": "Herbalism",
+      "lootpage": "Herbalism1",
+      "icon": "Trade_Herbalism"
+    },
+    {
+      "name": "Mining",
+      "lootpage": "Mining1",
+      "icon": "Trade_Mining"
+    },
+    {
+      "name": "Cooking",
+      "lootpage": "CookingApprentice1",
+      "icon": "INV_Misc_Food_15"
+    },
+    {
+      "name": "First Aid",
+      "lootpage": "FirstAid1",
+      "icon": "Spell_Holy_SealOfSacrifice"
+    },
+    {
+      "name": "Survival",
+      "lootpage": "Survival1",
+      "icon": "Trade_Survival"
+    },
+    {
+      "name": "Gardening",
+      "lootpage": "Survival2",
+      "icon": "Trade_Herbalism"
+    },
+    {
+      "name": "Poisons",
+      "extra": "Rogue",
+      "lootpage": "Poisons1",
+      "icon": "Trade_BrewPoison"
+    },
+    {
+      "name": "Crafted Sets",
+      "lootpage": "CRAFTSET",
+      "isHeader": true,
+      "icon": "INV_Pants_Wolf"
+    },
+    {
+      "name": "Augerer's Attire",
+      "lootpage": "AugerersAttire",
+      "icon": "INV_Helmet_11",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Shadoweave",
+      "lootpage": "ShadoweaveSet",
+      "icon": "INV_Helmet_27",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Diviner's Garments",
+      "lootpage": "DivinersGarments",
+      "icon": "INV_Helmet_33",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Pillager's Garb",
+      "lootpage": "PillagersGarb",
+      "icon": "INV_Helmet_28",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Bloodvine Garb",
+      "lootpage": "BloodvineG",
+      "icon": "INV_Pants_Cloth_14",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Mooncloth Regalia",
+      "lootpage": "MoonclothSet",
+      "icon": "inv_chest_cloth_08",
+      "extra": "Tailoring"
+    },
+    {
+      "name": "Bloodsoul Embrace",
+      "lootpage": "BloodsoulEmbrace",
+      "icon": "INV_Shoulder_15",
+      "extra": "Blacksmithing"
+    },
+    {
+      "name": "Steel Plate",
+      "lootpage": "SteelPlate",
+      "icon": "INV_Helmet_25",
+      "extra": "Blacksmithing"
+    },
+    {
+      "name": "Imperial Plate",
+      "lootpage": "ImperialPlate",
+      "icon": "INV_Belt_01",
+      "extra": "Blacksmithing"
+    },
+    {
+      "name": "The Darksoul",
+      "lootpage": "TheDarksoul",
+      "icon": "INV_Shoulder_01",
+      "extra": "Blacksmithing"
+    },
+    {
+      "name": "Grifter's Armor",
+      "lootpage": "GriftersArmor",
+      "icon": "INV_Helmet_33",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Primalist's Trappings",
+      "lootpage": "PrimalistsTrappings",
+      "icon": "INV_Helmet_04",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Volcanic Armor",
+      "extra": "Fire Resistance Gear",
+      "lootpage": "VolcanicArmor",
+      "icon": "INV_Pants_06"
+    },
+    {
+      "name": "Ironfeather Armor",
+      "lootpage": "IronfeatherArmor",
+      "icon": "INV_Chest_Leather_06",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Stormshroud Armor",
+      "lootpage": "StormshroudArmor",
+      "icon": "INV_Chest_Leather_08",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Devilsaur Armor",
+      "lootpage": "DevilsaurArmor",
+      "icon": "INV_Pants_Wolf",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Blood Tiger Harness",
+      "lootpage": "BloodTigerH",
+      "icon": "INV_Shoulder_23",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Primal Batskin",
+      "lootpage": "PrimalBatskin",
+      "icon": "INV_Chest_Leather_03",
+      "extra": "Leatherworking"
+    },
+    {
+      "name": "Green Dragon Mail",
+      "extra": "Nature Resistance Gear",
+      "lootpage": "GreenDragonM",
+      "icon": "INV_Pants_05"
+    },
+    {
+      "name": "Blue Dragon Mail",
+      "extra": "Arcane Resistance Gear",
+      "lootpage": "BlueDragonM",
+      "icon": "INV_Chest_Chain_04"
+    },
+    {
+      "name": "Black Dragon Mail",
+      "extra": "Fire Resistance Gear",
+      "lootpage": "BlackDragonM",
+      "icon": "INV_Pants_03"
+    },
+    {
+      "name": "Red Dragon Mail",
+      "extra": "Fire Resistance Gear",
+      "lootpage": "RedDragonM",
+      "icon": "inv_chest_chain_06"
+    },
+    {
+      "name": "Crafted Epic Weapons",
+      "lootpage": "CraftedWeapons1",
+      "icon": "INV_Hammer_Unique_Sulfuras"
+    }
+  ],
+  "sets": [
+    {
+      "name": "Sets",
+      "lootpage": "PRE60SET",
+      "isHeader": true,
+      "icon": "INV_Sword_43"
+    },
+    {
+      "name": "Defias Leather",
+      "extra": "The Deadmines",
+      "lootpage": "DEADMINES",
+      "icon": "INV_Pants_12"
+    },
+    {
+      "name": "Embrace of the Viper",
+      "extra": "Wailing Caverns",
+      "lootpage": "WAILING",
+      "icon": "INV_Shirt_16"
+    },
+    {
+      "name": "Chain of the Scarlet Crusade",
+      "extra": "Scarlet Monastery",
+      "lootpage": "SCARLET",
+      "icon": "INV_Gauntlets_19"
+    },
+    {
+      "name": "The Gladiator",
+      "extra": "Blackrock Depths",
+      "lootpage": "BLACKROCKD",
+      "icon": "INV_Helmet_01"
+    },
+    {
+      "name": "Ironweave Battlesuit",
+      "extra": "Various Locations",
+      "lootpage": "IRONWEAVE",
+      "icon": "INV_Boots_Cloth_05"
+    },
+    {
+      "name": "The Postmaster",
+      "extra": "Stratholme",
+      "lootpage": "STRAT",
+      "icon": "INV_Boots_02"
+    },
+    {
+      "name": "Necropile Raiment",
+      "extra": "Scholomance",
+      "lootpage": "ScholoCloth",
+      "icon": "INV_Shoulder_02"
+    },
+    {
+      "name": "Cadaverous Garb",
+      "extra": "Scholomance",
+      "lootpage": "ScholoLeather",
+      "icon": "INV_Belt_16"
+    },
+    {
+      "name": "Bloodmail Regalia",
+      "extra": "Scholomance",
+      "lootpage": "ScholoMail",
+      "icon": "INV_Gauntlets_26"
+    },
+    {
+      "name": "Deathbone Guardian",
+      "extra": "Scholomance",
+      "lootpage": "ScholoPlate",
+      "icon": "INV_Belt_12"
+    },
+    {
+      "name": "Scourge Invasion",
+      "extra": "Various Locations",
+      "lootpage": "ScourgeInvasion",
+      "icon": "INV_Jewelry_Talisman_13"
+    },
+    {
+      "name": "Spider's Kiss",
+      "extra": "Lower Blackrock Spire",
+      "lootpage": "SpiderKiss",
+      "icon": "INV_Weapon_ShortBlade_16"
+    },
+    {
+      "name": "Dal'Rend's Arms",
+      "extra": "Upper Blackrock Spire",
+      "lootpage": "DalRend",
+      "icon": "INV_Sword_43"
+    },
+    {
+      "name": "Shard of the Gods",
+      "extra": "Various Locations",
+      "lootpage": "ShardOfGods",
+      "icon": "INV_Misc_MonsterScales_15"
+    },
+    {
+      "name": "Spirit of Eskhandar",
+      "extra": "Various Locations",
+      "lootpage": "SpiritofEskhandar",
+      "icon": "INV_Misc_MonsterClaw_04"
+    },
+    {
+      "name": "Zul'Gurub Sets",
+      "lootpage": "ZGSET",
+      "isHeader": true,
+      "icon": "INV_Sword_55"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "ZGPriest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "ZGMage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "ZGWarlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "ZGRogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "ZGDruid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "ZGHunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "ZGShaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "ZGPaladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "ZGWarrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Zul'Gurub Rings",
+      "lootpage": "ZGRings",
+      "icon": "INV_Jewelry_Ring_46"
+    },
+    {
+      "name": "Primal Blessing",
+      "lootpage": "PrimalBlessing",
+      "icon": "INV_Weapon_Hand_01"
+    },
+    {
+      "name": "The Twin Blades of Hakkari",
+      "lootpage": "HakkariBlades",
+      "icon": "INV_Sword_55"
+    },
+    {
+      "name": "Ruins of Ahn'Qiraj Sets",
+      "lootpage": "AQ20SET",
+      "isHeader": true,
+      "icon": "INV_Axe_15"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "AQ20Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "AQ20Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "AQ20Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "AQ20Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "AQ20Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "AQ20Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "AQ20Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "AQ20Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "AQ20Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Temple of Ahn'Qiraj Sets",
+      "lootpage": "AQ40SET",
+      "isHeader": true,
+      "icon": "INV_Shoulder_35"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "AQ40Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "AQ40Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "AQ40Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "AQ40Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "AQ40Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "AQ40Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "AQ40Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "AQ40Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "AQ40Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Karazhan Sets",
+      "lootpage": "KARASET",
+      "isHeader": true,
+      "icon": "INV_Staff_Medivh"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "T35Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "T35Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "T35Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "T35Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "T35Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "T35Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "T35Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "T35Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "T35Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Legendary Items",
+      "lootpage": "Legendaries",
+      "icon": "INV_Hammer_Unique_Sulfuras"
+    },
+    {
+      "name": "Rare Pets",
+      "lootpage": "RarePets1",
+      "icon": "Ability_Seal"
+    },
+    {
+      "name": "Rare Mounts",
+      "lootpage": "RareMounts",
+      "icon": "INV_Misc_QirajiCrystal_05"
+    },
+    {
+      "name": "Dungeon 1/2 Sets",
+      "lootpage": "T0SET",
+      "isHeader": true,
+      "icon": "INV_Helmet_24"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "T0Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "T0Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "T0Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "T0Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "T0Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "T0Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "T0Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "T0Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "T0Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Tier 1 Sets",
+      "lootpage": "T1SET",
+      "isHeader": true,
+      "icon": "INV_Helmet_09"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "T1Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "T1Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "T1Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "T1Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "T1Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "T1Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "T1Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "T1Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "T1Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Tier 2 Sets",
+      "lootpage": "T2SET",
+      "isHeader": true,
+      "icon": "INV_Helmet_74"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "T2Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "T2Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "T2Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "T2Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "T2Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "T2Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "T2Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "T2Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "T2Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "Tier 3 Sets",
+      "lootpage": "T3SET",
+      "isHeader": true,
+      "icon": "INV_Helmet_58"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "T3Priest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "T3Mage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "T3Warlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "T3Rogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "T3Druid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "T3Hunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "T3Shaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "T3Paladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "T3Warrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "World Epics",
+      "lootpage": "WorldEpics1",
+      "isHeader": true,
+      "icon": "INV_Gauntlets_30"
+    },
+    {
+      "name": "Level 30-39",
+      "lootpage": "WorldEpics1",
+      "icon": "INV_Jewelry_Ring_15"
+    },
+    {
+      "name": "Level 40-49",
+      "lootpage": "WorldEpics2",
+      "icon": "INV_Staff_29"
+    },
+    {
+      "name": "Level 50-60",
+      "lootpage": "WorldEpics3",
+      "icon": "INV_Sword_19"
+    },
+    {
+      "name": "Tabards",
+      "lootpage": "Tabards",
+      "icon": "INV_Shirt_GuildTabard_01"
+    }
+  ],
+  "factions": [
+    {
+      "lootpage": "Argent1",
+      "name": "Argent Dawn",
+      "extra": ""
+    },
+    {
+      "lootpage": "AQBroodRings",
+      "name": "Brood of Nozdormu",
+      "extra": ""
+    },
+    {
+      "lootpage": "Darkmoon",
+      "name": "Darkmoon Faire",
+      "extra": ""
+    },
+    {
+      "lootpage": "WaterLords1",
+      "name": "Hydraxian Waterlords",
+      "extra": ""
+    },
+    {
+      "lootpage": "Thorium1",
+      "name": "Thorium Brotherhood",
+      "extra": ""
+    },
+    {
+      "lootpage": "Cenarion1",
+      "name": "Cenarion Circle",
+      "extra": ""
+    },
+    {
+      "lootpage": "Shendralar",
+      "name": "Shen'dralar",
+      "extra": ""
+    },
+    {
+      "lootpage": "DraeneiExiles",
+      "name": "Draenei Exiles",
+      "extra": ""
+    },
+    {
+      "lootpage": "Bloodsail1",
+      "name": "Bloodsail Buccaneers",
+      "extra": ""
+    },
+    {
+      "lootpage": "Zandalar1",
+      "name": "Zandalar Tribe",
+      "extra": ""
+    },
+    {
+      "lootpage": "Timbermaw",
+      "name": "Timbermaw Hold",
+      "extra": ""
+    },
+    {
+      "lootpage": "Wardens1",
+      "name": "Wardens of Time",
+      "extra": ""
+    },
+    {
+      "lootpage": "GelkisClan1",
+      "name": "Gelkis Clan Centaur",
+      "extra": ""
+    },
+    {
+      "lootpage": "MagramClan1",
+      "name": "Magram Clan Centaur",
+      "extra": ""
+    },
+    {
+      "lootpage": "Stormwind",
+      "name": "Stormwind"
+    },
+    {
+      "lootpage": "Ironforge",
+      "name": "Ironforge"
+    },
+    {
+      "lootpage": "GnomereganExiles",
+      "name": "Gnomeregan Exiles"
+    },
+    {
+      "lootpage": "Darnassus",
+      "name": "Darnassus"
+    },
+    {
+      "lootpage": "Helf",
+      "name": "Silvermoon Remnant"
+    },
+    {
+      "lootpage": "Dalaran",
+      "name": "Dalaran"
+    },
+    {
+      "lootpage": "Wintersaber1",
+      "name": "Wintersaber Trainers"
+    },
+    {
+      "lootpage": "Wildhammer",
+      "name": "Wildhammer Clan"
+    },
+    {
+      "lootpage": "Orgrimmar",
+      "name": "Orgrimmar"
+    },
+    {
+      "lootpage": "DarkspearTrolls",
+      "name": "Darkspear Trolls"
+    },
+    {
+      "lootpage": "ThunderBluff",
+      "name": "Thunder Bluff"
+    },
+    {
+      "lootpage": "Undercity",
+      "name": "Undercity"
+    },
+    {
+      "lootpage": "DurotarLaborUnion",
+      "name": "Durotar Labor Union"
+    },
+    {
+      "lootpage": "Revantusk",
+      "name": "Revantusk Trolls"
+    },
+    {
+      "lootpage": "EarthenRing",
+      "name": "Earthen Ring"
+    }
+  ],
+  "pvp": [
+    {
+      "name": "Alterac Valley",
+      "lootpage": "AVRepMenu",
+      "isHeader": true,
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Friendly Reputation Rewards",
+      "lootpage": "AVRepFriendly",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Honored Reputation Rewards",
+      "lootpage": "AVRepHonored",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Revered Reputation Rewards",
+      "lootpage": "AVRepRevered",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Exalted Reputation Rewards",
+      "lootpage": "AVRepExalted",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Korrak the Bloodrager",
+      "lootpage": "AVKorrak",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Ivus & Lokholar",
+      "lootpage": "AVLokholarIvus",
+      "icon": "INV_Jewelry_Necklace_21"
+    },
+    {
+      "name": "Arathi Basin",
+      "lootpage": "ABRepMenu",
+      "isHeader": true,
+      "icon": "INV_Jewelry_Amulet_07"
+    },
+    {
+      "name": "10-60",
+      "lootpage": "ABRepFriendly",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Friendly"
+    },
+    {
+      "name": "20-29",
+      "lootpage": "ABRepHonored2029",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "30-39",
+      "lootpage": "ABRepHonored3039",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "40-49",
+      "lootpage": "ABRepHonored4049",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "50-59",
+      "lootpage": "ABRepHonored5059",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "20-29",
+      "lootpage": "ABRepRevered2029",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "30-39",
+      "lootpage": "ABRepRevered3039",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "40-49",
+      "lootpage": "ABRepRevered4049",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "50-59",
+      "lootpage": "ABRepRevered5059",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "60",
+      "lootpage": "ABRepExalted",
+      "icon": "INV_Jewelry_Amulet_07",
+      "extra": "Exalted"
+    },
+    {
+      "name": "PvP Armor Sets",
+      "lootpage": "PVPSET",
+      "isHeader": true,
+      "icon": "INV_Helmet_05"
+    },
+    {
+      "name": "Priest",
+      "lootpage": "PVPPriest",
+      "icon": "priest"
+    },
+    {
+      "name": "Mage",
+      "lootpage": "PVPMage",
+      "icon": "mage"
+    },
+    {
+      "name": "Warlock",
+      "lootpage": "PVPWarlock",
+      "icon": "warlock"
+    },
+    {
+      "name": "Rogue",
+      "lootpage": "PVPRogue",
+      "icon": "rogue"
+    },
+    {
+      "name": "Druid",
+      "lootpage": "PVPDruid",
+      "icon": "druid"
+    },
+    {
+      "name": "Hunter",
+      "lootpage": "PVPHunter",
+      "icon": "hunter"
+    },
+    {
+      "name": "Shaman",
+      "lootpage": "PVPShaman",
+      "icon": "shaman"
+    },
+    {
+      "name": "Paladin",
+      "lootpage": "PVPPaladin",
+      "icon": "paladin"
+    },
+    {
+      "name": "Warrior",
+      "lootpage": "PVPWarrior",
+      "icon": "warrior"
+    },
+    {
+      "name": "PvP Accessories",
+      "extra": "Rank 2-9",
+      "lootpage": "PvP60Accessories1",
+      "icon": "INV_Jewelry_Talisman_09"
+    },
+    {
+      "name": "Warsong Gulch",
+      "lootpage": "WSGRepMenu",
+      "isHeader": true,
+      "icon": "INV_Misc_Rune_07"
+    },
+    {
+      "name": "10-60",
+      "lootpage": "WSGRepFriendly",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Friendly"
+    },
+    {
+      "name": "10-19",
+      "lootpage": "WSGRepHonored1019",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "20-29",
+      "lootpage": "WSGRepHonored2029",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "30-39",
+      "lootpage": "WSGRepHonored3039",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "40-49",
+      "lootpage": "WSGRepHonored4049",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "50-59",
+      "lootpage": "WSGRepHonored5059",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Honored"
+    },
+    {
+      "name": "10-19",
+      "lootpage": "WSGRepRevered1019",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "20-29",
+      "lootpage": "WSGRepRevered2029",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "30-39",
+      "lootpage": "WSGRepRevered3039",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "40-49",
+      "lootpage": "WSGRepRevered4049",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "50-59",
+      "lootpage": "WSGRepRevered5059",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Revered"
+    },
+    {
+      "name": "40-49",
+      "lootpage": "WSGRepExalted4049",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Exalted"
+    },
+    {
+      "name": "50-59",
+      "lootpage": "WSGRepExalted5059",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Exalted"
+    },
+    {
+      "name": "60",
+      "lootpage": "WSGRepExalted60",
+      "icon": "INV_Misc_Rune_07",
+      "extra": "Exalted"
+    },
+    {
+      "name": "Blood Ring",
+      "lootpage": "BRRepMenu",
+      "isHeader": true,
+      "icon": "inv_jewelry_ring_04"
+    },
+    {
+      "name": "Friendly Reputation Rewards",
+      "lootpage": "BRRepFriendly",
+      "icon": "inv_jewelry_ring_04"
+    },
+    {
+      "name": "Honored Reputation Rewards",
+      "lootpage": "BRRepHonored",
+      "icon": "inv_jewelry_ring_04"
+    },
+    {
+      "name": "Revered Reputation Rewards",
+      "lootpage": "BRRepRevered",
+      "icon": "inv_jewelry_ring_04"
+    },
+    {
+      "name": "Exalted Reputation Rewards",
+      "lootpage": "BRRepExalted",
+      "icon": "inv_jewelry_ring_04"
+    },
+    {
+      "name": "Token of Blood Rewards",
+      "lootpage": "BRRepTokens",
+      "icon": "inv_jewelry_talisman_04"
+    },
+    {
+      "name": "PvP Mounts",
+      "extra": "Rank 11",
+      "lootpage": "PvPMountsPvP",
+      "icon": "Ability_Mount_RidingHorse"
+    },
+    {
+      "name": "PvP Weapons",
+      "extra": "Rank 14",
+      "lootpage": "PVPWeapons1",
+      "icon": "INV_Sword_11"
+    }
+  ],
+  "worldBosses": [
+    {
+      "name": "Azuregos",
+      "extra": "Azshara",
+      "lootpage": "AAzuregos",
+      "icon": "INV_Misc_Head_Dragon_Blue"
+    },
+    {
+      "name": "Emeriss",
+      "extra": "Various Locations",
+      "lootpage": "DEmeriss",
+      "icon": "INV_Misc_Head_Dragon_Green"
+    },
+    {
+      "name": "Lethon",
+      "extra": "Various Locations",
+      "lootpage": "DLethon",
+      "icon": "INV_Misc_Head_Dragon_Green"
+    },
+    {
+      "name": "Taerar",
+      "extra": "Various Locations",
+      "lootpage": "DTaerar",
+      "icon": "INV_Misc_Head_Dragon_Green"
+    },
+    {
+      "name": "Ysondre",
+      "extra": "Various Locations",
+      "lootpage": "DYsondre",
+      "icon": "INV_Misc_Head_Dragon_Green"
+    },
+    {
+      "name": "Lord Kazzak",
+      "extra": "Blasted Lands",
+      "lootpage": "KKazzak",
+      "icon": "warlock_summon_doomguard"
+    },
+    {
+      "name": "Nerubian Overseer",
+      "extra": "Eastern Plaguelands",
+      "lootpage": "Nerubian",
+      "icon": "Spell_Nature_Web"
+    },
+    {
+      "name": "Dark Reaver of Karazhan",
+      "extra": "Deadwind Pass",
+      "lootpage": "Reaver",
+      "icon": "Ability_Mount_Dreadsteed"
+    },
+    {
+      "name": "Ostarius",
+      "extra": "Tanaris",
+      "lootpage": "Ostarius",
+      "icon": "INV_Misc_Platnumdisks"
+    },
+    {
+      "name": "Concavius",
+      "extra": "Desolace",
+      "lootpage": "Concavius",
+      "icon": "Spell_Shadow_SummonVoidWalker"
+    },
+    {
+      "name": "Moo",
+      "extra": "Moomoo Grove",
+      "lootpage": "CowKing",
+      "icon": "Spell_Nature_Polymorph_Cow"
+    },
+    {
+      "name": "Cla'ckora",
+      "extra": "Azshara",
+      "lootpage": "Clackora",
+      "icon": "INV_Misc_Birdbeck_02"
+    }
+  ],
+  "worldEvents": [
+    {
+      "name": "Abyssal Council",
+      "extra": "Silithus",
+      "lootpage": "AbyssalTemplars",
+      "icon": "INV_Staff_13"
+    },
+    {
+      "name": "Elemental Invasion",
+      "extra": "Various Locations",
+      "lootpage": "ElementalInvasion",
+      "icon": "Spell_Fire_Elemental_Totem"
+    },
+    {
+      "name": "Gurubashi Arena",
+      "extra": "Stranglethorn Vale",
+      "lootpage": "GurubashiArena",
+      "icon": "INV_Misc_ArmorKit_04"
+    },
+    {
+      "name": "Harvest Festival",
+      "extra": "Various Locations",
+      "lootpage": "HarvestFestival",
+      "icon": "INV_Misc_Food_Wheat_01"
+    },
+    {
+      "name": "Lunar Festival",
+      "extra": "Various Locations",
+      "lootpage": "LunarFestival1",
+      "icon": "INV_Misc_ElvenCoins"
+    },
+    {
+      "name": "Noblegarden",
+      "extra": "Various Locations",
+      "lootpage": "Noblegarden",
+      "icon": "INV_Egg_03"
+    },
+    {
+      "name": "Stranglethorn Fishing Extravaganza",
+      "extra": "Stranglethorn Vale",
+      "lootpage": "FishingExtravaganza",
+      "icon": "INV_Fishingpole_01"
+    },
+    {
+      "name": "Children's Week",
+      "extra": "Various Locations",
+      "lootpage": "ChildrensWeek",
+      "icon": "Ability_Hunter_BeastCall"
+    },
+    {
+      "name": "Feast of Winter Veil",
+      "extra": "Various Locations",
+      "lootpage": "Winterviel1",
+      "icon": "INV_Holiday_Christmas_Present_01"
+    },
+    {
+      "name": "Hallow's End",
+      "extra": "Various Locations",
+      "lootpage": "Halloween1",
+      "icon": "INV_Misc_Food_59"
+    },
+    {
+      "name": "Love is in the Air",
+      "extra": "Various Locations",
+      "lootpage": "Valentineday",
+      "icon": "INV_ValentinesBoxOfChocolates02"
+    },
+    {
+      "name": "Midsummer Fire Festival",
+      "extra": "Various Locations",
+      "lootpage": "MidsummerFestival",
+      "icon": "INV_SummerFest_Symbol_Medium"
+    },
+    {
+      "name": "Scourge Invasion",
+      "extra": "Various Locations",
+      "lootpage": "ScourgeInvasionEvent1",
+      "icon": "INV_Jewelry_Talisman_13"
+    }
+  ]
+}

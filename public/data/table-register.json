@@ -1,0 +1,4006 @@
+{
+  "VanillaKeys": {
+    "title": "Keys",
+    "source": "AtlasLootItems"
+  },
+  "FMHTansha": {
+    "title": "Frostmane Hollow - Tan'sha the Sleek",
+    "source": "AtlasLootItems"
+  },
+  "FMHKanza": {
+    "title": "Frostmane Hollow - Kan'za the Seer",
+    "source": "AtlasLootItems"
+  },
+  "FMHBattlemaster": {
+    "title": "Frostmane Hollow - Battlemaster Ubukaz",
+    "source": "AtlasLootItems"
+  },
+  "FMHHailar": {
+    "title": "Frostmane Hollow - Hailar the Frigid",
+    "source": "AtlasLootItems"
+  },
+  "WHCPathun": {
+    "title": "Windhorn Canyon - Pathun Duskhide",
+    "source": "AtlasLootItems"
+  },
+  "WHCAhgktos": {
+    "title": "Windhorn Canyon - Ahgk'tos the Pure",
+    "source": "AtlasLootItems"
+  },
+  "WHCAmbassador": {
+    "title": "Windhorn Canyon - Ambassador Vortalus",
+    "source": "AtlasLootItems"
+  },
+  "WHCWalgan": {
+    "title": "Windhorn Canyon - Walgan Bloodcaller",
+    "source": "AtlasLootItems"
+  },
+  "WHCBonespeaker": {
+    "title": "Windhorn Canyon - Bonespeaker Narlgom",
+    "source": "AtlasLootItems"
+  },
+  "WHCProphet": {
+    "title": "Windhorn Canyon - Prophet Stormhoof",
+    "source": "AtlasLootItems"
+  },
+  "WHCChieftan": {
+    "title": "Windhorn Canyon - Chieftain Shalk Blackwind",
+    "source": "AtlasLootItems"
+  },
+  "BFDGhamoora": {
+    "title": "Blackfathom Deeps - Ghamoo-ra",
+    "source": "AtlasLootItems"
+  },
+  "BFDLadySarevess": {
+    "title": "Blackfathom Deeps - Lady Sarevess",
+    "source": "AtlasLootItems"
+  },
+  "BFDGelihast": {
+    "title": "Blackfathom Deeps - Gelihast",
+    "source": "AtlasLootItems"
+  },
+  "BFDBaronAquanis": {
+    "title": "Blackfathom Deeps - Baron Aquanis",
+    "source": "AtlasLootItems"
+  },
+  "BFDVelthelaxx": {
+    "title": "Blackfathom Deeps - Velthelaxx the Defiler",
+    "source": "AtlasLootItems"
+  },
+  "BFDTwilightLordKelris": {
+    "title": "Blackfathom Deeps - Twilight Lord Kelris",
+    "source": "AtlasLootItems"
+  },
+  "BFDOldSerrakis": {
+    "title": "Blackfathom Deeps - Old Serra'kis",
+    "source": "AtlasLootItems"
+  },
+  "BFDAkumai": {
+    "title": "Blackfathom Deeps - Aku'mai",
+    "source": "AtlasLootItems"
+  },
+  "BFDTrash": {
+    "title": "Blackfathom Deeps - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "BRMScarshieldQuartermaster": {
+    "title": "Scarshield Quartermaster",
+    "source": "AtlasLootItems"
+  },
+  "BRDPyron": {
+    "title": "Blackrock Depths - Overmaster Pyron",
+    "source": "AtlasLootItems"
+  },
+  "BRDLordRoccor": {
+    "title": "Blackrock Depths - Lord Roccor",
+    "source": "AtlasLootItems"
+  },
+  "BRDHighInterrogatorGerstahn": {
+    "title": "Blackrock Depths - High Interrogator Gerstahn",
+    "source": "AtlasLootItems"
+  },
+  "BRDAnubshiah": {
+    "title": "Blackrock Depths - Anub'shiah",
+    "source": "AtlasLootItems"
+  },
+  "BRDEviscerator": {
+    "title": "Blackrock Depths - Eviscerator",
+    "source": "AtlasLootItems"
+  },
+  "BRDGorosh": {
+    "title": "Blackrock Depths - Gorosh the Dervish",
+    "source": "AtlasLootItems"
+  },
+  "BRDGrizzle": {
+    "title": "Blackrock Depths - Grizzle",
+    "source": "AtlasLootItems"
+  },
+  "BRDHedrum": {
+    "title": "Blackrock Depths - Hedrum the Creeper",
+    "source": "AtlasLootItems"
+  },
+  "BRDOkthor": {
+    "title": "Blackrock Depths - Ok'thor the Breaker",
+    "source": "AtlasLootItems"
+  },
+  "BRDTheldren": {
+    "title": "Blackrock Depths - Theldren",
+    "source": "AtlasLootItems"
+  },
+  "BRDHoundmaster": {
+    "title": "Blackrock Depths - Houndmaster Grebmar",
+    "source": "AtlasLootItems"
+  },
+  "BRDForgewright": {
+    "title": "Blackrock Depths - Monument of Franclorn Forgewright",
+    "source": "AtlasLootItems"
+  },
+  "BRDPyromancerLoregrain": {
+    "title": "Blackrock Depths - Pyromancer Loregrain (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "BRDTheVault": {
+    "title": "Blackrock Depths - The Vault",
+    "source": "AtlasLootItems"
+  },
+  "BRDWarderStilgiss": {
+    "title": "Blackrock Depths - Warder Stilgiss (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "BRDVerek": {
+    "title": "Blackrock Depths - Verek (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "BRDFineousDarkvire": {
+    "title": "Blackrock Depths - Fineous Darkvire",
+    "source": "AtlasLootItems"
+  },
+  "BRDLordIncendius": {
+    "title": "Blackrock Depths - Lord Incendius",
+    "source": "AtlasLootItems"
+  },
+  "BRDBaelGar": {
+    "title": "Blackrock Depths - Bael'Gar",
+    "source": "AtlasLootItems"
+  },
+  "BRDGeneralAngerforge": {
+    "title": "Blackrock Depths - General Angerforge",
+    "source": "AtlasLootItems"
+  },
+  "BRDGolemLordArgelmach": {
+    "title": "Blackrock Depths - Golem Lord Argelmach",
+    "source": "AtlasLootItems"
+  },
+  "BRDGuzzler": {
+    "title": "Blackrock Depths - The Grim Guzzler",
+    "source": "AtlasLootItems"
+  },
+  "BRDFlamelash": {
+    "title": "Blackrock Depths - Ambassador Flamelash",
+    "source": "AtlasLootItems"
+  },
+  "BRDPanzor": {
+    "title": "Blackrock Depths - Panzor the Invincible (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "BRDTomb": {
+    "title": "Blackrock Depths - Summoner's Tomb",
+    "source": "AtlasLootItems"
+  },
+  "BRDLyceum": {
+    "title": "Blackrock Depths - Shadowforge Flame Keeper",
+    "source": "AtlasLootItems"
+  },
+  "BRDMagmus": {
+    "title": "Blackrock Depths - Magmus",
+    "source": "AtlasLootItems"
+  },
+  "BRDPrincess": {
+    "title": "Blackrock Depths - Princess Moira Bronzebeard",
+    "source": "AtlasLootItems"
+  },
+  "BRDEmperorDagranThaurissan": {
+    "title": "Blackrock Depths - Emperor Dagran Thaurissan",
+    "source": "AtlasLootItems"
+  },
+  "BRDBSPlans": {
+    "title": "Blackrock Depths - Blacksmithing Plans",
+    "source": "AtlasLootItems"
+  },
+  "BRDTrash": {
+    "title": "Blackrock Depths - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "LBRSSpirestoneButcher": {
+    "title": "Lower Blackrock Spire - Spirestone Butcher (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSPike": {
+    "title": "Lower Blackrock Spire - Roughshod Pike",
+    "source": "AtlasLootItems"
+  },
+  "LBRSOmokk": {
+    "title": "Lower Blackrock Spire - Highlord Omokk",
+    "source": "AtlasLootItems"
+  },
+  "LBRSSpirestoneBattleLord": {
+    "title": "Lower Blackrock Spire - Spirestone Battle Lord (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSSpirestoneLordMagus": {
+    "title": "Lower Blackrock Spire - Spirestone Lord Magus (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSVosh": {
+    "title": "Lower Blackrock Spire - Shadow Hunter Vosh'gajin",
+    "source": "AtlasLootItems"
+  },
+  "LBRSVoone": {
+    "title": "Lower Blackrock Spire - War Master Voone",
+    "source": "AtlasLootItems"
+  },
+  "LBRSGrayhoof": {
+    "title": "Lower Blackrock Spire - Mor Grayhoof (Summon)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSGrimaxe": {
+    "title": "Lower Blackrock Spire - Bannok Grimaxe (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSSmolderweb": {
+    "title": "Lower Blackrock Spire - Mother Smolderweb",
+    "source": "AtlasLootItems"
+  },
+  "LBRSCrystalFang": {
+    "title": "Lower Blackrock Spire - Crystal Fang (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSHumanRemains": {
+    "title": "Lower Blackrock Spire - Human Remains",
+    "source": "AtlasLootItems"
+  },
+  "LBRSDoomhowl": {
+    "title": "Lower Blackrock Spire - Urok Doomhowl (Summon)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSZigris": {
+    "title": "Lower Blackrock Spire - Quartermaster Zigris",
+    "source": "AtlasLootItems"
+  },
+  "LBRSHalycon": {
+    "title": "Lower Blackrock Spire - Halycon",
+    "source": "AtlasLootItems"
+  },
+  "LBRSSlavener": {
+    "title": "Lower Blackrock Spire - Gizrul the Slavener",
+    "source": "AtlasLootItems"
+  },
+  "LBRSBashguud": {
+    "title": "Lower Blackrock Spire - Ghok Bashguud (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSWyrmthalak": {
+    "title": "Lower Blackrock Spire - Overlord Wyrmthalak",
+    "source": "AtlasLootItems"
+  },
+  "LBRSFelguard": {
+    "title": "Lower Blackrock Spire - Burning Felguard (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "LBRSTrash": {
+    "title": "Lower Blackrock Spire - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "UBRSEmberseer": {
+    "title": "Upper Blackrock Spire - Pyroguard Emberseer",
+    "source": "AtlasLootItems"
+  },
+  "UBRSSolakar": {
+    "title": "Upper Blackrock Spire - Solakar Flamewreath",
+    "source": "AtlasLootItems"
+  },
+  "UBRSFlame": {
+    "title": "Upper Blackrock Spire - Father Flame",
+    "source": "AtlasLootItems"
+  },
+  "UBRSRunewatcher": {
+    "title": "Upper Blackrock Spire - Jed Runewatcher (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "UBRSAnvilcrack": {
+    "title": "Upper Blackrock Spire - Goraluk Anvilcrack (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "UBRSRend": {
+    "title": "Upper Blackrock Spire - Warchief Rend Blackhand",
+    "source": "AtlasLootItems"
+  },
+  "UBRSGyth": {
+    "title": "Upper Blackrock Spire - Gyth",
+    "source": "AtlasLootItems"
+  },
+  "UBRSBeast": {
+    "title": "Upper Blackrock Spire - The Beast",
+    "source": "AtlasLootItems"
+  },
+  "UBRSValthalak": {
+    "title": "Upper Blackrock Spire - Lord Valthalak (Summon)",
+    "source": "AtlasLootItems"
+  },
+  "UBRSDrakkisath": {
+    "title": "Upper Blackrock Spire - General Drakkisath",
+    "source": "AtlasLootItems"
+  },
+  "UBRSTrash": {
+    "title": "Upper Blackrock Spire - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "BWLRazorgore": {
+    "title": "Blackwing Lair - Razorgore the Untamed",
+    "source": "AtlasLootItems"
+  },
+  "BWLVaelastrasz": {
+    "title": "Blackwing Lair - Vaelastrasz the Corrupt",
+    "source": "AtlasLootItems"
+  },
+  "BWLLashlayer": {
+    "title": "Blackwing Lair - Broodlord Lashlayer",
+    "source": "AtlasLootItems"
+  },
+  "BWLFiremaw": {
+    "title": "Blackwing Lair - Firemaw",
+    "source": "AtlasLootItems"
+  },
+  "BWLEzzel": {
+    "title": "Blackwing Lair - Ezzel Darkbrewer",
+    "source": "AtlasLootItems"
+  },
+  "BWLEbonroc": {
+    "title": "Blackwing Lair - Ebonroc",
+    "source": "AtlasLootItems"
+  },
+  "BWLFlamegor": {
+    "title": "Blackwing Lair - Flamegor",
+    "source": "AtlasLootItems"
+  },
+  "BWLChromaggus": {
+    "title": "Blackwing Lair - Chromaggus",
+    "source": "AtlasLootItems"
+  },
+  "BWLNefarian": {
+    "title": "Blackwing Lair - Nefarian",
+    "source": "AtlasLootItems"
+  },
+  "BWLTrashMobs": {
+    "title": "Blackwing Lair - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMJaredVoss": {
+    "title": "The Deadmines - Jared Voss",
+    "source": "AtlasLootItems"
+  },
+  "DMMarisaduPaige": {
+    "title": "The Deadmines - Marisa du'Paige (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "DMBrainwashedNoble": {
+    "title": "The Deadmines - Brainwashed Noble (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "DMForemanThistlenettle": {
+    "title": "The Deadmines - Foreman Thistlenettle",
+    "source": "AtlasLootItems"
+  },
+  "DMRhahkZor": {
+    "title": "The Deadmines - Rhahk'Zor",
+    "source": "AtlasLootItems"
+  },
+  "DMMinerJohnson": {
+    "title": "The Deadmines - Miner Johnson (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "DMSneed": {
+    "title": "The Deadmines - Sneed",
+    "source": "AtlasLootItems"
+  },
+  "DMSneedsShredder": {
+    "title": "The Deadmines - Sneed's Shredder",
+    "source": "AtlasLootItems"
+  },
+  "DMGilnid": {
+    "title": "The Deadmines - Gilnid",
+    "source": "AtlasLootItems"
+  },
+  "DMHarvester": {
+    "title": "The Deadmines - Masterpiece Harvester",
+    "source": "AtlasLootItems"
+  },
+  "DMDefiasGunpowder": {
+    "title": "The Deadmines - Defias Gunpowder",
+    "source": "AtlasLootItems"
+  },
+  "DMMrSmite": {
+    "title": "The Deadmines - Mr. Smite",
+    "source": "AtlasLootItems"
+  },
+  "DMCookie": {
+    "title": "The Deadmines - Cookie",
+    "source": "AtlasLootItems"
+  },
+  "DMCaptainGreenskin": {
+    "title": "The Deadmines - Captain Greenskin",
+    "source": "AtlasLootItems"
+  },
+  "DMVanCleef": {
+    "title": "The Deadmines - Edwin VanCleef",
+    "source": "AtlasLootItems"
+  },
+  "DMTrash": {
+    "title": "The Deadmines - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMEPusillin": {
+    "title": "Dire Maul (East) - Pusillin",
+    "source": "AtlasLootItems"
+  },
+  "DMEZevrimThornhoof": {
+    "title": "Dire Maul (East) - Zevrim Thornhoof",
+    "source": "AtlasLootItems"
+  },
+  "DMEHydro": {
+    "title": "Dire Maul (East) - Hydrospawn",
+    "source": "AtlasLootItems"
+  },
+  "DMELethtendris": {
+    "title": "Dire Maul (East) - Lethtendris",
+    "source": "AtlasLootItems"
+  },
+  "DMEPimgib": {
+    "title": "Dire Maul (East) - Pimgib",
+    "source": "AtlasLootItems"
+  },
+  "DMEAlzzin": {
+    "title": "Dire Maul (East) - Alzzin the Wildshaper",
+    "source": "AtlasLootItems"
+  },
+  "DMEIsalien": {
+    "title": "Dire Maul (East) - Isalien",
+    "source": "AtlasLootItems"
+  },
+  "DMETrash": {
+    "title": "Dire Maul (East) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMEShard": {
+    "title": "Dire Maul (East) - Felvine Shard",
+    "source": "AtlasLootItems"
+  },
+  "DMTome": {
+    "title": "Dire Maul - A Dusty Tome",
+    "source": "AtlasLootItems"
+  },
+  "DMEBooks": {
+    "title": "Dire Maul Books",
+    "source": "AtlasLootItems"
+  },
+  "DMNGuardMoldar": {
+    "title": "Dire Maul (North) - Guard Mol'dar/Guard Slip'kik",
+    "source": "AtlasLootItems"
+  },
+  "DMNStomperKreeg": {
+    "title": "Dire Maul (North) - Stomper Kreeg",
+    "source": "AtlasLootItems"
+  },
+  "DMNGuardFengus": {
+    "title": "Dire Maul (North) - Guard Fengus",
+    "source": "AtlasLootItems"
+  },
+  "DMNThimblejack": {
+    "title": "Dire Maul (North) - Knot Thimblejack",
+    "source": "AtlasLootItems"
+  },
+  "DMNGuardSlipkik": {
+    "title": "Dire Maul (North) - Guard Slip'kik/Guard Mol'dar",
+    "source": "AtlasLootItems"
+  },
+  "DMNCaptainKromcrush": {
+    "title": "Dire Maul (North) - Captain Kromcrush",
+    "source": "AtlasLootItems"
+  },
+  "DMNChoRush": {
+    "title": "Dire Maul (North) - Cho'Rush the Observer",
+    "source": "AtlasLootItems"
+  },
+  "DMNKingGordok": {
+    "title": "Dire Maul (North) - King Gordok",
+    "source": "AtlasLootItems"
+  },
+  "DMNTrash": {
+    "title": "Dire Maul (North) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMNTRIBUTERUN": {
+    "title": "Dire Maul (North) - Tribute Chest",
+    "source": "AtlasLootItems"
+  },
+  "DMNBooks": {
+    "title": "Dire Maul Books",
+    "source": "AtlasLootItems"
+  },
+  "DMWTendrisWarpwood": {
+    "title": "Dire Maul (West) - Tendris Warpwood",
+    "source": "AtlasLootItems"
+  },
+  "DMWIllyannaRavenoak": {
+    "title": "Dire Maul (West) - Illyanna Ravenoak",
+    "source": "AtlasLootItems"
+  },
+  "DMWMagisterKalendris": {
+    "title": "Dire Maul (West) - Magister Kalendris",
+    "source": "AtlasLootItems"
+  },
+  "DMWTsuzee": {
+    "title": "Dire Maul (West) - Tsu'zee (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "DMWRevanchion": {
+    "title": "Dire Maul (West) - Revanchion (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "DMWImmolthar": {
+    "title": "Dire Maul (West) - Immol'thar",
+    "source": "AtlasLootItems"
+  },
+  "DMWHelnurath": {
+    "title": "Dire Maul (West) - Lord Hel'nurath (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "DMWPrinceTortheldrin": {
+    "title": "Dire Maul (West) - Prince Tortheldrin",
+    "source": "AtlasLootItems"
+  },
+  "DMWShendralarProvisioner": {
+    "title": "Dire Maul (West) - Shen'dralar Provisioner",
+    "source": "AtlasLootItems"
+  },
+  "DMWTrash": {
+    "title": "Dire Maul (West) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMWBooks": {
+    "title": "Dire Maul Books",
+    "source": "AtlasLootItems"
+  },
+  "GnNamdoBizzfizzle": {
+    "title": "Gnomeregan - Namdo Bizzfizzle",
+    "source": "AtlasLootItems"
+  },
+  "GnTechbot": {
+    "title": "Gnomeregan - Techbot",
+    "source": "AtlasLootItems"
+  },
+  "GnGrubbis": {
+    "title": "Gnomeregan - Grubbis",
+    "source": "AtlasLootItems"
+  },
+  "GnViscousFallout": {
+    "title": "Gnomeregan - Viscous Fallout",
+    "source": "AtlasLootItems"
+  },
+  "GnElectrocutioner6000": {
+    "title": "Gnomeregan - Electrocutioner 6000",
+    "source": "AtlasLootItems"
+  },
+  "GnCrowdPummeler960": {
+    "title": "Gnomeregan - Crowd Pummeler 9-60",
+    "source": "AtlasLootItems"
+  },
+  "GnDIAmbassador": {
+    "title": "Gnomeregan - Dark Iron Ambassador (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "GnMekgineerThermaplugg": {
+    "title": "Gnomeregan - Mekgineer Thermaplugg",
+    "source": "AtlasLootItems"
+  },
+  "GnTrash": {
+    "title": "Gnomeregan - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "GnOutsideTrash": {
+    "title": "Gnomeregan - Trash Mobs (Entrance)",
+    "source": "AtlasLootItems"
+  },
+  "GnPunchographA": {
+    "title": "Gnomeregan - Matrix Punchograph 3005-A",
+    "source": "AtlasLootItems"
+  },
+  "GnPunchographB": {
+    "title": "Gnomeregan - Matrix Punchograph 3005-B",
+    "source": "AtlasLootItems"
+  },
+  "GnPunchographC": {
+    "title": "Gnomeregan - Matrix Punchograph 3005-C",
+    "source": "AtlasLootItems"
+  },
+  "GnPunchographD": {
+    "title": "Gnomeregan - Matrix Punchograph 3005-D",
+    "source": "AtlasLootItems"
+  },
+  "MaraNamelesProphet": {
+    "title": "Maraudon - The Nameles Prophet",
+    "source": "AtlasLootItems"
+  },
+  "MaraKhanKolk": {
+    "title": "Maraudon - Kolk (The First Khan)",
+    "source": "AtlasLootItems"
+  },
+  "MaraKhanGelk": {
+    "title": "Maraudon - Gelk (The Second Khan)",
+    "source": "AtlasLootItems"
+  },
+  "MaraKhanMagra": {
+    "title": "Maraudon - Magra (The Third Khan)",
+    "source": "AtlasLootItems"
+  },
+  "MaraKhanVeng": {
+    "title": "Maraudon - Veng (The Fifth Khan)",
+    "source": "AtlasLootItems"
+  },
+  "MaraNoxxion": {
+    "title": "Maraudon - Noxxion",
+    "source": "AtlasLootItems"
+  },
+  "MaraRazorlash": {
+    "title": "Maraudon - Razorlash",
+    "source": "AtlasLootItems"
+  },
+  "MaraKhanMaraudos": {
+    "title": "Maraudon - Maraudos (The Forth Khan)",
+    "source": "AtlasLootItems"
+  },
+  "MaraLordVyletongue": {
+    "title": "Maraudon - Lord Vyletongue",
+    "source": "AtlasLootItems"
+  },
+  "MaraMeshlok": {
+    "title": "Maraudon - Meshlok the Harvester (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "MaraCelebras": {
+    "title": "Maraudon - Celebras the Cursed",
+    "source": "AtlasLootItems"
+  },
+  "MaraLandslide": {
+    "title": "Maraudon - Landslide",
+    "source": "AtlasLootItems"
+  },
+  "MaraTinkererGizlock": {
+    "title": "Maraudon - Tinkerer Gizlock",
+    "source": "AtlasLootItems"
+  },
+  "MaraRotgrip": {
+    "title": "Maraudon - Rotgrip",
+    "source": "AtlasLootItems"
+  },
+  "MaraPrincessTheradras": {
+    "title": "Maraudon - Princess Theradras",
+    "source": "AtlasLootItems"
+  },
+  "MaraTrash": {
+    "title": "Maraudon - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "MCIncindis": {
+    "title": "Molten Core - Incindis",
+    "source": "AtlasLootItems"
+  },
+  "MCLucifron": {
+    "title": "Molten Core - Lucifron",
+    "source": "AtlasLootItems"
+  },
+  "MCMagmadar": {
+    "title": "Molten Core - Magmadar",
+    "source": "AtlasLootItems"
+  },
+  "MCGehennas": {
+    "title": "Molten Core - Gehennas",
+    "source": "AtlasLootItems"
+  },
+  "MCGarr": {
+    "title": "Molten Core - Garr",
+    "source": "AtlasLootItems"
+  },
+  "MCShazzrah": {
+    "title": "Molten Core - Shazzrah",
+    "source": "AtlasLootItems"
+  },
+  "MCGeddon": {
+    "title": "Molten Core - Baron Geddon",
+    "source": "AtlasLootItems"
+  },
+  "MCGolemagg": {
+    "title": "Molten Core - Golemagg the Incinerator",
+    "source": "AtlasLootItems"
+  },
+  "MCTwins": {
+    "title": "Molten Core - Basalthar & Smoldaris",
+    "source": "AtlasLootItems"
+  },
+  "MCThaurissan": {
+    "title": "Molten Core - Sorcerer-Thane Thaurissan",
+    "source": "AtlasLootItems"
+  },
+  "MCSulfuron": {
+    "title": "Molten Core - Sulfuron Harbinger",
+    "source": "AtlasLootItems"
+  },
+  "MCMajordomo": {
+    "title": "Molten Core - Majordomo Executus",
+    "source": "AtlasLootItems"
+  },
+  "MCRagnaros": {
+    "title": "Molten Core - Ragnaros",
+    "source": "AtlasLootItems"
+  },
+  "MCRANDOMBOSSDROPS": {
+    "title": "Molten Core - Random Boss Loot",
+    "source": "AtlasLootItems"
+  },
+  "MCTrashMobs": {
+    "title": "Molten Core - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "NAXPatchwerk": {
+    "title": "Naxxramas - Patchwerk",
+    "source": "AtlasLootItems"
+  },
+  "NAXGrobbulus": {
+    "title": "Naxxramas - Grobbulus",
+    "source": "AtlasLootItems"
+  },
+  "NAXGluth": {
+    "title": "Naxxramas - Gluth",
+    "source": "AtlasLootItems"
+  },
+  "NAXThaddius": {
+    "title": "Naxxramas - Thaddius",
+    "source": "AtlasLootItems"
+  },
+  "NAXAnubRekhan": {
+    "title": "Naxxramas - Anub'Rekhan",
+    "source": "AtlasLootItems"
+  },
+  "NAXGrandWidowFaerlina": {
+    "title": "Naxxramas - Grand Widow Faerlina",
+    "source": "AtlasLootItems"
+  },
+  "NAXMaexxna": {
+    "title": "Naxxramas - Maexxna",
+    "source": "AtlasLootItems"
+  },
+  "NAXInstructorRazuvious": {
+    "title": "Naxxramas - Instructor Razuvious",
+    "source": "AtlasLootItems"
+  },
+  "NAXGothiktheHarvester": {
+    "title": "Naxxramas - Gothik the Harvester",
+    "source": "AtlasLootItems"
+  },
+  "NAXTheFourHorsemen": {
+    "title": "Naxxramas - The Four Horsemen",
+    "source": "AtlasLootItems"
+  },
+  "NAXNoththePlaguebringer": {
+    "title": "Naxxramas - Noth the Plaguebringer",
+    "source": "AtlasLootItems"
+  },
+  "NAXHeigantheUnclean": {
+    "title": "Naxxramas - Heigan the Unclean",
+    "source": "AtlasLootItems"
+  },
+  "NAXLoatheb": {
+    "title": "Naxxramas - Loatheb",
+    "source": "AtlasLootItems"
+  },
+  "NAXSapphiron": {
+    "title": "Naxxramas - Sapphiron",
+    "source": "AtlasLootItems"
+  },
+  "NAXKelThuzard": {
+    "title": "Naxxramas - Kel'Thuzad",
+    "source": "AtlasLootItems"
+  },
+  "NAXTrash": {
+    "title": "Naxxramas - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "Axelus": {
+    "title": "Onyxia's Lair - Broodcommander Axelus",
+    "source": "AtlasLootItems"
+  },
+  "Onyxia": {
+    "title": "Onyxia's Lair - Onyxia",
+    "source": "AtlasLootItems"
+  },
+  "RFCBazzalan": {
+    "title": "Ragefire Chasm - Bazzalan",
+    "source": "AtlasLootItems"
+  },
+  "RFCOggleflint": {
+    "title": "Ragefire Chasm - Oggleflint",
+    "source": "AtlasLootItems"
+  },
+  "RFCTaragaman": {
+    "title": "Ragefire Chasm - Taragaman the Hungerer",
+    "source": "AtlasLootItems"
+  },
+  "RFCJergosh": {
+    "title": "Ragefire Chasm - Jergosh the Invoker",
+    "source": "AtlasLootItems"
+  },
+  "RFDTutenkash": {
+    "title": "Razorfen Downs - Tuten'kash",
+    "source": "AtlasLootItems"
+  },
+  "RFDHenryStern": {
+    "title": "Razorfen Downs - Henry Stern",
+    "source": "AtlasLootItems"
+  },
+  "RFDLadyF": {
+    "title": "Razorfen Downs - Lady Falther'ess (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "RFDMordreshFireEye": {
+    "title": "Razorfen Downs - Mordresh Fire Eye",
+    "source": "AtlasLootItems"
+  },
+  "RFDGlutton": {
+    "title": "Razorfen Downs - Glutton",
+    "source": "AtlasLootItems"
+  },
+  "RFDDeathProphet": {
+    "title": "Razorfen Downs - Death Prophet Rakameg",
+    "source": "AtlasLootItems"
+  },
+  "RFDRagglesnout": {
+    "title": "Razorfen Downs - Ragglesnout (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "RFDAmnennar": {
+    "title": "Razorfen Downs - Amnennar the Coldbringer",
+    "source": "AtlasLootItems"
+  },
+  "RFDPlaguemaw": {
+    "title": "Razorfen Downs - Plaguemaw the Rotting",
+    "source": "AtlasLootItems"
+  },
+  "RFDTrash": {
+    "title": "Razorfen Downs - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "RFKAggem": {
+    "title": "Razorfen Kraul - Aggem Thorncurse",
+    "source": "AtlasLootItems"
+  },
+  "RFKDeathSpeakerJargba": {
+    "title": "Razorfen Kraul - Death Speaker Jargba",
+    "source": "AtlasLootItems"
+  },
+  "RFKRazorfenSpearhide": {
+    "title": "Razorfen Kraul - Razorfen Spearhide (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "RFKOverlordRamtusk": {
+    "title": "Razorfen Kraul - Overlord Ramtusk",
+    "source": "AtlasLootItems"
+  },
+  "RFKAgathelos": {
+    "title": "Razorfen Kraul - Agathelos the Raging",
+    "source": "AtlasLootItems"
+  },
+  "RFKBlindHunter": {
+    "title": "Razorfen Kraul - Blind Hunter (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "RFKCharlgaRazorflank": {
+    "title": "Razorfen Kraul - Charlga Razorflank",
+    "source": "AtlasLootItems"
+  },
+  "RFKEarthcallerHalmgar": {
+    "title": "Razorfen Kraul - Earthcaller Halmgar (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "RFKRotthorn": {
+    "title": "Razorfen Kraul - Rotthorn",
+    "source": "AtlasLootItems"
+  },
+  "RFKTrash": {
+    "title": "Razorfen Kraul - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Kurinnaxx": {
+    "title": "Ruins of Ahn'Qiraj - Kurinnaxx",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Andorov": {
+    "title": "Ruins of Ahn'Qiraj - Lieutenant General Andorov",
+    "source": "AtlasLootItems"
+  },
+  "AQ20CAPTAIN": {
+    "title": "Ruins of Ahn'Qiraj - Rajaxx's Captains",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Rajaxx": {
+    "title": "Ruins of Ahn'Qiraj - General Rajaxx",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Moam": {
+    "title": "Ruins of Ahn'Qiraj - Moam",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Buru": {
+    "title": "Ruins of Ahn'Qiraj - Buru the Gorger",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Ayamiss": {
+    "title": "Ruins of Ahn'Qiraj - Ayamiss the Hunter",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Ossirian": {
+    "title": "Ruins of Ahn'Qiraj - Ossirian the Unscarred",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Trash": {
+    "title": "Ruins of Ahn'Qiraj - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "AQ20ClassBooks": {
+    "title": "Ruins of Ahn'Qiraj - Class Books",
+    "source": "AtlasLootItems"
+  },
+  "AQ20Enchants": {
+    "title": "Ruins of Ahn'Qiraj - Enchants",
+    "source": "AtlasLootItems"
+  },
+  "SMHerod": {
+    "title": "Scarlet Monastery (Armory) - Herod",
+    "source": "AtlasLootItems"
+  },
+  "SMQuartermaster": {
+    "title": "Scarlet Monastery (Armory) - Armory Quartermaster Daghelm",
+    "source": "AtlasLootItems"
+  },
+  "SMATrash": {
+    "title": "Scarlet Monastery (Armory) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SMFairbanks": {
+    "title": "Scarlet Monastery (Cathedral) - High Inquisitor Fairbanks",
+    "source": "AtlasLootItems"
+  },
+  "SMMograine": {
+    "title": "Scarlet Monastery (Cathedral) - Scarlet Commander Mograine",
+    "source": "AtlasLootItems"
+  },
+  "SMWhitemane": {
+    "title": "Scarlet Monastery (Cathedral) - High Inquisitor Whitemane",
+    "source": "AtlasLootItems"
+  },
+  "SMCTrash": {
+    "title": "Scarlet Monastery (Cathedral) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SMVishas": {
+    "title": "Scarlet Monastery (Graveyard) - Interrogator Vishas",
+    "source": "AtlasLootItems"
+  },
+  "SMDukeDreadmoore": {
+    "title": "Scarlet Monastery (Graveyard) - Duke Dreadmoore",
+    "source": "AtlasLootItems"
+  },
+  "SMScorn": {
+    "title": "Scarlet Monastery (Graveyard) - Scorn (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "SMIronspine": {
+    "title": "Scarlet Monastery (Graveyard) - Ironspine (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "SMAzshir": {
+    "title": "Scarlet Monastery (Graveyard) - Azshir the Sleepless (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "SMFallenChampion": {
+    "title": "Scarlet Monastery (Graveyard) - Fallen Champion (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "SMBloodmageThalnos": {
+    "title": "Scarlet Monastery (Graveyard) - Bloodmage Thalnos",
+    "source": "AtlasLootItems"
+  },
+  "SMGTrash": {
+    "title": "Scarlet Monastery (Graveyard) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SMHoundmasterLoksey": {
+    "title": "Scarlet Monastery (Library) - Houndmaster Loksey",
+    "source": "AtlasLootItems"
+  },
+  "SMBrotherWystan": {
+    "title": "Scarlet Monastery (Library) - Brother Wystan",
+    "source": "AtlasLootItems"
+  },
+  "SMDoan": {
+    "title": "Scarlet Monastery (Library) - Arcanist Doan",
+    "source": "AtlasLootItems"
+  },
+  "SMDoansBox": {
+    "title": "Scarlet Monastery (Library) - Doan's Strongbox",
+    "source": "AtlasLootItems"
+  },
+  "SMLTrash": {
+    "title": "Scarlet Monastery (Library) - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOBlood": {
+    "title": "Scholomance - Blood Steward of Kirtonos",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOKirtonostheHerald": {
+    "title": "Scholomance - Scholomance - Kirtonos the Herald",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOJandiceBarov": {
+    "title": "Scholomance - Jandice Barov",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOLordBlackwood": {
+    "title": "Scholomance - Lord Blackwood (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLORattlegore": {
+    "title": "Scholomance - Rattlegore",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLODeathKnight": {
+    "title": "Scholomance - Death Knight Darkreaver",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOMarduk": {
+    "title": "Scholomance - Marduk Blackpool",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOVectus": {
+    "title": "Scholomance - Vectus",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLORasFrostwhisper": {
+    "title": "Scholomance - Ras Frostwhisper",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOKormok": {
+    "title": "Scholomance - Kormok",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOInstructorMalicia": {
+    "title": "Scholomance - Instructor Malicia",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLODoctorTheolenKrastinov": {
+    "title": "Scholomance - Doctor Theolen Krastinov",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOLorekeeperPolkelt": {
+    "title": "Scholomance - Lorekeeper Polkelt",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOTheRavenian": {
+    "title": "Scholomance - The Ravenian",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOLordAlexeiBarov": {
+    "title": "Scholomance - Lord Alexei Barov",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOLadyIlluciaBarov": {
+    "title": "Scholomance - Lady Illucia Barov",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLODarkmasterGandling": {
+    "title": "Scholomance - Darkmaster Gandling",
+    "source": "AtlasLootItems"
+  },
+  "SCHOLOTrash": {
+    "title": "Scholomance - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SFKRethilgore": {
+    "title": "Shadowfang Keep - Rethilgore",
+    "source": "AtlasLootItems"
+  },
+  "SFKFelSteed": {
+    "title": "Shadowfang Keep - Fel Steed",
+    "source": "AtlasLootItems"
+  },
+  "SFKJordansHammer": {
+    "title": "Shadowfang Keep - Jordan's Hammer",
+    "source": "AtlasLootItems"
+  },
+  "SFKRazorclawtheButcher": {
+    "title": "Shadowfang Keep - Razorclaw the Butcher",
+    "source": "AtlasLootItems"
+  },
+  "SFKSilverlaine": {
+    "title": "Shadowfang Keep - Baron Silverlaine",
+    "source": "AtlasLootItems"
+  },
+  "SFKSpringvale": {
+    "title": "Shadowfang Keep - Commander Springvale",
+    "source": "AtlasLootItems"
+  },
+  "SFKSever": {
+    "title": "Shadowfang Keep - Sever (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "SFKOdotheBlindwatcher": {
+    "title": "Shadowfang Keep - Odo the Blindwatcher",
+    "source": "AtlasLootItems"
+  },
+  "SFKFenrustheDevourer": {
+    "title": "Shadowfang Keep - Fenrus the Devourer",
+    "source": "AtlasLootItems"
+  },
+  "SFKBookofUr": {
+    "title": "Shadowfang Keep - The Book of Ur",
+    "source": "AtlasLootItems"
+  },
+  "SFKArugalsVoidwalker": {
+    "title": "Shadowfang Keep - Arugal's Voidwalker",
+    "source": "AtlasLootItems"
+  },
+  "SFKWolfMasterNandos": {
+    "title": "Shadowfang Keep - Wolf Master Nandos",
+    "source": "AtlasLootItems"
+  },
+  "SFKArchmageArugal": {
+    "title": "Shadowfang Keep - Archmage Arugal",
+    "source": "AtlasLootItems"
+  },
+  "SFKDeathswornCaptain": {
+    "title": "Shadowfang Keep - Deathsworn Captain (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "SFKPrelate": {
+    "title": "Shadowfang Keep - Prelate Ironmane",
+    "source": "AtlasLootItems"
+  },
+  "SFKTrash": {
+    "title": "Shadowfang Keep - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SWStTargorr": {
+    "title": "The Stockade - Targorr the Dread",
+    "source": "AtlasLootItems"
+  },
+  "SWStKamDeepfury": {
+    "title": "The Stockade - Kam Deepfury",
+    "source": "AtlasLootItems"
+  },
+  "SWStHamhock": {
+    "title": "The Stockade - Hamhock",
+    "source": "AtlasLootItems"
+  },
+  "SWStDextren": {
+    "title": "The Stockade - Dextren Ward",
+    "source": "AtlasLootItems"
+  },
+  "SWStBazil": {
+    "title": "The Stockade - Bazil Thredd",
+    "source": "AtlasLootItems"
+  },
+  "SWStBruegalIronknuckle": {
+    "title": "The Stockade - Bruegal Ironknuckle (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "SWStTrash": {
+    "title": "The Stockade - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "STRATSkull": {
+    "title": "Stratholme - Skul (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "STRATStratholmeCourier": {
+    "title": "Stratholme - Stratholme Courier",
+    "source": "AtlasLootItems"
+  },
+  "STRATPostmaster": {
+    "title": "Stratholme - Postmaster Malown",
+    "source": "AtlasLootItems"
+  },
+  "STRATFrasSiabi": {
+    "title": "Stratholme - Fras Siabi",
+    "source": "AtlasLootItems"
+  },
+  "STRATAtiesh": {
+    "title": "Stratholme - Atiesh",
+    "source": "AtlasLootItems"
+  },
+  "STRATBalzaphon": {
+    "title": "Stratholme - Balzaphon (Scourge Invasion)",
+    "source": "AtlasLootItems"
+  },
+  "STRATHearthsingerForresten": {
+    "title": "Stratholme - Hearthsinger Forresten (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "STRATTheUnforgiven": {
+    "title": "Stratholme - The Unforgiven",
+    "source": "AtlasLootItems"
+  },
+  "STRATTimmytheCruel": {
+    "title": "Stratholme - Timmy the Cruel",
+    "source": "AtlasLootItems"
+  },
+  "STRATMalor": {
+    "title": "Stratholme - Malor the Zealous",
+    "source": "AtlasLootItems"
+  },
+  "STRATMalorsStrongbox": {
+    "title": "Stratholme - Malor's Strongbox",
+    "source": "AtlasLootItems"
+  },
+  "STRATCrimsonHammersmith": {
+    "title": "Stratholme - Crimson Hammersmith (Summon)",
+    "source": "AtlasLootItems"
+  },
+  "STRATBSPlansSerenity": {
+    "title": "Stratholme - Plans: Serenity",
+    "source": "AtlasLootItems"
+  },
+  "STRATCannonMasterWilley": {
+    "title": "Stratholme - Cannon Master Willey",
+    "source": "AtlasLootItems"
+  },
+  "STRATArchivistGalford": {
+    "title": "Stratholme - Archivist Galford",
+    "source": "AtlasLootItems"
+  },
+  "STRATBalnazzar": {
+    "title": "Stratholme - Balnazzar",
+    "source": "AtlasLootItems"
+  },
+  "STRATSothosJarien": {
+    "title": "Stratholme - Sothos & Jarien",
+    "source": "AtlasLootItems"
+  },
+  "STRATStonespine": {
+    "title": "Stratholme - Stonespine (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "STRATNerubenkan": {
+    "title": "Stratholme - Nerub'enkan",
+    "source": "AtlasLootItems"
+  },
+  "STRATBaronessAnastari": {
+    "title": "Stratholme - Baroness Anastari",
+    "source": "AtlasLootItems"
+  },
+  "STRATBlackGuardSwordsmith": {
+    "title": "Stratholme - Black Guard Swordsmith (Summon)",
+    "source": "AtlasLootItems"
+  },
+  "STRATBSPlansCorruption": {
+    "title": "Stratholme - Plans: Corruption",
+    "source": "AtlasLootItems"
+  },
+  "STRATMalekithePallid": {
+    "title": "Stratholme - Maleki the Pallid",
+    "source": "AtlasLootItems"
+  },
+  "STRATMagistrateBarthilas": {
+    "title": "Stratholme - Magistrate Barthilas",
+    "source": "AtlasLootItems"
+  },
+  "STRATRamsteintheGorger": {
+    "title": "Stratholme - Ramstein the Gorger",
+    "source": "AtlasLootItems"
+  },
+  "STRATBaronRivendare": {
+    "title": "Stratholme - Baron Rivendare",
+    "source": "AtlasLootItems"
+  },
+  "STRATTrash": {
+    "title": "Stratholme - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "STSpawnOfHakkar": {
+    "title": "The Sunken Temple - Spawn of Hakkar",
+    "source": "AtlasLootItems"
+  },
+  "STBalconyMinibosses": {
+    "title": "The Sunken Temple - Balcony Minibosses",
+    "source": "AtlasLootItems"
+  },
+  "STAtalalarion": {
+    "title": "The Sunken Temple - Atal'alarion",
+    "source": "AtlasLootItems"
+  },
+  "STDreamscythe": {
+    "title": "The Sunken Temple - Dreamscythe",
+    "source": "AtlasLootItems"
+  },
+  "STWeaver": {
+    "title": "The Sunken Temple - Weaver",
+    "source": "AtlasLootItems"
+  },
+  "STAvatarofHakkar": {
+    "title": "The Sunken Temple - Avatar of Hakkar",
+    "source": "AtlasLootItems"
+  },
+  "STJammalan": {
+    "title": "The Sunken Temple - Jammal'an the Prophet",
+    "source": "AtlasLootItems"
+  },
+  "STOgom": {
+    "title": "The Sunken Temple - Ogom the Wretched",
+    "source": "AtlasLootItems"
+  },
+  "STMorphaz": {
+    "title": "The Sunken Temple - Morphaz",
+    "source": "AtlasLootItems"
+  },
+  "STHazzas": {
+    "title": "The Sunken Temple - Hazzas",
+    "source": "AtlasLootItems"
+  },
+  "STEranikus": {
+    "title": "The Sunken Temple - Shade of Eranikus",
+    "source": "AtlasLootItems"
+  },
+  "STTrash": {
+    "title": "The Sunken Temple - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "HQHighForemanBargulBlackhammer": {
+    "title": "Hateforge Quarry - High Foreman Bargul Blackhammer",
+    "source": "AtlasLootItems"
+  },
+  "HQEngineerFiggles": {
+    "title": "Hateforge Quarry - Engineer Figgles",
+    "source": "AtlasLootItems"
+  },
+  "HQCorrosis": {
+    "title": "Hateforge Quarry - Corrosis",
+    "source": "AtlasLootItems"
+  },
+  "HQHatereaverAnnihilator": {
+    "title": "Hateforge Quarry - Hatereaver Annihilator",
+    "source": "AtlasLootItems"
+  },
+  "HQHargeshDoomcaller": {
+    "title": "Hateforge Quarry - Har'gesh Doomcaller",
+    "source": "AtlasLootItems"
+  },
+  "HQTrash": {
+    "title": "Hateforge Quarry - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "TCGGrovetenderEngryss": {
+    "title": "The Crescent Grove - Grovetender Engryss",
+    "source": "AtlasLootItems"
+  },
+  "TCGKeeperRanathos": {
+    "title": "The Crescent Grove - Keeper Ranathos",
+    "source": "AtlasLootItems"
+  },
+  "TCGHighPriestessAlathea": {
+    "title": "The Crescent Grove - High Priestess A'lathea",
+    "source": "AtlasLootItems"
+  },
+  "TCGFenektistheDeceiver": {
+    "title": "The Crescent Grove - Fenektis the Deceiver",
+    "source": "AtlasLootItems"
+  },
+  "TCGMasterRaxxieth": {
+    "title": "The Crescent Grove - Master Raxxieth",
+    "source": "AtlasLootItems"
+  },
+  "TCGTrash": {
+    "title": "The Crescent Grove - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "KCMarrowspike": {
+    "title": "Karazhan Crypt - Marrowspike",
+    "source": "AtlasLootItems"
+  },
+  "KCHivaxxis": {
+    "title": "Karazhan Crypt - Hivaxxis",
+    "source": "AtlasLootItems"
+  },
+  "KCCorpsemuncher": {
+    "title": "Karazhan Crypt - Corpsemuncher",
+    "source": "AtlasLootItems"
+  },
+  "KCGuardCaptainGort": {
+    "title": "Karazhan Crypt - Guard Captain Gort",
+    "source": "AtlasLootItems"
+  },
+  "KCArchlichEnkhraz": {
+    "title": "Karazhan Crypt - Archlich Enkhraz",
+    "source": "AtlasLootItems"
+  },
+  "KCCommanderAndreon": {
+    "title": "Karazhan Crypt - Commander Andreon",
+    "source": "AtlasLootItems"
+  },
+  "KCAlarus": {
+    "title": "Karazhan Crypt - Alarus",
+    "source": "AtlasLootItems"
+  },
+  "KCTreasure": {
+    "title": "Karazhan Crypt - Half-Buried Treasure Chest",
+    "source": "AtlasLootItems"
+  },
+  "KCTrash": {
+    "title": "Karazhan Crypt - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "COTBMChronar": {
+    "title": "Black Morass - Chronar",
+    "source": "AtlasLootItems"
+  },
+  "COTBMEpidamu": {
+    "title": "Black Morass - Epidamu",
+    "source": "AtlasLootItems"
+  },
+  "COTBMDriftingAvatar": {
+    "title": "Black Morass - Drifting Avatar of Sand",
+    "source": "AtlasLootItems"
+  },
+  "COTBMTimeLordEpochronos": {
+    "title": "Black Morass - Time-Lord Epochronos",
+    "source": "AtlasLootItems"
+  },
+  "COTBMMossheart": {
+    "title": "Black Morass - Mossheart",
+    "source": "AtlasLootItems"
+  },
+  "COTBMRotmaw": {
+    "title": "Black Morass - Rotmaw",
+    "source": "AtlasLootItems"
+  },
+  "COTBMAntnormi": {
+    "title": "Black Morass - Antnormi",
+    "source": "AtlasLootItems"
+  },
+  "COTTrash": {
+    "title": "Black Morass - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "COTBMInfiniteChromie": {
+    "title": "Black Morass - Infinite Chromie",
+    "source": "AtlasLootItems"
+  },
+  "SWVAszoshGrimflame": {
+    "title": "Stormwind Vault - Aszosh Grimflame",
+    "source": "AtlasLootItems"
+  },
+  "SWVThamGrarr": {
+    "title": "Stormwind Vault - Tham'Grarr",
+    "source": "AtlasLootItems"
+  },
+  "SWVBlackBride": {
+    "title": "Stormwind Vault - Black Bride",
+    "source": "AtlasLootItems"
+  },
+  "SWVDamian": {
+    "title": "Stormwind Vault - Damian",
+    "source": "AtlasLootItems"
+  },
+  "SWVVolkanCruelblade": {
+    "title": "Stormwind Vault - Volkan Cruelblade",
+    "source": "AtlasLootItems"
+  },
+  "SWVVaultArmoryEquipment": {
+    "title": "Stormwind Vault - Arc'tiras",
+    "source": "AtlasLootItems"
+  },
+  "SWVTrash": {
+    "title": "Stormwind Vault - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Skeram": {
+    "title": "Temple of Ahn'Qiraj - The Prophet Skeram",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Trio": {
+    "title": "Temple of Ahn'Qiraj - The Bug Family",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Sartura": {
+    "title": "Temple of Ahn'Qiraj - Battleguard Sartura",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Fankriss": {
+    "title": "Temple of Ahn'Qiraj - Fankriss the Unyielding",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Viscidus": {
+    "title": "Temple of Ahn'Qiraj - Viscidus",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Huhuran": {
+    "title": "Temple of Ahn'Qiraj - Princess Huhuran",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Emperors": {
+    "title": "Temple of Ahn'Qiraj - The Twin Emperors",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Ouro": {
+    "title": "Temple of Ahn'Qiraj - Ouro",
+    "source": "AtlasLootItems"
+  },
+  "AQ40CThun": {
+    "title": "Temple of Ahn'Qiraj - C'Thun",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Trash1": {
+    "title": "Temple of Ahn'Qiraj - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "AQ40Trash2": {
+    "title": "Temple of Ahn'Qiraj - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "AQOpening": {
+    "title": "Temple of Ahn'Qiraj - AQ Opening Quest Chain",
+    "source": "AtlasLootItems"
+  },
+  "AQEnchants": {
+    "title": "Temple of Ahn'Qiraj - AQ Enchants",
+    "source": "AtlasLootItems"
+  },
+  "UldMagreganDeepshadow": {
+    "title": "Uldaman - Magregan Deepshadow",
+    "source": "AtlasLootItems"
+  },
+  "UldTabletofRyuneh": {
+    "title": "Uldaman - Tablet of Ryun'eh",
+    "source": "AtlasLootItems"
+  },
+  "UldKromStoutarmChest": {
+    "title": "Uldaman - Krom Stoutarm's Chest",
+    "source": "AtlasLootItems"
+  },
+  "UldGarrettFamilyChest": {
+    "title": "Uldaman - Garrett Family Chest",
+    "source": "AtlasLootItems"
+  },
+  "UldShovelphlange": {
+    "title": "Uldaman - Digmaster Shovelphlange (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "UldRevelosh": {
+    "title": "Uldaman - Revelosh",
+    "source": "AtlasLootItems"
+  },
+  "UldEric": {
+    "title": "Uldaman - Eric 'The Swift'",
+    "source": "AtlasLootItems"
+  },
+  "UldOlaf": {
+    "title": "Uldaman - Olaf",
+    "source": "AtlasLootItems"
+  },
+  "UldBaelog": {
+    "title": "Uldaman - Baelog",
+    "source": "AtlasLootItems"
+  },
+  "UldBaelogsChest": {
+    "title": "Uldaman - Baelog's Chest",
+    "source": "AtlasLootItems"
+  },
+  "UldIronaya": {
+    "title": "Uldaman - Ironaya",
+    "source": "AtlasLootItems"
+  },
+  "UldObsidianSentinel": {
+    "title": "Uldaman - Obsidian Sentinel",
+    "source": "AtlasLootItems"
+  },
+  "UldAncientStoneKeeper": {
+    "title": "Uldaman - Ancient Stone Keeper",
+    "source": "AtlasLootItems"
+  },
+  "UldGalgannFirehammer": {
+    "title": "Uldaman - Galgann Firehammer",
+    "source": "AtlasLootItems"
+  },
+  "UldTabletofWill": {
+    "title": "Uldaman - Tablet of Will",
+    "source": "AtlasLootItems"
+  },
+  "UldShadowforgeCache": {
+    "title": "Uldaman - Shadowforge Cache",
+    "source": "AtlasLootItems"
+  },
+  "UldGrimlok": {
+    "title": "Uldaman - Grimlok",
+    "source": "AtlasLootItems"
+  },
+  "UldArchaedas": {
+    "title": "Uldaman - Archaedas",
+    "source": "AtlasLootItems"
+  },
+  "UldTrash": {
+    "title": "Uldaman - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "GCMatthiasHoltz": {
+    "title": "Gilneas City - Matthias Holtz",
+    "source": "AtlasLootItems"
+  },
+  "GCPackmasterRagetooth": {
+    "title": "Gilneas City - Packmaster Ragetooth",
+    "source": "AtlasLootItems"
+  },
+  "GCJudgeSutherland": {
+    "title": "Gilneas City - Judge Sutherland",
+    "source": "AtlasLootItems"
+  },
+  "GCDustivanBlackcowl": {
+    "title": "Gilneas City - Dustivan Blackcowl",
+    "source": "AtlasLootItems"
+  },
+  "GCMarshalMagnusGreystone": {
+    "title": "Gilneas City - Marshal Magnus Greystone",
+    "source": "AtlasLootItems"
+  },
+  "GCHorsemasterLevvin": {
+    "title": "Gilneas City - Horsemaster Levvin",
+    "source": "AtlasLootItems"
+  },
+  "GCHarlowFamilyChest": {
+    "title": "Gilneas City - Harlow Family Chest",
+    "source": "AtlasLootItems"
+  },
+  "GCGennGreymane": {
+    "title": "Gilneas City - Genn Greymane",
+    "source": "AtlasLootItems"
+  },
+  "GCTrash": {
+    "title": "Gilneas City - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "WCKalldanFelmoon": {
+    "title": "Wailing Caverns - Kalldan Felmoon",
+    "source": "AtlasLootItems"
+  },
+  "WCMadMagglish": {
+    "title": "Wailing Caverns - Mad Magglish",
+    "source": "AtlasLootItems"
+  },
+  "WCTrigoretheLasher": {
+    "title": "Wailing Caverns - Trigore the Lasher (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "WCBoahn": {
+    "title": "Wailing Caverns - Boahn (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "WCLordCobrahn": {
+    "title": "Wailing Caverns - Lord Cobrahn",
+    "source": "AtlasLootItems"
+  },
+  "WCLadyAnacondra": {
+    "title": "Wailing Caverns - Lady Anacondra",
+    "source": "AtlasLootItems"
+  },
+  "WCKresh": {
+    "title": "Wailing Caverns - Kresh",
+    "source": "AtlasLootItems"
+  },
+  "WCDeviateFaerieDragon": {
+    "title": "Wailing Caverns - Deviate Faerie Dragon (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "WCZandara": {
+    "title": "Wailing Caverns - Zandara Windhoof",
+    "source": "AtlasLootItems"
+  },
+  "WCLordPythas": {
+    "title": "Wailing Caverns - Lord Pythas",
+    "source": "AtlasLootItems"
+  },
+  "WCSkum": {
+    "title": "Wailing Caverns - Skum",
+    "source": "AtlasLootItems"
+  },
+  "WCVangros": {
+    "title": "Wailing Caverns - Vangros",
+    "source": "AtlasLootItems"
+  },
+  "WCLordSerpentis": {
+    "title": "Wailing Caverns - Lord Serpentis",
+    "source": "AtlasLootItems"
+  },
+  "WCVerdan": {
+    "title": "Wailing Caverns - Verdan the Everliving",
+    "source": "AtlasLootItems"
+  },
+  "WCMutanus": {
+    "title": "Wailing Caverns - Mutanus the Devourer",
+    "source": "AtlasLootItems"
+  },
+  "WCTrash": {
+    "title": "Wailing Caverns - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "ZFAntusul": {
+    "title": "Zul'Farrak - Antu'sul",
+    "source": "AtlasLootItems"
+  },
+  "ZFThekatheMartyr": {
+    "title": "Zul'Farrak - Theka the Martyr",
+    "source": "AtlasLootItems"
+  },
+  "ZFWitchDoctorZumrah": {
+    "title": "Zul'Farrak - Witch Doctor Zum'rah",
+    "source": "AtlasLootItems"
+  },
+  "ZFNekrumGutchewer": {
+    "title": "Zul'Farrak - Nekrum Gutchewer",
+    "source": "AtlasLootItems"
+  },
+  "ZFSezzziz": {
+    "title": "Zul'Farrak - Shadowpriest Sezz'ziz",
+    "source": "AtlasLootItems"
+  },
+  "ZFDustwraith": {
+    "title": "Zul'Farrak - Dustwraith (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "ZFSergeantBly": {
+    "title": "Zul'Farrak - Sergeant Bly",
+    "source": "AtlasLootItems"
+  },
+  "ZFSandfury": {
+    "title": "Zul'Farrak - Sandfury Executioner",
+    "source": "AtlasLootItems"
+  },
+  "ZFHydromancerVelratha": {
+    "title": "Zul'Farrak - Hydromancer Velratha",
+    "source": "AtlasLootItems"
+  },
+  "ZFGahzrilla": {
+    "title": "Zul'Farrak - Gahz'rilla",
+    "source": "AtlasLootItems"
+  },
+  "ZFChiefUkorzSandscalp": {
+    "title": "Zul'Farrak - Chief Ukorz Sandscalp",
+    "source": "AtlasLootItems"
+  },
+  "ZFZerillis": {
+    "title": "Zul'Farrak - Zerillis (Rare)",
+    "source": "AtlasLootItems"
+  },
+  "ZFTrash": {
+    "title": "Zul'Farrak - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "ZFZeljeb": {
+    "title": "Zul'Farrak - Zel'jeb the Ancient",
+    "source": "AtlasLootItems"
+  },
+  "ZFChampion": {
+    "title": "Zul'Farrak - Champion Razjal the Quick",
+    "source": "AtlasLootItems"
+  },
+  "ZGJeklik": {
+    "title": "Zul'Gurub - High Priestess Jeklik",
+    "source": "AtlasLootItems"
+  },
+  "ZGVenoxis": {
+    "title": "Zul'Gurub - High Priest Venoxis",
+    "source": "AtlasLootItems"
+  },
+  "ZGMarli": {
+    "title": "Zul'Gurub - High Priestess Mar'li",
+    "source": "AtlasLootItems"
+  },
+  "ZGMandokir": {
+    "title": "Zul'Gurub - Bloodlord Mandokir",
+    "source": "AtlasLootItems"
+  },
+  "ZGGrilek": {
+    "title": "Zul'Gurub - Gri'lek",
+    "source": "AtlasLootItems"
+  },
+  "ZGHazzarah": {
+    "title": "Zul'Gurub - Hazza'rah",
+    "source": "AtlasLootItems"
+  },
+  "ZGRenataki": {
+    "title": "Zul'Gurub - Renataki",
+    "source": "AtlasLootItems"
+  },
+  "ZGWushoolay": {
+    "title": "Zul'Gurub - Wushoolay",
+    "source": "AtlasLootItems"
+  },
+  "ZGGahzranka": {
+    "title": "Zul'Gurub - Gahz'ranka",
+    "source": "AtlasLootItems"
+  },
+  "ZGThekal": {
+    "title": "Zul'Gurub - High Priest Thekal",
+    "source": "AtlasLootItems"
+  },
+  "ZGArlokk": {
+    "title": "Zul'Gurub - High Priestess Arlokk",
+    "source": "AtlasLootItems"
+  },
+  "ZGJindo": {
+    "title": "Zul'Gurub - Jin'do the Hexxer",
+    "source": "AtlasLootItems"
+  },
+  "ZGHakkar": {
+    "title": "Zul'Gurub - Hakkar",
+    "source": "AtlasLootItems"
+  },
+  "ZGMuddyChurningWaters": {
+    "title": "Zul'Gurub - Muddy Churning Waters",
+    "source": "AtlasLootItems"
+  },
+  "ZGJinxedHoodooPile": {
+    "title": "Zul'Gurub - Jinxed Hoodoo Pile",
+    "source": "AtlasLootItems"
+  },
+  "ZGShared": {
+    "title": "Zul'Gurub - Shared Priest Drops",
+    "source": "AtlasLootItems"
+  },
+  "ZGTrash1": {
+    "title": "Zul'Gurub - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "ZGTrash2": {
+    "title": "Zul'Gurub - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "ZGEnchants": {
+    "title": "Zul'Gurub - Enchants",
+    "source": "AtlasLootItems"
+  },
+  "ESErennius": {
+    "title": "Emerald Sanctum - Erennius",
+    "source": "AtlasLootItems"
+  },
+  "ESSolnius1": {
+    "title": "Emerald Sanctum - Solnius the Awakener",
+    "source": "AtlasLootItems"
+  },
+  "ESHardMode": {
+    "title": "Emerald Sanctum - Favor of Erennius",
+    "source": "AtlasLootItems"
+  },
+  "ESTrash": {
+    "title": "Emerald Sanctum - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "LKHRolfen": {
+    "title": "Lower Karazhan Halls - Master Blacksmith Rolfen",
+    "source": "AtlasLootItems"
+  },
+  "LKHBroodQueenAraxxna": {
+    "title": "Lower Karazhan Halls - Brood Queen Araxxna",
+    "source": "AtlasLootItems"
+  },
+  "LKHGrizikil": {
+    "title": "Lower Karazhan Halls - Grizikil",
+    "source": "AtlasLootItems"
+  },
+  "LKHClawlordHowlfang": {
+    "title": "Lower Karazhan Halls - Clawlord Howlfang",
+    "source": "AtlasLootItems"
+  },
+  "LKHLordBlackwaldII": {
+    "title": "Lower Karazhan Halls - Lord Blackwald II",
+    "source": "AtlasLootItems"
+  },
+  "LKHMoroes": {
+    "title": "Lower Karazhan Halls - Moroes",
+    "source": "AtlasLootItems"
+  },
+  "LKHTrash": {
+    "title": "Lower Karazhan Halls - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "LKHEnchants": {
+    "title": "Lower Karazhan Halls - Enchants",
+    "source": "AtlasLootItems"
+  },
+  "UKHGnarlmoon": {
+    "title": "Upper Karazhan Halls - Keeper Gnarlmoon",
+    "source": "AtlasLootItems"
+  },
+  "UKHIncantagos": {
+    "title": "Upper Karazhan Halls - Ley-Watcher Incantagos",
+    "source": "AtlasLootItems"
+  },
+  "UKHAnomalus": {
+    "title": "Upper Karazhan Halls - Anomalus",
+    "source": "AtlasLootItems"
+  },
+  "UKHEcho": {
+    "title": "Upper Karazhan Halls - Echo of Medivh",
+    "source": "AtlasLootItems"
+  },
+  "UKHKing": {
+    "title": "Upper Karazhan Halls - King (Chess fight)",
+    "source": "AtlasLootItems"
+  },
+  "UKHSanvTasdal": {
+    "title": "Upper Karazhan Halls - Sanv Tas'dal",
+    "source": "AtlasLootItems"
+  },
+  "UKHKruul": {
+    "title": "Upper Karazhan Halls - Kruul",
+    "source": "AtlasLootItems"
+  },
+  "UKHRupturan": {
+    "title": "Upper Karazhan Halls - Rupturan the Broken",
+    "source": "AtlasLootItems"
+  },
+  "UKHMephistroth": {
+    "title": "Upper Karazhan Halls - Mephistroth",
+    "source": "AtlasLootItems"
+  },
+  "UKHTrash": {
+    "title": "Upper Karazhan Halls - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DMRGowlfang": {
+    "title": "Dragonmaw Retreat - Gowlfang",
+    "source": "AtlasLootItems"
+  },
+  "DMRBroodmother": {
+    "title": "Dragonmaw Retreat - Cavernweb Broodmother",
+    "source": "AtlasLootItems"
+  },
+  "DMRWebMaster": {
+    "title": "Dragonmaw Retreat - Web Master Torkon",
+    "source": "AtlasLootItems"
+  },
+  "DMRGarlok": {
+    "title": "Dragonmaw Retreat - Garlok Flamekeeper",
+    "source": "AtlasLootItems"
+  },
+  "DMROverlord": {
+    "title": "Dragonmaw Retreat - Overlord Blackheart",
+    "source": "AtlasLootItems"
+  },
+  "DMRElderHollowblood": {
+    "title": "Dragonmaw Retreat - Elder Hollowblood",
+    "source": "AtlasLootItems"
+  },
+  "DMRHalgan": {
+    "title": "Dragonmaw Retreat - Halgan Redbrand",
+    "source": "AtlasLootItems"
+  },
+  "DMRSlagfist": {
+    "title": "Dragonmaw Retreat - Slagfist Destroyer",
+    "source": "AtlasLootItems"
+  },
+  "DMRSearistrasz": {
+    "title": "Dragonmaw Retreat - Searistrasz",
+    "source": "AtlasLootItems"
+  },
+  "DMRZuluhed": {
+    "title": "Dragonmaw Retreat - Zuluhed the Whacked",
+    "source": "AtlasLootItems"
+  },
+  "DMRTrash": {
+    "title": "Dragonmaw Retreat - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "SWROronok": {
+    "title": "Stormwrought Ruins - Oronok Torn-Heart",
+    "source": "AtlasLootItems"
+  },
+  "SWRDagar": {
+    "title": "Stormwrought Ruins - Dagar the Glutton",
+    "source": "AtlasLootItems"
+  },
+  "SWRDukeBalor": {
+    "title": "Stormwrought Ruins - Duke Balor the IV",
+    "source": "AtlasLootItems"
+  },
+  "SWRLibrarian": {
+    "title": "Stormwrought Ruins - Librarian Theodorus",
+    "source": "AtlasLootItems"
+  },
+  "SWRChieftain": {
+    "title": "Stormwrought Ruins - Chieftain Stormsong",
+    "source": "AtlasLootItems"
+  },
+  "SWRDeathlord": {
+    "title": "Stormwrought Ruins - Deathlord Tidebane",
+    "source": "AtlasLootItems"
+  },
+  "SWRSubjugator": {
+    "title": "Stormwrought Ruins - Subjugator Halthas Shadecrest",
+    "source": "AtlasLootItems"
+  },
+  "SWRMycellakos": {
+    "title": "Stormwrought Ruins - Mycellakos",
+    "source": "AtlasLootItems"
+  },
+  "SWREldermaw": {
+    "title": "Stormwrought Ruins - Eldermaw the Primordial",
+    "source": "AtlasLootItems"
+  },
+  "SWRLadyDrazare": {
+    "title": "Stormwrought Ruins - Lady Drazare",
+    "source": "AtlasLootItems"
+  },
+  "SWRMergothid": {
+    "title": "Stormwrought Ruins - Mergothid",
+    "source": "AtlasLootItems"
+  },
+  "SWRRemains": {
+    "title": "Stormwrought Ruins - Remains of the Innocent",
+    "source": "AtlasLootItems"
+  },
+  "SWRTrash": {
+    "title": "Stormwrought Ruins - Trash Mobs",
+    "source": "AtlasLootItems"
+  },
+  "DEADMINES": {
+    "title": "The Deadmines",
+    "source": "AtlasLootSetItems"
+  },
+  "WAILING": {
+    "title": "Wailing Caverns",
+    "source": "AtlasLootSetItems"
+  },
+  "SCARLET": {
+    "title": "Scarlet Monastery",
+    "source": "AtlasLootSetItems"
+  },
+  "BLACKROCKD": {
+    "title": "Blackrock Depths",
+    "source": "AtlasLootSetItems"
+  },
+  "IRONWEAVE": {
+    "title": "High Level Dungeons",
+    "source": "AtlasLootSetItems"
+  },
+  "ScholoCloth": {
+    "title": "Scholomance",
+    "source": "AtlasLootSetItems"
+  },
+  "ScholoLeather": {
+    "title": "Scholomance",
+    "source": "AtlasLootSetItems"
+  },
+  "ScholoMail": {
+    "title": "Scholomance",
+    "source": "AtlasLootSetItems"
+  },
+  "ScholoPlate": {
+    "title": "Scholomance",
+    "source": "AtlasLootSetItems"
+  },
+  "STRAT": {
+    "title": "Stratholme",
+    "source": "AtlasLootSetItems"
+  },
+  "SpiderKiss": {
+    "title": "Lower Blackrock Spire",
+    "source": "AtlasLootSetItems"
+  },
+  "DalRend": {
+    "title": "Upper Blackrock Spire",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGRings": {
+    "title": "Zul'Gurub",
+    "source": "AtlasLootSetItems"
+  },
+  "ShardOfGods": {
+    "title": "Ragnaros/Onyxia",
+    "source": "AtlasLootSetItems"
+  },
+  "SpiritofEskhandar": {
+    "title": "Set: Spirit of Eskhandar",
+    "source": "AtlasLootSetItems"
+  },
+  "HakkariBlades": {
+    "title": "Zul'GurubThe Twin Blades of Hakkari",
+    "source": "AtlasLootSetItems"
+  },
+  "PrimalBlessing": {
+    "title": "Zul'GurubPrimal Blessing",
+    "source": "AtlasLootSetItems"
+  },
+  "ScourgeInvasion": {
+    "title": "Scourge Invasion",
+    "source": "AtlasLootSetItems"
+  },
+  "Legendaries": {
+    "title": "Legendary Items",
+    "source": "AtlasLootSetItems"
+  },
+  "RareMounts": {
+    "title": "Rare Mounts",
+    "source": "AtlasLootSetItems"
+  },
+  "PvPMountsSets": {
+    "title": "PvP Mounts",
+    "source": "AtlasLootSetItems"
+  },
+  "Tabards": {
+    "title": "Tabards",
+    "source": "AtlasLootSetItems"
+  },
+  "RarePets1": {
+    "title": "Rare Pets",
+    "source": "AtlasLootSetItems"
+  },
+  "RarePets2": {
+    "title": "Rare Pets",
+    "source": "AtlasLootSetItems"
+  },
+  "SteelPlate": {
+    "title": "Steel Plate",
+    "source": "AtlasLootCrafting"
+  },
+  "ImperialPlate": {
+    "title": "Imperial Plate",
+    "source": "AtlasLootCrafting"
+  },
+  "TheDarksoul": {
+    "title": "The Darksoul",
+    "source": "AtlasLootCrafting"
+  },
+  "BloodsoulEmbrace": {
+    "title": "Bloodsoul Embrace",
+    "source": "AtlasLootCrafting"
+  },
+  "AugerersAttire": {
+    "title": "Augerer's Attire",
+    "source": "AtlasLootCrafting"
+  },
+  "ShadoweaveSet": {
+    "title": "Shadoweave",
+    "source": "AtlasLootCrafting"
+  },
+  "DivinersGarments": {
+    "title": "Diviner's Garments",
+    "source": "AtlasLootCrafting"
+  },
+  "PillagersGarb": {
+    "title": "Pillager's Garb",
+    "source": "AtlasLootCrafting"
+  },
+  "BloodvineG": {
+    "title": "Bloodvine Garb",
+    "source": "AtlasLootCrafting"
+  },
+  "MoonclothSet": {
+    "title": "Mooncloth Regalia",
+    "source": "AtlasLootCrafting"
+  },
+  "GriftersArmor": {
+    "title": "Grifter's Armor",
+    "source": "AtlasLootCrafting"
+  },
+  "PrimalistsTrappings": {
+    "title": "Primalist's Trappings",
+    "source": "AtlasLootCrafting"
+  },
+  "VolcanicArmor": {
+    "title": "Volcanic Armor",
+    "source": "AtlasLootCrafting"
+  },
+  "IronfeatherArmor": {
+    "title": "Ironfeather Armor",
+    "source": "AtlasLootCrafting"
+  },
+  "StormshroudArmor": {
+    "title": "Stormshroud Armor",
+    "source": "AtlasLootCrafting"
+  },
+  "DevilsaurArmor": {
+    "title": "Devilsaur Armor",
+    "source": "AtlasLootCrafting"
+  },
+  "BloodTigerH": {
+    "title": "Blood Tiger Harness",
+    "source": "AtlasLootCrafting"
+  },
+  "PrimalBatskin": {
+    "title": "Primal Batskin",
+    "source": "AtlasLootCrafting"
+  },
+  "RedDragonM": {
+    "title": "Red Dragon Mail",
+    "source": "AtlasLootCrafting"
+  },
+  "GreenDragonM": {
+    "title": "Green Dragon Mail",
+    "source": "AtlasLootCrafting"
+  },
+  "BlueDragonM": {
+    "title": "Blue Dragon Mail",
+    "source": "AtlasLootCrafting"
+  },
+  "BlackDragonM": {
+    "title": "Black Dragon Mail",
+    "source": "AtlasLootCrafting"
+  },
+  "ZGDruid": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGHunter": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGMage": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGPaladin": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGPriest": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGRogue": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGShaman": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGWarlock": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "ZGWarrior": {
+    "title": "Zul'Gurub - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Mage": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Warlock": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Priest": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Rogue": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Druid": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Hunter": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Paladin": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Shaman": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ20Warrior": {
+    "title": "Ruins of Ahn'Qiraj - Class Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Mage": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Priest": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Warlock": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Rogue": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Druid": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Shaman": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Hunter": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Warrior": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "AQ40Paladin": {
+    "title": "Temple of Ahn'Qiraj - Tier 2.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Druid": {
+    "title": "Druid Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Hunter": {
+    "title": "Hunter Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Mage": {
+    "title": "Mage Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Paladin": {
+    "title": "Paladin Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Priest": {
+    "title": "Priest Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Rogue": {
+    "title": "Rogue Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Shaman": {
+    "title": "Shaman Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Warlock": {
+    "title": "Warlock Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T0Warrior": {
+    "title": "Warrior Dungeon Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Druid": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Hunter": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Mage": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Paladin": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Priest": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Rogue": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Shaman": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Warlock": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T1Warrior": {
+    "title": "Molten Core - Tier 1 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Druid": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Hunter": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Mage": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Paladin": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Priest": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Rogue": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Shaman": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Warlock": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T2Warrior": {
+    "title": "Blackwing Lair/Ragnaros/Onyxia - Tier 2 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Druid": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Hunter": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Mage": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Paladin": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Priest": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Rogue": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Shaman": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Warlock": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T3Warrior": {
+    "title": "Naxxramas - Tier 3 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Druid": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Hunter": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Mage": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Paladin": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Priest": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Rogue": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Shaman": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Warlock": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "T35Warrior": {
+    "title": "Karazhan - Tier 3.5 Set",
+    "source": "AtlasLootSetItems"
+  },
+  "CraftedWeapons1": {
+    "title": "Crafted Epic Weapons",
+    "source": "AtlasLootCrafting"
+  },
+  "WorldEpics1": {
+    "title": "World Epics - Level 30-39",
+    "source": "AtlasLootSetItems"
+  },
+  "WorldEpics2": {
+    "title": "World Epics - Level 40-49",
+    "source": "AtlasLootSetItems"
+  },
+  "WorldEpics3": {
+    "title": "World Epics - Level 50-60",
+    "source": "AtlasLootSetItems"
+  },
+  "AAzuregos": {
+    "title": "Azshara - Azuregos",
+    "source": "AtlasLootWBItems"
+  },
+  "ASpiritA": {
+    "title": "Azshara - Spirit of Azuregos",
+    "source": "AtlasLootWBItems"
+  },
+  "Nerubian": {
+    "title": "Eastern Plaguelands - Nerubian Overseer",
+    "source": "AtlasLootWBItems"
+  },
+  "Reaver": {
+    "title": "Deadwind Pass - Dark Reaver of Karazhan",
+    "source": "AtlasLootWBItems"
+  },
+  "Ostarius": {
+    "title": "Tanaris - Ostarius",
+    "source": "AtlasLootWBItems"
+  },
+  "Concavius": {
+    "title": "Desolace - Concavius",
+    "source": "AtlasLootWBItems"
+  },
+  "CowKing": {
+    "title": "Moomoo Grove - Moo",
+    "source": "AtlasLootWBItems"
+  },
+  "KKazzak": {
+    "title": "Blasted Lands - Lord Kazzak",
+    "source": "AtlasLootWBItems"
+  },
+  "DEmeriss": {
+    "title": "Ashenvale/Duskwood/Feralas/Hinterlands - Emeriss",
+    "source": "AtlasLootWBItems"
+  },
+  "DLethon": {
+    "title": "Ashenvale/Duskwood/Feralas/Hinterlands - Lethon",
+    "source": "AtlasLootWBItems"
+  },
+  "DTaerar": {
+    "title": "Ashenvale/Duskwood/Feralas/Hinterlands - Taerar",
+    "source": "AtlasLootWBItems"
+  },
+  "DYsondre": {
+    "title": "Ashenvale/Duskwood/Feralas/Hinterlands - Ysondre",
+    "source": "AtlasLootWBItems"
+  },
+  "DTrash": {
+    "title": "Emerald Dragons - Trash Mobs",
+    "source": "AtlasLootWBItems"
+  },
+  "Clackora": {
+    "title": "Azshara - Cla'ckora",
+    "source": "AtlasLootWBItems"
+  },
+  "Tarangos": {
+    "title": "Tarangos",
+    "source": "AtlasLootWBItems"
+  },
+  "Kargron": {
+    "title": "Blademaster Kargron",
+    "source": "AtlasLootWBItems"
+  },
+  "Xalvic": {
+    "title": "Xalvic Blackclaw",
+    "source": "AtlasLootWBItems"
+  },
+  "Mallon": {
+    "title": "Mallon The Moontouched",
+    "source": "AtlasLootWBItems"
+  },
+  "Grugthok": {
+    "title": "Grug'thok the Seer",
+    "source": "AtlasLootWBItems"
+  },
+  "WanderingKnight": {
+    "title": "The Wandering Knight",
+    "source": "AtlasLootWBItems"
+  },
+  "CrusaderLarsarius": {
+    "title": "Crusader Larsarius",
+    "source": "AtlasLootWBItems"
+  },
+  "Zareth": {
+    "title": "Zareth Terrorblade",
+    "source": "AtlasLootWBItems"
+  },
+  "Jalakar": {
+    "title": "Jal'akar",
+    "source": "AtlasLootWBItems"
+  },
+  "Ashbeard": {
+    "title": "Explorer Ashbeard",
+    "source": "AtlasLootWBItems"
+  },
+  "AdmiralBareanWestwind": {
+    "title": "Admiral Barean Westwind",
+    "source": "AtlasLootWBItems"
+  },
+  "EarthcallerRezengal": {
+    "title": "Earthcaller Rezengal",
+    "source": "AtlasLootWBItems"
+  },
+  "ShadeMage": {
+    "title": "Shade Mage",
+    "source": "AtlasLootWBItems"
+  },
+  "GraypawAlpha": {
+    "title": "Graypaw Alpha",
+    "source": "AtlasLootWBItems"
+  },
+  "Blazespark": {
+    "title": "Blazespark",
+    "source": "AtlasLootWBItems"
+  },
+  "WitchDoctorTanzo": {
+    "title": "Witch Doctor Tan'zo",
+    "source": "AtlasLootWBItems"
+  },
+  "Dawnhowl": {
+    "title": "Dawnhowl",
+    "source": "AtlasLootWBItems"
+  },
+  "MaltimorsPrototype": {
+    "title": "Maltimor's Prototype",
+    "source": "AtlasLootWBItems"
+  },
+  "Bonecruncher": {
+    "title": "Bonecruncher",
+    "source": "AtlasLootWBItems"
+  },
+  "Duskskitter": {
+    "title": "Duskskitter",
+    "source": "AtlasLootWBItems"
+  },
+  "BaronPerenolde": {
+    "title": "Baron Perenolde",
+    "source": "AtlasLootWBItems"
+  },
+  "Embereye": {
+    "title": "Embereye",
+    "source": "AtlasLootWBItems"
+  },
+  "Rukthok": {
+    "title": "Ruk'thok the Pyromancer",
+    "source": "AtlasLootWBItems"
+  },
+  "Ripjaw": {
+    "title": "Ripjaw",
+    "source": "AtlasLootWBItems"
+  },
+  "Aquitus": {
+    "title": "Aquitus",
+    "source": "AtlasLootWBItems"
+  },
+  "FirstbornofArugal": {
+    "title": "Firstborn of Arugal",
+    "source": "AtlasLootWBItems"
+  },
+  "Letashaz": {
+    "title": "Letashaz",
+    "source": "AtlasLootWBItems"
+  },
+  "MargontheMighty": {
+    "title": "Margon the Mighty",
+    "source": "AtlasLootWBItems"
+  },
+  "Stoneshell": {
+    "title": "Stoneshell",
+    "source": "AtlasLootWBItems"
+  },
+  "HighvaleSilverback": {
+    "title": "Highvale Silverback",
+    "source": "AtlasLootWBItems"
+  },
+  "Azurebeak": {
+    "title": "Azurebeak",
+    "source": "AtlasLootWBItems"
+  },
+  "BarkskinFisher": {
+    "title": "Barkskin Fisher",
+    "source": "AtlasLootWBItems"
+  },
+  "ShadeflayerGoliath": {
+    "title": "Shadeflayer Goliath",
+    "source": "AtlasLootWBItems"
+  },
+  "M0L1Y": {
+    "title": "M-0L1Y",
+    "source": "AtlasLootWBItems"
+  },
+  "WidowoftheWoods": {
+    "title": "Widow of the Woods",
+    "source": "AtlasLootWBItems"
+  },
+  "KinTozo": {
+    "title": "Kin'Tozo",
+    "source": "AtlasLootWBItems"
+  },
+  "ProfessorLysander": {
+    "title": "Professor Lysander",
+    "source": "AtlasLootWBItems"
+  },
+  "AbyssalTemplars": {
+    "title": "Abyssal Council - Templars",
+    "source": "AtlasLootWorldEvents"
+  },
+  "AbyssalDukes": {
+    "title": "Abyssal Council - Dukes",
+    "source": "AtlasLootWorldEvents"
+  },
+  "AbyssalLords": {
+    "title": "Abyssal Council - Lords",
+    "source": "AtlasLootWorldEvents"
+  },
+  "ChildrensWeek": {
+    "title": "Children's Week",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Halloween1": {
+    "title": "Hallow's End",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Halloween2": {
+    "title": "Hallow's End",
+    "source": "AtlasLootWorldEvents"
+  },
+  "HarvestFestival": {
+    "title": "Harvest Festival",
+    "source": "AtlasLootWorldEvents"
+  },
+  "LunarFestival1": {
+    "title": "Lunar Festival",
+    "source": "AtlasLootWorldEvents"
+  },
+  "LunarFestival2": {
+    "title": "Lunar Festival",
+    "source": "AtlasLootWorldEvents"
+  },
+  "MidsummerFestival": {
+    "title": "Midsummer Fire Festival",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Noblegarden": {
+    "title": "Noblegarden",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Valentineday": {
+    "title": "Love is in the Air",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Winterviel": {
+    "title": "Feast of Winter Veil",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Winterviel1": {
+    "title": "Feast of Winter Veil",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Winterviel2": {
+    "title": "Feast of Winter Veil",
+    "source": "AtlasLootWorldEvents"
+  },
+  "ElementalInvasion": {
+    "title": "Elemental Invasion",
+    "source": "AtlasLootWorldEvents"
+  },
+  "FishingExtravaganza": {
+    "title": "Stranglethorn Fishing Extravaganza",
+    "source": "AtlasLootWorldEvents"
+  },
+  "GurubashiArena": {
+    "title": "Gurubashi Arena",
+    "source": "AtlasLootWorldEvents"
+  },
+  "ScourgeInvasionEvent1": {
+    "title": "Scourge Invasion",
+    "source": "AtlasLootWorldEvents"
+  },
+  "ScourgeInvasionEvent2": {
+    "title": "Scourge Invasion Bosses",
+    "source": "AtlasLootWorldEvents"
+  },
+  "Argent1": {
+    "title": "Argent Dawn - Token Hand-Ins",
+    "source": "AtlasLootRepItems"
+  },
+  "Argent2": {
+    "title": "Argent Dawn",
+    "source": "AtlasLootRepItems"
+  },
+  "Argent3": {
+    "title": "Argent Dawn",
+    "source": "AtlasLootRepItems"
+  },
+  "Bloodsail1": {
+    "title": "Bloodsail Buccaneers",
+    "source": "AtlasLootRepItems"
+  },
+  "AQBroodRings": {
+    "title": "Brood of Nozdormu",
+    "source": "AtlasLootRepItems"
+  },
+  "Cenarion1": {
+    "title": "Cenarion Circle - Friendly",
+    "source": "AtlasLootRepItems"
+  },
+  "Cenarion2": {
+    "title": "Cenarion Circle - Honored",
+    "source": "AtlasLootRepItems"
+  },
+  "Cenarion3": {
+    "title": "Cenarion Circle - Revered",
+    "source": "AtlasLootRepItems"
+  },
+  "Cenarion4": {
+    "title": "Cenarion Circle - Exalted",
+    "source": "AtlasLootRepItems"
+  },
+  "Darkmoon": {
+    "title": "Darkmoon Faire",
+    "source": "AtlasLootRepItems"
+  },
+  "Defilers": {
+    "title": "The Defilers",
+    "source": "AtlasLootRepItems"
+  },
+  "Frostwolf1": {
+    "title": "Frostwolf Clan",
+    "source": "AtlasLootRepItems"
+  },
+  "WaterLords1": {
+    "title": "Hydraxian Waterlords",
+    "source": "AtlasLootRepItems"
+  },
+  "GelkisClan1": {
+    "title": "Gelkis Clan Centaur",
+    "source": "AtlasLootRepItems"
+  },
+  "LeagueofArathor": {
+    "title": "The League of Arathor",
+    "source": "AtlasLootRepItems"
+  },
+  "MagramClan1": {
+    "title": "Magram Clan Centaur",
+    "source": "AtlasLootRepItems"
+  },
+  "Stormpike1": {
+    "title": "Stormpike Guard",
+    "source": "AtlasLootRepItems"
+  },
+  "Thorium1": {
+    "title": "Thorium Brotherhood - Friendly/Honored",
+    "source": "AtlasLootRepItems"
+  },
+  "Thorium2": {
+    "title": "Thorium Brotherhood - Revered/Exalted",
+    "source": "AtlasLootRepItems"
+  },
+  "Timbermaw": {
+    "title": "Timbermaw Hold",
+    "source": "AtlasLootRepItems"
+  },
+  "Wardens1": {
+    "title": "Wardens of Time - Friendly & Honored",
+    "source": "AtlasLootRepItems"
+  },
+  "Wardens2": {
+    "title": "Wardens of Time - Revered & Exalted",
+    "source": "AtlasLootRepItems"
+  },
+  "Wintersaber1": {
+    "title": "Wintersaber Trainers",
+    "source": "AtlasLootRepItems"
+  },
+  "Zandalar1": {
+    "title": "Zandalar Tribe - Friendly/Honored",
+    "source": "AtlasLootRepItems"
+  },
+  "Zandalar2": {
+    "title": "Zandalar Tribe - Revered/Exalted",
+    "source": "AtlasLootRepItems"
+  },
+  "Helf": {
+    "title": "Silvermoon Remnant",
+    "source": "AtlasLootRepItems"
+  },
+  "Helf2": {
+    "title": "Silvermoon Remnant",
+    "source": "AtlasLootRepItems"
+  },
+  "Helf3": {
+    "title": "Silvermoon Remnant",
+    "source": "AtlasLootRepItems"
+  },
+  "Revantusk": {
+    "title": "Revantusk Trolls",
+    "source": "AtlasLootRepItems"
+  },
+  "Revantusk2": {
+    "title": "Revantusk Trolls",
+    "source": "AtlasLootRepItems"
+  },
+  "Revantusk3": {
+    "title": "Revantusk Trolls",
+    "source": "AtlasLootRepItems"
+  },
+  "Ironforge": {
+    "title": "Ironforge",
+    "source": "AtlasLootRepItems"
+  },
+  "Darnassus": {
+    "title": "Darnassus",
+    "source": "AtlasLootRepItems"
+  },
+  "Stormwind": {
+    "title": "Stormwind",
+    "source": "AtlasLootRepItems"
+  },
+  "GnomereganExiles": {
+    "title": "Gnomeregan Exiles",
+    "source": "AtlasLootRepItems"
+  },
+  "DarkspearTrolls": {
+    "title": "Darkspear Trolls",
+    "source": "AtlasLootRepItems"
+  },
+  "DurotarLaborUnion": {
+    "title": "Durotar Labor Union",
+    "source": "AtlasLootRepItems"
+  },
+  "Undercity": {
+    "title": "Undercity",
+    "source": "AtlasLootRepItems"
+  },
+  "Orgrimmar": {
+    "title": "Orgrimmar",
+    "source": "AtlasLootRepItems"
+  },
+  "ThunderBluff": {
+    "title": "Thunder Bluff",
+    "source": "AtlasLootRepItems"
+  },
+  "Dalaran": {
+    "title": "Dalaran",
+    "source": "AtlasLootRepItems"
+  },
+  "Wildhammer": {
+    "title": "Wildhammer Clan",
+    "source": "AtlasLootRepItems"
+  },
+  "Shendralar": {
+    "title": "Shen'dralar",
+    "source": "AtlasLootRepItems"
+  },
+  "EarthenRing": {
+    "title": "Earthen Ring",
+    "source": "AtlasLootRepItems"
+  },
+  "DraeneiExiles": {
+    "title": "Draenei Exiles",
+    "source": "AtlasLootRepItems"
+  },
+  "AlchemyApprentice1": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyJourneyman1": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyExpert1": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyArtisan1": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyArtisan2": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyArtisan3": {
+    "title": "Alchemy",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyFlasks1": {
+    "title": "Alchemy: Flasks",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyProtectionPots1": {
+    "title": "Alchemy: Protection Potions",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyHealingAndMana1": {
+    "title": "Alchemy: Health and Mana Potions",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyTransmutes1": {
+    "title": "Alchemy: Transmutes",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyDefensive1": {
+    "title": "Alchemy: Defensive Potions and Elixirs",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyOffensive1": {
+    "title": "Alchemy: Offensive Potions and Elixirs",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyOffensive2": {
+    "title": "Alchemy: Offensive Potions and Elixirs",
+    "source": "AtlasLootCrafting"
+  },
+  "AlchemyMisc1": {
+    "title": "Alchemy: Miscellaneous",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingApprentice1": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingJourneyman1": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingJourneyman2": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingExpert1": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingExpert2": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingExpert3": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingArtisan1": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingArtisan2": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingArtisan3": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingArtisan4": {
+    "title": "Blacksmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "Armorsmith1": {
+    "title": "Blacksmithing: Armorsmith",
+    "source": "AtlasLootCrafting"
+  },
+  "Weaponsmith1": {
+    "title": "Blacksmithing: Weaponsmith",
+    "source": "AtlasLootCrafting"
+  },
+  "Axesmith1": {
+    "title": "Blacksmithing: Master Axesmith",
+    "source": "AtlasLootCrafting"
+  },
+  "Hammersmith1": {
+    "title": "Blacksmithing: Master Hammersmith",
+    "source": "AtlasLootCrafting"
+  },
+  "Swordsmith1": {
+    "title": "Blacksmithing: Master Swordsmith",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingHelm1": {
+    "title": "Blacksmithing: Helm",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingShoulders1": {
+    "title": "Blacksmithing: Shoulders",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingChest1": {
+    "title": "Blacksmithing: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingChest2": {
+    "title": "Blacksmithing: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingBracers1": {
+    "title": "Blacksmithing: Bracers",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingGloves1": {
+    "title": "Blacksmithing: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingBelt1": {
+    "title": "Blacksmithing: Belt",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingPants1": {
+    "title": "Blacksmithing: Pants",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingBoots1": {
+    "title": "Blacksmithing: Boots",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingAxes1": {
+    "title": "Blacksmithing: Axes",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingSwords1": {
+    "title": "Blacksmithing: Swords",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingMaces1": {
+    "title": "Blacksmithing: Maces",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingFist1": {
+    "title": "Blacksmithing: Fist",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingDaggers1": {
+    "title": "Blacksmithing: Daggers",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingMisc1": {
+    "title": "Blacksmithing: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingMisc2": {
+    "title": "Blacksmithing: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "SmithingBuckles1": {
+    "title": "Blacksmithing: Belt Buckles",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingApprentice1": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingJourneyman1": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingJourneyman2": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingExpert1": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingExpert2": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingArtisan1": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingArtisan2": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingArtisan3": {
+    "title": "Enchanting",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingCloak1": {
+    "title": "Enchanting: Cloak",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingChest1": {
+    "title": "Enchanting: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingBracer1": {
+    "title": "Enchanting: Bracer",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingGlove1": {
+    "title": "Enchanting: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingBoots1": {
+    "title": "Enchanting: Boots",
+    "source": "AtlasLootCrafting"
+  },
+  "Enchanting2HWeapon1": {
+    "title": "Enchanting: 2H Weapon",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingWeapon1": {
+    "title": "Enchanting: Weapon",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingShield1": {
+    "title": "Enchanting: Shield",
+    "source": "AtlasLootCrafting"
+  },
+  "EnchantingMisc1": {
+    "title": "Enchanting: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringApprentice1": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringJourneyman1": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringJourneyman2": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringExpert1": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringExpert2": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringArtisan1": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringArtisan2": {
+    "title": "Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "Gnomish1": {
+    "title": "Engineering: Gnomish Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "Goblin1": {
+    "title": "Engineering: Goblin Engineering",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringEquipment1": {
+    "title": "Engineering: Equipment",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringTrinkets1": {
+    "title": "Engineering: Trinkets",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringExplosives1": {
+    "title": "Engineering: Explosives",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringParts1": {
+    "title": "Engineering: Parts",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringMisc1": {
+    "title": "Engineering: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringMisc2": {
+    "title": "Engineering: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "EngineeringWeapons1": {
+    "title": "Engineering: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherApprentice1": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherJourneyman1": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherJourneyman2": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherExpert1": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherExpert2": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherArtisan1": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherArtisan2": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherArtisan3": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherArtisan4": {
+    "title": "Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "Dragonscale1": {
+    "title": "Dragonscale Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "Elemental1": {
+    "title": "Elemental Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "Tribal1": {
+    "title": "Tribal Leatherworking",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherHelm1": {
+    "title": "Leatherworking: Helm",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherShoulders1": {
+    "title": "Leatherworking: Shoulders",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherCloak1": {
+    "title": "Leatherworking: Cloak",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherChest1": {
+    "title": "Leatherworking: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherChest2": {
+    "title": "Leatherworking: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherBracers1": {
+    "title": "Leatherworking: Bracers",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherGloves1": {
+    "title": "Leatherworking: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherGloves2": {
+    "title": "Leatherworking: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherBelt1": {
+    "title": "Leatherworking: Belt",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherPants1": {
+    "title": "Leatherworking: Pants",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherPants2": {
+    "title": "Leatherworking: Pants",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherBoots1": {
+    "title": "Leatherworking: Boots",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherBags1": {
+    "title": "Leatherworking: Bags",
+    "source": "AtlasLootCrafting"
+  },
+  "LeatherMisc1": {
+    "title": "Leatherworking: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "Mining1": {
+    "title": "Mining",
+    "source": "AtlasLootCrafting"
+  },
+  "Smelting1": {
+    "title": "Smelting",
+    "source": "AtlasLootCrafting"
+  },
+  "Herbalism1": {
+    "title": "Herbalism",
+    "source": "AtlasLootCrafting"
+  },
+  "Herbalism2": {
+    "title": "Herbalism",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringApprentice1": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringApprentice2": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringJourneyman1": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringJourneyman2": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringExpert1": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringExpert2": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringExpert3": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringArtisan1": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringArtisan2": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringArtisan3": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringArtisan4": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringArtisan5": {
+    "title": "Tailoring",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringHelm1": {
+    "title": "Tailoring: Helm",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringShoulders1": {
+    "title": "Tailoring: Shoulders",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringCloak1": {
+    "title": "Tailoring: Cloak",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringChest1": {
+    "title": "Tailoring: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringChest2": {
+    "title": "Tailoring: Chest",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringBracers1": {
+    "title": "Tailoring: Bracers",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringGloves1": {
+    "title": "Tailoring: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringGloves2": {
+    "title": "Tailoring: Gloves",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringBelt1": {
+    "title": "Tailoring: Belt",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringPants1": {
+    "title": "Tailoring: Pants",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringBoots1": {
+    "title": "Tailoring: Boots",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringBags1": {
+    "title": "Tailoring: Bags",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringShirt1": {
+    "title": "Tailoring: Shirt",
+    "source": "AtlasLootCrafting"
+  },
+  "TailoringMisc1": {
+    "title": "Tailoring: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingApprentice1": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingJourneyman1": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingJourneyman2": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingExpert1": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingExpert2": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingExpert3": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingArtisan1": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingArtisan2": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingArtisan3": {
+    "title": "Jewelcrafting",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingGemstones1": {
+    "title": "Jewelcrafting: Gemstones",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingRings1": {
+    "title": "Jewelcrafting: Rings",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingRings2": {
+    "title": "Jewelcrafting: Rings",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingAmulets1": {
+    "title": "Jewelcrafting: Amulets",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingHelm1": {
+    "title": "Jewelcrafting: Head",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingBracers1": {
+    "title": "Jewelcrafting: Bracers",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingOffHands1": {
+    "title": "Jewelcrafting: Off Hand",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingStaves1": {
+    "title": "Jewelcrafting: Staff",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingTrinkets1": {
+    "title": "Jewelcrafting: Trinkets",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingMisc1": {
+    "title": "Jewelcrafting: Misc",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingGemology1": {
+    "title": "Jewelcrafting: Gemology",
+    "source": "AtlasLootCrafting"
+  },
+  "JewelcraftingGoldsmithing1": {
+    "title": "Jewelcrafting: Goldsmithing",
+    "source": "AtlasLootCrafting"
+  },
+  "CookingApprentice1": {
+    "title": "Cooking",
+    "source": "AtlasLootCrafting"
+  },
+  "CookingJourneyman1": {
+    "title": "Cooking",
+    "source": "AtlasLootCrafting"
+  },
+  "CookingExpert1": {
+    "title": "Cooking",
+    "source": "AtlasLootCrafting"
+  },
+  "CookingArtisan1": {
+    "title": "Cooking",
+    "source": "AtlasLootCrafting"
+  },
+  "FirstAid1": {
+    "title": "First Aid",
+    "source": "AtlasLootCrafting"
+  },
+  "Survival1": {
+    "title": "Survival",
+    "source": "AtlasLootCrafting"
+  },
+  "Survival2": {
+    "title": "Gardening",
+    "source": "AtlasLootCrafting"
+  },
+  "Poisons1": {
+    "title": "Rogue - Poisons",
+    "source": "AtlasLootCrafting"
+  },
+  "BRRepFriendly": {
+    "title": "Blood Ring - Friendly",
+    "source": "AtlasLootBGItems"
+  },
+  "BRRepHonored": {
+    "title": "Blood Ring - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "BRRepRevered": {
+    "title": "Blood Ring - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "BRRepExalted": {
+    "title": "Blood Ring - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "BRRepTokens": {
+    "title": "Blood Ring - Token of Blood Rewards",
+    "source": "AtlasLootBGItems"
+  },
+  "AVRepFriendly": {
+    "title": "Alterac Valley - Friendly",
+    "source": "AtlasLootBGItems"
+  },
+  "AVRepHonored": {
+    "title": "Alterac Valley - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "AVRepRevered": {
+    "title": "Alterac Valley - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "AVRepExalted": {
+    "title": "Alterac Valley - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "AVKorrak": {
+    "title": "Alterac Valley - Korrak the Bloodrager",
+    "source": "AtlasLootBGItems"
+  },
+  "AVLokholarIvus": {
+    "title": "Alterac Valley - Ivus & Lokholar",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepFriendly": {
+    "title": "Arathi Basin - Friendly",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepHonored2029": {
+    "title": "Arathi Basin - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepHonored3039": {
+    "title": "Arathi Basin - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepHonored4049": {
+    "title": "Arathi Basin - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepHonored5059": {
+    "title": "Arathi Basin - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepRevered2029": {
+    "title": "Arathi Basin - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepRevered3039": {
+    "title": "Arathi Basin - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepRevered4049": {
+    "title": "Arathi Basin - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepRevered5059": {
+    "title": "Arathi Basin - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "ABRepExalted": {
+    "title": "Arathi Basin - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepFriendly": {
+    "title": "Warsong Gulch - Friendly",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepHonored1019": {
+    "title": "Warsong Gulch - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepHonored2029": {
+    "title": "Warsong Gulch - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepHonored3039": {
+    "title": "Warsong Gulch - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepHonored4049": {
+    "title": "Warsong Gulch - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepHonored5059": {
+    "title": "Warsong Gulch - Honored",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepRevered1019": {
+    "title": "Warsong Gulch - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepRevered2029": {
+    "title": "Warsong Gulch - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepRevered3039": {
+    "title": "Warsong Gulch - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepRevered4049": {
+    "title": "Warsong Gulch - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepRevered5059": {
+    "title": "Warsong Gulch - Revered",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepExalted4049": {
+    "title": "Warsong Gulch - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepExalted5059": {
+    "title": "Warsong Gulch - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "WSGRepExalted60": {
+    "title": "Warsong Gulch - Exalted",
+    "source": "AtlasLootBGItems"
+  },
+  "PvP60Accessories1": {
+    "title": "PvP Rank 2",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PvP60Accessories2": {
+    "title": "PvP Rank 2-9",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PvP60Accessories3": {
+    "title": "PvP Rank 2-9",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPWeapons1": {
+    "title": "PvP Rank 14",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPWeapons2": {
+    "title": "PvP Rank 14",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PvPMountsPvP": {
+    "title": "PvP Rank 11",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPDruid": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPHunter": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPMage": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPPaladin": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPPriest": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPRogue": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPShaman": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPWarlock": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "PVPWarrior": {
+    "title": "PvP Rank 7-13",
+    "source": "AtlasLootGeneralPvPItems"
+  },
+  "DUNGEONSMENU1": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "DUNGEONSMENU2": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "PVPMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "PVPSET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "AVRepMenu": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "ABRepMenu": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "WSGRepMenu": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "BRRepMenu": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "PRE60SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "ZGSET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "AQ20SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "AQ40SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "KARASET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "T0SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "T1SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "T2SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "T3SET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "REPMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "SETMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "WORLDEVENTMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "ALCHEMYMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "CRAFTSET": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "CRAFTINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "SMITHINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "ENCHANTINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "ENGINEERINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "LEATHERWORKINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "TAILORINGMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "FIRSTAIDMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "WORLDBOSSMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "JEWELCRAFTMENU": {
+    "title": "dummy",
+    "source": "dummy"
+  },
+  "WishList": {
+    "title": "WishList",
+    "source": "AtlasLootCharDB"
+  },
+  "SearchResult": {
+    "title": "Search",
+    "source": "AtlasLootCharDB"
+  },
+  "EmptyInstance": {
+    "title": "AtlasLoot",
+    "source": "AtlasLootFallback"
+  }
+}

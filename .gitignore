@@ -1,0 +1,22 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+
+# Python tools (local-only, used to regenerate data)
+tools/
+__pycache__/
+*.pyc
+
+# WoW addon (local-only, used to dump tooltips)
+TooltipDumper/
+
+# Dev convenience script
+start-dev.mjs
+
+# IDE
+.vscode/
+*.swp
+*.tsbuildinfo

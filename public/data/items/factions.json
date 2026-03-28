@@ -1,0 +1,5029 @@
+{
+  "EmptyInstance": [],
+  "Argent1": [
+    {
+      "id": 22689,
+      "type": "item",
+      "icon": "INV_Helmet_13",
+      "name": "Sanctified Leather Helm",
+      "quality": 3,
+      "description": "Head, Leather"
+    },
+    {
+      "id": 22690,
+      "type": "item",
+      "icon": "INV_Pants_03",
+      "name": "Leggings of the Plague Hunter",
+      "quality": 3,
+      "description": "Legs, Mail"
+    },
+    {
+      "id": 22681,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_33",
+      "name": "Band of Piety",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 22680,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_01",
+      "name": "Band of Resolution",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 22688,
+      "type": "item",
+      "icon": "INV_Weapon_ShortBlade_03",
+      "name": "Verimonde's Last Resort",
+      "quality": 3,
+      "description": "Main Hand, Dagger"
+    },
+    {
+      "id": 22679,
+      "type": "item",
+      "icon": "INV_Misc_Bag_17",
+      "name": "Supply Bag",
+      "quality": 3,
+      "description": "18 Slot Bag"
+    },
+    {
+      "id": 22523,
+      "type": "item",
+      "icon": "INV_Misc_Token_ArgentDawn",
+      "name": "Insignia of the Dawn",
+      "quality": 2,
+      "description": "Needed to purchase rewards"
+    },
+    {
+      "id": 22657,
+      "type": "item",
+      "icon": "INV_Jewelry_Amulet_04",
+      "name": "Amulet of the Dawn",
+      "quality": 4,
+      "description": "Neck"
+    },
+    {
+      "id": 22659,
+      "type": "item",
+      "icon": "INV_Jewelry_Amulet_04",
+      "name": "Medallion of the Dawn",
+      "quality": 4,
+      "description": "Neck"
+    },
+    {
+      "id": 22667,
+      "type": "item",
+      "icon": "INV_Bracer_12",
+      "name": "Bracers of Hope",
+      "quality": 4,
+      "description": "Wrist, Cloth"
+    },
+    {
+      "id": 22668,
+      "type": "item",
+      "icon": "INV_Bracer_04",
+      "name": "Bracers of Subterfuge",
+      "quality": 4,
+      "description": "Wrist, Leather"
+    },
+    {
+      "id": 22678,
+      "type": "item",
+      "icon": "INV_Misc_Gem_Pearl_04",
+      "name": "Talisman of Ascendance",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 22656,
+      "type": "item",
+      "icon": "INV_Weapon_Rifle_06",
+      "name": "The Purifier",
+      "quality": 4,
+      "description": "Gun"
+    },
+    {
+      "id": 22524,
+      "type": "item",
+      "icon": "INV_Misc_Token_ScarletCrusade",
+      "name": "Insignia of the Crusade",
+      "quality": 2,
+      "description": "Needed to purchase rewards"
+    }
+  ],
+  "Argent2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Talisman_08",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 13724,
+      "type": "item",
+      "icon": "INV_Misc_Food_33",
+      "name": "Enriched Manna Biscuit",
+      "quality": 1,
+      "description": "Food"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Talisman_08",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58227,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_25",
+      "name": "Band of Vitality",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 58225,
+      "type": "item",
+      "icon": "INV_Sword_25",
+      "name": "Blade of Purity",
+      "quality": 3,
+      "description": "Main Hand, Sword"
+    },
+    {
+      "id": 58226,
+      "type": "item",
+      "icon": "INV_Helmet_33",
+      "name": "Cowl of Resolve",
+      "quality": 3,
+      "description": "Head, Cloth"
+    },
+    {
+      "id": 13482,
+      "type": "item",
+      "icon": "INV_Scroll_06",
+      "name": "Recipe: Transmute Air to Fire",
+      "quality": 2,
+      "description": "Alchemy (275)"
+    },
+    {
+      "id": 19216,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Argent Boots",
+      "quality": 1,
+      "description": "Tailoring (290)"
+    },
+    {
+      "id": 19328,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Dawn Treaders",
+      "quality": 1,
+      "description": "Leatherworking (290)"
+    },
+    {
+      "id": 19203,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Girdle of the Dawn",
+      "quality": 1,
+      "description": "Blacksmithing (290)"
+    },
+    {
+      "id": 19442,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Formula: Powerful Anti-Venom",
+      "quality": 1,
+      "description": "First Aid (300)"
+    },
+    {
+      "id": 19446,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Bracer - Mana Regeneration",
+      "quality": 1,
+      "description": "Enchanting (290)"
+    }
+  ],
+  "Argent3": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Talisman_08",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58230,
+      "type": "item",
+      "icon": "INV_Boots_07",
+      "name": "Plaguewalker Boots",
+      "quality": 3,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 58228,
+      "type": "item",
+      "icon": "INV_Pants_04",
+      "name": "Leggings of the Redeemer",
+      "quality": 3,
+      "description": "Legs, Plate"
+    },
+    {
+      "id": 58229,
+      "type": "item",
+      "icon": "INV_Gauntlets_05",
+      "name": "Hierophant Gloves",
+      "quality": 3,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 18171,
+      "type": "item",
+      "icon": "Spell_Holy_WordFortitude",
+      "name": "Arcane Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 18169,
+      "type": "item",
+      "icon": "Spell_Fire_FlameShock",
+      "name": "Flame Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 18170,
+      "type": "item",
+      "icon": "Spell_Frost_FrostShock",
+      "name": "Frost Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 18172,
+      "type": "item",
+      "icon": "Spell_Nature_ProtectionformNature",
+      "name": "Nature Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 18173,
+      "type": "item",
+      "icon": "Spell_Shadow_RagingScream",
+      "name": "Shadow Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 19217,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Argent Shoulders",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19329,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Golden Mantle of the Dawn",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19205,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Gloves of the Dawn",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19447,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Formula: Enchant Bracer - Healing",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 13810,
+      "type": "item",
+      "icon": "INV_Misc_Food_41",
+      "name": "Blessed Sunfruit",
+      "quality": 1,
+      "description": "Food"
+    },
+    {
+      "id": 13813,
+      "type": "item",
+      "icon": "INV_Drink_16",
+      "name": "Blessed Sunfruit Juice",
+      "quality": 1,
+      "description": "Drink"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Talisman_08",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58233,
+      "type": "item",
+      "icon": "INV_Shield_05",
+      "name": "Bulwark of Holy Resolve",
+      "quality": 4,
+      "description": "Shield"
+    },
+    {
+      "id": 58232,
+      "type": "item",
+      "icon": "INV_Sword_08",
+      "name": "Demonbane",
+      "quality": 4,
+      "description": "Two-Hand, Sword"
+    },
+    {
+      "id": 58231,
+      "type": "item",
+      "icon": "INV_Staff_05",
+      "name": "Penchant of Humility",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 18182,
+      "type": "item",
+      "icon": "INV_Misc_Gem_Variety_02",
+      "name": "Chromatic Mantle of the Dawn",
+      "quality": 2,
+      "description": "Shoulder Enchant"
+    }
+  ],
+  "AQBroodRings": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Path of the Conqueror",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 21201,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Neutral"
+    },
+    {
+      "id": 21202,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Friendly"
+    },
+    {
+      "id": 21203,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Honored"
+    },
+    {
+      "id": 21204,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Revered"
+    },
+    {
+      "id": 21205,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Exalted"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Path of the Invoker",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 21206,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Neutral"
+    },
+    {
+      "id": 21207,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Friendly"
+    },
+    {
+      "id": 21208,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Honored"
+    },
+    {
+      "id": 21209,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Revered"
+    },
+    {
+      "id": 21210,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Exalted"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Path of the Protector",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 21196,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Neutral"
+    },
+    {
+      "id": 21197,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Friendly"
+    },
+    {
+      "id": 21198,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Honored"
+    },
+    {
+      "id": 21199,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Revered"
+    },
+    {
+      "id": 21200,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Signet Ring of the Bronze Dragonflight",
+      "quality": 4,
+      "description": "Ring, Exalted"
+    }
+  ],
+  "Timbermaw": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Horn_01",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 13484,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Transmute Earth to Water",
+      "quality": 2,
+      "description": "Alchemy (275)"
+    },
+    {
+      "id": 20254,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Warbear Woolies",
+      "quality": 1,
+      "description": "Leatherworking (285)"
+    },
+    {
+      "id": 15742,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Warbear Harness",
+      "quality": 1,
+      "description": "Leatherworking (275)"
+    },
+    {
+      "id": 22392,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant 2H Weapon - Agility",
+      "quality": 1,
+      "description": "Enchanting (290)"
+    },
+    {
+      "id": 91796,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Transmute Elemental Earth",
+      "quality": 1,
+      "description": "Alchemy (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Horn_01",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 16768,
+      "type": "item",
+      "icon": "INV_Misc_Bag_11",
+      "name": "Furbolg Medicine Pouch",
+      "quality": 2,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 16769,
+      "type": "item",
+      "icon": "INV_Mace_11",
+      "name": "Furbolg Medicine Totem",
+      "quality": 2,
+      "description": "Main Hand, Mace"
+    },
+    {
+      "id": 19202,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Heavy Timbermaw Belt",
+      "quality": 1,
+      "description": "Blacksmithing (290)"
+    },
+    {
+      "id": 62001,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Fury of the Timbermaw",
+      "quality": 1,
+      "description": "Blacksmithing (290)"
+    },
+    {
+      "id": 19326,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Might of the Timbermaw",
+      "quality": 1,
+      "description": "Leatherworking (290)"
+    },
+    {
+      "id": 19215,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Wisdom of the Timbermaw",
+      "quality": 1,
+      "description": "Tailoring (290)"
+    },
+    {
+      "id": 19445,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Weapon - Agility",
+      "quality": 1,
+      "description": "Enchanting (290)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Horn_01",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 19218,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Mantle of the Timbermaw",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19327,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Timbermaw Brawlers",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19204,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Heavy Timbermaw Boots",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 62002,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Pauldrons of the Timbermaw",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Horn_01",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 21326,
+      "type": "item",
+      "icon": "INV_Misc_Horn_01",
+      "name": "Defender of the Timbermaw",
+      "quality": 4,
+      "description": "Trinket"
+    }
+  ],
+  "Thorium1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Ingot_Mithril",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 17051,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Bracers",
+      "quality": 3,
+      "description": "Blacksmithing (295)"
+    },
+    {
+      "id": 17018,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Flarecore Gloves",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 17023,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Molten Helm",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 17022,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Corehound Boots",
+      "quality": 1,
+      "description": "Leatherworking (295)"
+    },
+    {
+      "id": 20761,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Transmute Elemental Fire",
+      "quality": 1,
+      "description": "Alchemy (300)"
+    },
+    {
+      "id": 19444,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Weapon - Strength",
+      "quality": 1,
+      "description": "Enchanting (290)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Ingot_Mithril",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58216,
+      "type": "item",
+      "icon": "INV_Hammer_11",
+      "name": "Hansel's Gavel",
+      "quality": 3,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 58217,
+      "type": "item",
+      "icon": "INV_Torch_Lit",
+      "name": "Lookout's Illuminator",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 58218,
+      "type": "item",
+      "icon": "INV_Belt_03",
+      "name": "Sootsoaked Sash",
+      "quality": 3,
+      "description": "Waist, Cloth"
+    },
+    {
+      "id": 17059,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Reaver",
+      "quality": 3,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 17060,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Destroyer",
+      "quality": 3,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 17049,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Fiery Chain Girdle",
+      "quality": 3,
+      "description": "Blacksmithing (295)"
+    },
+    {
+      "id": 17017,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Flarecore Mantle",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19219,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Flarecore Robe",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19330,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Lava Belt",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 17025,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Black Dragonscale Boots",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19206,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Helm",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19448,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Weapon - Mighty Spirit",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    }
+  ],
+  "Thorium2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Ingot_Mithril",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58221,
+      "type": "item",
+      "icon": "INV_Jewelry_Amulet_05",
+      "name": "Flameseeker Necklace",
+      "quality": 3,
+      "description": "Neck"
+    },
+    {
+      "id": 58219,
+      "type": "item",
+      "icon": "INV_Bracer_10",
+      "name": "Magmascale Shackles",
+      "quality": 3,
+      "description": "Wrist, Mail"
+    },
+    {
+      "id": 58220,
+      "type": "item",
+      "icon": "INV_Boots_01",
+      "name": "Golem Stompers",
+      "quality": 3,
+      "description": "Feet, Plate"
+    },
+    {
+      "id": 104,
+      "type": "item",
+      "icon": "INV_Scroll_06",
+      "name": "Plans: Dark Iron Belt Buckle",
+      "quality": 3,
+      "description": "Blacksmithing (275)"
+    },
+    {
+      "id": 18592,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Sulfuron Hammer",
+      "quality": 4,
+      "description": "Blacksmithing, Quest Reward"
+    },
+    {
+      "id": 17052,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Leggings",
+      "quality": 3,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 17053,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Fiery Chain Shoulders",
+      "quality": 3,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19220,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Flarecore Leggings",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19333,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Molten Belt",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19332,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Corehound Belt",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19331,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Chromatic Gauntlets",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19207,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Gauntlets",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19208,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Black Amnesty",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19209,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Blackfury",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19449,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Formula: Enchant Weapon - Mighty Intellect",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 50750,
+      "type": "item",
+      "icon": "INV_Scroll_06",
+      "name": "Outline: Prospector's Magnifying Lens",
+      "quality": 1,
+      "description": "Survival (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Ingot_Mithril",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 58222,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_43",
+      "name": "Ring of the Brotherhood",
+      "quality": 4,
+      "description": "Ring"
+    },
+    {
+      "id": 58224,
+      "type": "item",
+      "icon": "INV_Misc_Cape_18",
+      "name": "Cloak of Flowing Fire",
+      "quality": 4,
+      "description": "Back"
+    },
+    {
+      "id": 58223,
+      "type": "item",
+      "icon": "INV_Gauntlets_32",
+      "name": "Molten Tempered Gloves",
+      "quality": 4,
+      "description": "Hands, Plate"
+    },
+    {
+      "id": 20040,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Dark Iron Boots",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 62004,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Fiery Chain Breastplate",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19210,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Ebon Hand",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19211,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Blackguard",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19212,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Nightfall",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 62005,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Flarecore Boots",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 62006,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Chromatic Leggings",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 62007,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Molten Leggings",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 62003,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Corehound Gloves",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    }
+  ],
+  "Cenarion1": [
+    {
+      "id": 22772,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sylvan Shoulders",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 22769,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bramblewood Belt",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20506,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Spitfire Bracers",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20509,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sandstalker Bracers",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 22768,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Ironvine Belt",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 22209,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Heavy Obsidian Belt",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 22310,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Cenarion Herb Bag",
+      "quality": 1,
+      "description": "Tailoring (275)"
+    },
+    {
+      "id": 20732,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Cloak - Greater Fire Resistance",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 21187,
+      "type": "item",
+      "icon": "INV_Misc_Cape_07",
+      "name": "Earthweave Cloak",
+      "quality": 3,
+      "description": "Back"
+    },
+    {
+      "id": 21178,
+      "type": "item",
+      "icon": "INV_Gauntlets_18",
+      "name": "Gloves of Earthen Power",
+      "quality": 3,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 21179,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_18",
+      "name": "Band of Earthen Wrath",
+      "quality": 3,
+      "description": "Ring"
+    }
+  ],
+  "Cenarion2": [
+    {
+      "id": 22773,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sylvan Crown",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 22770,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bramblewood Boots",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20507,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Spitfire Gauntlets",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20510,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sandstalker Gauntlets",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 22767,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Ironvine Gloves",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 22214,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Light Obsidian Belt",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 20733,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Cloak - Greater Nature Resistance",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 21183,
+      "type": "item",
+      "icon": "INV_Chest_Cloth_06",
+      "name": "Earthpower Vest",
+      "quality": 3,
+      "description": "Chest, Cloth"
+    },
+    {
+      "id": 21182,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_19",
+      "name": "Band of Earthen Might",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 21181,
+      "type": "item",
+      "icon": "INV_Misc_Herb_02",
+      "name": "Grace of Earth",
+      "quality": 3,
+      "description": "Trinket"
+    }
+  ],
+  "Cenarion3": [
+    {
+      "id": 22683,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Gaea's Embrace",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 22774,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sylvan Vest",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 22771,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bramblewood Helm",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20508,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Spitfire Breastplate",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20511,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Sandstalker Breastplate",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 22766,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Ironvine Breastplate",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 22219,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Jagged Obsidian Shield",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 22312,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Satchel of Cenarius",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 21186,
+      "type": "item",
+      "icon": "INV_Bracer_12",
+      "name": "Rockfury Bracers",
+      "quality": 4,
+      "description": "Wrist, Cloth"
+    },
+    {
+      "id": 21184,
+      "type": "item",
+      "icon": "INV_Bracer_07",
+      "name": "Deeprock Bracers",
+      "quality": 4,
+      "description": "Wrist, Plate"
+    },
+    {
+      "id": 21189,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_41",
+      "name": "Might of Cenarius",
+      "quality": 4,
+      "description": "Ring"
+    },
+    {
+      "id": 21185,
+      "type": "item",
+      "icon": "INV_Misc_Gem_Pearl_06",
+      "name": "Earthcalm Orb",
+      "quality": 4,
+      "description": "Held In Off-hand"
+    }
+  ],
+  "Cenarion4": [
+    {
+      "id": 20382,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Dreamscale Breastplate",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 22221,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Obsidian Mail Tunic",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 83548,
+      "type": "item",
+      "icon": "INV_Scroll_04",
+      "name": "Plans: Dream's Herald",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 83546,
+      "type": "item",
+      "icon": "INV_Scroll_04",
+      "name": "Pattern: Verdant Dreamer's Breastplate",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 80301,
+      "type": "item",
+      "icon": "INV_Shirt_GuildTabard_01",
+      "name": "Cenarion Circle Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 21190,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_40",
+      "name": "Wrath of Cenarius",
+      "quality": 4,
+      "description": "Ring"
+    },
+    {
+      "id": 21180,
+      "type": "item",
+      "icon": "Spell_Nature_AbolishMagic",
+      "name": "Earthstrike",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 21188,
+      "type": "item",
+      "icon": "INV_Hammer_23",
+      "name": "Fist of Cenarius",
+      "quality": 4,
+      "description": "Two-Hand, Mace"
+    }
+  ],
+  "Darkmoon": [
+    {
+      "id": 19288,
+      "type": "item",
+      "icon": "INV_Misc_Ticket_Tarot_BlueDragon_01",
+      "name": "Darkmoon Card: Blue Dragon",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 19289,
+      "type": "item",
+      "icon": "INV_Misc_Ticket_Tarot_Maelstrom_01",
+      "name": "Darkmoon Card: Maelstrom",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 19287,
+      "type": "item",
+      "icon": "INV_Misc_Ticket_Tarot_Heroism_01",
+      "name": "Darkmoon Card: Heroism",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 19290,
+      "type": "item",
+      "icon": "INV_Misc_Ticket_Tarot_TwistingNether_01",
+      "name": "Darkmoon Card: Twisting Nether",
+      "quality": 4,
+      "description": "Trinket"
+    },
+    {
+      "id": 19491,
+      "type": "item",
+      "icon": "INV_Jewelry_Necklace_14",
+      "name": "Amulet of the Darkmoon",
+      "quality": 4,
+      "description": "Neck"
+    },
+    {
+      "id": 19426,
+      "type": "item",
+      "icon": "INV_Jewelry_Necklace_16",
+      "name": "Orb of the Darkmoon",
+      "quality": 4,
+      "description": "Neck"
+    },
+    {
+      "id": 19296,
+      "type": "item",
+      "icon": "INV_Misc_Bag_21",
+      "name": "Greater Darkmoon Prize",
+      "quality": 2,
+      "description": ""
+    },
+    {
+      "id": 19297,
+      "type": "item",
+      "icon": "INV_Misc_Bag_07_Black",
+      "name": "Lesser Darkmoon Prize",
+      "quality": 2,
+      "description": ""
+    },
+    {
+      "id": 19298,
+      "type": "item",
+      "icon": "INV_Misc_Bag_04",
+      "name": "Minor Darkmoon Prize",
+      "quality": 2,
+      "description": ""
+    },
+    {
+      "id": 19291,
+      "type": "item",
+      "icon": "INV_Box_04",
+      "name": "Darkmoon Storage Box",
+      "quality": 1,
+      "description": ""
+    },
+    {
+      "id": 19293,
+      "type": "item",
+      "icon": "INV_Misc_Food_18",
+      "name": "Last Year's Mutton",
+      "quality": 1,
+      "description": ""
+    },
+    {
+      "id": 19292,
+      "type": "item",
+      "icon": "INV_Misc_Food_18",
+      "name": "Last Month's Mutton",
+      "quality": 1,
+      "description": ""
+    },
+    {
+      "id": 19295,
+      "type": "item",
+      "icon": "INV_Misc_Herb_19",
+      "name": "Darkmoon Flower",
+      "quality": 1,
+      "description": ""
+    }
+  ],
+  "Zandalar1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Coin_08",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 19766,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bloodvine Boots",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19771,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Primal Batskin Bracers",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 20001,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Schematic: Bloodvine Lens",
+      "quality": 1,
+      "description": "Engineering (300)"
+    },
+    {
+      "id": 19778,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Bloodsoul Gauntlets",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19781,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Darksoul Shoulders",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 20012,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Greater Dreamless Sleep",
+      "quality": 1,
+      "description": "Alchemy (275)"
+    },
+    {
+      "id": 20757,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Brilliant Mana Oil",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Coin_08",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 50749,
+      "type": "item",
+      "icon": "INV_Scroll_06",
+      "name": "Outline: Spirited Precision Sickle",
+      "quality": 1,
+      "description": "Survival (300)"
+    },
+    {
+      "id": 19765,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bloodvine Leggings",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 20000,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Schematic: Bloodvine Goggles",
+      "quality": 1,
+      "description": "Engineering (300)"
+    },
+    {
+      "id": 19770,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Primal Batskin Gloves",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19773,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Blood Tiger Shoulders",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19777,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Bloodsoul Shoulders",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19780,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Darksoul Leggings",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 20014,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Major Troll's Blood Potion",
+      "quality": 1,
+      "description": "Alchemy (290)"
+    },
+    {
+      "id": 20756,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Brilliant Wizard Oil",
+      "quality": 1,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 20031,
+      "type": "item",
+      "icon": "INV_Misc_Food_42",
+      "name": "Essence Mango",
+      "quality": 1,
+      "description": "Food"
+    }
+  ],
+  "Zandalar2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Coin_08",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 20080,
+      "type": "item",
+      "icon": "INV_Potion_29",
+      "name": "Sheen of Zanza",
+      "quality": 2,
+      "description": "Potion"
+    },
+    {
+      "id": 20079,
+      "type": "item",
+      "icon": "INV_Potion_30",
+      "name": "Spirit of Zanza",
+      "quality": 2,
+      "description": "Potion"
+    },
+    {
+      "id": 20081,
+      "type": "item",
+      "icon": "INV_Potion_31",
+      "name": "Swiftness of Zanza",
+      "quality": 2,
+      "description": "Potion"
+    },
+    {
+      "id": 19764,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Bloodvine Vest",
+      "quality": 1,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 19769,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Primal Batskin Jerkin",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19772,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Blood Tiger Breastplate",
+      "quality": 1,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 19776,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Bloodsoul Breastplate",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 19779,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Plans: Darksoul Breastplate",
+      "quality": 1,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 20011,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Mageblood Potion",
+      "quality": 1,
+      "description": "Alchemy (275)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Coin_08",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 20077,
+      "type": "item",
+      "icon": "INV_Misc_ArmorKit_08",
+      "name": "Zandalar Signet of Might",
+      "quality": 3,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 20076,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_46",
+      "name": "Zandalar Signet of Mojo",
+      "quality": 3,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 20078,
+      "type": "item",
+      "icon": "Spell_Holy_PowerWordShield",
+      "name": "Zandalar Signet of Serenity",
+      "quality": 3,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 65033,
+      "type": "item",
+      "icon": "spell_holy_devotionaura",
+      "name": "Zandalar Signet of Tenacity",
+      "quality": 3,
+      "description": "Shoulder Enchant"
+    },
+    {
+      "id": 20013,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Living Action Potion",
+      "quality": 1,
+      "description": "Alchemy (285)"
+    }
+  ],
+  "Wintersaber1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Box_01",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 13086,
+      "type": "item",
+      "icon": "Ability_Mount_PinkTiger",
+      "name": "Reins of the Winterspring Frostsaber",
+      "quality": 4,
+      "description": "Mount"
+    }
+  ],
+  "Stormpike1": [
+    {
+      "id": 17904,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_05",
+      "name": "Stormpike Insignia Rank 6",
+      "quality": 4,
+      "description": "Trinket, Exalted"
+    },
+    {
+      "id": 17903,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_04",
+      "name": "Stormpike Insignia Rank 5",
+      "quality": 3,
+      "description": "Trinket, Exalted"
+    },
+    {
+      "id": 17902,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_03",
+      "name": "Stormpike Insignia Rank 4",
+      "quality": 3,
+      "description": "Trinket, Revered"
+    },
+    {
+      "id": 17901,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_02",
+      "name": "Stormpike Insignia Rank 3",
+      "quality": 2,
+      "description": "Trinket, Honored"
+    },
+    {
+      "id": 17900,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_01",
+      "name": "Stormpike Insignia Rank 2",
+      "quality": 2,
+      "description": "Trinket, Friendly"
+    },
+    {
+      "id": 17691,
+      "type": "item",
+      "icon": "INV_Jewelry_StormPikeTrinket_01",
+      "name": "Stormpike Insignia Rank 1",
+      "quality": 2,
+      "description": "Trinket, Neutral"
+    }
+  ],
+  "Frostwolf1": [
+    {
+      "id": 17909,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_05",
+      "name": "Frostwolf Insignia Rank 6",
+      "quality": 4,
+      "description": "Trinket, Exalted"
+    },
+    {
+      "id": 17908,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_04",
+      "name": "Frostwolf Insignia Rank 5",
+      "quality": 3,
+      "description": "Trinket, Exalted"
+    },
+    {
+      "id": 17907,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_03",
+      "name": "Frostwolf Insignia Rank 4",
+      "quality": 3,
+      "description": "Trinket, Revered"
+    },
+    {
+      "id": 17906,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_02",
+      "name": "Frostwolf Insignia Rank 3",
+      "quality": 2,
+      "description": "Trinket, Honored"
+    },
+    {
+      "id": 17905,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_01",
+      "name": "Frostwolf Insignia Rank 2",
+      "quality": 2,
+      "description": "Trinket, Friendly"
+    },
+    {
+      "id": 17690,
+      "type": "item",
+      "icon": "INV_Jewelry_FrostwolfTrinket_01",
+      "name": "Frostwolf Insignia Rank 1",
+      "quality": 2,
+      "description": "Trinket, Neutral"
+    }
+  ],
+  "WaterLords1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Frost_SummonWaterElemental_2",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 18399,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_28",
+      "name": "Ocean's Breeze",
+      "quality": 3,
+      "description": "Quest Reward Ring"
+    },
+    {
+      "id": 18398,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_10",
+      "name": "Tidal Loop",
+      "quality": 3,
+      "description": "Quest Reward Ring"
+    },
+    {
+      "id": 17333,
+      "type": "item",
+      "icon": "INV_Potion_76",
+      "name": "Aqual Quintessence",
+      "quality": 1,
+      "description": "Misc"
+    },
+    {
+      "id": 91797,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Recipe: Transmute Elemental Water",
+      "quality": 1,
+      "description": "Alchemy (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Frost_SummonWaterElemental_2",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 22754,
+      "type": "item",
+      "icon": "INV_Potion_83",
+      "name": "Eternal Quintessence",
+      "quality": 1,
+      "description": "Misc"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Frost_SummonWaterElemental_2",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81254,
+      "type": "item",
+      "icon": "Spell_Frost_SummonWaterElemental",
+      "name": "Water Waveling",
+      "quality": 1,
+      "description": "Pet"
+    }
+  ],
+  "Bloodsail1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Neutral",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 22742,
+      "type": "item",
+      "icon": "INV_Shirt_08",
+      "name": "Bloodsail Shirt",
+      "quality": 1,
+      "description": "Chest"
+    },
+    {
+      "id": 22743,
+      "type": "item",
+      "icon": "INV_Misc_Bandana_03",
+      "name": "Bloodsail Sash",
+      "quality": 1,
+      "description": "Waist"
+    },
+    {
+      "id": 22745,
+      "type": "item",
+      "icon": "INV_Pants_Cloth_02",
+      "name": "Bloodsail Pants",
+      "quality": 1,
+      "description": "Legs"
+    },
+    {
+      "id": 22744,
+      "type": "item",
+      "icon": "INV_Boots_05",
+      "name": "Bloodsail Boots",
+      "quality": 1,
+      "description": "Feet"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 12185,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Bloodsail Admiral's Hat",
+      "quality": 2,
+      "description": "Head, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 83494,
+      "type": "item",
+      "icon": "inv_chest_leather_10",
+      "name": "Captain's Overcoat",
+      "quality": 3,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 83493,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Enforcer Captain's Hat",
+      "quality": 2,
+      "description": "Head, Plate"
+    },
+    {
+      "id": 83490,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Pillager Captain's Hat",
+      "quality": 2,
+      "description": "Head, Cloth"
+    },
+    {
+      "id": 83492,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Raider Captain's Hat",
+      "quality": 2,
+      "description": "Head, Mail"
+    },
+    {
+      "id": 83491,
+      "type": "item",
+      "icon": "INV_Helmet_66",
+      "name": "Swashbuckler Captain's Hat",
+      "quality": 2,
+      "description": "Head, Leather"
+    }
+  ],
+  "Wardens1": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 61000,
+      "type": "item",
+      "icon": "inv_misc_rune_08",
+      "name": "Time-Worn Rune",
+      "quality": 1,
+      "description": ""
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 61005,
+      "type": "item",
+      "icon": "INV_Boots_08",
+      "name": "Boots of Flowing Sands",
+      "quality": 3,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 84604,
+      "type": "item",
+      "icon": "INV_Bracer_14",
+      "name": "Aurastone Bracers",
+      "quality": 3,
+      "description": "Wrist, Mail"
+    },
+    {
+      "id": 61003,
+      "type": "item",
+      "icon": "INV_Helmet_09",
+      "name": "Timeskipper's Helm of Alacrity",
+      "quality": 3,
+      "description": "Head, Plate"
+    },
+    {
+      "id": 61004,
+      "type": "item",
+      "icon": "inv_jewelry_ring_33",
+      "name": "Sandswept Ring of Arcanum",
+      "quality": 3,
+      "description": "Ring"
+    }
+  ],
+  "Wardens2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 84601,
+      "type": "item",
+      "icon": "INV_Shoulder_13",
+      "name": "Grass of Eternity",
+      "quality": 3,
+      "description": "Shoulder, Cloth"
+    },
+    {
+      "id": 61002,
+      "type": "item",
+      "icon": "INV_Chest_Cloth_30",
+      "name": "Robe of the Custodian",
+      "quality": 3,
+      "description": "Chest, Cloth"
+    },
+    {
+      "id": 61013,
+      "type": "item",
+      "icon": "INV_Gauntlets_10",
+      "name": "Gauntlets of Temporal Guidance",
+      "quality": 3,
+      "description": "Hands, Mail"
+    },
+    {
+      "id": 61001,
+      "type": "item",
+      "icon": "INV_Sword_34",
+      "name": "Claw of the Infinite",
+      "quality": 3,
+      "description": "One-Hand, Dagger"
+    },
+    {
+      "id": 84602,
+      "type": "item",
+      "icon": "INV_Wand_07",
+      "name": "Consecrated Caduceus",
+      "quality": 3,
+      "description": "Wand"
+    },
+    {
+      "id": 84603,
+      "type": "item",
+      "icon": "inv_staff_10",
+      "name": "Rod of the Churning Hourglass",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 50070,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Bronze Whelpling",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 61007,
+      "type": "item",
+      "icon": "INV_Boots_Plate_03",
+      "name": "Temporal Bronze Boots",
+      "quality": 4,
+      "description": "Feet, Plate"
+    },
+    {
+      "id": 61012,
+      "type": "item",
+      "icon": "inv_archaeology_70_highborne_inertleystonecharm",
+      "name": "Shard of Eternity",
+      "quality": 4,
+      "description": "Neck"
+    },
+    {
+      "id": 61010,
+      "type": "item",
+      "icon": "INV_Misc_Cape_14",
+      "name": "Wing of the Time-Lord",
+      "quality": 4,
+      "description": "Back"
+    },
+    {
+      "id": 61011,
+      "type": "item",
+      "icon": "INV_Weapon_Rifle_09",
+      "name": "Flintlocke's Hand Cannon",
+      "quality": 4,
+      "description": "Gun"
+    },
+    {
+      "id": 84600,
+      "type": "item",
+      "icon": "INV_Mace_01",
+      "name": "Blackthorn's Blackjack",
+      "quality": 4,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 61009,
+      "type": "item",
+      "icon": "INV_Shield_10",
+      "name": "Time-Shifting Wheel",
+      "quality": 4,
+      "description": "Shield"
+    },
+    {
+      "id": 61006,
+      "type": "item",
+      "icon": "INV_Sword_22",
+      "name": "Blade of Infinite Mysteries",
+      "quality": 4,
+      "description": "Main Hand, Sword"
+    },
+    {
+      "id": 51043,
+      "type": "item",
+      "icon": "inv_misc_bag_enchantedrunecloth",
+      "name": "Void-Linked Satchel",
+      "quality": 2,
+      "description": "Bag"
+    },
+    {
+      "id": 51252,
+      "type": "item",
+      "icon": "INV_Misc_Head_Dragon_Bronze",
+      "name": "Bronze Drake",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80300,
+      "type": "item",
+      "icon": "inv_shirt_guildtabard_01",
+      "name": "Time Warden's Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "Defilers": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Amulet_07",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 20131,
+      "type": "item",
+      "icon": "INV_Shirt_GuildTabard_01",
+      "name": "Battle Tabard of the Defilers",
+      "quality": 1,
+      "description": "Quest Reward: Tabard"
+    }
+  ],
+  "GelkisClan1": [
+    {
+      "id": 5748,
+      "type": "item",
+      "icon": "inv_weapon_bow_07",
+      "name": "Centaur Longbow",
+      "quality": 2,
+      "description": "Bow"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 6773,
+      "type": "item",
+      "icon": "INV_Chest_Chain_07",
+      "name": "Gelkis Marauder Chain",
+      "quality": 2,
+      "description": "Quest Reward: Chest, Mail"
+    },
+    {
+      "id": 6774,
+      "type": "item",
+      "icon": "INV_Wand_03",
+      "name": "Uthek's Finger",
+      "quality": 2,
+      "description": "Quest Reward: Held In Off-hand"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60899,
+      "type": "item",
+      "icon": "inv_gauntlets_21",
+      "name": "Grips of the Unified Storm",
+      "quality": 2,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 60900,
+      "type": "item",
+      "icon": "inv_belt_12",
+      "name": "Warleader Sash",
+      "quality": 2,
+      "description": "Wrist, Leather"
+    },
+    {
+      "id": 60901,
+      "type": "item",
+      "icon": "inv_helmet_36",
+      "name": "Centaur Skullcap",
+      "quality": 2,
+      "description": "Head, Mail"
+    },
+    {
+      "id": 60854,
+      "type": "item",
+      "icon": "inv_potion_50",
+      "name": "Blood of the First Khan",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 60860,
+      "type": "item",
+      "icon": "spell_frost_windwalkon",
+      "name": "Triskelion of Roving Elements",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 60859,
+      "type": "item",
+      "icon": "INV_Misc_Gem_CystalCut_01",
+      "name": "Theradras' Shed Tear",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60902,
+      "type": "item",
+      "icon": "inv_mace_11",
+      "name": "Gelkis Earthbinder",
+      "quality": 3,
+      "description": "Main Hand, Mace"
+    },
+    {
+      "id": 60903,
+      "type": "item",
+      "icon": "inv_belt_27",
+      "name": "Ceremonial Centaur Ring",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 60904,
+      "type": "item",
+      "icon": "inv_shoulder_28",
+      "name": "Maraudine Oath Pauldrons",
+      "quality": 3,
+      "description": "Head, Plate"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60905,
+      "type": "item",
+      "icon": "inv_wand_07",
+      "name": "Batu'kar of the Second Khan",
+      "quality": 4,
+      "description": "Staff"
+    },
+    {
+      "id": 60964,
+      "type": "item",
+      "icon": "inv_scroll_04",
+      "name": "Plans: Mantle of Centaur Authority",
+      "quality": 3,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 60908,
+      "type": "item",
+      "icon": "inv_shoulder_13",
+      "name": "Mantle of Centaur Authority",
+      "quality": 3,
+      "description": "Shoulder, Plate"
+    },
+    {
+      "id": 60965,
+      "type": "item",
+      "icon": "inv_scroll_05",
+      "name": "Pattern: Windbinder Gloves",
+      "quality": 3,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 60907,
+      "type": "item",
+      "icon": "inv_gauntlets_12",
+      "name": "Windbinder Gloves",
+      "quality": 3,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 60966,
+      "type": "item",
+      "icon": "inv_misc_note_01",
+      "name": "Formula: Enchant Bracer - Spell Power",
+      "quality": 3,
+      "description": "Enchanting (300)"
+    }
+  ],
+  "LeagueofArathor": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Jewelry_Amulet_07",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 20132,
+      "type": "item",
+      "icon": "INV_Shirt_GuildTabard_01",
+      "name": "Arathor Battle Tabard",
+      "quality": 1,
+      "description": "Quest Reward: Tabard"
+    }
+  ],
+  "MagramClan1": [
+    {
+      "id": 5748,
+      "type": "item",
+      "icon": "inv_weapon_bow_07",
+      "name": "Centaur Longbow",
+      "quality": 2,
+      "description": "Bow"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 6789,
+      "type": "item",
+      "icon": "INV_Misc_Cape_12",
+      "name": "Ceremonial Centaur Blanket",
+      "quality": 2,
+      "description": "Quest Reward: Back"
+    },
+    {
+      "id": 6788,
+      "type": "item",
+      "icon": "INV_Belt_11",
+      "name": "Magram Hunter's Belt",
+      "quality": 2,
+      "description": "Quest Reward: Waist, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60879,
+      "type": "item",
+      "icon": "inv_boots_07",
+      "name": "Centaur Stompers",
+      "quality": 2,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 60880,
+      "type": "item",
+      "icon": "inv_chest_leather_07",
+      "name": "Packrunner Harness",
+      "quality": 2,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 60881,
+      "type": "item",
+      "icon": "inv_belt_01",
+      "name": "Windwatcher Sash",
+      "quality": 2,
+      "description": "Waist, Cloth"
+    },
+    {
+      "id": 60853,
+      "type": "item",
+      "icon": "inv_misc_ear_nightelf_01",
+      "name": "Dyad of Twitching Elven Ears",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 60854,
+      "type": "item",
+      "icon": "inv_potion_50",
+      "name": "Blood of the First Khan",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 60855,
+      "type": "item",
+      "icon": "inv_misc_powder_black",
+      "name": "Ritual Dust of Satiation",
+      "quality": 2,
+      "description": "Quest Reward"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60884,
+      "type": "item",
+      "icon": "inv_weapon_shortblade_15",
+      "name": "Ceremonial Magram Dagger",
+      "quality": 3,
+      "description": "One-Hand, Dagger"
+    },
+    {
+      "id": 60883,
+      "type": "item",
+      "icon": "inv_gauntlets_30",
+      "name": "Gauntlets of the Khan",
+      "quality": 3,
+      "description": "Hands, Plate"
+    },
+    {
+      "id": 60882,
+      "type": "item",
+      "icon": "inv_weapon_bow_01",
+      "name": "Magram Windstriker",
+      "quality": 3,
+      "description": "Bow"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Centaur_01",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60885,
+      "type": "item",
+      "icon": "inv_axe_04",
+      "name": "Dar'kar of the Third Khan",
+      "quality": 4,
+      "description": "Two-Hand, Axe"
+    },
+    {
+      "id": 60968,
+      "type": "item",
+      "icon": "inv_scroll_04",
+      "name": "Pattern: Centaur Battle Harness",
+      "quality": 3,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 60910,
+      "type": "item",
+      "icon": "inv_chest_leather_04",
+      "name": "Centaur Battle Harness",
+      "quality": 3,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 60967,
+      "type": "item",
+      "icon": "inv_scroll_06",
+      "name": "Pattern: Dustguider Sash",
+      "quality": 3,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 60909,
+      "type": "item",
+      "icon": "inv_belt_01",
+      "name": "Dustguider Sash",
+      "quality": 3,
+      "description": "Waist, Cloth"
+    },
+    {
+      "id": 60969,
+      "type": "item",
+      "icon": "inv_misc_note_01",
+      "name": "Formula: Enchant Bracer - Greater Agility",
+      "quality": 3,
+      "description": "Enchanting (300)"
+    }
+  ],
+  "Helf": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Cloth Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80512,
+      "type": "item",
+      "icon": "INV_Chest_Cloth_43",
+      "name": "Quel'dorei Magister's Robe",
+      "quality": 3,
+      "description": "Chest, Cloth"
+    },
+    {
+      "id": 80513,
+      "type": "item",
+      "icon": "inv_boots_02",
+      "name": "Quel'dorei Magister's Boots",
+      "quality": 3,
+      "description": "Feet, Cloth"
+    },
+    {
+      "id": 80514,
+      "type": "item",
+      "icon": "INV_Belt_06",
+      "name": "Quel'dorei Magister's Belt",
+      "quality": 3,
+      "description": "Waist, Cloth"
+    },
+    {
+      "id": 80515,
+      "type": "item",
+      "icon": "inv_gauntlets_06",
+      "name": "Quel'dorei Magister's Gloves",
+      "quality": 3,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 80516,
+      "type": "item",
+      "icon": "Inv_pants_cloth_02",
+      "name": "Quel'dorei Magister's Leggings",
+      "quality": 3,
+      "description": "Legs, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Leather Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80517,
+      "type": "item",
+      "icon": "inv_chest_leather_05",
+      "name": "Quel'dorei Assassin's Tunic",
+      "quality": 3,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 80518,
+      "type": "item",
+      "icon": "inv_boots_05",
+      "name": "Quel'dorei Assassin's Boots",
+      "quality": 3,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 80519,
+      "type": "item",
+      "icon": "inv_belt_26",
+      "name": "Quel'dorei Assassin's Belt",
+      "quality": 3,
+      "description": "Waist, Leather"
+    },
+    {
+      "id": 80520,
+      "type": "item",
+      "icon": "inv_gauntlets_15",
+      "name": "Quel'dorei Assassin's Vices",
+      "quality": 3,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 80521,
+      "type": "item",
+      "icon": "INV_Pants_02",
+      "name": "Quel'dorei Assassin's Leggings",
+      "quality": 3,
+      "description": "Legs, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Mail Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80522,
+      "type": "item",
+      "icon": "INV_Chest_Leather_08",
+      "name": "Quel'dorei Ranger's Hauberk",
+      "quality": 3,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 80523,
+      "type": "item",
+      "icon": "INV_Boots_05",
+      "name": "Quel'dorei Ranger's Boots",
+      "quality": 3,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 80524,
+      "type": "item",
+      "icon": "INV_Belt_26",
+      "name": "Quel'dorei Ranger's Belt",
+      "quality": 3,
+      "description": "Waist, Mail"
+    },
+    {
+      "id": 80525,
+      "type": "item",
+      "icon": "Inv_gauntlets_25",
+      "name": "Quel'dorei Ranger's Gauntlets",
+      "quality": 3,
+      "description": "Hands, Mail"
+    },
+    {
+      "id": 80526,
+      "type": "item",
+      "icon": "INV_Pants_12",
+      "name": "Quel'dorei Ranger's Legguards",
+      "quality": 3,
+      "description": "Legs, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Plate Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80507,
+      "type": "item",
+      "icon": "inv_chest_chain_13",
+      "name": "Quel'dorei Guardian's Chestplate",
+      "quality": 3,
+      "description": "Chest, Plate"
+    },
+    {
+      "id": 80508,
+      "type": "item",
+      "icon": "Inv_boots_chain_06",
+      "name": "Quel'dorei Guardian's Boots",
+      "quality": 3,
+      "description": "Feet, Plate"
+    },
+    {
+      "id": 80509,
+      "type": "item",
+      "icon": "inv_belt_11",
+      "name": "Quel'dorei Guardian's Girdle",
+      "quality": 3,
+      "description": "Waist, Plate"
+    },
+    {
+      "id": 80510,
+      "type": "item",
+      "icon": "Inv_gauntlets_10",
+      "name": "Quel'dorei Guardian's Handguards",
+      "quality": 3,
+      "description": "Hands, Plate"
+    },
+    {
+      "id": 80511,
+      "type": "item",
+      "icon": "inv_pants_03",
+      "name": "Quel'dorei Guardian's Legplates",
+      "quality": 3,
+      "description": "Legs, Plate"
+    }
+  ],
+  "Helf2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Cloaks",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80505,
+      "type": "item",
+      "icon": "inv_misc_cape_10",
+      "name": "Quel'dorei Hero's Cape",
+      "quality": 3,
+      "description": "Back"
+    },
+    {
+      "id": 80527,
+      "type": "item",
+      "icon": "inv_misc_cape_16",
+      "name": "Quel'dorei Hero's Drape",
+      "quality": 3,
+      "description": "Back"
+    },
+    {
+      "id": 80506,
+      "type": "item",
+      "icon": "inv_misc_cape_16",
+      "name": "Quel'dorei Hero's Cloak",
+      "quality": 3,
+      "description": "Back"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Weapons",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80502,
+      "type": "item",
+      "icon": "Inv_staff_38",
+      "name": "Curved Ceremonial Staff",
+      "quality": 2,
+      "description": "Staff"
+    },
+    {
+      "id": 80504,
+      "type": "item",
+      "icon": "INV_Staff_25",
+      "name": "Hardened Root Staff",
+      "quality": 2,
+      "description": "Staff"
+    },
+    {
+      "id": 80501,
+      "type": "item",
+      "icon": "INV_Sword_04",
+      "name": "Sturdy Broadsword",
+      "quality": 2,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 80500,
+      "type": "item",
+      "icon": "INV_Mace_30",
+      "name": "Tempered Argus Mace",
+      "quality": 2,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 80503,
+      "type": "item",
+      "icon": "INV_Weapon_Bow_02",
+      "name": "Well-balanced Short Bow",
+      "quality": 2,
+      "description": "Bow"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Tabard",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80317,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_bloodelf",
+      "name": "Quel'Thalas Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_high_elf",
+      "name": "Pets",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80003,
+      "type": "item",
+      "icon": "inv_misc_foxkit",
+      "name": "Black-Footed Fox",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 80007,
+      "type": "item",
+      "icon": "INV_Staff_08",
+      "name": "Enchanted Broom",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 80000,
+      "type": "item",
+      "icon": "INV_Box_PetCarrier_01",
+      "name": "Golden Dragonhawk Hatchling",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 80001,
+      "type": "item",
+      "icon": "INV_Misc_Herb_14",
+      "name": "Thalassian Tender",
+      "quality": 1,
+      "description": "Pet"
+    }
+  ],
+  "Helf3": [
+    {
+      "id": 80529,
+      "type": "item",
+      "icon": "INV_Weapon_ShortBlade_15",
+      "name": "Quel'dorei Magister's Channeling Blade",
+      "quality": 3,
+      "description": "Main Hand, Dagger"
+    },
+    {
+      "id": 80539,
+      "type": "item",
+      "icon": "INV_Offhand_Blood_02",
+      "name": "Quel'dorei Magister's Focus",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 80541,
+      "type": "item",
+      "icon": "Inv_staff_38",
+      "name": "Quel'dorei Magister's Staff",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 80544,
+      "type": "item",
+      "icon": "INV_Staff_06",
+      "name": "Quel'dorei Magister's Spellflinger",
+      "quality": 3,
+      "description": "Wand"
+    },
+    {
+      "id": 80532,
+      "type": "item",
+      "icon": "INV_Mace_02",
+      "name": "Quel'dorei Cleric's Hammer",
+      "quality": 3,
+      "description": "Main Hand, Mace"
+    },
+    {
+      "id": 80540,
+      "type": "item",
+      "icon": "INV_Misc_Book_09",
+      "name": "Quel'dorei Cleric's Tome",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 80542,
+      "type": "item",
+      "icon": "INV_Staff_39",
+      "name": "Quel'dorei Cleric's Staff",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 80545,
+      "type": "item",
+      "icon": "INV_WAND_07",
+      "name": "Quel'dorei Cleric's Wand",
+      "quality": 2,
+      "description": "Wand"
+    },
+    {
+      "id": 80528,
+      "type": "item",
+      "icon": "inv_weapon_shortblade_07",
+      "name": "Quel'dorei Assassin's Kris",
+      "quality": 3,
+      "description": "Dagger"
+    },
+    {
+      "id": 80546,
+      "type": "item",
+      "icon": "INV_Weapon_Bow_17",
+      "name": "Quel'dorei Ranger's Longbow",
+      "quality": 3,
+      "description": "Bow"
+    },
+    {
+      "id": 80530,
+      "type": "item",
+      "icon": "INV_Hammer_02",
+      "name": "Quel'dorei Guardian's Mace",
+      "quality": 3,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 80531,
+      "type": "item",
+      "icon": "INV_Mace_30",
+      "name": "Quel'dorei Guardian's Warhammer",
+      "quality": 3,
+      "description": "Two-Hand, Mace"
+    },
+    {
+      "id": 80533,
+      "type": "item",
+      "icon": "INV_Axe_30",
+      "name": "Quel'dorei Guardian's Handaxe",
+      "quality": 3,
+      "description": "One-Hand, Axe"
+    },
+    {
+      "id": 80547,
+      "type": "item",
+      "icon": "INV_Axe_04",
+      "name": "Quel'dorei Guardian's Battle Axe",
+      "quality": 3,
+      "description": "Two-Hand, Axe"
+    },
+    {
+      "id": 80535,
+      "type": "item",
+      "icon": "INV_Sword_04",
+      "name": "Quel'dorei Defender's Deflector",
+      "quality": 3,
+      "description": "Main Hand, Sword"
+    },
+    {
+      "id": 80536,
+      "type": "item",
+      "icon": "INV_Sword_BloodElf_03",
+      "name": "Quel'dorei Assassin's Sword",
+      "quality": 3,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 80534,
+      "type": "item",
+      "icon": "INV_Spear_08",
+      "name": "Quel'dorei Guardian's Battle Glaive",
+      "quality": 3,
+      "description": "Two-Hand, Sword"
+    },
+    {
+      "id": 80537,
+      "type": "item",
+      "icon": "INV_Sword_2H_Blood_C_01",
+      "name": "Quel'dorei Guardian's Twinblade",
+      "quality": 3,
+      "description": "Two-Hand, Sword"
+    },
+    {
+      "id": 80538,
+      "type": "item",
+      "icon": "INV_Spear_10",
+      "name": "Quel'dorei Ranger's Spear",
+      "quality": 3,
+      "description": "Two-Hand, Polearm"
+    },
+    {
+      "id": 80543,
+      "type": "item",
+      "icon": "INV_Shield_36",
+      "name": "Quel'dorei Defender's Bulwark",
+      "quality": 3,
+      "description": "Shield, Off Hand"
+    }
+  ],
+  "Revantusk": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Cloth Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80612,
+      "type": "item",
+      "icon": "inv_chest_cloth_20",
+      "name": "Revantusk Mystic's Robe",
+      "quality": 3,
+      "description": "Chest, Cloth"
+    },
+    {
+      "id": 80613,
+      "type": "item",
+      "icon": "INV_Boots_05",
+      "name": "Revantusk Mystic's Boots",
+      "quality": 3,
+      "description": "Feet, Cloth"
+    },
+    {
+      "id": 80614,
+      "type": "item",
+      "icon": "INV_Belt_04",
+      "name": "Revantusk Mystic's Belt",
+      "quality": 3,
+      "description": "Waist, Cloth"
+    },
+    {
+      "id": 80615,
+      "type": "item",
+      "icon": "INV_Gauntlets_19",
+      "name": "Revantusk Mystic's Gloves",
+      "quality": 3,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 80616,
+      "type": "item",
+      "icon": "INV_Pants_13",
+      "name": "Revantusk Mystic's Leggings",
+      "quality": 3,
+      "description": "Legs, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Leather Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80617,
+      "type": "item",
+      "icon": "Inv_chest_chain_16",
+      "name": "Revantusk Stalker's Tunic",
+      "quality": 3,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 80618,
+      "type": "item",
+      "icon": "Inv_boots_chain_01",
+      "name": "Revantusk Stalker's Boots",
+      "quality": 3,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 80619,
+      "type": "item",
+      "icon": "Inv_belt_23",
+      "name": "Revantusk Stalker's Belt",
+      "quality": 3,
+      "description": "Waist, Leather"
+    },
+    {
+      "id": 80620,
+      "type": "item",
+      "icon": "Inv_gauntlets_25",
+      "name": "Revantusk Stalker's Vices",
+      "quality": 3,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 80621,
+      "type": "item",
+      "icon": "Inv_pants_mail_04",
+      "name": "Revantusk Stalker's Leggings",
+      "quality": 3,
+      "description": "Legs, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Mail Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80622,
+      "type": "item",
+      "icon": "inv_chest_leather_07",
+      "name": "Revantusk Shadow Hunter's Hauberk",
+      "quality": 3,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 80623,
+      "type": "item",
+      "icon": "inv_boots_02",
+      "name": "Revantusk Shadow Hunter's Boots",
+      "quality": 3,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 80624,
+      "type": "item",
+      "icon": "Inv_belt_23",
+      "name": "Revantusk Shadow Hunter's Belt",
+      "quality": 3,
+      "description": "Waist, Mail"
+    },
+    {
+      "id": 80625,
+      "type": "item",
+      "icon": "INV_Gauntlets_19",
+      "name": "Revantusk Shadow Hunter's Gauntlets",
+      "quality": 3,
+      "description": "Hands, Mail"
+    },
+    {
+      "id": 80626,
+      "type": "item",
+      "icon": "inv_pants_03",
+      "name": "Revantusk Shadow Hunter's Legguards",
+      "quality": 3,
+      "description": "Legs, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Plate Armor",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80607,
+      "type": "item",
+      "icon": "inv_chest_chain_17",
+      "name": "Revantusk Watcher's Chestplate",
+      "quality": 3,
+      "description": "Chest, Plate"
+    },
+    {
+      "id": 80608,
+      "type": "item",
+      "icon": "Inv_boots_chain_03",
+      "name": "Revantusk Watcher's Boots",
+      "quality": 3,
+      "description": "Feet, Plate"
+    },
+    {
+      "id": 80609,
+      "type": "item",
+      "icon": "Inv_belt_23",
+      "name": "Revantusk Watcher's Girdle",
+      "quality": 3,
+      "description": "Waist, Plate"
+    },
+    {
+      "id": 80610,
+      "type": "item",
+      "icon": "Inv_gauntlets_21",
+      "name": "Revantusk Watcher's Handguards",
+      "quality": 3,
+      "description": "Hands, Plate"
+    },
+    {
+      "id": 80611,
+      "type": "item",
+      "icon": "Inv_pants_leather_07",
+      "name": "Revantusk Watcher's Legplates",
+      "quality": 3,
+      "description": "Legs, Plate"
+    }
+  ],
+  "Revantusk2": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Cloaks",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80605,
+      "type": "item",
+      "icon": "INV_Misc_Cape_15",
+      "name": "Revantusk Hero's Cape",
+      "quality": 3,
+      "description": "Back, Cloth"
+    },
+    {
+      "id": 80627,
+      "type": "item",
+      "icon": "INV_Misc_Cape_17",
+      "name": "Revantusk Hero's Drape",
+      "quality": 3,
+      "description": "Back, Cloth"
+    },
+    {
+      "id": 80606,
+      "type": "item",
+      "icon": "INV_Misc_Cape_18",
+      "name": "Revantusk Hero's Cloak",
+      "quality": 3,
+      "description": "Back, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Weapons",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80602,
+      "type": "item",
+      "icon": "INV_Staff_Goldfeathered_01",
+      "name": "Crude Channeling Staff",
+      "quality": 2,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 80601,
+      "type": "item",
+      "icon": "Inv_sword_33",
+      "name": "Flesh Cutter",
+      "quality": 2,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 80600,
+      "type": "item",
+      "icon": "INV_Axe_01",
+      "name": "Rockslicer",
+      "quality": 2,
+      "description": "One-Hand, Axe"
+    },
+    {
+      "id": 80603,
+      "type": "item",
+      "icon": "INV_Weapon_Bow_02",
+      "name": "Sturdy Short Bow",
+      "quality": 2,
+      "description": "Bow"
+    },
+    {
+      "id": 80604,
+      "type": "item",
+      "icon": "INV_Staff_25",
+      "name": "Withered Root Staff",
+      "quality": 2,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Tabard",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81098,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_troll",
+      "name": "Revantusk Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Pets",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80878,
+      "type": "item",
+      "icon": "INV_Feather_14",
+      "name": "Amani Eagle",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Head_Troll_01",
+      "name": "Mounts",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81226,
+      "type": "item",
+      "icon": "Ability_Hunter_Pet_Bear",
+      "name": "Armored Brown Bear",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80433,
+      "type": "item",
+      "icon": "Ability_Druid_DemoralizingRoar",
+      "name": "Black Bear",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80438,
+      "type": "item",
+      "icon": "Ability_Druid_DemoralizingRoar",
+      "name": "Brown Bear",
+      "quality": 4,
+      "description": "Mount"
+    }
+  ],
+  "Revantusk3": [
+    {
+      "id": 80629,
+      "type": "item",
+      "icon": "INV_Misc_MonsterFang_01",
+      "name": "Revantusk Mystic's Chanting Blade",
+      "quality": 3,
+      "description": "Main Hand, Dagger"
+    },
+    {
+      "id": 80639,
+      "type": "item",
+      "icon": "INV_Staff_13",
+      "name": "Revantusk Mystic's Hex Skull",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 80641,
+      "type": "item",
+      "icon": "INV_Misc_Bone_ElfSkull_01",
+      "name": "Revantusk Mystic's Staff",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 80644,
+      "type": "item",
+      "icon": "INV_Wand_01",
+      "name": "Revantusk Mystic's Mojobender",
+      "quality": 3,
+      "description": "Wand"
+    },
+    {
+      "id": 80632,
+      "type": "item",
+      "icon": "INV_Misc_Bone_ElfSkull_01",
+      "name": "Revantusk Mender's Scepter",
+      "quality": 3,
+      "description": "Main Hand, Mace"
+    },
+    {
+      "id": 80640,
+      "type": "item",
+      "icon": "INV_Misc_Bone_01",
+      "name": "Revantusk Mender's Mojo",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 80642,
+      "type": "item",
+      "icon": "INV_Staff_Goldfeathered_01",
+      "name": "Revantusk Mender's Cane",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 80645,
+      "type": "item",
+      "icon": "INV_Wand_01",
+      "name": "Revantusk Mender's Wand",
+      "quality": 3,
+      "description": "Wand"
+    },
+    {
+      "id": 80628,
+      "type": "item",
+      "icon": "inv_misc_monsterfang_01",
+      "name": "Revantusk Stalker's Kris",
+      "quality": 3,
+      "description": "Dagger"
+    },
+    {
+      "id": 80646,
+      "type": "item",
+      "icon": "INV_Weapon_Bow_08",
+      "name": "Revantusk Shadow Hunter's Longbow",
+      "quality": 3,
+      "description": "Bow"
+    },
+    {
+      "id": 80630,
+      "type": "item",
+      "icon": "INV_Mace_01",
+      "name": "Revantusk Watcher's Mace",
+      "quality": 3,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 80631,
+      "type": "item",
+      "icon": "INV_Hammer_09",
+      "name": "Revantusk Watcher's Maul",
+      "quality": 3,
+      "description": "Two-Hand, Mace"
+    },
+    {
+      "id": 80633,
+      "type": "item",
+      "icon": "INV_Axe_01",
+      "name": "Revantusk Watcher's Slicer",
+      "quality": 3,
+      "description": "One-Hand, Axe"
+    },
+    {
+      "id": 80635,
+      "type": "item",
+      "icon": "INV_Axe_18",
+      "name": "Revantusk Defender's Deflector",
+      "quality": 3,
+      "description": "Main Hand, Axe"
+    },
+    {
+      "id": 80634,
+      "type": "item",
+      "icon": "INV_Axe_04",
+      "name": "Revantusk Watcher's Carver",
+      "quality": 3,
+      "description": "Two-Hand, Axe"
+    },
+    {
+      "id": 80636,
+      "type": "item",
+      "icon": "INV_Sword_18",
+      "name": "Revantusk Stalker's Blade",
+      "quality": 3,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 80637,
+      "type": "item",
+      "icon": "INV_Sword_02",
+      "name": "Revantusk Watcher's Warblade",
+      "quality": 3,
+      "description": "Two-Hand, Sword"
+    },
+    {
+      "id": 80638,
+      "type": "item",
+      "icon": "INV_Spear_02",
+      "name": "Revantusk Shadow Hunter's Striker",
+      "quality": 3,
+      "description": "Polearm"
+    },
+    {
+      "id": 80643,
+      "type": "item",
+      "icon": "INV_Shield_16",
+      "name": "Revantusk Defender's Bulwark",
+      "quality": 3,
+      "description": "Shield, Off Hand"
+    }
+  ],
+  "Ironforge": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_dwarf",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81214,
+      "type": "item",
+      "icon": "INV_Belt_27",
+      "name": "Girdle of Anvilmar",
+      "quality": 2,
+      "description": "Waist, Leather"
+    },
+    {
+      "id": 81211,
+      "type": "item",
+      "icon": "inv_boots_02",
+      "name": "Boots of Anvilmar",
+      "quality": 2,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 81212,
+      "type": "item",
+      "icon": "inv_chest_plate03",
+      "name": "Tunic of Anvilmar",
+      "quality": 2,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 81215,
+      "type": "item",
+      "icon": "INV_Gauntlets_25",
+      "name": "Armguards of Anvilmar",
+      "quality": 2,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 81213,
+      "type": "item",
+      "icon": "inv_pants_12",
+      "name": "Pants of Anvilmar",
+      "quality": 2,
+      "description": "Legs, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_dwarf",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80303,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_dwarf",
+      "name": "Ironforge Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 81233,
+      "type": "item",
+      "icon": "Ability_Mount_MountainRam",
+      "name": "Armored Ironforge Ram",
+      "quality": 4,
+      "description": "Mount"
+    }
+  ],
+  "Darnassus": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_night_elf",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60746,
+      "type": "item",
+      "icon": "inv_chest_plate09",
+      "name": "Sentinel's Breastplate",
+      "quality": 2,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 60747,
+      "type": "item",
+      "icon": "inv_boots_chain_08",
+      "name": "Sentinel's Boots",
+      "quality": 2,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 60748,
+      "type": "item",
+      "icon": "inv_helmet_19",
+      "name": "Sentinel's Crown",
+      "quality": 6,
+      "description": "Head, Mail"
+    },
+    {
+      "id": 60749,
+      "type": "item",
+      "icon": "inv_pants_mail_11",
+      "name": "Sentinel's Leggings",
+      "quality": 2,
+      "description": "Legs, Mail"
+    },
+    {
+      "id": 60750,
+      "type": "item",
+      "icon": "inv_gauntlets_06",
+      "name": "Sentinel's Gauntlets",
+      "quality": 2,
+      "description": "Hands, Mail"
+    },
+    {
+      "id": 60751,
+      "type": "item",
+      "icon": "INV_Shoulder_13",
+      "name": "Sentinel's Pauldrons",
+      "quality": 2,
+      "description": "Shoulder, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_night_elf",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60752,
+      "type": "item",
+      "icon": "INV_Spear_08",
+      "name": "Sentinel's Glaive",
+      "quality": 3,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_night_elf",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80305,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_nightelf",
+      "name": "Darnassus Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "Stormwind": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_human",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81225,
+      "type": "item",
+      "icon": "Ability_Mount_RidingHorse",
+      "name": "Armored Stormwind Warhorse",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80320,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_human",
+      "name": "Stormwind Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "GnomereganExiles": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_gnome",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81192,
+      "type": "item",
+      "icon": "INV_Misc_Gear_01",
+      "name": "Black Scrapforged Mechaspider",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81193,
+      "type": "item",
+      "icon": "INV_Misc_Gear_01",
+      "name": "Blue Scrapforged Mechaspider",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81194,
+      "type": "item",
+      "icon": "INV_Misc_Gear_01",
+      "name": "Green Scrapforged Mechaspider",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81195,
+      "type": "item",
+      "icon": "INV_Misc_Gear_01",
+      "name": "Red Scrapforged Mechaspider",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80306,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_gnome",
+      "name": "Gnomeregan Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "DarkspearTrolls": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_troll",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 83064,
+      "type": "item",
+      "icon": "spell_nature_agitatingtotem",
+      "name": "Hexed Voodoo Pads",
+      "quality": 3,
+      "description": "Shoulder, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_troll",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80806,
+      "type": "item",
+      "icon": "INV_Banner_01",
+      "name": "Healing Ward",
+      "quality": 3,
+      "description": "Trinket"
+    },
+    {
+      "id": 80785,
+      "type": "item",
+      "icon": "INV_Potion_07",
+      "name": "Bottle of Good Mojo",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 80797,
+      "type": "item",
+      "icon": "INV_Jewelry_Necklace_02",
+      "name": "Pendant of Troll Regeneration",
+      "quality": 3,
+      "description": "Neck"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_troll",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81183,
+      "type": "item",
+      "icon": "Ability_Hunter_Pet_WindSerpent",
+      "name": "Sunscale Hatchling",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 80304,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_troll",
+      "name": "Darkspear Tribe Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 81182,
+      "type": "item",
+      "icon": "Ability_Mount_Raptor",
+      "name": "Armored Darkspear Raptor",
+      "quality": 4,
+      "description": "Mount"
+    }
+  ],
+  "DurotarLaborUnion": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_goblin",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 50068,
+      "type": "item",
+      "icon": "Spell_Nature_GuardianWard",
+      "name": "Green Water Snake",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_goblin",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81196,
+      "type": "item",
+      "icon": "INV_Scroll_06",
+      "name": "Schematic: Goblin Radio",
+      "quality": 3,
+      "description": "Engineering (300)"
+    },
+    {
+      "id": 10585,
+      "type": "item",
+      "icon": "INV_Gizmo_GoblinBoomBox_01",
+      "name": "Goblin Radio KABOOM-Box X23B76",
+      "quality": 3,
+      "description": "Toy"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_goblin",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81190,
+      "type": "item",
+      "icon": "INV_Misc_Key_06",
+      "name": "Red Shredder X-0524A",
+      "quality": 4,
+      "description": "Mount, Goblin Only"
+    },
+    {
+      "id": 81191,
+      "type": "item",
+      "icon": "INV_Misc_Key_05",
+      "name": "Green Shredder X-0524B",
+      "quality": 4,
+      "description": "Mount, Goblin Only"
+    },
+    {
+      "id": 81089,
+      "type": "item",
+      "icon": "inv_misc_tabard_kezan",
+      "name": "Durotar Labor Union Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "Undercity": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_forsaken",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81244,
+      "type": "item",
+      "icon": "Ability_Mount_Undeadhorse",
+      "name": "Armored Ebon Deathcharger",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81245,
+      "type": "item",
+      "icon": "Ability_Mount_Undeadhorse",
+      "name": "Armored Crimson Deathcharger",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81246,
+      "type": "item",
+      "icon": "Ability_Mount_Undeadhorse",
+      "name": "Armored Emerald Deathcharger",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81247,
+      "type": "item",
+      "icon": "Ability_Mount_Undeadhorse",
+      "name": "Armored Ivory Deathcharger",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80309,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_scourge",
+      "name": "Undercity Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "Orgrimmar": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_orc",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81216,
+      "type": "item",
+      "icon": "inv_helmet_08",
+      "name": "Fur-Lined Orcish Helm",
+      "quality": 2,
+      "description": "Head, Leather"
+    },
+    {
+      "id": 81217,
+      "type": "item",
+      "icon": "inv_helmet_08",
+      "name": "Protective Orcish Helm",
+      "quality": 2,
+      "description": "Head, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_orc",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81241,
+      "type": "item",
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "name": "Armored Orgrimmar Wolf",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80307,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_orc",
+      "name": "Orgrimmar Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "ThunderBluff": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_tauren",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81199,
+      "type": "item",
+      "icon": "INV_Staff_03",
+      "name": "Ancestral War Totem",
+      "quality": 3,
+      "description": "Two-Hand, Mace"
+    },
+    {
+      "id": 81218,
+      "type": "item",
+      "icon": "inv_chest_plate08",
+      "name": "Chieftain's Ceremonial Harness",
+      "quality": 2,
+      "description": "Chest, Leather"
+    },
+    {
+      "id": 81219,
+      "type": "item",
+      "icon": "inv_boots_plate_05",
+      "name": "Chieftain's Ceremonial Anklewraps",
+      "quality": 2,
+      "description": "Feet, Leather"
+    },
+    {
+      "id": 81220,
+      "type": "item",
+      "icon": "inv_pants_04",
+      "name": "Chieftain's Ceremonial Legwraps",
+      "quality": 2,
+      "description": "Legs, Leather"
+    },
+    {
+      "id": 81221,
+      "type": "item",
+      "icon": "INV_Belt_13",
+      "name": "Chieftain's Ceremonial Belt",
+      "quality": 2,
+      "description": "Waist, Leather"
+    },
+    {
+      "id": 81222,
+      "type": "item",
+      "icon": "INV_Gauntlets_09",
+      "name": "Chieftain's Ceremonial Handwraps",
+      "quality": 2,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "race_tauren",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81167,
+      "type": "item",
+      "icon": "INV_Shoulder_06",
+      "name": "Chieftain's Ceremonial Mantle",
+      "quality": 3,
+      "description": "Shoulder, Leather"
+    },
+    {
+      "id": 81223,
+      "type": "item",
+      "icon": "INV_Helmet_04",
+      "name": "Chieftain's Ceremonial Headdress",
+      "quality": 3,
+      "description": "Head, Leather"
+    },
+    {
+      "id": 81198,
+      "type": "item",
+      "icon": "Ability_Mount_Kodo_01",
+      "name": "Armored Thunder Bluff Kodo",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81237,
+      "type": "item",
+      "icon": "Ability_Mount_Kodo_01",
+      "name": "Chieftain's Kodo",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 80308,
+      "type": "item",
+      "icon": "inv_misc_tournaments_tabard_tauren",
+      "name": "Thunder Bluff Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    }
+  ],
+  "Dalaran": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Holy_MagicalSentry",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60728,
+      "type": "item",
+      "icon": "INV_Boots_05",
+      "name": "Boots of the Hermit Magi",
+      "quality": 3,
+      "description": "Feet, Cloth"
+    },
+    {
+      "id": 60730,
+      "type": "item",
+      "icon": "INV_Belt_33",
+      "name": "Girdle of the Warden",
+      "quality": 3,
+      "description": "Waist, Plate"
+    },
+    {
+      "id": 60727,
+      "type": "item",
+      "icon": "INV_Shoulder_18",
+      "name": "Pauldrons of Sealed Magics",
+      "quality": 3,
+      "description": "Shoulder, Mail"
+    },
+    {
+      "id": 60726,
+      "type": "item",
+      "icon": "INV_Shield_06",
+      "name": "Spellguard's Shield",
+      "quality": 3,
+      "description": "Shield, Off Hand"
+    },
+    {
+      "id": 60729,
+      "type": "item",
+      "icon": "INV_Gauntlets_09",
+      "name": "Skulker's Gloves",
+      "quality": 3,
+      "description": "Hands, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Holy_MagicalSentry",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 60724,
+      "type": "item",
+      "icon": "INV_Helmet_11",
+      "name": "Dalarani Conjurer's Hat",
+      "quality": 4,
+      "description": "Head, Cloth"
+    },
+    {
+      "id": 60725,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_34",
+      "name": "Ring of Flowing Leylines",
+      "quality": 4,
+      "description": "Ring"
+    },
+    {
+      "id": 81289,
+      "type": "item",
+      "icon": "INV_Shirt_GuildTabard_01",
+      "name": "Dalaran Tabard",
+      "quality": 4,
+      "description": "Tabard"
+    }
+  ],
+  "Wildhammer": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Ability_Hunter_EagleEye",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55034,
+      "type": "item",
+      "icon": "INV_Shoulder_16",
+      "name": "Grim Batol Mountaineer Pauldrons",
+      "quality": 2,
+      "description": "Shoulder, Plate"
+    },
+    {
+      "id": 55035,
+      "type": "item",
+      "icon": "INV_Jewelry_Necklace_02",
+      "name": "Derelict Family Clan Totem",
+      "quality": 2,
+      "description": "Neck"
+    },
+    {
+      "id": 55033,
+      "type": "item",
+      "icon": "INV_Helmet_04",
+      "name": "Mystic's Feather Headdress",
+      "quality": 2,
+      "description": "Head, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Ability_Hunter_EagleEye",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55037,
+      "type": "item",
+      "icon": "INV_Staff_18",
+      "name": "Gryphon Tamer Longstaff",
+      "quality": 3,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 55036,
+      "type": "item",
+      "icon": "INV_Bracer_09",
+      "name": "Lorekeeper Cuffs",
+      "quality": 3,
+      "description": "Wrist, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Ability_Hunter_EagleEye",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55038,
+      "type": "item",
+      "icon": "INV_Misc_Book_01",
+      "name": "Fallen Heroes' Hymnal",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 55039,
+      "type": "item",
+      "icon": "INV_Boots_Chain_10",
+      "name": "Sharpshooter's Boots",
+      "quality": 3,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Ability_Hunter_EagleEye",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 81185,
+      "type": "item",
+      "icon": "Ability_Mount_Gryphon_01",
+      "name": "Wildhammer Gryphon",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 81186,
+      "type": "item",
+      "icon": "Ability_Mount_Gryphon_01",
+      "name": "Armored Wildhammer Gryphon",
+      "quality": 4,
+      "description": "Mount"
+    },
+    {
+      "id": 55040,
+      "type": "item",
+      "icon": "INV_Misc_Cape_20",
+      "name": "Skyfall Mantle",
+      "quality": 4,
+      "description": "Back"
+    },
+    {
+      "id": 55041,
+      "type": "item",
+      "icon": "INV_Hammer_17",
+      "name": "Wildhammer Stormcaller",
+      "quality": 4,
+      "description": "One-Hand, Mace"
+    },
+    {
+      "id": 16,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Harness of the High Thane",
+      "quality": 4,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 80312,
+      "type": "item",
+      "icon": "inv_misc_tabard_wildhammerclan",
+      "name": "Wildhammer Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 81243,
+      "type": "item",
+      "icon": "inv_misc_birdbeck_01",
+      "name": "Beaky",
+      "quality": 1,
+      "description": "Pet"
+    }
+  ],
+  "Shendralar": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Book_04",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55047,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Recipe: Elixir of Greater Arcane Power",
+      "quality": 3,
+      "description": "Alchemy (300)"
+    },
+    {
+      "id": 55049,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Essence Infused Leather Gloves",
+      "quality": 3,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 58253,
+      "type": "item",
+      "icon": "INV_Wand_07",
+      "name": "Lector's Baton",
+      "quality": 3,
+      "description": "Wand"
+    },
+    {
+      "id": 58252,
+      "type": "item",
+      "icon": "INV_Boots_01",
+      "name": "Coalescing Sabatons",
+      "quality": 3,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 58251,
+      "type": "item",
+      "icon": "INV_Bracer_08",
+      "name": "Wristbands of Excellency",
+      "quality": 3,
+      "description": "Wrist, Leather"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Book_04",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55051,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Pattern: Astronomer Raiments",
+      "quality": 3,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 55053,
+      "type": "item",
+      "icon": "INV_Scroll_03",
+      "name": "Pattern: Prismatic Scale Barbute",
+      "quality": 3,
+      "description": "Leatherworking (300)"
+    },
+    {
+      "id": 58255,
+      "type": "item",
+      "icon": "INV_Shoulder_23",
+      "name": "Crystal Pauldrons",
+      "quality": 3,
+      "description": "Shoulder, Plate"
+    },
+    {
+      "id": 58256,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_24",
+      "name": "Band of Eldretharr",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 58254,
+      "type": "item",
+      "icon": "INV_Misc_Orb_01",
+      "name": "Miniature Astrolabium",
+      "quality": 3,
+      "description": "Trinket"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Book_04",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 55044,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Enchant Boots - Major Intellect",
+      "quality": 3,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 55045,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Recipe: Elixir of Greater Frost Power",
+      "quality": 3,
+      "description": "Alchemy (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Misc_Book_04",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 80006,
+      "type": "item",
+      "icon": "Spell_Arcane_Blink",
+      "name": "Arcane Elemental",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 55055,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Pattern: Spellwoven Nobility Drape",
+      "quality": 4,
+      "description": "Tailoring (300)"
+    },
+    {
+      "id": 55057,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Plans: Rune-Inscribed Plate Leggings",
+      "quality": 4,
+      "description": "Blacksmithing (300)"
+    },
+    {
+      "id": 55059,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Plans: Grandstaff of the Shen'dralar Elder",
+      "quality": 4,
+      "description": "Jewelcrafting (300)"
+    },
+    {
+      "id": 58257,
+      "type": "item",
+      "icon": "INV_Weapon_ShortBlade_01",
+      "name": "Noble's Letter Opener",
+      "quality": 4,
+      "description": "Main Hand, Dagger"
+    },
+    {
+      "id": 58258,
+      "type": "item",
+      "icon": "INV_Misc_Cape_21",
+      "name": "Royal Guard Chain Cloak",
+      "quality": 4,
+      "description": "Back"
+    },
+    {
+      "id": 58259,
+      "type": "item",
+      "icon": "INV_Pants_13",
+      "name": "Advisor's Trousers of the Eldreth",
+      "quality": 4,
+      "description": "Legs, Cloth"
+    }
+  ],
+  "DraeneiExiles": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Enchant_ShardGlowingLarge",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 33177,
+      "type": "item",
+      "icon": "INV_Misc_Root_02",
+      "name": "Draenic Ritual Drums",
+      "quality": 2,
+      "description": "Trinket"
+    },
+    {
+      "id": 33178,
+      "type": "item",
+      "icon": "INV_Misc_Cape_16",
+      "name": "Crystalwoven Drape",
+      "quality": 2,
+      "description": "Back"
+    },
+    {
+      "id": 33137,
+      "type": "item",
+      "icon": "INV_Chest_Chain_05",
+      "name": "Narak'la Padded Breastplate",
+      "quality": 2,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 33136,
+      "type": "item",
+      "icon": "INV_Helmet_30",
+      "name": "Wraps of the Rift Traveler",
+      "quality": 2,
+      "description": "Head, Cloth"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Enchant_ShardGlowingLarge",
+      "name": "Honored",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 33139,
+      "type": "item",
+      "icon": "INV_Sword_39",
+      "name": "Draenethyst Blade",
+      "quality": 3,
+      "description": "One-Hand, Sword"
+    },
+    {
+      "id": 33138,
+      "type": "item",
+      "icon": "INV_Sword_10",
+      "name": "Draenethyst Kris",
+      "quality": 3,
+      "description": "One-Hand, Dagger"
+    },
+    {
+      "id": 33140,
+      "type": "item",
+      "icon": "INV_Hammer_02",
+      "name": "Draenethyst Juggernaut",
+      "quality": 3,
+      "description": "Two-Hand, Mace"
+    },
+    {
+      "id": 33143,
+      "type": "item",
+      "icon": "inv_archaeology_70_highborne_inertleystonecharm",
+      "name": "Draenethyst Necklace",
+      "quality": 3,
+      "description": "Neck"
+    },
+    {
+      "id": 33141,
+      "type": "item",
+      "icon": "INV_Weapon_Bow_09",
+      "name": "Draenethyst Longbow",
+      "quality": 3,
+      "description": "Bow, Bow"
+    },
+    {
+      "id": 33142,
+      "type": "item",
+      "icon": "INV_Misc_Orb_03",
+      "name": "Draenethyst Scepter",
+      "quality": 3,
+      "description": "Held In Off-hand"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Enchant_ShardGlowingLarge",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 37072,
+      "type": "item",
+      "icon": "INV_Misc_Orb_02",
+      "name": "Palatinate Pebble",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 37071,
+      "type": "item",
+      "icon": "INV_Drink_19",
+      "name": "Toothy",
+      "quality": 1,
+      "description": "Pet"
+    },
+    {
+      "id": 33144,
+      "type": "item",
+      "icon": "INV_Misc_Note_01",
+      "name": "Formula: Rift Tear",
+      "quality": 3,
+      "description": "Enchanting (300)"
+    },
+    {
+      "id": 33145,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Schematic: Facetted Crystal Scope",
+      "quality": 3,
+      "description": "Engineering (300)"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "INV_Enchant_ShardGlowingLarge",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 30005,
+      "type": "item",
+      "icon": "Ability_Hunter_Pet_Crocolisk",
+      "name": "Swamp Riding Crocolisk",
+      "quality": 3,
+      "description": "Mount"
+    },
+    {
+      "id": 33148,
+      "type": "item",
+      "icon": "INV_Wand_06",
+      "name": "Alar'tar, Born from Hope",
+      "quality": 4,
+      "description": "Two-Hand, Staff"
+    },
+    {
+      "id": 33147,
+      "type": "item",
+      "icon": "INV_Jewelry_Talisman_08",
+      "name": "Mar'kali, the Midnight Star",
+      "quality": 4,
+      "description": "Trinket"
+    }
+  ],
+  "EarthenRing": [
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Nature_EarthShock",
+      "name": "Friendly",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 33124,
+      "type": "item",
+      "icon": "INV_Bracer_13",
+      "name": "Warden's Bracers",
+      "quality": 3,
+      "description": "Wrist, Cloth"
+    },
+    {
+      "id": 33123,
+      "type": "item",
+      "icon": "INV_Jewelry_Ring_AhnQiraj_05",
+      "name": "Loop of Shattered Earth",
+      "quality": 3,
+      "description": "Ring"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Nature_EarthShock",
+      "name": "Revered",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 33129,
+      "type": "item",
+      "icon": "INV_Misc_Cape_20",
+      "name": "Drape of the Far Seer",
+      "quality": 3,
+      "description": "Back"
+    },
+    {
+      "id": 33127,
+      "type": "item",
+      "icon": "INV_Gauntlets_06",
+      "name": "Wraps of the Spirit Guide",
+      "quality": 3,
+      "description": "Hands, Cloth"
+    },
+    {
+      "id": 33128,
+      "type": "item",
+      "icon": "INV_Helmet_04",
+      "name": "Wolfsong's Cowl",
+      "quality": 3,
+      "description": "Head, Leather"
+    },
+    {
+      "id": 33125,
+      "type": "item",
+      "icon": "INV_Belt_30",
+      "name": "Clasp of Molten Rage",
+      "quality": 3,
+      "description": "Waist, Plate"
+    },
+    {
+      "id": 33126,
+      "type": "item",
+      "icon": "inv_misc_desecrated_mailchest",
+      "name": "Cyclone Hauberk",
+      "quality": 3,
+      "description": "Chest, Mail"
+    },
+    {
+      "id": 0,
+      "type": "item",
+      "icon": "Spell_Nature_EarthShock",
+      "name": "Exalted",
+      "quality": 6,
+      "description": ""
+    },
+    {
+      "id": 33133,
+      "type": "item",
+      "icon": "INV_Shirt_GuildTabard_01",
+      "name": "Earthen Ring Tabard",
+      "quality": 1,
+      "description": "Tabard"
+    },
+    {
+      "id": 33132,
+      "type": "item",
+      "icon": "Spell_Nature_StoneSkinTotem",
+      "name": "Totem of Calm Cascades",
+      "quality": 4,
+      "description": "Relic, Totem Shaman"
+    },
+    {
+      "id": 33131,
+      "type": "item",
+      "icon": "INV_Boots_Chain_06",
+      "name": "Ragefury Stompers",
+      "quality": 4,
+      "description": "Feet, Mail"
+    },
+    {
+      "id": 33130,
+      "type": "item",
+      "icon": "INV_Gauntlets_11",
+      "name": "Crackling Earthfury Claw",
+      "quality": 4,
+      "description": "Main Hand, Fist Weapon"
+    },
+    {
+      "id": 33134,
+      "type": "item",
+      "icon": "INV_Scroll_05",
+      "name": "Plans: Bulwark of Unshaken Earth",
+      "quality": 4,
+      "description": "Blacksmithing (300)"
+    }
+  ]
+}
