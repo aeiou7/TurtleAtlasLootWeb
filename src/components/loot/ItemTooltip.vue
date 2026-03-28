@@ -55,6 +55,11 @@ watch(
 
 const GREEN_PREFIXES = ['equip:', 'use:', 'chance on hit:']
 
+/** Strip WoW inline color codes: |cAARRGGBB…|r → the plain text inside */
+function stripColorCodes(text: string): string {
+  return text.replace(/\|c[0-9a-fA-F]{8}/g, '').replace(/\|r/g, '')
+}
+
 // Red requirement text from scanning on a specific class (e.g. hunter can't wear plate)
 // should be normalized to white since this is a class-neutral database
 const RED_COLOR = '#ff2121'
@@ -144,8 +149,8 @@ function formatReagent(r: { name: string; quantity: number }): string {
           class="tooltip-line"
           :class="{ 'tooltip-line-split': line.right }"
         >
-          <span :style="{ color: i === 0 ? nameColor(tooltip.quality) : lineColor(line) }">{{ line.left }}</span>
-          <span v-if="line.right" :style="{ color: rightLineColor(line) }">{{ line.right }}</span>
+          <span :style="{ color: i === 0 ? nameColor(tooltip.quality) : lineColor(line) }">{{ stripColorCodes(line.left) }}</span>
+          <span v-if="line.right" :style="{ color: rightLineColor(line) }">{{ stripColorCodes(line.right) }}</span>
         </div>
       </template>
 
