@@ -4238,7 +4238,7 @@
       "id": 0,
       "type": "item",
       "icon": "INV_Box_01",
-      "name": "\"..AL[\"Basalthar\"]",
+      "name": "Basalthar",
       "quality": 6,
       "description": "",
       "group": 0
@@ -4417,7 +4417,7 @@
       "id": 0,
       "type": "item",
       "icon": "INV_Box_01",
-      "name": "\"..AL[\"Smoldaris\"]",
+      "name": "Smoldaris",
       "quality": 6,
       "description": "",
       "group": 1
@@ -11150,7 +11150,7 @@
       "id": 0,
       "type": "item",
       "icon": "INV_Box_01",
-      "name": "\"..AL[\"Emperor Vek'lor\"]",
+      "name": "Emperor Vek'lor",
       "quality": 6,
       "description": "",
       "group": 0
@@ -11285,7 +11285,7 @@
       "id": 0,
       "type": "item",
       "icon": "INV_Box_01",
-      "name": "\"..AL[\"Emperor Vek'nilash\"]",
+      "name": "Emperor Vek'nilash",
       "quality": 6,
       "description": "",
       "group": 1
@@ -43363,7 +43363,7 @@
       "id": 0,
       "type": "item",
       "icon": "INV_Box_01",
-      "name": "\"..AL[\"Ighal'for\"]",
+      "name": "Ighal'for",
       "quality": 6,
       "description": "",
       "group": 1
