@@ -7,7 +7,8 @@
       "icon": "INV_Helmet_13",
       "name": "Sanctified Leather Helm",
       "quality": 3,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 0
     },
     {
       "id": 22690,
@@ -15,7 +16,8 @@
       "icon": "INV_Pants_03",
       "name": "Leggings of the Plague Hunter",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 0
     },
     {
       "id": 22681,
@@ -23,7 +25,8 @@
       "icon": "INV_Jewelry_Ring_33",
       "name": "Band of Piety",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 0
     },
     {
       "id": 22680,
@@ -31,7 +34,8 @@
       "icon": "INV_Jewelry_Ring_01",
       "name": "Band of Resolution",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 0
     },
     {
       "id": 22688,
@@ -39,7 +43,8 @@
       "icon": "INV_Weapon_ShortBlade_03",
       "name": "Verimonde's Last Resort",
       "quality": 3,
-      "description": "Main Hand, Dagger"
+      "description": "Main Hand, Dagger",
+      "group": 0
     },
     {
       "id": 22679,
@@ -47,7 +52,8 @@
       "icon": "INV_Misc_Bag_17",
       "name": "Supply Bag",
       "quality": 3,
-      "description": "18 Slot Bag"
+      "description": "18 Slot Bag",
+      "group": 0
     },
     {
       "id": 22523,
@@ -55,7 +61,8 @@
       "icon": "INV_Misc_Token_ArgentDawn",
       "name": "Insignia of the Dawn",
       "quality": 2,
-      "description": "Needed to purchase rewards"
+      "description": "Needed to purchase rewards",
+      "group": 1
     },
     {
       "id": 22657,
@@ -63,7 +70,8 @@
       "icon": "INV_Jewelry_Amulet_04",
       "name": "Amulet of the Dawn",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 2
     },
     {
       "id": 22659,
@@ -71,7 +79,8 @@
       "icon": "INV_Jewelry_Amulet_04",
       "name": "Medallion of the Dawn",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 2
     },
     {
       "id": 22667,
@@ -79,7 +88,8 @@
       "icon": "INV_Bracer_12",
       "name": "Bracers of Hope",
       "quality": 4,
-      "description": "Wrist, Cloth"
+      "description": "Wrist, Cloth",
+      "group": 2
     },
     {
       "id": 22668,
@@ -87,7 +97,8 @@
       "icon": "INV_Bracer_04",
       "name": "Bracers of Subterfuge",
       "quality": 4,
-      "description": "Wrist, Leather"
+      "description": "Wrist, Leather",
+      "group": 2
     },
     {
       "id": 22678,
@@ -95,7 +106,8 @@
       "icon": "INV_Misc_Gem_Pearl_04",
       "name": "Talisman of Ascendance",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 2
     },
     {
       "id": 22656,
@@ -103,7 +115,8 @@
       "icon": "INV_Weapon_Rifle_06",
       "name": "The Purifier",
       "quality": 4,
-      "description": "Gun"
+      "description": "Gun",
+      "group": 2
     },
     {
       "id": 22524,
@@ -111,7 +124,8 @@
       "icon": "INV_Misc_Token_ScarletCrusade",
       "name": "Insignia of the Crusade",
       "quality": 2,
-      "description": "Needed to purchase rewards"
+      "description": "Needed to purchase rewards",
+      "group": 3
     }
   ],
   "Argent2": [
@@ -121,7 +135,8 @@
       "icon": "INV_Jewelry_Talisman_08",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 13724,
@@ -129,7 +144,8 @@
       "icon": "INV_Misc_Food_33",
       "name": "Enriched Manna Biscuit",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 0
     },
     {
       "id": 0,
@@ -137,7 +153,8 @@
       "icon": "INV_Jewelry_Talisman_08",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 58227,
@@ -145,7 +162,8 @@
       "icon": "INV_Jewelry_Ring_25",
       "name": "Band of Vitality",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     },
     {
       "id": 58225,
@@ -153,7 +171,8 @@
       "icon": "INV_Sword_25",
       "name": "Blade of Purity",
       "quality": 3,
-      "description": "Main Hand, Sword"
+      "description": "Main Hand, Sword",
+      "group": 1
     },
     {
       "id": 58226,
@@ -161,7 +180,8 @@
       "icon": "INV_Helmet_33",
       "name": "Cowl of Resolve",
       "quality": 3,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 13482,
@@ -169,7 +189,8 @@
       "icon": "INV_Scroll_06",
       "name": "Recipe: Transmute Air to Fire",
       "quality": 2,
-      "description": "Alchemy (275)"
+      "description": "Alchemy (275)",
+      "group": 1
     },
     {
       "id": 19216,
@@ -177,7 +198,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Argent Boots",
       "quality": 1,
-      "description": "Tailoring (290)"
+      "description": "Tailoring (290)",
+      "group": 1
     },
     {
       "id": 19328,
@@ -185,7 +207,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Dawn Treaders",
       "quality": 1,
-      "description": "Leatherworking (290)"
+      "description": "Leatherworking (290)",
+      "group": 1
     },
     {
       "id": 19203,
@@ -193,7 +216,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Girdle of the Dawn",
       "quality": 1,
-      "description": "Blacksmithing (290)"
+      "description": "Blacksmithing (290)",
+      "group": 1
     },
     {
       "id": 19442,
@@ -201,7 +225,8 @@
       "icon": "INV_Scroll_03",
       "name": "Formula: Powerful Anti-Venom",
       "quality": 1,
-      "description": "First Aid (300)"
+      "description": "First Aid (300)",
+      "group": 1
     },
     {
       "id": 19446,
@@ -209,7 +234,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Bracer - Mana Regeneration",
       "quality": 1,
-      "description": "Enchanting (290)"
+      "description": "Enchanting (290)",
+      "group": 1
     }
   ],
   "Argent3": [
@@ -381,7 +407,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Path of the Conqueror",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 21201,
@@ -389,7 +416,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Neutral"
+      "description": "Ring, Neutral",
+      "group": 0
     },
     {
       "id": 21202,
@@ -397,7 +425,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Friendly"
+      "description": "Ring, Friendly",
+      "group": 0
     },
     {
       "id": 21203,
@@ -405,7 +434,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Honored"
+      "description": "Ring, Honored",
+      "group": 0
     },
     {
       "id": 21204,
@@ -413,7 +443,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Revered"
+      "description": "Ring, Revered",
+      "group": 0
     },
     {
       "id": 21205,
@@ -421,7 +452,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Exalted"
+      "description": "Ring, Exalted",
+      "group": 0
     },
     {
       "id": 0,
@@ -429,7 +461,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Path of the Invoker",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 21206,
@@ -437,7 +470,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Neutral"
+      "description": "Ring, Neutral",
+      "group": 1
     },
     {
       "id": 21207,
@@ -445,7 +479,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Friendly"
+      "description": "Ring, Friendly",
+      "group": 1
     },
     {
       "id": 21208,
@@ -453,7 +488,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Honored"
+      "description": "Ring, Honored",
+      "group": 1
     },
     {
       "id": 21209,
@@ -461,7 +497,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Revered"
+      "description": "Ring, Revered",
+      "group": 1
     },
     {
       "id": 21210,
@@ -469,7 +506,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Exalted"
+      "description": "Ring, Exalted",
+      "group": 1
     },
     {
       "id": 0,
@@ -477,7 +515,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Path of the Protector",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21196,
@@ -485,7 +524,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Neutral"
+      "description": "Ring, Neutral",
+      "group": 2
     },
     {
       "id": 21197,
@@ -493,7 +533,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Friendly"
+      "description": "Ring, Friendly",
+      "group": 2
     },
     {
       "id": 21198,
@@ -501,7 +542,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Honored"
+      "description": "Ring, Honored",
+      "group": 2
     },
     {
       "id": 21199,
@@ -509,7 +551,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Revered"
+      "description": "Ring, Revered",
+      "group": 2
     },
     {
       "id": 21200,
@@ -517,7 +560,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Signet Ring of the Bronze Dragonflight",
       "quality": 4,
-      "description": "Ring, Exalted"
+      "description": "Ring, Exalted",
+      "group": 2
     }
   ],
   "Timbermaw": [
@@ -527,7 +571,8 @@
       "icon": "INV_Misc_Horn_01",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 13484,
@@ -535,7 +580,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Transmute Earth to Water",
       "quality": 2,
-      "description": "Alchemy (275)"
+      "description": "Alchemy (275)",
+      "group": 0
     },
     {
       "id": 20254,
@@ -543,7 +589,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Warbear Woolies",
       "quality": 1,
-      "description": "Leatherworking (285)"
+      "description": "Leatherworking (285)",
+      "group": 0
     },
     {
       "id": 15742,
@@ -551,7 +598,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Warbear Harness",
       "quality": 1,
-      "description": "Leatherworking (275)"
+      "description": "Leatherworking (275)",
+      "group": 0
     },
     {
       "id": 22392,
@@ -559,7 +607,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant 2H Weapon - Agility",
       "quality": 1,
-      "description": "Enchanting (290)"
+      "description": "Enchanting (290)",
+      "group": 0
     },
     {
       "id": 91796,
@@ -567,7 +616,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Transmute Elemental Earth",
       "quality": 1,
-      "description": "Alchemy (300)"
+      "description": "Alchemy (300)",
+      "group": 0
     },
     {
       "id": 0,
@@ -575,7 +625,8 @@
       "icon": "INV_Misc_Horn_01",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 16768,
@@ -583,7 +634,8 @@
       "icon": "INV_Misc_Bag_11",
       "name": "Furbolg Medicine Pouch",
       "quality": 2,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 16769,
@@ -591,7 +643,8 @@
       "icon": "INV_Mace_11",
       "name": "Furbolg Medicine Totem",
       "quality": 2,
-      "description": "Main Hand, Mace"
+      "description": "Main Hand, Mace",
+      "group": 1
     },
     {
       "id": 19202,
@@ -599,7 +652,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Heavy Timbermaw Belt",
       "quality": 1,
-      "description": "Blacksmithing (290)"
+      "description": "Blacksmithing (290)",
+      "group": 1
     },
     {
       "id": 62001,
@@ -607,7 +661,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Fury of the Timbermaw",
       "quality": 1,
-      "description": "Blacksmithing (290)"
+      "description": "Blacksmithing (290)",
+      "group": 1
     },
     {
       "id": 19326,
@@ -615,7 +670,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Might of the Timbermaw",
       "quality": 1,
-      "description": "Leatherworking (290)"
+      "description": "Leatherworking (290)",
+      "group": 1
     },
     {
       "id": 19215,
@@ -623,7 +679,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Wisdom of the Timbermaw",
       "quality": 1,
-      "description": "Tailoring (290)"
+      "description": "Tailoring (290)",
+      "group": 1
     },
     {
       "id": 19445,
@@ -631,7 +688,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Weapon - Agility",
       "quality": 1,
-      "description": "Enchanting (290)"
+      "description": "Enchanting (290)",
+      "group": 1
     },
     {
       "id": 0,
@@ -639,7 +697,8 @@
       "icon": "INV_Misc_Horn_01",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 19218,
@@ -647,7 +706,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Mantle of the Timbermaw",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 1
     },
     {
       "id": 19327,
@@ -655,7 +715,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Timbermaw Brawlers",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 19204,
@@ -663,7 +724,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Heavy Timbermaw Boots",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 62002,
@@ -671,7 +733,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Pauldrons of the Timbermaw",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 0,
@@ -679,7 +742,8 @@
       "icon": "INV_Misc_Horn_01",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21326,
@@ -687,7 +751,8 @@
       "icon": "INV_Misc_Horn_01",
       "name": "Defender of the Timbermaw",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 2
     }
   ],
   "Thorium1": [
@@ -697,7 +762,8 @@
       "icon": "INV_Ingot_Mithril",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 17051,
@@ -705,7 +771,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Dark Iron Bracers",
       "quality": 3,
-      "description": "Blacksmithing (295)"
+      "description": "Blacksmithing (295)",
+      "group": 0
     },
     {
       "id": 17018,
@@ -713,7 +780,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Flarecore Gloves",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 17023,
@@ -721,7 +789,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Molten Helm",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 17022,
@@ -729,7 +798,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Corehound Boots",
       "quality": 1,
-      "description": "Leatherworking (295)"
+      "description": "Leatherworking (295)",
+      "group": 0
     },
     {
       "id": 20761,
@@ -737,7 +807,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Transmute Elemental Fire",
       "quality": 1,
-      "description": "Alchemy (300)"
+      "description": "Alchemy (300)",
+      "group": 0
     },
     {
       "id": 19444,
@@ -745,7 +816,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Weapon - Strength",
       "quality": 1,
-      "description": "Enchanting (290)"
+      "description": "Enchanting (290)",
+      "group": 0
     },
     {
       "id": 0,
@@ -753,7 +825,8 @@
       "icon": "INV_Ingot_Mithril",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 58216,
@@ -761,7 +834,8 @@
       "icon": "INV_Hammer_11",
       "name": "Hansel's Gavel",
       "quality": 3,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 1
     },
     {
       "id": 58217,
@@ -769,7 +843,8 @@
       "icon": "INV_Torch_Lit",
       "name": "Lookout's Illuminator",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 58218,
@@ -777,7 +852,8 @@
       "icon": "INV_Belt_03",
       "name": "Sootsoaked Sash",
       "quality": 3,
-      "description": "Waist, Cloth"
+      "description": "Waist, Cloth",
+      "group": 1
     },
     {
       "id": 17059,
@@ -785,7 +861,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Dark Iron Reaver",
       "quality": 3,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 17060,
@@ -793,7 +870,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Dark Iron Destroyer",
       "quality": 3,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 17049,
@@ -801,7 +879,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Fiery Chain Girdle",
       "quality": 3,
-      "description": "Blacksmithing (295)"
+      "description": "Blacksmithing (295)",
+      "group": 1
     },
     {
       "id": 17017,
@@ -809,7 +888,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Flarecore Mantle",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 1
     },
     {
       "id": 19219,
@@ -817,7 +897,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Flarecore Robe",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 1
     },
     {
       "id": 19330,
@@ -825,7 +906,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Lava Belt",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 17025,
@@ -833,7 +915,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Black Dragonscale Boots",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 19206,
@@ -841,7 +924,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Dark Iron Helm",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 19448,
@@ -849,7 +933,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Weapon - Mighty Spirit",
       "quality": 1,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 1
     }
   ],
   "Thorium2": [
@@ -1101,7 +1186,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sylvan Shoulders",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 22769,
@@ -1109,7 +1195,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bramblewood Belt",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20506,
@@ -1117,7 +1204,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Spitfire Bracers",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20509,
@@ -1125,7 +1213,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sandstalker Bracers",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 22768,
@@ -1133,7 +1222,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Ironvine Belt",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 22209,
@@ -1141,7 +1231,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Heavy Obsidian Belt",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 22310,
@@ -1149,7 +1240,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Cenarion Herb Bag",
       "quality": 1,
-      "description": "Tailoring (275)"
+      "description": "Tailoring (275)",
+      "group": 0
     },
     {
       "id": 20732,
@@ -1157,7 +1249,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Cloak - Greater Fire Resistance",
       "quality": 1,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 0
     },
     {
       "id": 21187,
@@ -1165,7 +1258,8 @@
       "icon": "INV_Misc_Cape_07",
       "name": "Earthweave Cloak",
       "quality": 3,
-      "description": "Back"
+      "description": "Back",
+      "group": 1
     },
     {
       "id": 21178,
@@ -1173,7 +1267,8 @@
       "icon": "INV_Gauntlets_18",
       "name": "Gloves of Earthen Power",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 21179,
@@ -1181,7 +1276,8 @@
       "icon": "INV_Jewelry_Ring_18",
       "name": "Band of Earthen Wrath",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     }
   ],
   "Cenarion2": [
@@ -1191,7 +1287,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sylvan Crown",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 22770,
@@ -1199,7 +1296,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bramblewood Boots",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20507,
@@ -1207,7 +1305,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Spitfire Gauntlets",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20510,
@@ -1215,7 +1314,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sandstalker Gauntlets",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 22767,
@@ -1223,7 +1323,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Ironvine Gloves",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 22214,
@@ -1231,7 +1332,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Light Obsidian Belt",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 20733,
@@ -1239,7 +1341,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Cloak - Greater Nature Resistance",
       "quality": 1,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 0
     },
     {
       "id": 21183,
@@ -1247,7 +1350,8 @@
       "icon": "INV_Chest_Cloth_06",
       "name": "Earthpower Vest",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 21182,
@@ -1255,7 +1359,8 @@
       "icon": "INV_Jewelry_Ring_19",
       "name": "Band of Earthen Might",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     },
     {
       "id": 21181,
@@ -1263,7 +1368,8 @@
       "icon": "INV_Misc_Herb_02",
       "name": "Grace of Earth",
       "quality": 3,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 1
     }
   ],
   "Cenarion3": [
@@ -1273,7 +1379,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Gaea's Embrace",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 22774,
@@ -1281,7 +1388,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sylvan Vest",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 22771,
@@ -1289,7 +1397,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bramblewood Helm",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20508,
@@ -1297,7 +1406,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Spitfire Breastplate",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20511,
@@ -1305,7 +1415,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Sandstalker Breastplate",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 22766,
@@ -1313,7 +1424,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Ironvine Breastplate",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 22219,
@@ -1321,7 +1433,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Jagged Obsidian Shield",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 22312,
@@ -1329,7 +1442,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Satchel of Cenarius",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 21186,
@@ -1337,7 +1451,8 @@
       "icon": "INV_Bracer_12",
       "name": "Rockfury Bracers",
       "quality": 4,
-      "description": "Wrist, Cloth"
+      "description": "Wrist, Cloth",
+      "group": 1
     },
     {
       "id": 21184,
@@ -1345,7 +1460,8 @@
       "icon": "INV_Bracer_07",
       "name": "Deeprock Bracers",
       "quality": 4,
-      "description": "Wrist, Plate"
+      "description": "Wrist, Plate",
+      "group": 1
     },
     {
       "id": 21189,
@@ -1353,7 +1469,8 @@
       "icon": "INV_Jewelry_Ring_41",
       "name": "Might of Cenarius",
       "quality": 4,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     },
     {
       "id": 21185,
@@ -1361,7 +1478,8 @@
       "icon": "INV_Misc_Gem_Pearl_06",
       "name": "Earthcalm Orb",
       "quality": 4,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     }
   ],
   "Cenarion4": [
@@ -1371,7 +1489,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Dreamscale Breastplate",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 22221,
@@ -1379,7 +1498,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Obsidian Mail Tunic",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 83548,
@@ -1387,7 +1507,8 @@
       "icon": "INV_Scroll_04",
       "name": "Plans: Dream's Herald",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 83546,
@@ -1395,7 +1516,8 @@
       "icon": "INV_Scroll_04",
       "name": "Pattern: Verdant Dreamer's Breastplate",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 80301,
@@ -1403,7 +1525,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Cenarion Circle Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 1
     },
     {
       "id": 21190,
@@ -1411,7 +1534,8 @@
       "icon": "INV_Jewelry_Ring_40",
       "name": "Wrath of Cenarius",
       "quality": 4,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 2
     },
     {
       "id": 21180,
@@ -1419,7 +1543,8 @@
       "icon": "Spell_Nature_AbolishMagic",
       "name": "Earthstrike",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 2
     },
     {
       "id": 21188,
@@ -1427,7 +1552,8 @@
       "icon": "INV_Hammer_23",
       "name": "Fist of Cenarius",
       "quality": 4,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 2
     }
   ],
   "Darkmoon": [
@@ -1437,7 +1563,8 @@
       "icon": "INV_Misc_Ticket_Tarot_BlueDragon_01",
       "name": "Darkmoon Card: Blue Dragon",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 19289,
@@ -1445,7 +1572,8 @@
       "icon": "INV_Misc_Ticket_Tarot_Maelstrom_01",
       "name": "Darkmoon Card: Maelstrom",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 19287,
@@ -1453,7 +1581,8 @@
       "icon": "INV_Misc_Ticket_Tarot_Heroism_01",
       "name": "Darkmoon Card: Heroism",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 19290,
@@ -1461,7 +1590,8 @@
       "icon": "INV_Misc_Ticket_Tarot_TwistingNether_01",
       "name": "Darkmoon Card: Twisting Nether",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 19491,
@@ -1469,7 +1599,8 @@
       "icon": "INV_Jewelry_Necklace_14",
       "name": "Amulet of the Darkmoon",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 0
     },
     {
       "id": 19426,
@@ -1477,7 +1608,8 @@
       "icon": "INV_Jewelry_Necklace_16",
       "name": "Orb of the Darkmoon",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 0
     },
     {
       "id": 19296,
@@ -1485,7 +1617,8 @@
       "icon": "INV_Misc_Bag_21",
       "name": "Greater Darkmoon Prize",
       "quality": 2,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19297,
@@ -1493,7 +1626,8 @@
       "icon": "INV_Misc_Bag_07_Black",
       "name": "Lesser Darkmoon Prize",
       "quality": 2,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19298,
@@ -1501,7 +1635,8 @@
       "icon": "INV_Misc_Bag_04",
       "name": "Minor Darkmoon Prize",
       "quality": 2,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19291,
@@ -1509,7 +1644,8 @@
       "icon": "INV_Box_04",
       "name": "Darkmoon Storage Box",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19293,
@@ -1517,7 +1653,8 @@
       "icon": "INV_Misc_Food_18",
       "name": "Last Year's Mutton",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19292,
@@ -1525,7 +1662,8 @@
       "icon": "INV_Misc_Food_18",
       "name": "Last Month's Mutton",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19295,
@@ -1533,7 +1671,8 @@
       "icon": "INV_Misc_Herb_19",
       "name": "Darkmoon Flower",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     }
   ],
   "Zandalar1": [
@@ -1543,7 +1682,8 @@
       "icon": "INV_Misc_Coin_08",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19766,
@@ -1551,7 +1691,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bloodvine Boots",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 19771,
@@ -1559,7 +1700,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Primal Batskin Bracers",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 20001,
@@ -1567,7 +1709,8 @@
       "icon": "INV_Scroll_03",
       "name": "Schematic: Bloodvine Lens",
       "quality": 1,
-      "description": "Engineering (300)"
+      "description": "Engineering (300)",
+      "group": 0
     },
     {
       "id": 19778,
@@ -1575,7 +1718,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Bloodsoul Gauntlets",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 19781,
@@ -1583,7 +1727,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Darksoul Shoulders",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 20012,
@@ -1591,7 +1736,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Greater Dreamless Sleep",
       "quality": 1,
-      "description": "Alchemy (275)"
+      "description": "Alchemy (275)",
+      "group": 0
     },
     {
       "id": 20757,
@@ -1599,7 +1745,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Brilliant Mana Oil",
       "quality": 1,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 0
     },
     {
       "id": 0,
@@ -1607,7 +1754,8 @@
       "icon": "INV_Misc_Coin_08",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 50749,
@@ -1615,7 +1763,8 @@
       "icon": "INV_Scroll_06",
       "name": "Outline: Spirited Precision Sickle",
       "quality": 1,
-      "description": "Survival (300)"
+      "description": "Survival (300)",
+      "group": 1
     },
     {
       "id": 19765,
@@ -1623,7 +1772,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bloodvine Leggings",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 1
     },
     {
       "id": 20000,
@@ -1631,7 +1781,8 @@
       "icon": "INV_Scroll_03",
       "name": "Schematic: Bloodvine Goggles",
       "quality": 1,
-      "description": "Engineering (300)"
+      "description": "Engineering (300)",
+      "group": 1
     },
     {
       "id": 19770,
@@ -1639,7 +1790,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Primal Batskin Gloves",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 19773,
@@ -1647,7 +1799,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Blood Tiger Shoulders",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 19777,
@@ -1655,7 +1808,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Bloodsoul Shoulders",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 19780,
@@ -1663,7 +1817,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Darksoul Leggings",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 1
     },
     {
       "id": 20014,
@@ -1671,7 +1826,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Major Troll's Blood Potion",
       "quality": 1,
-      "description": "Alchemy (290)"
+      "description": "Alchemy (290)",
+      "group": 1
     },
     {
       "id": 20756,
@@ -1679,7 +1835,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Brilliant Wizard Oil",
       "quality": 1,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 1
     },
     {
       "id": 20031,
@@ -1687,7 +1844,8 @@
       "icon": "INV_Misc_Food_42",
       "name": "Essence Mango",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     }
   ],
   "Zandalar2": [
@@ -1697,7 +1855,8 @@
       "icon": "INV_Misc_Coin_08",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 20080,
@@ -1705,7 +1864,8 @@
       "icon": "INV_Potion_29",
       "name": "Sheen of Zanza",
       "quality": 2,
-      "description": "Potion"
+      "description": "Potion",
+      "group": 0
     },
     {
       "id": 20079,
@@ -1713,7 +1873,8 @@
       "icon": "INV_Potion_30",
       "name": "Spirit of Zanza",
       "quality": 2,
-      "description": "Potion"
+      "description": "Potion",
+      "group": 0
     },
     {
       "id": 20081,
@@ -1721,7 +1882,8 @@
       "icon": "INV_Potion_31",
       "name": "Swiftness of Zanza",
       "quality": 2,
-      "description": "Potion"
+      "description": "Potion",
+      "group": 0
     },
     {
       "id": 19764,
@@ -1729,7 +1891,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Bloodvine Vest",
       "quality": 1,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 0
     },
     {
       "id": 19769,
@@ -1737,7 +1900,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Primal Batskin Jerkin",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 19772,
@@ -1745,7 +1909,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Blood Tiger Breastplate",
       "quality": 1,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 19776,
@@ -1753,7 +1918,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Bloodsoul Breastplate",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 19779,
@@ -1761,7 +1927,8 @@
       "icon": "INV_Scroll_03",
       "name": "Plans: Darksoul Breastplate",
       "quality": 1,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 0
     },
     {
       "id": 20011,
@@ -1769,7 +1936,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Mageblood Potion",
       "quality": 1,
-      "description": "Alchemy (275)"
+      "description": "Alchemy (275)",
+      "group": 0
     },
     {
       "id": 0,
@@ -1777,7 +1945,8 @@
       "icon": "INV_Misc_Coin_08",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 20077,
@@ -1785,7 +1954,8 @@
       "icon": "INV_Misc_ArmorKit_08",
       "name": "Zandalar Signet of Might",
       "quality": 3,
-      "description": "Shoulder Enchant"
+      "description": "Shoulder Enchant",
+      "group": 1
     },
     {
       "id": 20076,
@@ -1793,7 +1963,8 @@
       "icon": "INV_Jewelry_Ring_46",
       "name": "Zandalar Signet of Mojo",
       "quality": 3,
-      "description": "Shoulder Enchant"
+      "description": "Shoulder Enchant",
+      "group": 1
     },
     {
       "id": 20078,
@@ -1801,7 +1972,8 @@
       "icon": "Spell_Holy_PowerWordShield",
       "name": "Zandalar Signet of Serenity",
       "quality": 3,
-      "description": "Shoulder Enchant"
+      "description": "Shoulder Enchant",
+      "group": 1
     },
     {
       "id": 65033,
@@ -1809,7 +1981,8 @@
       "icon": "spell_holy_devotionaura",
       "name": "Zandalar Signet of Tenacity",
       "quality": 3,
-      "description": "Shoulder Enchant"
+      "description": "Shoulder Enchant",
+      "group": 1
     },
     {
       "id": 20013,
@@ -1817,7 +1990,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Living Action Potion",
       "quality": 1,
-      "description": "Alchemy (285)"
+      "description": "Alchemy (285)",
+      "group": 1
     }
   ],
   "Wintersaber1": [
@@ -1827,7 +2001,8 @@
       "icon": "INV_Box_01",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 13086,
@@ -1835,7 +2010,8 @@
       "icon": "Ability_Mount_PinkTiger",
       "name": "Reins of the Winterspring Frostsaber",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 0
     }
   ],
   "Stormpike1": [
@@ -1845,7 +2021,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_05",
       "name": "Stormpike Insignia Rank 6",
       "quality": 4,
-      "description": "Trinket, Exalted"
+      "description": "Trinket, Exalted",
+      "group": 0
     },
     {
       "id": 17903,
@@ -1853,7 +2030,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_04",
       "name": "Stormpike Insignia Rank 5",
       "quality": 3,
-      "description": "Trinket, Exalted"
+      "description": "Trinket, Exalted",
+      "group": 0
     },
     {
       "id": 17902,
@@ -1861,7 +2039,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_03",
       "name": "Stormpike Insignia Rank 4",
       "quality": 3,
-      "description": "Trinket, Revered"
+      "description": "Trinket, Revered",
+      "group": 0
     },
     {
       "id": 17901,
@@ -1869,7 +2048,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_02",
       "name": "Stormpike Insignia Rank 3",
       "quality": 2,
-      "description": "Trinket, Honored"
+      "description": "Trinket, Honored",
+      "group": 0
     },
     {
       "id": 17900,
@@ -1877,7 +2057,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_01",
       "name": "Stormpike Insignia Rank 2",
       "quality": 2,
-      "description": "Trinket, Friendly"
+      "description": "Trinket, Friendly",
+      "group": 0
     },
     {
       "id": 17691,
@@ -1885,7 +2066,8 @@
       "icon": "INV_Jewelry_StormPikeTrinket_01",
       "name": "Stormpike Insignia Rank 1",
       "quality": 2,
-      "description": "Trinket, Neutral"
+      "description": "Trinket, Neutral",
+      "group": 0
     }
   ],
   "Frostwolf1": [
@@ -1895,7 +2077,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_05",
       "name": "Frostwolf Insignia Rank 6",
       "quality": 4,
-      "description": "Trinket, Exalted"
+      "description": "Trinket, Exalted",
+      "group": 0
     },
     {
       "id": 17908,
@@ -1903,7 +2086,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_04",
       "name": "Frostwolf Insignia Rank 5",
       "quality": 3,
-      "description": "Trinket, Exalted"
+      "description": "Trinket, Exalted",
+      "group": 0
     },
     {
       "id": 17907,
@@ -1911,7 +2095,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_03",
       "name": "Frostwolf Insignia Rank 4",
       "quality": 3,
-      "description": "Trinket, Revered"
+      "description": "Trinket, Revered",
+      "group": 0
     },
     {
       "id": 17906,
@@ -1919,7 +2104,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_02",
       "name": "Frostwolf Insignia Rank 3",
       "quality": 2,
-      "description": "Trinket, Honored"
+      "description": "Trinket, Honored",
+      "group": 0
     },
     {
       "id": 17905,
@@ -1927,7 +2113,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_01",
       "name": "Frostwolf Insignia Rank 2",
       "quality": 2,
-      "description": "Trinket, Friendly"
+      "description": "Trinket, Friendly",
+      "group": 0
     },
     {
       "id": 17690,
@@ -1935,7 +2122,8 @@
       "icon": "INV_Jewelry_FrostwolfTrinket_01",
       "name": "Frostwolf Insignia Rank 1",
       "quality": 2,
-      "description": "Trinket, Neutral"
+      "description": "Trinket, Neutral",
+      "group": 0
     }
   ],
   "WaterLords1": [
@@ -1945,7 +2133,8 @@
       "icon": "Spell_Frost_SummonWaterElemental_2",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 18399,
@@ -1953,7 +2142,8 @@
       "icon": "INV_Jewelry_Ring_28",
       "name": "Ocean's Breeze",
       "quality": 3,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 0
     },
     {
       "id": 18398,
@@ -1961,7 +2151,8 @@
       "icon": "INV_Jewelry_Ring_10",
       "name": "Tidal Loop",
       "quality": 3,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 0
     },
     {
       "id": 17333,
@@ -1969,7 +2160,8 @@
       "icon": "INV_Potion_76",
       "name": "Aqual Quintessence",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 0
     },
     {
       "id": 91797,
@@ -1977,7 +2169,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Transmute Elemental Water",
       "quality": 1,
-      "description": "Alchemy (300)"
+      "description": "Alchemy (300)",
+      "group": 0
     },
     {
       "id": 0,
@@ -1985,7 +2178,8 @@
       "icon": "Spell_Frost_SummonWaterElemental_2",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 22754,
@@ -1993,7 +2187,8 @@
       "icon": "INV_Potion_83",
       "name": "Eternal Quintessence",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 0,
@@ -2001,7 +2196,8 @@
       "icon": "Spell_Frost_SummonWaterElemental_2",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 81254,
@@ -2009,7 +2205,8 @@
       "icon": "Spell_Frost_SummonWaterElemental",
       "name": "Water Waveling",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     }
   ],
   "Bloodsail1": [
@@ -2019,7 +2216,8 @@
       "icon": "INV_Helmet_66",
       "name": "Neutral",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 22742,
@@ -2027,7 +2225,8 @@
       "icon": "INV_Shirt_08",
       "name": "Bloodsail Shirt",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 0
     },
     {
       "id": 22743,
@@ -2035,7 +2234,8 @@
       "icon": "INV_Misc_Bandana_03",
       "name": "Bloodsail Sash",
       "quality": 1,
-      "description": "Waist"
+      "description": "Waist",
+      "group": 0
     },
     {
       "id": 22745,
@@ -2043,7 +2243,8 @@
       "icon": "INV_Pants_Cloth_02",
       "name": "Bloodsail Pants",
       "quality": 1,
-      "description": "Legs"
+      "description": "Legs",
+      "group": 0
     },
     {
       "id": 22744,
@@ -2051,7 +2252,8 @@
       "icon": "INV_Boots_05",
       "name": "Bloodsail Boots",
       "quality": 1,
-      "description": "Feet"
+      "description": "Feet",
+      "group": 0
     },
     {
       "id": 0,
@@ -2059,7 +2261,8 @@
       "icon": "INV_Helmet_66",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 12185,
@@ -2067,7 +2270,8 @@
       "icon": "INV_Helmet_66",
       "name": "Bloodsail Admiral's Hat",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 0,
@@ -2075,7 +2279,8 @@
       "icon": "INV_Helmet_66",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 83494,
@@ -2083,7 +2288,8 @@
       "icon": "inv_chest_leather_10",
       "name": "Captain's Overcoat",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 2
     },
     {
       "id": 0,
@@ -2091,7 +2297,8 @@
       "icon": "INV_Helmet_66",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 83493,
@@ -2099,7 +2306,8 @@
       "icon": "INV_Helmet_66",
       "name": "Enforcer Captain's Hat",
       "quality": 2,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 3
     },
     {
       "id": 83490,
@@ -2107,7 +2315,8 @@
       "icon": "INV_Helmet_66",
       "name": "Pillager Captain's Hat",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 3
     },
     {
       "id": 83492,
@@ -2115,7 +2324,8 @@
       "icon": "INV_Helmet_66",
       "name": "Raider Captain's Hat",
       "quality": 2,
-      "description": "Head, Mail"
+      "description": "Head, Mail",
+      "group": 3
     },
     {
       "id": 83491,
@@ -2123,7 +2333,8 @@
       "icon": "INV_Helmet_66",
       "name": "Swashbuckler Captain's Hat",
       "quality": 2,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 3
     }
   ],
   "Wardens1": [
@@ -2133,7 +2344,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 61000,
@@ -2141,7 +2353,8 @@
       "icon": "inv_misc_rune_08",
       "name": "Time-Worn Rune",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 0,
@@ -2149,7 +2362,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 61005,
@@ -2157,7 +2371,8 @@
       "icon": "INV_Boots_08",
       "name": "Boots of Flowing Sands",
       "quality": 3,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 1
     },
     {
       "id": 84604,
@@ -2165,7 +2380,8 @@
       "icon": "INV_Bracer_14",
       "name": "Aurastone Bracers",
       "quality": 3,
-      "description": "Wrist, Mail"
+      "description": "Wrist, Mail",
+      "group": 1
     },
     {
       "id": 61003,
@@ -2173,7 +2389,8 @@
       "icon": "INV_Helmet_09",
       "name": "Timeskipper's Helm of Alacrity",
       "quality": 3,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 1
     },
     {
       "id": 61004,
@@ -2181,7 +2398,8 @@
       "icon": "inv_jewelry_ring_33",
       "name": "Sandswept Ring of Arcanum",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     }
   ],
   "Wardens2": [
@@ -2191,7 +2409,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 84601,
@@ -2199,7 +2418,8 @@
       "icon": "INV_Shoulder_13",
       "name": "Grass of Eternity",
       "quality": 3,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 0
     },
     {
       "id": 61002,
@@ -2207,7 +2427,8 @@
       "icon": "INV_Chest_Cloth_30",
       "name": "Robe of the Custodian",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 0
     },
     {
       "id": 61013,
@@ -2215,7 +2436,8 @@
       "icon": "INV_Gauntlets_10",
       "name": "Gauntlets of Temporal Guidance",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 0
     },
     {
       "id": 61001,
@@ -2223,7 +2445,8 @@
       "icon": "INV_Sword_34",
       "name": "Claw of the Infinite",
       "quality": 3,
-      "description": "One-Hand, Dagger"
+      "description": "One-Hand, Dagger",
+      "group": 0
     },
     {
       "id": 84602,
@@ -2231,7 +2454,8 @@
       "icon": "INV_Wand_07",
       "name": "Consecrated Caduceus",
       "quality": 3,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 0
     },
     {
       "id": 84603,
@@ -2239,7 +2463,8 @@
       "icon": "inv_staff_10",
       "name": "Rod of the Churning Hourglass",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 0
     },
     {
       "id": 50070,
@@ -2247,7 +2472,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Bronze Whelpling",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 1
     },
     {
       "id": 0,
@@ -2255,7 +2481,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 61007,
@@ -2263,7 +2490,8 @@
       "icon": "INV_Boots_Plate_03",
       "name": "Temporal Bronze Boots",
       "quality": 4,
-      "description": "Feet, Plate"
+      "description": "Feet, Plate",
+      "group": 2
     },
     {
       "id": 61012,
@@ -2271,7 +2499,8 @@
       "icon": "inv_archaeology_70_highborne_inertleystonecharm",
       "name": "Shard of Eternity",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 2
     },
     {
       "id": 61010,
@@ -2279,7 +2508,8 @@
       "icon": "INV_Misc_Cape_14",
       "name": "Wing of the Time-Lord",
       "quality": 4,
-      "description": "Back"
+      "description": "Back",
+      "group": 2
     },
     {
       "id": 61011,
@@ -2287,7 +2517,8 @@
       "icon": "INV_Weapon_Rifle_09",
       "name": "Flintlocke's Hand Cannon",
       "quality": 4,
-      "description": "Gun"
+      "description": "Gun",
+      "group": 2
     },
     {
       "id": 84600,
@@ -2295,7 +2526,8 @@
       "icon": "INV_Mace_01",
       "name": "Blackthorn's Blackjack",
       "quality": 4,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 2
     },
     {
       "id": 61009,
@@ -2303,7 +2535,8 @@
       "icon": "INV_Shield_10",
       "name": "Time-Shifting Wheel",
       "quality": 4,
-      "description": "Shield"
+      "description": "Shield",
+      "group": 2
     },
     {
       "id": 61006,
@@ -2311,7 +2544,8 @@
       "icon": "INV_Sword_22",
       "name": "Blade of Infinite Mysteries",
       "quality": 4,
-      "description": "Main Hand, Sword"
+      "description": "Main Hand, Sword",
+      "group": 2
     },
     {
       "id": 51043,
@@ -2319,7 +2553,8 @@
       "icon": "inv_misc_bag_enchantedrunecloth",
       "name": "Void-Linked Satchel",
       "quality": 2,
-      "description": "Bag"
+      "description": "Bag",
+      "group": 3
     },
     {
       "id": 51252,
@@ -2327,7 +2562,8 @@
       "icon": "INV_Misc_Head_Dragon_Bronze",
       "name": "Bronze Drake",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 3
     },
     {
       "id": 80300,
@@ -2335,7 +2571,8 @@
       "icon": "inv_shirt_guildtabard_01",
       "name": "Time Warden's Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 3
     }
   ],
   "Defilers": [
@@ -2345,7 +2582,8 @@
       "icon": "INV_Jewelry_Amulet_07",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 20131,
@@ -2353,7 +2591,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Battle Tabard of the Defilers",
       "quality": 1,
-      "description": "Quest Reward: Tabard"
+      "description": "Quest Reward: Tabard",
+      "group": 0
     }
   ],
   "GelkisClan1": [
@@ -2363,7 +2602,8 @@
       "icon": "inv_weapon_bow_07",
       "name": "Centaur Longbow",
       "quality": 2,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 0
     },
     {
       "id": 0,
@@ -2371,7 +2611,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 6773,
@@ -2379,7 +2620,8 @@
       "icon": "INV_Chest_Chain_07",
       "name": "Gelkis Marauder Chain",
       "quality": 2,
-      "description": "Quest Reward: Chest, Mail"
+      "description": "Quest Reward: Chest, Mail",
+      "group": 1
     },
     {
       "id": 6774,
@@ -2387,7 +2629,8 @@
       "icon": "INV_Wand_03",
       "name": "Uthek's Finger",
       "quality": 2,
-      "description": "Quest Reward: Held In Off-hand"
+      "description": "Quest Reward: Held In Off-hand",
+      "group": 1
     },
     {
       "id": 0,
@@ -2395,7 +2638,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 60899,
@@ -2403,7 +2647,8 @@
       "icon": "inv_gauntlets_21",
       "name": "Grips of the Unified Storm",
       "quality": 2,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 2
     },
     {
       "id": 60900,
@@ -2411,7 +2656,8 @@
       "icon": "inv_belt_12",
       "name": "Warleader Sash",
       "quality": 2,
-      "description": "Wrist, Leather"
+      "description": "Wrist, Leather",
+      "group": 2
     },
     {
       "id": 60901,
@@ -2419,7 +2665,8 @@
       "icon": "inv_helmet_36",
       "name": "Centaur Skullcap",
       "quality": 2,
-      "description": "Head, Mail"
+      "description": "Head, Mail",
+      "group": 2
     },
     {
       "id": 60854,
@@ -2427,7 +2674,8 @@
       "icon": "inv_potion_50",
       "name": "Blood of the First Khan",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 60860,
@@ -2435,7 +2683,8 @@
       "icon": "spell_frost_windwalkon",
       "name": "Triskelion of Roving Elements",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 60859,
@@ -2443,7 +2692,8 @@
       "icon": "INV_Misc_Gem_CystalCut_01",
       "name": "Theradras' Shed Tear",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 0,
@@ -2451,7 +2701,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 4
     },
     {
       "id": 60902,
@@ -2459,7 +2710,8 @@
       "icon": "inv_mace_11",
       "name": "Gelkis Earthbinder",
       "quality": 3,
-      "description": "Main Hand, Mace"
+      "description": "Main Hand, Mace",
+      "group": 4
     },
     {
       "id": 60903,
@@ -2467,7 +2719,8 @@
       "icon": "inv_belt_27",
       "name": "Ceremonial Centaur Ring",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 4
     },
     {
       "id": 60904,
@@ -2475,7 +2728,8 @@
       "icon": "inv_shoulder_28",
       "name": "Maraudine Oath Pauldrons",
       "quality": 3,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 4
     },
     {
       "id": 0,
@@ -2483,7 +2737,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 5
     },
     {
       "id": 60905,
@@ -2491,7 +2746,8 @@
       "icon": "inv_wand_07",
       "name": "Batu'kar of the Second Khan",
       "quality": 4,
-      "description": "Staff"
+      "description": "Staff",
+      "group": 5
     },
     {
       "id": 60964,
@@ -2499,7 +2755,8 @@
       "icon": "inv_scroll_04",
       "name": "Plans: Mantle of Centaur Authority",
       "quality": 3,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 5
     },
     {
       "id": 60908,
@@ -2507,7 +2764,8 @@
       "icon": "inv_shoulder_13",
       "name": "Mantle of Centaur Authority",
       "quality": 3,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 5
     },
     {
       "id": 60965,
@@ -2515,7 +2773,8 @@
       "icon": "inv_scroll_05",
       "name": "Pattern: Windbinder Gloves",
       "quality": 3,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 5
     },
     {
       "id": 60907,
@@ -2523,7 +2782,8 @@
       "icon": "inv_gauntlets_12",
       "name": "Windbinder Gloves",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 5
     },
     {
       "id": 60966,
@@ -2531,7 +2791,8 @@
       "icon": "inv_misc_note_01",
       "name": "Formula: Enchant Bracer - Spell Power",
       "quality": 3,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 5
     }
   ],
   "LeagueofArathor": [
@@ -2541,7 +2802,8 @@
       "icon": "INV_Jewelry_Amulet_07",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 20132,
@@ -2549,7 +2811,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Arathor Battle Tabard",
       "quality": 1,
-      "description": "Quest Reward: Tabard"
+      "description": "Quest Reward: Tabard",
+      "group": 0
     }
   ],
   "MagramClan1": [
@@ -2559,7 +2822,8 @@
       "icon": "inv_weapon_bow_07",
       "name": "Centaur Longbow",
       "quality": 2,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 0
     },
     {
       "id": 0,
@@ -2567,7 +2831,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 6789,
@@ -2575,7 +2840,8 @@
       "icon": "INV_Misc_Cape_12",
       "name": "Ceremonial Centaur Blanket",
       "quality": 2,
-      "description": "Quest Reward: Back"
+      "description": "Quest Reward: Back",
+      "group": 1
     },
     {
       "id": 6788,
@@ -2583,7 +2849,8 @@
       "icon": "INV_Belt_11",
       "name": "Magram Hunter's Belt",
       "quality": 2,
-      "description": "Quest Reward: Waist, Leather"
+      "description": "Quest Reward: Waist, Leather",
+      "group": 1
     },
     {
       "id": 0,
@@ -2591,7 +2858,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 60879,
@@ -2599,7 +2867,8 @@
       "icon": "inv_boots_07",
       "name": "Centaur Stompers",
       "quality": 2,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 2
     },
     {
       "id": 60880,
@@ -2607,7 +2876,8 @@
       "icon": "inv_chest_leather_07",
       "name": "Packrunner Harness",
       "quality": 2,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 2
     },
     {
       "id": 60881,
@@ -2615,7 +2885,8 @@
       "icon": "inv_belt_01",
       "name": "Windwatcher Sash",
       "quality": 2,
-      "description": "Waist, Cloth"
+      "description": "Waist, Cloth",
+      "group": 2
     },
     {
       "id": 60853,
@@ -2623,7 +2894,8 @@
       "icon": "inv_misc_ear_nightelf_01",
       "name": "Dyad of Twitching Elven Ears",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 60854,
@@ -2631,7 +2903,8 @@
       "icon": "inv_potion_50",
       "name": "Blood of the First Khan",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 60855,
@@ -2639,7 +2912,8 @@
       "icon": "inv_misc_powder_black",
       "name": "Ritual Dust of Satiation",
       "quality": 2,
-      "description": "Quest Reward"
+      "description": "Quest Reward",
+      "group": 3
     },
     {
       "id": 0,
@@ -2647,7 +2921,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 4
     },
     {
       "id": 60884,
@@ -2655,7 +2930,8 @@
       "icon": "inv_weapon_shortblade_15",
       "name": "Ceremonial Magram Dagger",
       "quality": 3,
-      "description": "One-Hand, Dagger"
+      "description": "One-Hand, Dagger",
+      "group": 4
     },
     {
       "id": 60883,
@@ -2663,7 +2939,8 @@
       "icon": "inv_gauntlets_30",
       "name": "Gauntlets of the Khan",
       "quality": 3,
-      "description": "Hands, Plate"
+      "description": "Hands, Plate",
+      "group": 4
     },
     {
       "id": 60882,
@@ -2671,7 +2948,8 @@
       "icon": "inv_weapon_bow_01",
       "name": "Magram Windstriker",
       "quality": 3,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 4
     },
     {
       "id": 0,
@@ -2679,7 +2957,8 @@
       "icon": "INV_Misc_Head_Centaur_01",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 5
     },
     {
       "id": 60885,
@@ -2687,7 +2966,8 @@
       "icon": "inv_axe_04",
       "name": "Dar'kar of the Third Khan",
       "quality": 4,
-      "description": "Two-Hand, Axe"
+      "description": "Two-Hand, Axe",
+      "group": 5
     },
     {
       "id": 60968,
@@ -2695,7 +2975,8 @@
       "icon": "inv_scroll_04",
       "name": "Pattern: Centaur Battle Harness",
       "quality": 3,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 5
     },
     {
       "id": 60910,
@@ -2703,7 +2984,8 @@
       "icon": "inv_chest_leather_04",
       "name": "Centaur Battle Harness",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 5
     },
     {
       "id": 60967,
@@ -2711,7 +2993,8 @@
       "icon": "inv_scroll_06",
       "name": "Pattern: Dustguider Sash",
       "quality": 3,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 5
     },
     {
       "id": 60909,
@@ -2719,7 +3002,8 @@
       "icon": "inv_belt_01",
       "name": "Dustguider Sash",
       "quality": 3,
-      "description": "Waist, Cloth"
+      "description": "Waist, Cloth",
+      "group": 5
     },
     {
       "id": 60969,
@@ -2727,7 +3011,8 @@
       "icon": "inv_misc_note_01",
       "name": "Formula: Enchant Bracer - Greater Agility",
       "quality": 3,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 5
     }
   ],
   "Helf": [
@@ -2737,7 +3022,8 @@
       "icon": "race_high_elf",
       "name": "Cloth Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 80512,
@@ -2745,7 +3031,8 @@
       "icon": "INV_Chest_Cloth_43",
       "name": "Quel'dorei Magister's Robe",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 0
     },
     {
       "id": 80513,
@@ -2753,7 +3040,8 @@
       "icon": "inv_boots_02",
       "name": "Quel'dorei Magister's Boots",
       "quality": 3,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 0
     },
     {
       "id": 80514,
@@ -2761,7 +3049,8 @@
       "icon": "INV_Belt_06",
       "name": "Quel'dorei Magister's Belt",
       "quality": 3,
-      "description": "Waist, Cloth"
+      "description": "Waist, Cloth",
+      "group": 0
     },
     {
       "id": 80515,
@@ -2769,7 +3058,8 @@
       "icon": "inv_gauntlets_06",
       "name": "Quel'dorei Magister's Gloves",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 0
     },
     {
       "id": 80516,
@@ -2777,7 +3067,8 @@
       "icon": "Inv_pants_cloth_02",
       "name": "Quel'dorei Magister's Leggings",
       "quality": 3,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 0
     },
     {
       "id": 0,
@@ -2785,7 +3076,8 @@
       "icon": "race_high_elf",
       "name": "Leather Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80517,
@@ -2793,7 +3085,8 @@
       "icon": "inv_chest_leather_05",
       "name": "Quel'dorei Assassin's Tunic",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 80518,
@@ -2801,7 +3094,8 @@
       "icon": "inv_boots_05",
       "name": "Quel'dorei Assassin's Boots",
       "quality": 3,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 1
     },
     {
       "id": 80519,
@@ -2809,7 +3103,8 @@
       "icon": "inv_belt_26",
       "name": "Quel'dorei Assassin's Belt",
       "quality": 3,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 1
     },
     {
       "id": 80520,
@@ -2817,7 +3112,8 @@
       "icon": "inv_gauntlets_15",
       "name": "Quel'dorei Assassin's Vices",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 80521,
@@ -2825,7 +3121,8 @@
       "icon": "INV_Pants_02",
       "name": "Quel'dorei Assassin's Leggings",
       "quality": 3,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     },
     {
       "id": 0,
@@ -2833,7 +3130,8 @@
       "icon": "race_high_elf",
       "name": "Mail Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 80522,
@@ -2841,7 +3139,8 @@
       "icon": "INV_Chest_Leather_08",
       "name": "Quel'dorei Ranger's Hauberk",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 2
     },
     {
       "id": 80523,
@@ -2849,7 +3148,8 @@
       "icon": "INV_Boots_05",
       "name": "Quel'dorei Ranger's Boots",
       "quality": 3,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 2
     },
     {
       "id": 80524,
@@ -2857,7 +3157,8 @@
       "icon": "INV_Belt_26",
       "name": "Quel'dorei Ranger's Belt",
       "quality": 3,
-      "description": "Waist, Mail"
+      "description": "Waist, Mail",
+      "group": 2
     },
     {
       "id": 80525,
@@ -2865,7 +3166,8 @@
       "icon": "Inv_gauntlets_25",
       "name": "Quel'dorei Ranger's Gauntlets",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 2
     },
     {
       "id": 80526,
@@ -2873,7 +3175,8 @@
       "icon": "INV_Pants_12",
       "name": "Quel'dorei Ranger's Legguards",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 2
     },
     {
       "id": 0,
@@ -2881,7 +3184,8 @@
       "icon": "race_high_elf",
       "name": "Plate Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 80507,
@@ -2889,7 +3193,8 @@
       "icon": "inv_chest_chain_13",
       "name": "Quel'dorei Guardian's Chestplate",
       "quality": 3,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 3
     },
     {
       "id": 80508,
@@ -2897,7 +3202,8 @@
       "icon": "Inv_boots_chain_06",
       "name": "Quel'dorei Guardian's Boots",
       "quality": 3,
-      "description": "Feet, Plate"
+      "description": "Feet, Plate",
+      "group": 3
     },
     {
       "id": 80509,
@@ -2905,7 +3211,8 @@
       "icon": "inv_belt_11",
       "name": "Quel'dorei Guardian's Girdle",
       "quality": 3,
-      "description": "Waist, Plate"
+      "description": "Waist, Plate",
+      "group": 3
     },
     {
       "id": 80510,
@@ -2913,7 +3220,8 @@
       "icon": "Inv_gauntlets_10",
       "name": "Quel'dorei Guardian's Handguards",
       "quality": 3,
-      "description": "Hands, Plate"
+      "description": "Hands, Plate",
+      "group": 3
     },
     {
       "id": 80511,
@@ -2921,7 +3229,8 @@
       "icon": "inv_pants_03",
       "name": "Quel'dorei Guardian's Legplates",
       "quality": 3,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 3
     }
   ],
   "Helf2": [
@@ -2931,7 +3240,8 @@
       "icon": "race_high_elf",
       "name": "Cloaks",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 80505,
@@ -2939,7 +3249,8 @@
       "icon": "inv_misc_cape_10",
       "name": "Quel'dorei Hero's Cape",
       "quality": 3,
-      "description": "Back"
+      "description": "Back",
+      "group": 0
     },
     {
       "id": 80527,
@@ -2947,7 +3258,8 @@
       "icon": "inv_misc_cape_16",
       "name": "Quel'dorei Hero's Drape",
       "quality": 3,
-      "description": "Back"
+      "description": "Back",
+      "group": 0
     },
     {
       "id": 80506,
@@ -2955,7 +3267,8 @@
       "icon": "inv_misc_cape_16",
       "name": "Quel'dorei Hero's Cloak",
       "quality": 3,
-      "description": "Back"
+      "description": "Back",
+      "group": 0
     },
     {
       "id": 0,
@@ -2963,7 +3276,8 @@
       "icon": "race_high_elf",
       "name": "Weapons",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80502,
@@ -2971,7 +3285,8 @@
       "icon": "Inv_staff_38",
       "name": "Curved Ceremonial Staff",
       "quality": 2,
-      "description": "Staff"
+      "description": "Staff",
+      "group": 1
     },
     {
       "id": 80504,
@@ -2979,7 +3294,8 @@
       "icon": "INV_Staff_25",
       "name": "Hardened Root Staff",
       "quality": 2,
-      "description": "Staff"
+      "description": "Staff",
+      "group": 1
     },
     {
       "id": 80501,
@@ -2987,7 +3303,8 @@
       "icon": "INV_Sword_04",
       "name": "Sturdy Broadsword",
       "quality": 2,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 1
     },
     {
       "id": 80500,
@@ -2995,7 +3312,8 @@
       "icon": "INV_Mace_30",
       "name": "Tempered Argus Mace",
       "quality": 2,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 1
     },
     {
       "id": 80503,
@@ -3003,7 +3321,8 @@
       "icon": "INV_Weapon_Bow_02",
       "name": "Well-balanced Short Bow",
       "quality": 2,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 1
     },
     {
       "id": 0,
@@ -3011,7 +3330,8 @@
       "icon": "race_high_elf",
       "name": "Tabard",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 80317,
@@ -3019,7 +3339,8 @@
       "icon": "inv_misc_tournaments_tabard_bloodelf",
       "name": "Quel'Thalas Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     },
     {
       "id": 0,
@@ -3027,7 +3348,8 @@
       "icon": "race_high_elf",
       "name": "Pets",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 80003,
@@ -3035,7 +3357,8 @@
       "icon": "inv_misc_foxkit",
       "name": "Black-Footed Fox",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 80007,
@@ -3043,7 +3366,8 @@
       "icon": "INV_Staff_08",
       "name": "Enchanted Broom",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 80000,
@@ -3051,7 +3375,8 @@
       "icon": "INV_Box_PetCarrier_01",
       "name": "Golden Dragonhawk Hatchling",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 80001,
@@ -3059,7 +3384,8 @@
       "icon": "INV_Misc_Herb_14",
       "name": "Thalassian Tender",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     }
   ],
   "Helf3": [
@@ -3069,7 +3395,8 @@
       "icon": "INV_Weapon_ShortBlade_15",
       "name": "Quel'dorei Magister's Channeling Blade",
       "quality": 3,
-      "description": "Main Hand, Dagger"
+      "description": "Main Hand, Dagger",
+      "group": 0
     },
     {
       "id": 80539,
@@ -3077,7 +3404,8 @@
       "icon": "INV_Offhand_Blood_02",
       "name": "Quel'dorei Magister's Focus",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 0
     },
     {
       "id": 80541,
@@ -3085,7 +3413,8 @@
       "icon": "Inv_staff_38",
       "name": "Quel'dorei Magister's Staff",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 0
     },
     {
       "id": 80544,
@@ -3093,7 +3422,8 @@
       "icon": "INV_Staff_06",
       "name": "Quel'dorei Magister's Spellflinger",
       "quality": 3,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 0
     },
     {
       "id": 80532,
@@ -3101,7 +3431,8 @@
       "icon": "INV_Mace_02",
       "name": "Quel'dorei Cleric's Hammer",
       "quality": 3,
-      "description": "Main Hand, Mace"
+      "description": "Main Hand, Mace",
+      "group": 1
     },
     {
       "id": 80540,
@@ -3109,7 +3440,8 @@
       "icon": "INV_Misc_Book_09",
       "name": "Quel'dorei Cleric's Tome",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 80542,
@@ -3117,7 +3449,8 @@
       "icon": "INV_Staff_39",
       "name": "Quel'dorei Cleric's Staff",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 1
     },
     {
       "id": 80545,
@@ -3125,7 +3458,8 @@
       "icon": "INV_WAND_07",
       "name": "Quel'dorei Cleric's Wand",
       "quality": 2,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 1
     },
     {
       "id": 80528,
@@ -3133,7 +3467,8 @@
       "icon": "inv_weapon_shortblade_07",
       "name": "Quel'dorei Assassin's Kris",
       "quality": 3,
-      "description": "Dagger"
+      "description": "Dagger",
+      "group": 2
     },
     {
       "id": 80546,
@@ -3141,7 +3476,8 @@
       "icon": "INV_Weapon_Bow_17",
       "name": "Quel'dorei Ranger's Longbow",
       "quality": 3,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 3
     },
     {
       "id": 80530,
@@ -3149,7 +3485,8 @@
       "icon": "INV_Hammer_02",
       "name": "Quel'dorei Guardian's Mace",
       "quality": 3,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 4
     },
     {
       "id": 80531,
@@ -3157,7 +3494,8 @@
       "icon": "INV_Mace_30",
       "name": "Quel'dorei Guardian's Warhammer",
       "quality": 3,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 4
     },
     {
       "id": 80533,
@@ -3165,7 +3503,8 @@
       "icon": "INV_Axe_30",
       "name": "Quel'dorei Guardian's Handaxe",
       "quality": 3,
-      "description": "One-Hand, Axe"
+      "description": "One-Hand, Axe",
+      "group": 5
     },
     {
       "id": 80547,
@@ -3173,7 +3512,8 @@
       "icon": "INV_Axe_04",
       "name": "Quel'dorei Guardian's Battle Axe",
       "quality": 3,
-      "description": "Two-Hand, Axe"
+      "description": "Two-Hand, Axe",
+      "group": 5
     },
     {
       "id": 80535,
@@ -3181,7 +3521,8 @@
       "icon": "INV_Sword_04",
       "name": "Quel'dorei Defender's Deflector",
       "quality": 3,
-      "description": "Main Hand, Sword"
+      "description": "Main Hand, Sword",
+      "group": 6
     },
     {
       "id": 80536,
@@ -3189,7 +3530,8 @@
       "icon": "INV_Sword_BloodElf_03",
       "name": "Quel'dorei Assassin's Sword",
       "quality": 3,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 6
     },
     {
       "id": 80534,
@@ -3197,7 +3539,8 @@
       "icon": "INV_Spear_08",
       "name": "Quel'dorei Guardian's Battle Glaive",
       "quality": 3,
-      "description": "Two-Hand, Sword"
+      "description": "Two-Hand, Sword",
+      "group": 6
     },
     {
       "id": 80537,
@@ -3205,7 +3548,8 @@
       "icon": "INV_Sword_2H_Blood_C_01",
       "name": "Quel'dorei Guardian's Twinblade",
       "quality": 3,
-      "description": "Two-Hand, Sword"
+      "description": "Two-Hand, Sword",
+      "group": 6
     },
     {
       "id": 80538,
@@ -3213,7 +3557,8 @@
       "icon": "INV_Spear_10",
       "name": "Quel'dorei Ranger's Spear",
       "quality": 3,
-      "description": "Two-Hand, Polearm"
+      "description": "Two-Hand, Polearm",
+      "group": 7
     },
     {
       "id": 80543,
@@ -3221,7 +3566,8 @@
       "icon": "INV_Shield_36",
       "name": "Quel'dorei Defender's Bulwark",
       "quality": 3,
-      "description": "Shield, Off Hand"
+      "description": "Shield, Off Hand",
+      "group": 7
     }
   ],
   "Revantusk": [
@@ -3231,7 +3577,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Cloth Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 80612,
@@ -3239,7 +3586,8 @@
       "icon": "inv_chest_cloth_20",
       "name": "Revantusk Mystic's Robe",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 0
     },
     {
       "id": 80613,
@@ -3247,7 +3595,8 @@
       "icon": "INV_Boots_05",
       "name": "Revantusk Mystic's Boots",
       "quality": 3,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 0
     },
     {
       "id": 80614,
@@ -3255,7 +3604,8 @@
       "icon": "INV_Belt_04",
       "name": "Revantusk Mystic's Belt",
       "quality": 3,
-      "description": "Waist, Cloth"
+      "description": "Waist, Cloth",
+      "group": 0
     },
     {
       "id": 80615,
@@ -3263,7 +3613,8 @@
       "icon": "INV_Gauntlets_19",
       "name": "Revantusk Mystic's Gloves",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 0
     },
     {
       "id": 80616,
@@ -3271,7 +3622,8 @@
       "icon": "INV_Pants_13",
       "name": "Revantusk Mystic's Leggings",
       "quality": 3,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 0
     },
     {
       "id": 0,
@@ -3279,7 +3631,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Leather Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80617,
@@ -3287,7 +3640,8 @@
       "icon": "Inv_chest_chain_16",
       "name": "Revantusk Stalker's Tunic",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 80618,
@@ -3295,7 +3649,8 @@
       "icon": "Inv_boots_chain_01",
       "name": "Revantusk Stalker's Boots",
       "quality": 3,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 1
     },
     {
       "id": 80619,
@@ -3303,7 +3658,8 @@
       "icon": "Inv_belt_23",
       "name": "Revantusk Stalker's Belt",
       "quality": 3,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 1
     },
     {
       "id": 80620,
@@ -3311,7 +3667,8 @@
       "icon": "Inv_gauntlets_25",
       "name": "Revantusk Stalker's Vices",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 80621,
@@ -3319,7 +3676,8 @@
       "icon": "Inv_pants_mail_04",
       "name": "Revantusk Stalker's Leggings",
       "quality": 3,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     },
     {
       "id": 0,
@@ -3327,7 +3685,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Mail Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 80622,
@@ -3335,7 +3694,8 @@
       "icon": "inv_chest_leather_07",
       "name": "Revantusk Shadow Hunter's Hauberk",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 2
     },
     {
       "id": 80623,
@@ -3343,7 +3703,8 @@
       "icon": "inv_boots_02",
       "name": "Revantusk Shadow Hunter's Boots",
       "quality": 3,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 2
     },
     {
       "id": 80624,
@@ -3351,7 +3712,8 @@
       "icon": "Inv_belt_23",
       "name": "Revantusk Shadow Hunter's Belt",
       "quality": 3,
-      "description": "Waist, Mail"
+      "description": "Waist, Mail",
+      "group": 2
     },
     {
       "id": 80625,
@@ -3359,7 +3721,8 @@
       "icon": "INV_Gauntlets_19",
       "name": "Revantusk Shadow Hunter's Gauntlets",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 2
     },
     {
       "id": 80626,
@@ -3367,7 +3730,8 @@
       "icon": "inv_pants_03",
       "name": "Revantusk Shadow Hunter's Legguards",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 2
     },
     {
       "id": 0,
@@ -3375,7 +3739,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Plate Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 80607,
@@ -3383,7 +3748,8 @@
       "icon": "inv_chest_chain_17",
       "name": "Revantusk Watcher's Chestplate",
       "quality": 3,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 3
     },
     {
       "id": 80608,
@@ -3391,7 +3757,8 @@
       "icon": "Inv_boots_chain_03",
       "name": "Revantusk Watcher's Boots",
       "quality": 3,
-      "description": "Feet, Plate"
+      "description": "Feet, Plate",
+      "group": 3
     },
     {
       "id": 80609,
@@ -3399,7 +3766,8 @@
       "icon": "Inv_belt_23",
       "name": "Revantusk Watcher's Girdle",
       "quality": 3,
-      "description": "Waist, Plate"
+      "description": "Waist, Plate",
+      "group": 3
     },
     {
       "id": 80610,
@@ -3407,7 +3775,8 @@
       "icon": "Inv_gauntlets_21",
       "name": "Revantusk Watcher's Handguards",
       "quality": 3,
-      "description": "Hands, Plate"
+      "description": "Hands, Plate",
+      "group": 3
     },
     {
       "id": 80611,
@@ -3415,7 +3784,8 @@
       "icon": "Inv_pants_leather_07",
       "name": "Revantusk Watcher's Legplates",
       "quality": 3,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 3
     }
   ],
   "Revantusk2": [
@@ -3425,7 +3795,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Cloaks",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 80605,
@@ -3433,7 +3804,8 @@
       "icon": "INV_Misc_Cape_15",
       "name": "Revantusk Hero's Cape",
       "quality": 3,
-      "description": "Back, Cloth"
+      "description": "Back, Cloth",
+      "group": 0
     },
     {
       "id": 80627,
@@ -3441,7 +3813,8 @@
       "icon": "INV_Misc_Cape_17",
       "name": "Revantusk Hero's Drape",
       "quality": 3,
-      "description": "Back, Cloth"
+      "description": "Back, Cloth",
+      "group": 0
     },
     {
       "id": 80606,
@@ -3449,7 +3822,8 @@
       "icon": "INV_Misc_Cape_18",
       "name": "Revantusk Hero's Cloak",
       "quality": 3,
-      "description": "Back, Cloth"
+      "description": "Back, Cloth",
+      "group": 0
     },
     {
       "id": 0,
@@ -3457,7 +3831,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Weapons",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80602,
@@ -3465,7 +3840,8 @@
       "icon": "INV_Staff_Goldfeathered_01",
       "name": "Crude Channeling Staff",
       "quality": 2,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 1
     },
     {
       "id": 80601,
@@ -3473,7 +3849,8 @@
       "icon": "Inv_sword_33",
       "name": "Flesh Cutter",
       "quality": 2,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 1
     },
     {
       "id": 80600,
@@ -3481,7 +3858,8 @@
       "icon": "INV_Axe_01",
       "name": "Rockslicer",
       "quality": 2,
-      "description": "One-Hand, Axe"
+      "description": "One-Hand, Axe",
+      "group": 1
     },
     {
       "id": 80603,
@@ -3489,7 +3867,8 @@
       "icon": "INV_Weapon_Bow_02",
       "name": "Sturdy Short Bow",
       "quality": 2,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 1
     },
     {
       "id": 80604,
@@ -3497,7 +3876,8 @@
       "icon": "INV_Staff_25",
       "name": "Withered Root Staff",
       "quality": 2,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 1
     },
     {
       "id": 0,
@@ -3505,7 +3885,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Tabard",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 81098,
@@ -3513,7 +3894,8 @@
       "icon": "inv_misc_tournaments_tabard_troll",
       "name": "Revantusk Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     },
     {
       "id": 0,
@@ -3521,7 +3903,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Pets",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 80878,
@@ -3529,7 +3912,8 @@
       "icon": "INV_Feather_14",
       "name": "Amani Eagle",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 0,
@@ -3537,7 +3921,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Mounts",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 4
     },
     {
       "id": 81226,
@@ -3545,7 +3930,8 @@
       "icon": "Ability_Hunter_Pet_Bear",
       "name": "Armored Brown Bear",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 4
     },
     {
       "id": 80433,
@@ -3553,7 +3939,8 @@
       "icon": "Ability_Druid_DemoralizingRoar",
       "name": "Black Bear",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 4
     },
     {
       "id": 80438,
@@ -3561,7 +3948,8 @@
       "icon": "Ability_Druid_DemoralizingRoar",
       "name": "Brown Bear",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 4
     }
   ],
   "Revantusk3": [
@@ -3571,7 +3959,8 @@
       "icon": "INV_Misc_MonsterFang_01",
       "name": "Revantusk Mystic's Chanting Blade",
       "quality": 3,
-      "description": "Main Hand, Dagger"
+      "description": "Main Hand, Dagger",
+      "group": 0
     },
     {
       "id": 80639,
@@ -3579,7 +3968,8 @@
       "icon": "INV_Staff_13",
       "name": "Revantusk Mystic's Hex Skull",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 0
     },
     {
       "id": 80641,
@@ -3587,7 +3977,8 @@
       "icon": "INV_Misc_Bone_ElfSkull_01",
       "name": "Revantusk Mystic's Staff",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 0
     },
     {
       "id": 80644,
@@ -3595,7 +3986,8 @@
       "icon": "INV_Wand_01",
       "name": "Revantusk Mystic's Mojobender",
       "quality": 3,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 0
     },
     {
       "id": 80632,
@@ -3603,7 +3995,8 @@
       "icon": "INV_Misc_Bone_ElfSkull_01",
       "name": "Revantusk Mender's Scepter",
       "quality": 3,
-      "description": "Main Hand, Mace"
+      "description": "Main Hand, Mace",
+      "group": 1
     },
     {
       "id": 80640,
@@ -3611,7 +4004,8 @@
       "icon": "INV_Misc_Bone_01",
       "name": "Revantusk Mender's Mojo",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 80642,
@@ -3619,7 +4013,8 @@
       "icon": "INV_Staff_Goldfeathered_01",
       "name": "Revantusk Mender's Cane",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 1
     },
     {
       "id": 80645,
@@ -3627,7 +4022,8 @@
       "icon": "INV_Wand_01",
       "name": "Revantusk Mender's Wand",
       "quality": 3,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 1
     },
     {
       "id": 80628,
@@ -3635,7 +4031,8 @@
       "icon": "inv_misc_monsterfang_01",
       "name": "Revantusk Stalker's Kris",
       "quality": 3,
-      "description": "Dagger"
+      "description": "Dagger",
+      "group": 2
     },
     {
       "id": 80646,
@@ -3643,7 +4040,8 @@
       "icon": "INV_Weapon_Bow_08",
       "name": "Revantusk Shadow Hunter's Longbow",
       "quality": 3,
-      "description": "Bow"
+      "description": "Bow",
+      "group": 3
     },
     {
       "id": 80630,
@@ -3651,7 +4049,8 @@
       "icon": "INV_Mace_01",
       "name": "Revantusk Watcher's Mace",
       "quality": 3,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 4
     },
     {
       "id": 80631,
@@ -3659,7 +4058,8 @@
       "icon": "INV_Hammer_09",
       "name": "Revantusk Watcher's Maul",
       "quality": 3,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 4
     },
     {
       "id": 80633,
@@ -3667,7 +4067,8 @@
       "icon": "INV_Axe_01",
       "name": "Revantusk Watcher's Slicer",
       "quality": 3,
-      "description": "One-Hand, Axe"
+      "description": "One-Hand, Axe",
+      "group": 5
     },
     {
       "id": 80635,
@@ -3675,7 +4076,8 @@
       "icon": "INV_Axe_18",
       "name": "Revantusk Defender's Deflector",
       "quality": 3,
-      "description": "Main Hand, Axe"
+      "description": "Main Hand, Axe",
+      "group": 5
     },
     {
       "id": 80634,
@@ -3683,7 +4085,8 @@
       "icon": "INV_Axe_04",
       "name": "Revantusk Watcher's Carver",
       "quality": 3,
-      "description": "Two-Hand, Axe"
+      "description": "Two-Hand, Axe",
+      "group": 5
     },
     {
       "id": 80636,
@@ -3691,7 +4094,8 @@
       "icon": "INV_Sword_18",
       "name": "Revantusk Stalker's Blade",
       "quality": 3,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 6
     },
     {
       "id": 80637,
@@ -3699,7 +4103,8 @@
       "icon": "INV_Sword_02",
       "name": "Revantusk Watcher's Warblade",
       "quality": 3,
-      "description": "Two-Hand, Sword"
+      "description": "Two-Hand, Sword",
+      "group": 6
     },
     {
       "id": 80638,
@@ -3707,7 +4112,8 @@
       "icon": "INV_Spear_02",
       "name": "Revantusk Shadow Hunter's Striker",
       "quality": 3,
-      "description": "Polearm"
+      "description": "Polearm",
+      "group": 7
     },
     {
       "id": 80643,
@@ -3715,7 +4121,8 @@
       "icon": "INV_Shield_16",
       "name": "Revantusk Defender's Bulwark",
       "quality": 3,
-      "description": "Shield, Off Hand"
+      "description": "Shield, Off Hand",
+      "group": 7
     }
   ],
   "Ironforge": [
@@ -3725,7 +4132,8 @@
       "icon": "race_dwarf",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 81214,
@@ -3733,7 +4141,8 @@
       "icon": "INV_Belt_27",
       "name": "Girdle of Anvilmar",
       "quality": 2,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 0
     },
     {
       "id": 81211,
@@ -3741,7 +4150,8 @@
       "icon": "inv_boots_02",
       "name": "Boots of Anvilmar",
       "quality": 2,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 0
     },
     {
       "id": 81212,
@@ -3749,7 +4159,8 @@
       "icon": "inv_chest_plate03",
       "name": "Tunic of Anvilmar",
       "quality": 2,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 0
     },
     {
       "id": 81215,
@@ -3757,7 +4168,8 @@
       "icon": "INV_Gauntlets_25",
       "name": "Armguards of Anvilmar",
       "quality": 2,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 0
     },
     {
       "id": 81213,
@@ -3765,7 +4177,8 @@
       "icon": "inv_pants_12",
       "name": "Pants of Anvilmar",
       "quality": 2,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 0
     },
     {
       "id": 0,
@@ -3773,7 +4186,8 @@
       "icon": "race_dwarf",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80303,
@@ -3781,7 +4195,8 @@
       "icon": "inv_misc_tournaments_tabard_dwarf",
       "name": "Ironforge Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 1
     },
     {
       "id": 81233,
@@ -3789,7 +4204,8 @@
       "icon": "Ability_Mount_MountainRam",
       "name": "Armored Ironforge Ram",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 1
     }
   ],
   "Darnassus": [
@@ -3799,7 +4215,8 @@
       "icon": "race_night_elf",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 60746,
@@ -3807,7 +4224,8 @@
       "icon": "inv_chest_plate09",
       "name": "Sentinel's Breastplate",
       "quality": 2,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 0
     },
     {
       "id": 60747,
@@ -3815,7 +4233,8 @@
       "icon": "inv_boots_chain_08",
       "name": "Sentinel's Boots",
       "quality": 2,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 0
     },
     {
       "id": 60748,
@@ -3823,7 +4242,8 @@
       "icon": "inv_helmet_19",
       "name": "Sentinel's Crown",
       "quality": 6,
-      "description": "Head, Mail"
+      "description": "Head, Mail",
+      "group": 0
     },
     {
       "id": 60749,
@@ -3831,7 +4251,8 @@
       "icon": "inv_pants_mail_11",
       "name": "Sentinel's Leggings",
       "quality": 2,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 0
     },
     {
       "id": 60750,
@@ -3839,7 +4260,8 @@
       "icon": "inv_gauntlets_06",
       "name": "Sentinel's Gauntlets",
       "quality": 2,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 0
     },
     {
       "id": 60751,
@@ -3847,7 +4269,8 @@
       "icon": "INV_Shoulder_13",
       "name": "Sentinel's Pauldrons",
       "quality": 2,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 0
     },
     {
       "id": 0,
@@ -3855,7 +4278,8 @@
       "icon": "race_night_elf",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 60752,
@@ -3863,7 +4287,8 @@
       "icon": "INV_Spear_08",
       "name": "Sentinel's Glaive",
       "quality": 3,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 1
     },
     {
       "id": 0,
@@ -3871,7 +4296,8 @@
       "icon": "race_night_elf",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 80305,
@@ -3879,7 +4305,8 @@
       "icon": "inv_misc_tournaments_tabard_nightelf",
       "name": "Darnassus Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     }
   ],
   "Stormwind": [
@@ -3965,7 +4392,8 @@
       "icon": "race_troll",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83064,
@@ -3973,7 +4401,8 @@
       "icon": "spell_nature_agitatingtotem",
       "name": "Hexed Voodoo Pads",
       "quality": 3,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 0
     },
     {
       "id": 0,
@@ -3981,7 +4410,8 @@
       "icon": "race_troll",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 80806,
@@ -3989,7 +4419,8 @@
       "icon": "INV_Banner_01",
       "name": "Healing Ward",
       "quality": 3,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 1
     },
     {
       "id": 80785,
@@ -3997,7 +4428,8 @@
       "icon": "INV_Potion_07",
       "name": "Bottle of Good Mojo",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 80797,
@@ -4005,7 +4437,8 @@
       "icon": "INV_Jewelry_Necklace_02",
       "name": "Pendant of Troll Regeneration",
       "quality": 3,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 1
     },
     {
       "id": 0,
@@ -4013,7 +4446,8 @@
       "icon": "race_troll",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 81183,
@@ -4021,7 +4455,8 @@
       "icon": "Ability_Hunter_Pet_WindSerpent",
       "name": "Sunscale Hatchling",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 80304,
@@ -4029,7 +4464,8 @@
       "icon": "inv_misc_tournaments_tabard_troll",
       "name": "Darkspear Tribe Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     },
     {
       "id": 81182,
@@ -4037,7 +4473,8 @@
       "icon": "Ability_Mount_Raptor",
       "name": "Armored Darkspear Raptor",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 2
     }
   ],
   "DurotarLaborUnion": [
@@ -4047,7 +4484,8 @@
       "icon": "race_goblin",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 50068,
@@ -4055,7 +4493,8 @@
       "icon": "Spell_Nature_GuardianWard",
       "name": "Green Water Snake",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 0
     },
     {
       "id": 0,
@@ -4063,7 +4502,8 @@
       "icon": "race_goblin",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 81196,
@@ -4071,7 +4511,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Goblin Radio",
       "quality": 3,
-      "description": "Engineering (300)"
+      "description": "Engineering (300)",
+      "group": 1
     },
     {
       "id": 10585,
@@ -4079,7 +4520,8 @@
       "icon": "INV_Gizmo_GoblinBoomBox_01",
       "name": "Goblin Radio KABOOM-Box X23B76",
       "quality": 3,
-      "description": "Toy"
+      "description": "Toy",
+      "group": 1
     },
     {
       "id": 0,
@@ -4087,7 +4529,8 @@
       "icon": "race_goblin",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 81190,
@@ -4095,7 +4538,8 @@
       "icon": "INV_Misc_Key_06",
       "name": "Red Shredder X-0524A",
       "quality": 4,
-      "description": "Mount, Goblin Only"
+      "description": "Mount, Goblin Only",
+      "group": 2
     },
     {
       "id": 81191,
@@ -4103,7 +4547,8 @@
       "icon": "INV_Misc_Key_05",
       "name": "Green Shredder X-0524B",
       "quality": 4,
-      "description": "Mount, Goblin Only"
+      "description": "Mount, Goblin Only",
+      "group": 2
     },
     {
       "id": 81089,
@@ -4111,7 +4556,8 @@
       "icon": "inv_misc_tabard_kezan",
       "name": "Durotar Labor Union Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     }
   ],
   "Undercity": [
@@ -4171,7 +4617,8 @@
       "icon": "race_orc",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 81216,
@@ -4179,7 +4626,8 @@
       "icon": "inv_helmet_08",
       "name": "Fur-Lined Orcish Helm",
       "quality": 2,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 0
     },
     {
       "id": 81217,
@@ -4187,7 +4635,8 @@
       "icon": "inv_helmet_08",
       "name": "Protective Orcish Helm",
       "quality": 2,
-      "description": "Head, Mail"
+      "description": "Head, Mail",
+      "group": 0
     },
     {
       "id": 0,
@@ -4195,7 +4644,8 @@
       "icon": "race_orc",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 81241,
@@ -4203,7 +4653,8 @@
       "icon": "Ability_Hunter_Pet_Wolf",
       "name": "Armored Orgrimmar Wolf",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 1
     },
     {
       "id": 80307,
@@ -4211,7 +4662,8 @@
       "icon": "inv_misc_tournaments_tabard_orc",
       "name": "Orgrimmar Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 1
     }
   ],
   "ThunderBluff": [
@@ -4221,7 +4673,8 @@
       "icon": "race_tauren",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 81199,
@@ -4229,7 +4682,8 @@
       "icon": "INV_Staff_03",
       "name": "Ancestral War Totem",
       "quality": 3,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 0
     },
     {
       "id": 81218,
@@ -4237,7 +4691,8 @@
       "icon": "inv_chest_plate08",
       "name": "Chieftain's Ceremonial Harness",
       "quality": 2,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 0
     },
     {
       "id": 81219,
@@ -4245,7 +4700,8 @@
       "icon": "inv_boots_plate_05",
       "name": "Chieftain's Ceremonial Anklewraps",
       "quality": 2,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 0
     },
     {
       "id": 81220,
@@ -4253,7 +4709,8 @@
       "icon": "inv_pants_04",
       "name": "Chieftain's Ceremonial Legwraps",
       "quality": 2,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 0
     },
     {
       "id": 81221,
@@ -4261,7 +4718,8 @@
       "icon": "INV_Belt_13",
       "name": "Chieftain's Ceremonial Belt",
       "quality": 2,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 0
     },
     {
       "id": 81222,
@@ -4269,7 +4727,8 @@
       "icon": "INV_Gauntlets_09",
       "name": "Chieftain's Ceremonial Handwraps",
       "quality": 2,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 0
     },
     {
       "id": 0,
@@ -4277,7 +4736,8 @@
       "icon": "race_tauren",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 81167,
@@ -4285,7 +4745,8 @@
       "icon": "INV_Shoulder_06",
       "name": "Chieftain's Ceremonial Mantle",
       "quality": 3,
-      "description": "Shoulder, Leather"
+      "description": "Shoulder, Leather",
+      "group": 1
     },
     {
       "id": 81223,
@@ -4293,7 +4754,8 @@
       "icon": "INV_Helmet_04",
       "name": "Chieftain's Ceremonial Headdress",
       "quality": 3,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 1
     },
     {
       "id": 81198,
@@ -4301,7 +4763,8 @@
       "icon": "Ability_Mount_Kodo_01",
       "name": "Armored Thunder Bluff Kodo",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 1
     },
     {
       "id": 81237,
@@ -4309,7 +4772,8 @@
       "icon": "Ability_Mount_Kodo_01",
       "name": "Chieftain's Kodo",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 1
     },
     {
       "id": 80308,
@@ -4317,7 +4781,8 @@
       "icon": "inv_misc_tournaments_tabard_tauren",
       "name": "Thunder Bluff Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 1
     }
   ],
   "Dalaran": [
@@ -4327,7 +4792,8 @@
       "icon": "Spell_Holy_MagicalSentry",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 60728,
@@ -4335,7 +4801,8 @@
       "icon": "INV_Boots_05",
       "name": "Boots of the Hermit Magi",
       "quality": 3,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 0
     },
     {
       "id": 60730,
@@ -4343,7 +4810,8 @@
       "icon": "INV_Belt_33",
       "name": "Girdle of the Warden",
       "quality": 3,
-      "description": "Waist, Plate"
+      "description": "Waist, Plate",
+      "group": 0
     },
     {
       "id": 60727,
@@ -4351,7 +4819,8 @@
       "icon": "INV_Shoulder_18",
       "name": "Pauldrons of Sealed Magics",
       "quality": 3,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 0
     },
     {
       "id": 60726,
@@ -4359,7 +4828,8 @@
       "icon": "INV_Shield_06",
       "name": "Spellguard's Shield",
       "quality": 3,
-      "description": "Shield, Off Hand"
+      "description": "Shield, Off Hand",
+      "group": 0
     },
     {
       "id": 60729,
@@ -4367,7 +4837,8 @@
       "icon": "INV_Gauntlets_09",
       "name": "Skulker's Gloves",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 0
     },
     {
       "id": 0,
@@ -4375,7 +4846,8 @@
       "icon": "Spell_Holy_MagicalSentry",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 60724,
@@ -4383,7 +4855,8 @@
       "icon": "INV_Helmet_11",
       "name": "Dalarani Conjurer's Hat",
       "quality": 4,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 60725,
@@ -4391,7 +4864,8 @@
       "icon": "INV_Jewelry_Ring_34",
       "name": "Ring of Flowing Leylines",
       "quality": 4,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     },
     {
       "id": 81289,
@@ -4399,7 +4873,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Dalaran Tabard",
       "quality": 4,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 1
     }
   ],
   "Wildhammer": [
@@ -4409,7 +4884,8 @@
       "icon": "Ability_Hunter_EagleEye",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 55034,
@@ -4417,7 +4893,8 @@
       "icon": "INV_Shoulder_16",
       "name": "Grim Batol Mountaineer Pauldrons",
       "quality": 2,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 0
     },
     {
       "id": 55035,
@@ -4425,7 +4902,8 @@
       "icon": "INV_Jewelry_Necklace_02",
       "name": "Derelict Family Clan Totem",
       "quality": 2,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 0
     },
     {
       "id": 55033,
@@ -4433,7 +4911,8 @@
       "icon": "INV_Helmet_04",
       "name": "Mystic's Feather Headdress",
       "quality": 2,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 0
     },
     {
       "id": 0,
@@ -4441,7 +4920,8 @@
       "icon": "Ability_Hunter_EagleEye",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 55037,
@@ -4449,7 +4929,8 @@
       "icon": "INV_Staff_18",
       "name": "Gryphon Tamer Longstaff",
       "quality": 3,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 1
     },
     {
       "id": 55036,
@@ -4457,7 +4938,8 @@
       "icon": "INV_Bracer_09",
       "name": "Lorekeeper Cuffs",
       "quality": 3,
-      "description": "Wrist, Cloth"
+      "description": "Wrist, Cloth",
+      "group": 1
     },
     {
       "id": 0,
@@ -4465,7 +4947,8 @@
       "icon": "Ability_Hunter_EagleEye",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 55038,
@@ -4473,7 +4956,8 @@
       "icon": "INV_Misc_Book_01",
       "name": "Fallen Heroes' Hymnal",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 2
     },
     {
       "id": 55039,
@@ -4481,7 +4965,8 @@
       "icon": "INV_Boots_Chain_10",
       "name": "Sharpshooter's Boots",
       "quality": 3,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 2
     },
     {
       "id": 0,
@@ -4489,7 +4974,8 @@
       "icon": "Ability_Hunter_EagleEye",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 81185,
@@ -4497,7 +4983,8 @@
       "icon": "Ability_Mount_Gryphon_01",
       "name": "Wildhammer Gryphon",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 3
     },
     {
       "id": 81186,
@@ -4505,7 +4992,8 @@
       "icon": "Ability_Mount_Gryphon_01",
       "name": "Armored Wildhammer Gryphon",
       "quality": 4,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 3
     },
     {
       "id": 55040,
@@ -4513,7 +5001,8 @@
       "icon": "INV_Misc_Cape_20",
       "name": "Skyfall Mantle",
       "quality": 4,
-      "description": "Back"
+      "description": "Back",
+      "group": 3
     },
     {
       "id": 55041,
@@ -4521,7 +5010,8 @@
       "icon": "INV_Hammer_17",
       "name": "Wildhammer Stormcaller",
       "quality": 4,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 3
     },
     {
       "id": 16,
@@ -4529,7 +5019,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Harness of the High Thane",
       "quality": 4,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 3
     },
     {
       "id": 80312,
@@ -4537,7 +5028,8 @@
       "icon": "inv_misc_tabard_wildhammerclan",
       "name": "Wildhammer Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 3
     },
     {
       "id": 81243,
@@ -4545,7 +5037,8 @@
       "icon": "inv_misc_birdbeck_01",
       "name": "Beaky",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     }
   ],
   "Shendralar": [
@@ -4555,7 +5048,8 @@
       "icon": "INV_Misc_Book_04",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 55047,
@@ -4563,7 +5057,8 @@
       "icon": "INV_Scroll_05",
       "name": "Recipe: Elixir of Greater Arcane Power",
       "quality": 3,
-      "description": "Alchemy (300)"
+      "description": "Alchemy (300)",
+      "group": 0
     },
     {
       "id": 55049,
@@ -4571,7 +5066,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Essence Infused Leather Gloves",
       "quality": 3,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 0
     },
     {
       "id": 58253,
@@ -4579,7 +5075,8 @@
       "icon": "INV_Wand_07",
       "name": "Lector's Baton",
       "quality": 3,
-      "description": "Wand"
+      "description": "Wand",
+      "group": 0
     },
     {
       "id": 58252,
@@ -4587,7 +5084,8 @@
       "icon": "INV_Boots_01",
       "name": "Coalescing Sabatons",
       "quality": 3,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 0
     },
     {
       "id": 58251,
@@ -4595,7 +5093,8 @@
       "icon": "INV_Bracer_08",
       "name": "Wristbands of Excellency",
       "quality": 3,
-      "description": "Wrist, Leather"
+      "description": "Wrist, Leather",
+      "group": 0
     },
     {
       "id": 0,
@@ -4603,7 +5102,8 @@
       "icon": "INV_Misc_Book_04",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 55051,
@@ -4611,7 +5111,8 @@
       "icon": "INV_Scroll_05",
       "name": "Pattern: Astronomer Raiments",
       "quality": 3,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 1
     },
     {
       "id": 55053,
@@ -4619,7 +5120,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Prismatic Scale Barbute",
       "quality": 3,
-      "description": "Leatherworking (300)"
+      "description": "Leatherworking (300)",
+      "group": 1
     },
     {
       "id": 58255,
@@ -4627,7 +5129,8 @@
       "icon": "INV_Shoulder_23",
       "name": "Crystal Pauldrons",
       "quality": 3,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 1
     },
     {
       "id": 58256,
@@ -4635,7 +5138,8 @@
       "icon": "INV_Jewelry_Ring_24",
       "name": "Band of Eldretharr",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 1
     },
     {
       "id": 58254,
@@ -4643,7 +5147,8 @@
       "icon": "INV_Misc_Orb_01",
       "name": "Miniature Astrolabium",
       "quality": 3,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 1
     },
     {
       "id": 0,
@@ -4651,7 +5156,8 @@
       "icon": "INV_Misc_Book_04",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 55044,
@@ -4659,7 +5165,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Boots - Major Intellect",
       "quality": 3,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 2
     },
     {
       "id": 55045,
@@ -4667,7 +5174,8 @@
       "icon": "INV_Scroll_05",
       "name": "Recipe: Elixir of Greater Frost Power",
       "quality": 3,
-      "description": "Alchemy (300)"
+      "description": "Alchemy (300)",
+      "group": 2
     },
     {
       "id": 0,
@@ -4675,7 +5183,8 @@
       "icon": "INV_Misc_Book_04",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 80006,
@@ -4683,7 +5192,8 @@
       "icon": "Spell_Arcane_Blink",
       "name": "Arcane Elemental",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 55055,
@@ -4691,7 +5201,8 @@
       "icon": "INV_Scroll_05",
       "name": "Pattern: Spellwoven Nobility Drape",
       "quality": 4,
-      "description": "Tailoring (300)"
+      "description": "Tailoring (300)",
+      "group": 3
     },
     {
       "id": 55057,
@@ -4699,7 +5210,8 @@
       "icon": "INV_Scroll_05",
       "name": "Plans: Rune-Inscribed Plate Leggings",
       "quality": 4,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 3
     },
     {
       "id": 55059,
@@ -4707,7 +5219,8 @@
       "icon": "INV_Scroll_05",
       "name": "Plans: Grandstaff of the Shen'dralar Elder",
       "quality": 4,
-      "description": "Jewelcrafting (300)"
+      "description": "Jewelcrafting (300)",
+      "group": 3
     },
     {
       "id": 58257,
@@ -4715,7 +5228,8 @@
       "icon": "INV_Weapon_ShortBlade_01",
       "name": "Noble's Letter Opener",
       "quality": 4,
-      "description": "Main Hand, Dagger"
+      "description": "Main Hand, Dagger",
+      "group": 3
     },
     {
       "id": 58258,
@@ -4723,7 +5237,8 @@
       "icon": "INV_Misc_Cape_21",
       "name": "Royal Guard Chain Cloak",
       "quality": 4,
-      "description": "Back"
+      "description": "Back",
+      "group": 3
     },
     {
       "id": 58259,
@@ -4731,7 +5246,8 @@
       "icon": "INV_Pants_13",
       "name": "Advisor's Trousers of the Eldreth",
       "quality": 4,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 3
     }
   ],
   "DraeneiExiles": [
@@ -4741,7 +5257,8 @@
       "icon": "INV_Enchant_ShardGlowingLarge",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 33177,
@@ -4749,7 +5266,8 @@
       "icon": "INV_Misc_Root_02",
       "name": "Draenic Ritual Drums",
       "quality": 2,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 33178,
@@ -4757,7 +5275,8 @@
       "icon": "INV_Misc_Cape_16",
       "name": "Crystalwoven Drape",
       "quality": 2,
-      "description": "Back"
+      "description": "Back",
+      "group": 0
     },
     {
       "id": 33137,
@@ -4765,7 +5284,8 @@
       "icon": "INV_Chest_Chain_05",
       "name": "Narak'la Padded Breastplate",
       "quality": 2,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 0
     },
     {
       "id": 33136,
@@ -4773,7 +5293,8 @@
       "icon": "INV_Helmet_30",
       "name": "Wraps of the Rift Traveler",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 0
     },
     {
       "id": 0,
@@ -4781,7 +5302,8 @@
       "icon": "INV_Enchant_ShardGlowingLarge",
       "name": "Honored",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 33139,
@@ -4789,7 +5311,8 @@
       "icon": "INV_Sword_39",
       "name": "Draenethyst Blade",
       "quality": 3,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 1
     },
     {
       "id": 33138,
@@ -4797,7 +5320,8 @@
       "icon": "INV_Sword_10",
       "name": "Draenethyst Kris",
       "quality": 3,
-      "description": "One-Hand, Dagger"
+      "description": "One-Hand, Dagger",
+      "group": 1
     },
     {
       "id": 33140,
@@ -4805,7 +5329,8 @@
       "icon": "INV_Hammer_02",
       "name": "Draenethyst Juggernaut",
       "quality": 3,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 1
     },
     {
       "id": 33143,
@@ -4813,7 +5338,8 @@
       "icon": "inv_archaeology_70_highborne_inertleystonecharm",
       "name": "Draenethyst Necklace",
       "quality": 3,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 1
     },
     {
       "id": 33141,
@@ -4821,7 +5347,8 @@
       "icon": "INV_Weapon_Bow_09",
       "name": "Draenethyst Longbow",
       "quality": 3,
-      "description": "Bow, Bow"
+      "description": "Bow, Bow",
+      "group": 1
     },
     {
       "id": 33142,
@@ -4829,7 +5356,8 @@
       "icon": "INV_Misc_Orb_03",
       "name": "Draenethyst Scepter",
       "quality": 3,
-      "description": "Held In Off-hand"
+      "description": "Held In Off-hand",
+      "group": 1
     },
     {
       "id": 0,
@@ -4837,7 +5365,8 @@
       "icon": "INV_Enchant_ShardGlowingLarge",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 37072,
@@ -4845,7 +5374,8 @@
       "icon": "INV_Misc_Orb_02",
       "name": "Palatinate Pebble",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 37071,
@@ -4853,7 +5383,8 @@
       "icon": "INV_Drink_19",
       "name": "Toothy",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 33144,
@@ -4861,7 +5392,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Rift Tear",
       "quality": 3,
-      "description": "Enchanting (300)"
+      "description": "Enchanting (300)",
+      "group": 2
     },
     {
       "id": 33145,
@@ -4869,7 +5401,8 @@
       "icon": "INV_Scroll_05",
       "name": "Schematic: Facetted Crystal Scope",
       "quality": 3,
-      "description": "Engineering (300)"
+      "description": "Engineering (300)",
+      "group": 2
     },
     {
       "id": 0,
@@ -4877,7 +5410,8 @@
       "icon": "INV_Enchant_ShardGlowingLarge",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 30005,
@@ -4885,7 +5419,8 @@
       "icon": "Ability_Hunter_Pet_Crocolisk",
       "name": "Swamp Riding Crocolisk",
       "quality": 3,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 3
     },
     {
       "id": 33148,
@@ -4893,7 +5428,8 @@
       "icon": "INV_Wand_06",
       "name": "Alar'tar, Born from Hope",
       "quality": 4,
-      "description": "Two-Hand, Staff"
+      "description": "Two-Hand, Staff",
+      "group": 3
     },
     {
       "id": 33147,
@@ -4901,7 +5437,8 @@
       "icon": "INV_Jewelry_Talisman_08",
       "name": "Mar'kali, the Midnight Star",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 3
     }
   ],
   "EarthenRing": [
@@ -4911,7 +5448,8 @@
       "icon": "Spell_Nature_EarthShock",
       "name": "Friendly",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 33124,
@@ -4919,7 +5457,8 @@
       "icon": "INV_Bracer_13",
       "name": "Warden's Bracers",
       "quality": 3,
-      "description": "Wrist, Cloth"
+      "description": "Wrist, Cloth",
+      "group": 0
     },
     {
       "id": 33123,
@@ -4927,7 +5466,8 @@
       "icon": "INV_Jewelry_Ring_AhnQiraj_05",
       "name": "Loop of Shattered Earth",
       "quality": 3,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 0
     },
     {
       "id": 0,
@@ -4935,7 +5475,8 @@
       "icon": "Spell_Nature_EarthShock",
       "name": "Revered",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 33129,
@@ -4943,7 +5484,8 @@
       "icon": "INV_Misc_Cape_20",
       "name": "Drape of the Far Seer",
       "quality": 3,
-      "description": "Back"
+      "description": "Back",
+      "group": 1
     },
     {
       "id": 33127,
@@ -4951,7 +5493,8 @@
       "icon": "INV_Gauntlets_06",
       "name": "Wraps of the Spirit Guide",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 33128,
@@ -4959,7 +5502,8 @@
       "icon": "INV_Helmet_04",
       "name": "Wolfsong's Cowl",
       "quality": 3,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 1
     },
     {
       "id": 33125,
@@ -4967,7 +5511,8 @@
       "icon": "INV_Belt_30",
       "name": "Clasp of Molten Rage",
       "quality": 3,
-      "description": "Waist, Plate"
+      "description": "Waist, Plate",
+      "group": 1
     },
     {
       "id": 33126,
@@ -4975,7 +5520,8 @@
       "icon": "inv_misc_desecrated_mailchest",
       "name": "Cyclone Hauberk",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 0,
@@ -4983,7 +5529,8 @@
       "icon": "Spell_Nature_EarthShock",
       "name": "Exalted",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 33133,
@@ -4991,7 +5538,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Earthen Ring Tabard",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 2
     },
     {
       "id": 33132,
@@ -4999,7 +5547,8 @@
       "icon": "Spell_Nature_StoneSkinTotem",
       "name": "Totem of Calm Cascades",
       "quality": 4,
-      "description": "Relic, Totem Shaman"
+      "description": "Relic, Totem Shaman",
+      "group": 2
     },
     {
       "id": 33131,
@@ -5007,7 +5556,8 @@
       "icon": "INV_Boots_Chain_06",
       "name": "Ragefury Stompers",
       "quality": 4,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 2
     },
     {
       "id": 33130,
@@ -5015,7 +5565,8 @@
       "icon": "INV_Gauntlets_11",
       "name": "Crackling Earthfury Claw",
       "quality": 4,
-      "description": "Main Hand, Fist Weapon"
+      "description": "Main Hand, Fist Weapon",
+      "group": 2
     },
     {
       "id": 33134,
@@ -5023,7 +5574,8 @@
       "icon": "INV_Scroll_05",
       "name": "Plans: Bulwark of Unshaken Earth",
       "quality": 4,
-      "description": "Blacksmithing (300)"
+      "description": "Blacksmithing (300)",
+      "group": 2
     }
   ]
 }

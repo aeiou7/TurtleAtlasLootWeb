@@ -6,6 +6,7 @@ export interface LootItem {
   quality: number
   description: string
   dropRate?: string
+  group?: number
 }
 
 export interface LootTable {

@@ -6,7 +6,8 @@
       "icon": "Trade_BlackSmithing",
       "name": "Blacksmithing",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 22384,
@@ -14,7 +15,8 @@
       "icon": "INV_Hammer_08",
       "name": "Persuader",
       "quality": 4,
-      "description": "Main Hand, Mace"
+      "description": "Main Hand, Mace",
+      "group": 1
     },
     {
       "id": 22383,
@@ -22,7 +24,8 @@
       "icon": "INV_Sword_51",
       "name": "Sageblade",
       "quality": 4,
-      "description": "Main Hand, Sword"
+      "description": "Main Hand, Sword",
+      "group": 1
     },
     {
       "id": 19166,
@@ -30,7 +33,8 @@
       "icon": "INV_Weapon_ShortBlade_12",
       "name": "Black Amnesty",
       "quality": 4,
-      "description": "One-Hand, Dagger"
+      "description": "One-Hand, Dagger",
+      "group": 1
     },
     {
       "id": 19170,
@@ -38,7 +42,8 @@
       "icon": "INV_Hammer_19",
       "name": "Ebon Hand",
       "quality": 4,
-      "description": "One-Hand, Mace"
+      "description": "One-Hand, Mace",
+      "group": 1
     },
     {
       "id": 19168,
@@ -46,7 +51,8 @@
       "icon": "INV_Sword_39",
       "name": "Blackguard",
       "quality": 4,
-      "description": "One-Hand, Sword"
+      "description": "One-Hand, Sword",
+      "group": 1
     },
     {
       "id": 19169,
@@ -54,7 +60,8 @@
       "icon": "INV_Axe_12",
       "name": "Nightfall",
       "quality": 4,
-      "description": "Two-Hand, Axe"
+      "description": "Two-Hand, Axe",
+      "group": 1
     },
     {
       "id": 17193,
@@ -62,7 +69,8 @@
       "icon": "INV_Hammer_Unique_Sulfuras",
       "name": "Sulfuron Hammer",
       "quality": 4,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 1
     },
     {
       "id": 19167,
@@ -70,7 +78,8 @@
       "icon": "INV_Spear_08",
       "name": "Blackfury",
       "quality": 4,
-      "description": "Polearm"
+      "description": "Polearm",
+      "group": 1
     },
     {
       "id": 22198,
@@ -78,7 +87,8 @@
       "icon": "INV_Shield_22",
       "name": "Jagged Obsidian Shield",
       "quality": 4,
-      "description": "Shield"
+      "description": "Shield",
+      "group": 1
     },
     {
       "id": 0,
@@ -86,7 +96,8 @@
       "icon": "Trade_Engineering",
       "name": "Engineering",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 18282,
@@ -94,7 +105,8 @@
       "icon": "INV_Weapon_Rifle_05",
       "name": "Core Marksman Rifle",
       "quality": 4,
-      "description": "Gun"
+      "description": "Gun",
+      "group": 3
     },
     {
       "id": 18168,
@@ -102,7 +114,8 @@
       "icon": "Spell_Arcane_PortalDarnassus",
       "name": "Force Reactive Disk",
       "quality": 4,
-      "description": "Shield"
+      "description": "Shield",
+      "group": 3
     }
   ],
   "SteelPlate": [
@@ -112,7 +125,8 @@
       "icon": "INV_Box_01",
       "name": "Steel Plate",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83415,
@@ -120,7 +134,8 @@
       "icon": "INV_Helmet_25",
       "name": "Steel Plate Barbute",
       "quality": 3,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 1
     },
     {
       "id": 83414,
@@ -128,7 +143,8 @@
       "icon": "INV_Shoulder_16",
       "name": "Steel Plate Pauldrons",
       "quality": 2,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 1
     },
     {
       "id": 83413,
@@ -136,7 +152,8 @@
       "icon": "inv_chest_chain_10",
       "name": "Steel Plate Armor",
       "quality": 3,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 1
     },
     {
       "id": 83411,
@@ -144,7 +161,8 @@
       "icon": "inv_gauntlets_31",
       "name": "Steel Plate Gauntlets",
       "quality": 2,
-      "description": "Hands, Plate"
+      "description": "Hands, Plate",
+      "group": 1
     },
     {
       "id": 83412,
@@ -152,7 +170,8 @@
       "icon": "inv_pants_04",
       "name": "Steel Plate Legguards",
       "quality": 2,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 1
     },
     {
       "id": 83410,
@@ -160,7 +179,8 @@
       "icon": "inv_boots_plate_01",
       "name": "Steel Plate Boots",
       "quality": 2,
-      "description": "Feet, Plate"
+      "description": "Feet, Plate",
+      "group": 1
     }
   ],
   "ImperialPlate": [
@@ -170,7 +190,8 @@
       "icon": "INV_Box_01",
       "name": "Imperial Plate",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 12427,
@@ -178,7 +199,8 @@
       "icon": "INV_Helmet_22",
       "name": "Imperial Plate Helm",
       "quality": 2,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 1
     },
     {
       "id": 12428,
@@ -186,7 +208,8 @@
       "icon": "INV_Shoulder_02",
       "name": "Imperial Plate Shoulders",
       "quality": 2,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 1
     },
     {
       "id": 12422,
@@ -194,7 +217,8 @@
       "icon": "INV_Chest_Plate10",
       "name": "Imperial Plate Chest",
       "quality": 2,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 1
     },
     {
       "id": 12425,
@@ -202,7 +226,8 @@
       "icon": "INV_Bracer_19",
       "name": "Imperial Plate Bracers",
       "quality": 2,
-      "description": "Wrist, Plate"
+      "description": "Wrist, Plate",
+      "group": 1
     },
     {
       "id": 12424,
@@ -210,7 +235,8 @@
       "icon": "INV_Belt_01",
       "name": "Imperial Plate Belt",
       "quality": 2,
-      "description": "Waist, Plate"
+      "description": "Waist, Plate",
+      "group": 1
     },
     {
       "id": 12429,
@@ -218,7 +244,8 @@
       "icon": "INV_Pants_04",
       "name": "Imperial Plate Leggings",
       "quality": 2,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 1
     },
     {
       "id": 12426,
@@ -226,7 +253,8 @@
       "icon": "INV_Boots_Plate_01",
       "name": "Imperial Plate Boots",
       "quality": 2,
-      "description": "Feet, Plate"
+      "description": "Feet, Plate",
+      "group": 1
     }
   ],
   "TheDarksoul": [
@@ -236,7 +264,8 @@
       "icon": "INV_Box_01",
       "name": "The Darksoul",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19695,
@@ -244,7 +273,8 @@
       "icon": "INV_Shoulder_01",
       "name": "Darksoul Shoulders",
       "quality": 3,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 1
     },
     {
       "id": 19693,
@@ -252,7 +282,8 @@
       "icon": "INV_Chest_Plate08",
       "name": "Darksoul Breastplate",
       "quality": 3,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 1
     },
     {
       "id": 19694,
@@ -260,7 +291,8 @@
       "icon": "INV_Pants_Plate_21",
       "name": "Darksoul Leggings",
       "quality": 3,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 1
     }
   ],
   "BloodsoulEmbrace": [
@@ -270,7 +302,8 @@
       "icon": "INV_Box_01",
       "name": "Bloodsoul Embrace",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19691,
@@ -278,7 +311,8 @@
       "icon": "INV_Shoulder_15",
       "name": "Bloodsoul Shoulders",
       "quality": 3,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 1
     },
     {
       "id": 19690,
@@ -286,7 +320,8 @@
       "icon": "INV_Chest_Chain_14",
       "name": "Bloodsoul Breastplate",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 19692,
@@ -294,7 +329,8 @@
       "icon": "INV_Gauntlets_31",
       "name": "Bloodsoul Gauntlets",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 1
     }
   ],
   "AugerersAttire": [
@@ -304,7 +340,8 @@
       "icon": "INV_Box_01",
       "name": "Augerer's Attire",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83288,
@@ -312,7 +349,8 @@
       "icon": "INV_Boots_05",
       "name": "Augerer's Boots",
       "quality": 2,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     },
     {
       "id": 83289,
@@ -320,7 +358,8 @@
       "icon": "INV_Gauntlets_06",
       "name": "Augerer's Gloves",
       "quality": 2,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 83290,
@@ -328,7 +367,8 @@
       "icon": "INV_Shoulder_02",
       "name": "Augerer's Mantle",
       "quality": 2,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 83291,
@@ -336,7 +376,8 @@
       "icon": "INV_Pants_08",
       "name": "Augerer's Trousers",
       "quality": 2,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 83286,
@@ -344,7 +385,8 @@
       "icon": "INV_Helmet_11",
       "name": "Augerer's Hat",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 83287,
@@ -352,7 +394,8 @@
       "icon": "inv_chest_cloth_22",
       "name": "Augerer's Robe",
       "quality": 2,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     }
   ],
   "ShadoweaveSet": [
@@ -362,7 +405,8 @@
       "icon": "INV_Box_01",
       "name": "Shadoweave",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 10002,
@@ -370,7 +414,8 @@
       "icon": "inv_pants_11",
       "name": "Shadoweave Pants",
       "quality": 2,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 10004,
@@ -378,7 +423,8 @@
       "icon": "inv_chest_cloth_38",
       "name": "Shadoweave Robe",
       "quality": 2,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 10023,
@@ -386,7 +432,8 @@
       "icon": "inv_gauntlets_09",
       "name": "Shadoweave Gloves",
       "quality": 2,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 10028,
@@ -394,7 +441,8 @@
       "icon": "inv_shoulder_25",
       "name": "Shadoweave Shoulders",
       "quality": 2,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 10031,
@@ -402,7 +450,8 @@
       "icon": "inv_boots_05",
       "name": "Shadoweave Boots",
       "quality": 2,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     },
     {
       "id": 10025,
@@ -410,7 +459,8 @@
       "icon": "inv_helmet_27",
       "name": "Shadoweave Mask",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     }
   ],
   "DivinersGarments": [
@@ -420,7 +470,8 @@
       "icon": "INV_Box_01",
       "name": "Diviner's Garments",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83283,
@@ -428,7 +479,8 @@
       "icon": "inv_boots_09",
       "name": "Diviner's Boots",
       "quality": 2,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     },
     {
       "id": 83284,
@@ -436,7 +488,8 @@
       "icon": "inv_gauntlets_23",
       "name": "Diviner's Mitts",
       "quality": 2,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 83285,
@@ -444,7 +497,8 @@
       "icon": "inv_shoulder_02",
       "name": "Diviner's Epaulets",
       "quality": 2,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 83280,
@@ -452,7 +506,8 @@
       "icon": "inv_pants_07",
       "name": "Diviner's Pantaloons",
       "quality": 2,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 83282,
@@ -460,7 +515,8 @@
       "icon": "inv_helmet_33",
       "name": "Diviner's Cowl",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 83281,
@@ -468,7 +524,8 @@
       "icon": "inv_chest_cloth_22",
       "name": "Diviner's Robes",
       "quality": 2,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     }
   ],
   "PillagersGarb": [
@@ -478,7 +535,8 @@
       "icon": "INV_Box_01",
       "name": "Pillager's Garb",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83296,
@@ -486,7 +544,8 @@
       "icon": "inv_boots_09",
       "name": "Pillager's Shoes",
       "quality": 2,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     },
     {
       "id": 83295,
@@ -494,7 +553,8 @@
       "icon": "inv_gauntlets_15",
       "name": "Pillager's Grips",
       "quality": 2,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 83297,
@@ -502,7 +562,8 @@
       "icon": "inv_pants_06",
       "name": "Pillager's Pantaloons",
       "quality": 2,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 83293,
@@ -510,7 +571,8 @@
       "icon": "inv_shoulder_02",
       "name": "Pillager's Amice",
       "quality": 2,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 83292,
@@ -518,7 +580,8 @@
       "icon": "inv_helmet_28",
       "name": "Pillager's Hood",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 83294,
@@ -526,7 +589,8 @@
       "icon": "inv_chest_cloth_22",
       "name": "Pillager's Robe",
       "quality": 2,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     }
   ],
   "BloodvineG": [
@@ -536,7 +600,8 @@
       "icon": "INV_Box_01",
       "name": "Bloodvine Garb",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19682,
@@ -544,7 +609,8 @@
       "icon": "INV_Chest_Cloth_07",
       "name": "Bloodvine Vest",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 19683,
@@ -552,7 +618,8 @@
       "icon": "INV_Pants_Cloth_14",
       "name": "Bloodvine Leggings",
       "quality": 3,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 19684,
@@ -560,7 +627,8 @@
       "icon": "INV_Boots_Cloth_02",
       "name": "Bloodvine Boots",
       "quality": 3,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     }
   ],
   "MoonclothSet": [
@@ -570,7 +638,8 @@
       "icon": "INV_Box_01",
       "name": "Mooncloth Regalia",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 14140,
@@ -578,7 +647,8 @@
       "icon": "inv_misc_bandana_01",
       "name": "Mooncloth Circlet",
       "quality": 3,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 14139,
@@ -586,7 +656,8 @@
       "icon": "inv_shoulder_02",
       "name": "Mooncloth Shoulders",
       "quality": 3,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 14138,
@@ -594,7 +665,8 @@
       "icon": "inv_chest_cloth_08",
       "name": "Mooncloth Vest",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 18486,
@@ -602,7 +674,8 @@
       "icon": "inv_chest_cloth_04",
       "name": "Mooncloth Robe",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 18409,
@@ -610,7 +683,8 @@
       "icon": "inv_gauntlets_17",
       "name": "Mooncloth Gloves",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 14137,
@@ -618,7 +692,8 @@
       "icon": "inv_pants_13",
       "name": "Mooncloth Leggings",
       "quality": 3,
-      "description": "Legs, Cloth"
+      "description": "Legs, Cloth",
+      "group": 1
     },
     {
       "id": 15802,
@@ -626,7 +701,8 @@
       "icon": "inv_boots_05",
       "name": "Mooncloth Boots",
       "quality": 3,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 1
     }
   ],
   "GriftersArmor": [
@@ -636,7 +712,8 @@
       "icon": "INV_Box_01",
       "name": "Grifter's Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 83400,
@@ -644,7 +721,8 @@
       "icon": "inv_helmet_33",
       "name": "Grifter's Cover",
       "quality": 2,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 1
     },
     {
       "id": 83401,
@@ -652,7 +730,8 @@
       "icon": "inv_chest_leather_08",
       "name": "Grifter's Tunic",
       "quality": 2,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 83402,
@@ -660,7 +739,8 @@
       "icon": "inv_pants_12",
       "name": "Grifter's Leggings",
       "quality": 2,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     },
     {
       "id": 83404,
@@ -668,7 +748,8 @@
       "icon": "inv_gauntlets_15",
       "name": "Grifter's Gauntlets",
       "quality": 2,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 83403,
@@ -676,7 +757,8 @@
       "icon": "inv_belt_04",
       "name": "Grifter's Belt",
       "quality": 2,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 1
     },
     {
       "id": 83405,
@@ -684,7 +766,8 @@
       "icon": "inv_boots_05",
       "name": "Grifter's Boots",
       "quality": 2,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 1
     }
   ],
   "PrimalistsTrappings": [
@@ -694,7 +777,8 @@
       "icon": "INV_Box_01",
       "name": "Primalist's Trappings",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 81063,
@@ -702,7 +786,8 @@
       "icon": "inv_helmet_04",
       "name": "Primalist's Headdress",
       "quality": 2,
-      "description": "Head, Leather"
+      "description": "Head, Leather",
+      "group": 1
     },
     {
       "id": 81062,
@@ -710,7 +795,8 @@
       "icon": "inv_shoulder_09",
       "name": "Primalist's Shoulders",
       "quality": 2,
-      "description": "Waist, Leather"
+      "description": "Waist, Leather",
+      "group": 1
     },
     {
       "id": 81066,
@@ -718,7 +804,8 @@
       "icon": "inv_chest_plate08",
       "name": "Primalist's Vest",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 81064,
@@ -726,7 +813,8 @@
       "icon": "inv_pants_04",
       "name": "Primalist's Pants",
       "quality": 2,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     },
     {
       "id": 81061,
@@ -734,7 +822,8 @@
       "icon": "inv_gauntlets_09",
       "name": "Primalist's Gloves",
       "quality": 2,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 81065,
@@ -742,7 +831,8 @@
       "icon": "inv_boots_plate_05",
       "name": "Primalist's Boots",
       "quality": 2,
-      "description": "Feet, Leather"
+      "description": "Feet, Leather",
+      "group": 1
     }
   ],
   "VolcanicArmor": [
@@ -752,7 +842,8 @@
       "icon": "INV_Box_01",
       "name": "Volcanic Armor",
       "quality": 6,
-      "description": "Fire Resistance Gear"
+      "description": "Fire Resistance Gear",
+      "group": 0
     },
     {
       "id": 15055,
@@ -760,7 +851,8 @@
       "icon": "INV_Shoulder_13",
       "name": "Volcanic Shoulders",
       "quality": 2,
-      "description": "Shoulder, Leather"
+      "description": "Shoulder, Leather",
+      "group": 1
     },
     {
       "id": 15053,
@@ -768,7 +860,8 @@
       "icon": "INV_Chest_Leather_07",
       "name": "Volcanic Breastplate",
       "quality": 2,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 15054,
@@ -776,7 +869,8 @@
       "icon": "INV_Pants_06",
       "name": "Volcanic Leggings",
       "quality": 2,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     }
   ],
   "IronfeatherArmor": [
@@ -786,7 +880,8 @@
       "icon": "INV_Box_01",
       "name": "Ironfeather Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 15067,
@@ -794,7 +889,8 @@
       "icon": "INV_Shoulder_06",
       "name": "Ironfeather Shoulders",
       "quality": 3,
-      "description": "Shoulder, Leather"
+      "description": "Shoulder, Leather",
+      "group": 1
     },
     {
       "id": 15066,
@@ -802,7 +898,8 @@
       "icon": "INV_Chest_Leather_06",
       "name": "Ironfeather Breastplate",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     }
   ],
   "StormshroudArmor": [
@@ -812,7 +909,8 @@
       "icon": "INV_Box_01",
       "name": "Stormshroud Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 15058,
@@ -820,7 +918,8 @@
       "icon": "INV_Shoulder_05",
       "name": "Stormshroud Shoulders",
       "quality": 3,
-      "description": "Shoulder, Leather"
+      "description": "Shoulder, Leather",
+      "group": 1
     },
     {
       "id": 15056,
@@ -828,7 +927,8 @@
       "icon": "INV_Chest_Leather_08",
       "name": "Stormshroud Armor",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 21278,
@@ -836,7 +936,8 @@
       "icon": "INV_Gauntlets_05",
       "name": "Stormshroud Gloves",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 15057,
@@ -844,7 +945,8 @@
       "icon": "INV_Pants_09",
       "name": "Stormshroud Pants",
       "quality": 3,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     }
   ],
   "DevilsaurArmor": [
@@ -854,7 +956,8 @@
       "icon": "INV_Box_01",
       "name": "Devilsaur Armor",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 15063,
@@ -862,7 +965,8 @@
       "icon": "INV_Gauntlets_26",
       "name": "Devilsaur Gauntlets",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     },
     {
       "id": 15062,
@@ -870,7 +974,8 @@
       "icon": "INV_Pants_Wolf",
       "name": "Devilsaur Leggings",
       "quality": 3,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 1
     }
   ],
   "BloodTigerH": [
@@ -880,7 +985,8 @@
       "icon": "INV_Box_01",
       "name": "Blood Tiger Harness",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19689,
@@ -888,7 +994,8 @@
       "icon": "INV_Shoulder_23",
       "name": "Blood Tiger Shoulders",
       "quality": 3,
-      "description": "Shoulder, Leather"
+      "description": "Shoulder, Leather",
+      "group": 1
     },
     {
       "id": 19688,
@@ -896,7 +1003,8 @@
       "icon": "INV_Chest_Leather_07",
       "name": "Blood Tiger Breastplate",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     }
   ],
   "PrimalBatskin": [
@@ -906,7 +1014,8 @@
       "icon": "INV_Box_01",
       "name": "Primal Batskin",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19685,
@@ -914,7 +1023,8 @@
       "icon": "INV_Chest_Leather_03",
       "name": "Primal Batskin Jerkin",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 1
     },
     {
       "id": 19687,
@@ -922,7 +1032,8 @@
       "icon": "INV_Bracer_07",
       "name": "Primal Batskin Bracers",
       "quality": 3,
-      "description": "Wrist, Leather"
+      "description": "Wrist, Leather",
+      "group": 1
     },
     {
       "id": 19686,
@@ -930,7 +1041,8 @@
       "icon": "INV_Gauntlets_31",
       "name": "Primal Batskin Gloves",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 1
     }
   ],
   "RedDragonM": [
@@ -940,7 +1052,8 @@
       "icon": "INV_Box_01",
       "name": "Red Dragon Mail",
       "quality": 6,
-      "description": "Fire Resistance Gear"
+      "description": "Fire Resistance Gear",
+      "group": 0
     },
     {
       "id": 65001,
@@ -948,7 +1061,8 @@
       "icon": "inv_shoulder_23",
       "name": "Red Dragonscale Shoulders",
       "quality": 3,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 1
     },
     {
       "id": 15047,
@@ -956,7 +1070,8 @@
       "icon": "inv_chest_chain_06",
       "name": "Red Dragonscale Breastplate",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 65000,
@@ -964,7 +1079,8 @@
       "icon": "inv_pants_mail_09",
       "name": "Red Dragonscale Leggings",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 1
     },
     {
       "id": 65002,
@@ -972,7 +1088,8 @@
       "icon": "inv_boots_chain_13",
       "name": "Red Dragonscale Boots",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 1
     }
   ],
   "GreenDragonM": [
@@ -982,7 +1099,8 @@
       "icon": "INV_Box_01",
       "name": "Green Dragon Mail",
       "quality": 6,
-      "description": "Nature Resistance Gear"
+      "description": "Nature Resistance Gear",
+      "group": 0
     },
     {
       "id": 15045,
@@ -990,7 +1108,8 @@
       "icon": "INV_Chest_Chain_06",
       "name": "Green Dragonscale Breastplate",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 20296,
@@ -998,7 +1117,8 @@
       "icon": "INV_Gauntlets_12",
       "name": "Green Dragonscale Gauntlets",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 1
     },
     {
       "id": 15046,
@@ -1006,7 +1126,8 @@
       "icon": "INV_Pants_05",
       "name": "Green Dragonscale Leggings",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 1
     }
   ],
   "BlueDragonM": [
@@ -1016,7 +1137,8 @@
       "icon": "INV_Box_01",
       "name": "Blue Dragon Mail",
       "quality": 6,
-      "description": "Arcane Resistance Gear"
+      "description": "Arcane Resistance Gear",
+      "group": 0
     },
     {
       "id": 15049,
@@ -1024,7 +1146,8 @@
       "icon": "INV_Shoulder_18",
       "name": "Blue Dragonscale Shoulders",
       "quality": 3,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 1
     },
     {
       "id": 15048,
@@ -1032,7 +1155,8 @@
       "icon": "INV_Chest_Chain_04",
       "name": "Blue Dragonscale Breastplate",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 20295,
@@ -1040,7 +1164,8 @@
       "icon": "INV_Pants_Mail_15",
       "name": "Blue Dragonscale Leggings",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 1
     },
     {
       "id": 65015,
@@ -1048,7 +1173,8 @@
       "icon": "INV_Boots_Chain_06",
       "name": "Blue Dragonscale Boots",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 1
     }
   ],
   "BlackDragonM": [
@@ -1058,7 +1184,8 @@
       "icon": "INV_Box_01",
       "name": "Black Dragon Mail",
       "quality": 6,
-      "description": "Fire Resistance Gear"
+      "description": "Fire Resistance Gear",
+      "group": 0
     },
     {
       "id": 15051,
@@ -1066,7 +1193,8 @@
       "icon": "INV_Shoulder_01",
       "name": "Black Dragonscale Shoulders",
       "quality": 3,
-      "description": "Shoulder, Mail"
+      "description": "Shoulder, Mail",
+      "group": 1
     },
     {
       "id": 15050,
@@ -1074,7 +1202,8 @@
       "icon": "INV_Chest_Plate06",
       "name": "Black Dragonscale Breastplate",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 1
     },
     {
       "id": 15052,
@@ -1082,7 +1211,8 @@
       "icon": "INV_Pants_03",
       "name": "Black Dragonscale Leggings",
       "quality": 3,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 1
     },
     {
       "id": 16984,
@@ -1090,7 +1220,8 @@
       "icon": "INV_Boots_Plate_09",
       "name": "Black Dragonscale Boots",
       "quality": 4,
-      "description": "Feet, Mail"
+      "description": "Feet, Mail",
+      "group": 1
     }
   ],
   "AlchemyApprentice1": [
@@ -5696,7 +5827,8 @@
       "icon": "inv_staff_goldfeathered_01",
       "name": "Runed Copper Rod",
       "quality": 1,
-      "description": "Skill: 1 5 7 10"
+      "description": "Skill: 1 5 7 10",
+      "group": 0
     },
     {
       "id": 7795,
@@ -5704,7 +5836,8 @@
       "icon": "INV_Staff_01",
       "name": "Runed Silver Rod",
       "quality": 1,
-      "description": "Skill: 100 130 150 170"
+      "description": "Skill: 100 130 150 170",
+      "group": 0
     },
     {
       "id": 13628,
@@ -5712,7 +5845,8 @@
       "icon": "INV_Staff_10",
       "name": "Runed Golden Rod",
       "quality": 1,
-      "description": "Skill: 150 175 195 215"
+      "description": "Skill: 150 175 195 215",
+      "group": 0
     },
     {
       "id": 13702,
@@ -5720,7 +5854,8 @@
       "icon": "INV_Staff_11",
       "name": "Runed Truesilver Rod",
       "quality": 1,
-      "description": "Skill: 200 220 240 260"
+      "description": "Skill: 200 220 240 260",
+      "group": 0
     },
     {
       "id": 20051,
@@ -5728,7 +5863,8 @@
       "icon": "INV_Wand_09",
       "name": "Runed Arcanite Rod",
       "quality": 1,
-      "description": "Skill: 290 310 330 350"
+      "description": "Skill: 290 310 330 350",
+      "group": 0
     },
     {
       "id": 14293,
@@ -5736,7 +5872,8 @@
       "icon": "INV_Staff_02",
       "name": "Lesser Magic Wand",
       "quality": 2,
-      "description": "Skill: 10 75 95 115"
+      "description": "Skill: 10 75 95 115",
+      "group": 1
     },
     {
       "id": 14807,
@@ -5744,7 +5881,8 @@
       "icon": "INV_Staff_07",
       "name": "Greater Magic Wand",
       "quality": 2,
-      "description": "Skill: 70 110 130 150"
+      "description": "Skill: 70 110 130 150",
+      "group": 1
     },
     {
       "id": 14809,
@@ -5752,7 +5890,8 @@
       "icon": "INV_Staff_02",
       "name": "Lesser Mystic Wand",
       "quality": 2,
-      "description": "Skill: 155 175 195 215"
+      "description": "Skill: 155 175 195 215",
+      "group": 1
     },
     {
       "id": 14810,
@@ -5760,7 +5899,8 @@
       "icon": "INV_Wand_07",
       "name": "Greater Mystic Wand",
       "quality": 2,
-      "description": "Skill: 175 195 215 235"
+      "description": "Skill: 175 195 215 235",
+      "group": 1
     },
     {
       "id": 25124,
@@ -5768,7 +5908,8 @@
       "icon": "INV_Poison_MindNumbing",
       "name": "Minor Wizard Oil",
       "quality": 1,
-      "description": "Skill: 45 55 65 75"
+      "description": "Skill: 45 55 65 75",
+      "group": 2
     },
     {
       "id": 25125,
@@ -5776,7 +5917,8 @@
       "icon": "INV_Potion_98",
       "name": "Minor Mana Oil",
       "quality": 1,
-      "description": "Skill: 150 160 170 180"
+      "description": "Skill: 150 160 170 180",
+      "group": 2
     },
     {
       "id": 25126,
@@ -5784,7 +5926,8 @@
       "icon": "INV_Potion_103",
       "name": "Lesser Wizard Oil",
       "quality": 1,
-      "description": "Skill: 200 210 220 230"
+      "description": "Skill: 200 210 220 230",
+      "group": 2
     },
     {
       "id": 25127,
@@ -5792,7 +5935,8 @@
       "icon": "INV_Potion_99",
       "name": "Lesser Mana Oil",
       "quality": 1,
-      "description": "Skill: 250 260 270 280"
+      "description": "Skill: 250 260 270 280",
+      "group": 2
     },
     {
       "id": 25128,
@@ -5800,7 +5944,8 @@
       "icon": "INV_Potion_104",
       "name": "Wizard Oil",
       "quality": 1,
-      "description": "Skill: 275 285 295 305"
+      "description": "Skill: 275 285 295 305",
+      "group": 2
     },
     {
       "id": 25130,
@@ -5808,7 +5953,8 @@
       "icon": "INV_Potion_100",
       "name": "Brilliant Mana Oil",
       "quality": 1,
-      "description": "Skill: 300 310 320 330"
+      "description": "Skill: 300 310 320 330",
+      "group": 2
     },
     {
       "id": 25129,
@@ -5816,7 +5962,8 @@
       "icon": "INV_Potion_105",
       "name": "Brilliant Wizard Oil",
       "quality": 1,
-      "description": "Skill: 300 310 320 330"
+      "description": "Skill: 300 310 320 330",
+      "group": 2
     },
     {
       "id": 17181,
@@ -5824,7 +5971,8 @@
       "icon": "INV_Misc_Rune_05",
       "name": "Enchanted Leather",
       "quality": 1,
-      "description": "Skill: 250 250 255 260"
+      "description": "Skill: 250 250 255 260",
+      "group": 3
     },
     {
       "id": 17180,
@@ -5832,7 +5980,8 @@
       "icon": "INV_Ingot_Eternium",
       "name": "Enchanted Thorium",
       "quality": 1,
-      "description": "Skill: 250 250 255 260"
+      "description": "Skill: 250 250 255 260",
+      "group": 3
     },
     {
       "id": 41758,
@@ -5840,7 +5989,8 @@
       "icon": "INV_Potion_14",
       "name": "Enchanted Gemstone Oil",
       "quality": 1,
-      "description": "Skill: 275 275 280 300"
+      "description": "Skill: 275 275 280 300",
+      "group": 3
     },
     {
       "id": 15596,
@@ -5848,7 +5998,8 @@
       "icon": "INV_Misc_Gem_Bloodstone_01",
       "name": "Smoking Heart of the Mountain",
       "quality": 3,
-      "description": "Skill: 265 285 305 325"
+      "description": "Skill: 265 285 305 325",
+      "group": 4
     },
     {
       "id": 57518,
@@ -5856,7 +6007,8 @@
       "icon": "inv_misc_gem_pearl_04",
       "name": "Eternal Dreamstone Shard",
       "quality": 5,
-      "description": "Skill: 300 300 300 300"
+      "description": "Skill: 300 300 300 300",
+      "group": 5
     }
   ],
   "SmithingApprentice1": [
@@ -21156,7 +21308,8 @@
       "icon": "inv_helmet_47",
       "name": "Flying Tiger Goggles",
       "quality": 2,
-      "description": "Skill: 100 130 145 160"
+      "description": "Skill: 100 130 145 160",
+      "group": 0
     },
     {
       "id": 3940,
@@ -21164,7 +21317,8 @@
       "icon": "inv_helmet_47",
       "name": "Shadow Goggles",
       "quality": 2,
-      "description": "Skill: 120 145 157 170"
+      "description": "Skill: 120 145 157 170",
+      "group": 0
     },
     {
       "id": 3956,
@@ -21172,7 +21326,8 @@
       "icon": "inv_helmet_47",
       "name": "Green Tinted Goggles",
       "quality": 2,
-      "description": "Skill: 150 175 187 200"
+      "description": "Skill: 150 175 187 200",
+      "group": 0
     },
     {
       "id": 12587,
@@ -21180,7 +21335,8 @@
       "icon": "inv_helmet_47",
       "name": "Bright-Eye Goggles",
       "quality": 2,
-      "description": "Skill: 175 195 205 215"
+      "description": "Skill: 175 195 205 215",
+      "group": 0
     },
     {
       "id": 3966,
@@ -21188,7 +21344,8 @@
       "icon": "inv_helmet_44",
       "name": "Craftsman's Monocle",
       "quality": 3,
-      "description": "Skill: 185 205 215 225"
+      "description": "Skill: 185 205 215 225",
+      "group": 0
     },
     {
       "id": 12594,
@@ -21196,7 +21353,8 @@
       "icon": "inv_helmet_47",
       "name": "Fire Goggles",
       "quality": 2,
-      "description": "Skill: 205 225 235 245"
+      "description": "Skill: 205 225 235 245",
+      "group": 0
     },
     {
       "id": 12607,
@@ -21204,7 +21362,8 @@
       "icon": "inv_helmet_47",
       "name": "Catseye Ultra Goggles",
       "quality": 2,
-      "description": "Skill: 220 240 250 260"
+      "description": "Skill: 220 240 250 260",
+      "group": 0
     },
     {
       "id": 12615,
@@ -21212,7 +21371,8 @@
       "icon": "inv_helmet_47",
       "name": "Spellpower Goggles Xtreme",
       "quality": 2,
-      "description": "Skill: 225 245 255 265"
+      "description": "Skill: 225 245 255 265",
+      "group": 0
     },
     {
       "id": 12617,
@@ -21220,7 +21380,8 @@
       "icon": "inv_helmet_49",
       "name": "Deepdive Helmet",
       "quality": 2,
-      "description": "Skill: 230 250 260 270"
+      "description": "Skill: 230 250 260 270",
+      "group": 0
     },
     {
       "id": 12618,
@@ -21228,7 +21389,8 @@
       "icon": "inv_helmet_47",
       "name": "Rose Colored Goggles",
       "quality": 2,
-      "description": "Skill: 230 250 260 270"
+      "description": "Skill: 230 250 260 270",
+      "group": 0
     },
     {
       "id": 12622,
@@ -21236,7 +21398,8 @@
       "icon": "inv_helmet_44",
       "name": "Green Lens",
       "quality": 3,
-      "description": "Skill: 245 265 275 285"
+      "description": "Skill: 245 265 275 285",
+      "group": 0
     },
     {
       "id": 19794,
@@ -21244,7 +21407,8 @@
       "icon": "inv_helmet_47",
       "name": "Spellpower Goggles Xtreme Plus",
       "quality": 3,
-      "description": "Skill: 270 290 300 310"
+      "description": "Skill: 270 290 300 310",
+      "group": 0
     },
     {
       "id": 19825,
@@ -21252,7 +21416,8 @@
       "icon": "inv_helmet_47",
       "name": "Master Engineer's Goggles",
       "quality": 2,
-      "description": "Skill: 290 310 320 330"
+      "description": "Skill: 290 310 320 330",
+      "group": 0
     },
     {
       "id": 24356,
@@ -21260,7 +21425,8 @@
       "icon": "inv_helmet_47",
       "name": "Bloodvine Goggles",
       "quality": 3,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 24357,
@@ -21268,7 +21434,8 @@
       "icon": "inv_helmet_44",
       "name": "Bloodvine Lens",
       "quality": 3,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 45481,
@@ -21276,7 +21443,8 @@
       "icon": "inv_helmet_44",
       "name": "Intricate Gyroscope Goggles",
       "quality": 4,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 22797,
@@ -21284,7 +21452,8 @@
       "icon": "spell_arcane_portaldarnassus",
       "name": "Force Reactive Disk",
       "quality": 4,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 12897,
@@ -21292,7 +21461,8 @@
       "icon": "inv_helmet_47",
       "name": "Gnomish Goggles",
       "quality": 2,
-      "description": "Skill: 210 230 240 250"
+      "description": "Skill: 210 230 240 250",
+      "group": 0
     },
     {
       "id": 12907,
@@ -21300,7 +21470,8 @@
       "icon": "inv_helmet_49",
       "name": "Gnomish Mind Control Cap",
       "quality": 2,
-      "description": "Skill: 235 255 265 275"
+      "description": "Skill: 235 255 265 275",
+      "group": 0
     },
     {
       "id": 12718,
@@ -21308,7 +21479,8 @@
       "icon": "inv_helmet_60",
       "name": "Goblin Construction Helmet",
       "quality": 2,
-      "description": "Skill: 205 225 235 245"
+      "description": "Skill: 205 225 235 245",
+      "group": 1
     },
     {
       "id": 12717,
@@ -21316,7 +21488,8 @@
       "icon": "inv_helmet_25",
       "name": "Goblin Mining Helmet",
       "quality": 2,
-      "description": "Skill: 205 225 235 245"
+      "description": "Skill: 205 225 235 245",
+      "group": 1
     },
     {
       "id": 12758,
@@ -21324,7 +21497,8 @@
       "icon": "inv_helmet_49",
       "name": "Goblin Rocket Helmet",
       "quality": 2,
-      "description": "Skill: 245 265 275 285"
+      "description": "Skill: 245 265 275 285",
+      "group": 1
     },
     {
       "id": 12905,
@@ -21332,7 +21506,8 @@
       "icon": "inv_boots_02",
       "name": "Gnomish Rocket Boots",
       "quality": 2,
-      "description": "Skill: 225 245 255 265"
+      "description": "Skill: 225 245 255 265",
+      "group": 2
     },
     {
       "id": 8895,
@@ -21340,7 +21515,8 @@
       "icon": "inv_gizmo_rocketboot_01",
       "name": "Goblin Rocket Boots",
       "quality": 2,
-      "description": "Skill: 225 245 255 265"
+      "description": "Skill: 225 245 255 265",
+      "group": 2
     },
     {
       "id": 12616,
@@ -21348,7 +21524,8 @@
       "icon": "inv_misc_cape_11",
       "name": "Parachute Cloak",
       "quality": 2,
-      "description": "Skill: 225 245 255 265"
+      "description": "Skill: 225 245 255 265",
+      "group": 3
     },
     {
       "id": 19819,
@@ -21356,7 +21533,8 @@
       "icon": "inv_jewelry_amulet_07",
       "name": "Voice Amplification Modulator",
       "quality": 2,
-      "description": "Skill: 290 310 320 330"
+      "description": "Skill: 290 310 320 330",
+      "group": 3
     },
     {
       "id": 12903,
@@ -21364,7 +21542,8 @@
       "icon": "inv_belt_06",
       "name": "Gnomish Harm Prevention Belt",
       "quality": 2,
-      "description": "Skill: 215 235 245 255"
+      "description": "Skill: 215 235 245 255",
+      "group": 3
     }
   ],
   "EngineeringTrinkets1": [
@@ -21762,7 +21941,8 @@
       "icon": "inv_weapon_rifle_03",
       "name": "Rough Boomstick",
       "quality": 2,
-      "description": "Skill: 50 80 95 110"
+      "description": "Skill: 50 80 95 110",
+      "group": 0
     },
     {
       "id": 3936,
@@ -21770,7 +21950,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Deadly Blunderbuss",
       "quality": 2,
-      "description": "Skill: 105 130 142 155"
+      "description": "Skill: 105 130 142 155",
+      "group": 0
     },
     {
       "id": 3939,
@@ -21778,7 +21959,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Lovingly Crafted Boomstick",
       "quality": 2,
-      "description": "Skill: 120 145 157 170"
+      "description": "Skill: 120 145 157 170",
+      "group": 0
     },
     {
       "id": 3949,
@@ -21786,7 +21968,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Silver-plated Shotgun",
       "quality": 2,
-      "description": "Skill: 130 155 167 180"
+      "description": "Skill: 130 155 167 180",
+      "group": 0
     },
     {
       "id": 3954,
@@ -21794,7 +21977,8 @@
       "icon": "inv_weapon_rifle_06",
       "name": "Moonsight Rifle",
       "quality": 2,
-      "description": "Skill: 145 170 182 195"
+      "description": "Skill: 145 170 182 195",
+      "group": 0
     },
     {
       "id": 12595,
@@ -21802,7 +21986,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Mithril Blunderbuss",
       "quality": 2,
-      "description": "Skill: 205 225 235 245"
+      "description": "Skill: 205 225 235 245",
+      "group": 0
     },
     {
       "id": 12614,
@@ -21810,7 +21995,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Mithril Heavy-bore Rifle",
       "quality": 2,
-      "description": "Skill: 220 240 250 260"
+      "description": "Skill: 220 240 250 260",
+      "group": 0
     },
     {
       "id": 19792,
@@ -21818,7 +22004,8 @@
       "icon": "inv_weapon_rifle_07",
       "name": "Thorium Rifle",
       "quality": 2,
-      "description": "Skill: 260 280 290 300"
+      "description": "Skill: 260 280 290 300",
+      "group": 0
     },
     {
       "id": 19796,
@@ -21826,7 +22013,8 @@
       "icon": "inv_weapon_rifle_08",
       "name": "Dark Iron Rifle",
       "quality": 3,
-      "description": "Skill: 275 295 305 315"
+      "description": "Skill: 275 295 305 315",
+      "group": 0
     },
     {
       "id": 19833,
@@ -21834,7 +22022,8 @@
       "icon": "inv_weapon_rifle_03",
       "name": "Flawless Arcanite Rifle",
       "quality": 3,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 22795,
@@ -21842,7 +22031,8 @@
       "icon": "inv_weapon_rifle_05",
       "name": "Core Marksman Rifle",
       "quality": 4,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 46610,
@@ -21850,7 +22040,8 @@
       "icon": "inv_mace_14",
       "name": "Battery-Powered Crowd Pummeler",
       "quality": 4,
-      "description": "Skill: 250 270 280 290"
+      "description": "Skill: 250 270 280 290",
+      "group": 1
     }
   ],
   "EngineeringParts1": [
@@ -21860,7 +22051,8 @@
       "icon": "inv_misc_dust_01",
       "name": "Rough Blasting Powder",
       "quality": 1,
-      "description": "Skill: 1 20 30 40"
+      "description": "Skill: 1 20 30 40",
+      "group": 0
     },
     {
       "id": 3929,
@@ -21868,7 +22060,8 @@
       "icon": "inv_misc_dust_02",
       "name": "Coarse Blasting Powder",
       "quality": 1,
-      "description": "Skill: 75 85 90 95"
+      "description": "Skill: 75 85 90 95",
+      "group": 0
     },
     {
       "id": 3945,
@@ -21876,7 +22069,8 @@
       "icon": "inv_misc_dust_06",
       "name": "Heavy Blasting Powder",
       "quality": 1,
-      "description": "Skill: 125 125 135 145"
+      "description": "Skill: 125 125 135 145",
+      "group": 0
     },
     {
       "id": 12585,
@@ -21884,7 +22078,8 @@
       "icon": "inv_misc_powder_black",
       "name": "Solid Blasting Powder",
       "quality": 1,
-      "description": "Skill: 175 175 185 195"
+      "description": "Skill: 175 175 185 195",
+      "group": 0
     },
     {
       "id": 19788,
@@ -21892,7 +22087,8 @@
       "icon": "inv_misc_ammo_gunpowder_01",
       "name": "Dense Blasting Powder",
       "quality": 1,
-      "description": "Skill: 250 250 255 260"
+      "description": "Skill: 250 250 255 260",
+      "group": 0
     },
     {
       "id": 3922,
@@ -21900,7 +22096,8 @@
       "icon": "inv_misc_gear_06",
       "name": "Handful of Copper Bolts",
       "quality": 1,
-      "description": "Skill: 30 45 52 60"
+      "description": "Skill: 30 45 52 60",
+      "group": 1
     },
     {
       "id": 3924,
@@ -21908,7 +22105,8 @@
       "icon": "inv_gizmo_pipe_02",
       "name": "Copper Tube",
       "quality": 1,
-      "description": "Skill: 50 80 95 110"
+      "description": "Skill: 50 80 95 110",
+      "group": 1
     },
     {
       "id": 3926,
@@ -21916,7 +22114,8 @@
       "icon": "inv_gizmo_03",
       "name": "Copper Modulator",
       "quality": 1,
-      "description": "Skill: 65 95 110 125"
+      "description": "Skill: 65 95 110 125",
+      "group": 1
     },
     {
       "id": 3973,
@@ -21924,7 +22123,8 @@
       "icon": "inv_ingot_04",
       "name": "Silver Contact",
       "quality": 1,
-      "description": "Skill: 90 110 125 140"
+      "description": "Skill: 90 110 125 140",
+      "group": 1
     },
     {
       "id": 3938,
@@ -21932,7 +22132,8 @@
       "icon": "inv_gizmo_pipe_01",
       "name": "Bronze Tube",
       "quality": 1,
-      "description": "Skill: 105 105 130 155"
+      "description": "Skill: 105 105 130 155",
+      "group": 1
     },
     {
       "id": 3942,
@@ -21940,7 +22141,8 @@
       "icon": "inv_gizmo_02",
       "name": "Whirring Bronze Gizmo",
       "quality": 1,
-      "description": "Skill: 125 125 150 175"
+      "description": "Skill: 125 125 150 175",
+      "group": 1
     },
     {
       "id": 3953,
@@ -21948,7 +22150,8 @@
       "icon": "inv_gizmo_bronzeframework_01",
       "name": "Bronze Framework",
       "quality": 1,
-      "description": "Skill: 145 145 170 195"
+      "description": "Skill: 145 145 170 195",
+      "group": 1
     },
     {
       "id": 12584,
@@ -21956,7 +22159,8 @@
       "icon": "inv_battery_02",
       "name": "Gold Power Core",
       "quality": 1,
-      "description": "Skill: 150 150 170 190"
+      "description": "Skill: 150 150 170 190",
+      "group": 1
     },
     {
       "id": 3958,
@@ -21964,7 +22168,8 @@
       "icon": "inv_spear_05",
       "name": "Iron Strut",
       "quality": 1,
-      "description": "Skill: 160 160 170 180"
+      "description": "Skill: 160 160 170 180",
+      "group": 1
     },
     {
       "id": 3961,
@@ -21972,7 +22177,8 @@
       "icon": "inv_misc_pocketwatch_02",
       "name": "Gyrochronatom",
       "quality": 1,
-      "description": "Skill: 170 170 190 210"
+      "description": "Skill: 170 170 190 210",
+      "group": 1
     },
     {
       "id": 12589,
@@ -21980,7 +22186,8 @@
       "icon": "inv_musket_01",
       "name": "Mithril Tube",
       "quality": 1,
-      "description": "Skill: 195 195 215 235"
+      "description": "Skill: 195 195 215 235",
+      "group": 1
     },
     {
       "id": 12591,
@@ -21988,7 +22195,8 @@
       "icon": "inv_battery_01",
       "name": "Unstable Trigger",
       "quality": 1,
-      "description": "Skill: 200 200 220 240"
+      "description": "Skill: 200 200 220 240",
+      "group": 1
     },
     {
       "id": 12599,
@@ -21996,7 +22204,8 @@
       "icon": "inv_gizmo_mithrilcasing_01",
       "name": "Mithril Casing",
       "quality": 1,
-      "description": "Skill: 215 215 235 255"
+      "description": "Skill: 215 215 235 255",
+      "group": 1
     },
     {
       "id": 23071,
@@ -22004,7 +22213,8 @@
       "icon": "inv_staff_18",
       "name": "Truesilver Transformer",
       "quality": 1,
-      "description": "Skill: 260 270 275 280"
+      "description": "Skill: 260 270 275 280",
+      "group": 1
     },
     {
       "id": 19791,
@@ -22012,7 +22222,8 @@
       "icon": "inv_gizmo_04",
       "name": "Thorium Widget",
       "quality": 1,
-      "description": "Skill: 260 280 290 300"
+      "description": "Skill: 260 280 290 300",
+      "group": 1
     },
     {
       "id": 19795,
@@ -22020,7 +22231,8 @@
       "icon": "inv_gizmo_pipe_04",
       "name": "Thorium Tube",
       "quality": 1,
-      "description": "Skill: 275 295 305 315"
+      "description": "Skill: 275 295 305 315",
+      "group": 1
     },
     {
       "id": 19815,
@@ -22028,7 +22240,8 @@
       "icon": "inv_gizmo_07",
       "name": "Delicate Arcanite Converter",
       "quality": 1,
-      "description": "Skill: 285 305 315 325"
+      "description": "Skill: 285 305 315 325",
+      "group": 1
     }
   ],
   "EngineeringMisc1": [
@@ -22038,7 +22251,8 @@
       "icon": "inv_misc_wrench_01",
       "name": "Arclight Spanner",
       "quality": 1,
-      "description": "Skill: 50 70 80 90"
+      "description": "Skill: 50 70 80 90",
+      "group": 0
     },
     {
       "id": 12590,
@@ -22046,7 +22260,8 @@
       "icon": "inv_misc_screwdriver_02",
       "name": "Gyromatic Micro-Adjustor",
       "quality": 1,
-      "description": "Skill: 175 175 195 215"
+      "description": "Skill: 175 175 195 215",
+      "group": 0
     },
     {
       "id": 3977,
@@ -22054,7 +22269,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Crude Scope",
       "quality": 1,
-      "description": "Skill: 60 90 105 120"
+      "description": "Skill: 60 90 105 120",
+      "group": 1
     },
     {
       "id": 3978,
@@ -22062,7 +22278,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Standard Scope",
       "quality": 1,
-      "description": "Skill: 110 135 147 160"
+      "description": "Skill: 110 135 147 160",
+      "group": 1
     },
     {
       "id": 12597,
@@ -22070,7 +22287,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Deadly Scope",
       "quality": 1,
-      "description": "Skill: 210 230 240 250"
+      "description": "Skill: 210 230 240 250",
+      "group": 1
     },
     {
       "id": 12620,
@@ -22078,7 +22296,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Sniper Scope",
       "quality": 1,
-      "description": "Skill: 240 260 270 280"
+      "description": "Skill: 240 260 270 280",
+      "group": 1
     },
     {
       "id": 22793,
@@ -22086,7 +22305,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Biznicks 247x128 Accurascope",
       "quality": 3,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 1
     },
     {
       "id": 3920,
@@ -22094,7 +22314,8 @@
       "icon": "inv_ammo_bullet_02",
       "name": "Crafted Light Shot",
       "quality": 1,
-      "description": "Skill: 1 30 45 60"
+      "description": "Skill: 1 30 45 60",
+      "group": 2
     },
     {
       "id": 3930,
@@ -22102,7 +22323,8 @@
       "icon": "inv_ammo_bullet_02",
       "name": "Crafted Heavy Shot",
       "quality": 1,
-      "description": "Skill: 75 85 90 95"
+      "description": "Skill: 75 85 90 95",
+      "group": 2
     },
     {
       "id": 3947,
@@ -22110,7 +22332,8 @@
       "icon": "inv_ammo_bullet_02",
       "name": "Crafted Solid Shot",
       "quality": 1,
-      "description": "Skill: 125 125 135 145"
+      "description": "Skill: 125 125 135 145",
+      "group": 2
     },
     {
       "id": 12621,
@@ -22118,7 +22341,8 @@
       "icon": "inv_ammo_bullet_01",
       "name": "Mithril Gyro-Shot",
       "quality": 2,
-      "description": "Skill: 245 245 265 285"
+      "description": "Skill: 245 245 265 285",
+      "group": 2
     },
     {
       "id": 12596,
@@ -22126,7 +22350,8 @@
       "icon": "inv_ammo_bullet_01",
       "name": "Hi-Impact Mithril Slugs",
       "quality": 2,
-      "description": "Skill: 210 210 230 250"
+      "description": "Skill: 210 210 230 250",
+      "group": 2
     },
     {
       "id": 19800,
@@ -22134,7 +22359,8 @@
       "icon": "inv_ammo_bullet_03",
       "name": "Thorium Shells",
       "quality": 2,
-      "description": "Skill: 285 305 315 325"
+      "description": "Skill: 285 305 315 325",
+      "group": 2
     },
     {
       "id": 6458,
@@ -22142,7 +22368,8 @@
       "icon": "inv_misc_spyglass_01",
       "name": "Ornate Spyglass",
       "quality": 1,
-      "description": "Skill: 135 160 172 185"
+      "description": "Skill: 135 160 172 185",
+      "group": 2
     },
     {
       "id": 9271,
@@ -22150,7 +22377,8 @@
       "icon": "inv_misc_food_26",
       "name": "Aquadynamic Fish Attractor",
       "quality": 1,
-      "description": "Skill: 150 150 160 170"
+      "description": "Skill: 150 150 160 170",
+      "group": 2
     },
     {
       "id": 3932,
@@ -22158,7 +22386,8 @@
       "icon": "inv_crate_06",
       "name": "Target Dummy",
       "quality": 1,
-      "description": "Skill: 85 115 130 145"
+      "description": "Skill: 85 115 130 145",
+      "group": 3
     },
     {
       "id": 3965,
@@ -22166,7 +22395,8 @@
       "icon": "inv_crate_05",
       "name": "Advanced Target Dummy",
       "quality": 1,
-      "description": "Skill: 185 185 205 225"
+      "description": "Skill: 185 185 205 225",
+      "group": 3
     },
     {
       "id": 19814,
@@ -22174,7 +22404,8 @@
       "icon": "inv_crate_02",
       "name": "Masterwork Target Dummy",
       "quality": 1,
-      "description": "Skill: 275 295 305 315"
+      "description": "Skill: 275 295 305 315",
+      "group": 3
     },
     {
       "id": 47027,
@@ -22182,7 +22413,8 @@
       "icon": "inv_gizmo_06",
       "name": "Portable Wormhole Generator: Stormwind",
       "quality": 1,
-      "description": "Skill: 120 145 157 170"
+      "description": "Skill: 120 145 157 170",
+      "group": 4
     },
     {
       "id": 47028,
@@ -22190,7 +22422,8 @@
       "icon": "inv_gizmo_06",
       "name": "Portable Wormhole Generator: Orgrimmar",
       "quality": 1,
-      "description": "Skill: 120 145 157 170"
+      "description": "Skill: 120 145 157 170",
+      "group": 4
     },
     {
       "id": 3933,
@@ -22198,7 +22431,8 @@
       "icon": "inv_misc_urn_01",
       "name": "Small Seaforium Charge",
       "quality": 1,
-      "description": "Skill: 100 130 145 160"
+      "description": "Skill: 100 130 145 160",
+      "group": 5
     },
     {
       "id": 3972,
@@ -22206,7 +22440,8 @@
       "icon": "inv_misc_urn_01",
       "name": "Large Seaforium Charge",
       "quality": 1,
-      "description": "Skill: 200 200 220 240"
+      "description": "Skill: 200 200 220 240",
+      "group": 5
     },
     {
       "id": 23080,
@@ -22214,7 +22449,8 @@
       "icon": "spell_shadow_detectinvisibility",
       "name": "Powerful Seaforium Charge",
       "quality": 1,
-      "description": "Skill: 275 275 285 295"
+      "description": "Skill: 275 275 285 295",
+      "group": 5
     }
   ],
   "EngineeringMisc2": [
@@ -22224,7 +22460,8 @@
       "icon": "inv_box_01",
       "name": "Practice Lock",
       "quality": 1,
-      "description": "Skill: 100 115 122 130"
+      "description": "Skill: 100 115 122 130",
+      "group": 0
     },
     {
       "id": 3963,
@@ -22232,7 +22469,8 @@
       "icon": "inv_helmet_08",
       "name": "Compact Harvest Reaper Kit",
       "quality": 1,
-      "description": "Skill: 175 175 195 215"
+      "description": "Skill: 175 175 195 215",
+      "group": 0
     },
     {
       "id": 23096,
@@ -22240,7 +22478,8 @@
       "icon": "inv_misc_enggizmos_13",
       "name": "Alarm-O-Bot",
       "quality": 1,
-      "description": "Skill: 265 275 280 285"
+      "description": "Skill: 265 275 280 285",
+      "group": 0
     },
     {
       "id": 19567,
@@ -22248,7 +22487,8 @@
       "icon": "inv_egg_05",
       "name": "Salt Shaker",
       "quality": 1,
-      "description": "Skill: 250 270 280 290"
+      "description": "Skill: 250 270 280 290",
+      "group": 0
     },
     {
       "id": 22704,
@@ -22256,7 +22496,8 @@
       "icon": "inv_egg_05",
       "name": "Field Repair Bot 74A",
       "quality": 1,
-      "description": "Skill: 300 320 330 340"
+      "description": "Skill: 300 320 330 340",
+      "group": 0
     },
     {
       "id": 3944,
@@ -22264,7 +22505,8 @@
       "icon": "inv_gizmo_01",
       "name": "Flame Deflector",
       "quality": 1,
-      "description": "Skill: 125 125 150 175"
+      "description": "Skill: 125 125 150 175",
+      "group": 1
     },
     {
       "id": 3957,
@@ -22272,7 +22514,8 @@
       "icon": "inv_gizmo_01",
       "name": "Ice Deflector",
       "quality": 1,
-      "description": "Skill: 155 175 185 195"
+      "description": "Skill: 155 175 185 195",
+      "group": 1
     },
     {
       "id": 3959,
@@ -22280,7 +22523,8 @@
       "icon": "inv_misc_spyglass_02",
       "name": "Discombobulator Ray",
       "quality": 1,
-      "description": "Skill: 160 180 190 200"
+      "description": "Skill: 160 180 190 200",
+      "group": 1
     },
     {
       "id": 3960,
@@ -22288,7 +22532,8 @@
       "icon": "inv_musket_01",
       "name": "Portable Bronze Mortar",
       "quality": 1,
-      "description": "Skill: 165 185 195 205"
+      "description": "Skill: 165 185 195 205",
+      "group": 1
     },
     {
       "id": 15255,
@@ -22296,7 +22541,8 @@
       "icon": "inv_gizmo_03",
       "name": "Mechanical Repair Kit",
       "quality": 1,
-      "description": "Skill: 200 200 220 240"
+      "description": "Skill: 200 200 220 240",
+      "group": 1
     },
     {
       "id": 23129,
@@ -22304,7 +22550,8 @@
       "icon": "inv_misc_enggizmos_08",
       "name": "World Enlarger",
       "quality": 2,
-      "description": "Skill: 260 260 265 270"
+      "description": "Skill: 260 260 265 270",
+      "group": 1
     },
     {
       "id": 21940,
@@ -22312,7 +22559,8 @@
       "icon": "spell_frost_windwalkon",
       "name": "Snowmaster 9000",
       "quality": 1,
-      "description": "Skill: 190 190 210 230"
+      "description": "Skill: 190 190 210 230",
+      "group": 1
     },
     {
       "id": 26442,
@@ -22320,7 +22568,8 @@
       "icon": "inv_musket_04",
       "name": "Firework Launcher",
       "quality": 1,
-      "description": "Skill: 225 245 255 265"
+      "description": "Skill: 225 245 255 265",
+      "group": 1
     },
     {
       "id": 26443,
@@ -22328,7 +22577,8 @@
       "icon": "INV_Misc_EngGizmos_03",
       "name": "Firework Cluster Launcher",
       "quality": 1,
-      "description": "Skill: 275 295 305 315"
+      "description": "Skill: 275 295 305 315",
+      "group": 1
     },
     {
       "id": 12715,
@@ -22336,7 +22586,8 @@
       "icon": "inv_scroll_03",
       "name": "Goblin Rocket Fuel Recipe",
       "quality": 1,
-      "description": "Skill: 205 205 205 205"
+      "description": "Skill: 205 205 205 205",
+      "group": 1
     },
     {
       "id": 12895,
@@ -22344,7 +22595,8 @@
       "icon": "inv_scroll_05",
       "name": "Inlaid Mithril Cylinder Plans",
       "quality": 1,
-      "description": "Skill: 205 205 205 205"
+      "description": "Skill: 205 205 205 205",
+      "group": 1
     },
     {
       "id": 41077,
@@ -22352,7 +22604,8 @@
       "icon": "INV_Box_01",
       "name": "Precision Jewelry Kit",
       "quality": 1,
-      "description": "Skill: 175 185 190 195"
+      "description": "Skill: 175 185 190 195",
+      "group": 2
     },
     {
       "id": 41073,
@@ -22360,7 +22613,8 @@
       "icon": "INV_Misc_Spyglass_03",
       "name": "Jewelry Lens",
       "quality": 1,
-      "description": "Skill: 125 140 147 155"
+      "description": "Skill: 125 140 147 155",
+      "group": 2
     },
     {
       "id": 41075,
@@ -22368,7 +22622,8 @@
       "icon": "INV_Misc_Spyglass_02",
       "name": "Jewelry Scope",
       "quality": 1,
-      "description": "Skill: 225 140 147 155"
+      "description": "Skill: 225 140 147 155",
+      "group": 2
     },
     {
       "id": 12722,
@@ -22376,7 +22631,8 @@
       "icon": "INV_Gizmo_GoblinBoomBox_01",
       "name": "Goblin Radio",
       "quality": 3,
-      "description": "Skill: 225 240 250 260"
+      "description": "Skill: 225 240 250 260",
+      "group": 3
     },
     {
       "id": 46608,
@@ -22384,7 +22640,8 @@
       "icon": "INV_Misc_EngGizmos_04",
       "name": "Hypertech Battery Pack",
       "quality": 3,
-      "description": "Skill: 250 250 260 270"
+      "description": "Skill: 250 250 260 270",
+      "group": 3
     }
   ],
   "EngineeringMisc3": [
@@ -22394,7 +22651,8 @@
       "icon": "inv_misc_missilesmall_blue",
       "name": "Small Blue Rocket",
       "quality": 1,
-      "description": "Skill: 125 125 137 150"
+      "description": "Skill: 125 125 137 150",
+      "group": 0
     },
     {
       "id": 26417,
@@ -22402,7 +22660,8 @@
       "icon": "inv_misc_missilesmall_green",
       "name": "Small Green Rocket",
       "quality": 1,
-      "description": "Skill: 125 125 137 150"
+      "description": "Skill: 125 125 137 150",
+      "group": 0
     },
     {
       "id": 26418,
@@ -22410,7 +22669,8 @@
       "icon": "inv_misc_missilesmall_red",
       "name": "Small Red Rocket",
       "quality": 1,
-      "description": "Skill: 125 125 137 150"
+      "description": "Skill: 125 125 137 150",
+      "group": 0
     },
     {
       "id": 23067,
@@ -22418,7 +22678,8 @@
       "icon": "spell_ice_magicdamage",
       "name": "Blue Firework",
       "quality": 1,
-      "description": "Skill: 150 150 162 175"
+      "description": "Skill: 150 150 162 175",
+      "group": 0
     },
     {
       "id": 23068,
@@ -22426,7 +22687,8 @@
       "icon": "spell_nature_abolishmagic",
       "name": "Green Firework",
       "quality": 1,
-      "description": "Skill: 150 150 162 175"
+      "description": "Skill: 150 150 162 175",
+      "group": 0
     },
     {
       "id": 23066,
@@ -22434,7 +22696,8 @@
       "icon": "spell_fire_fireball02",
       "name": "Red Firework",
       "quality": 1,
-      "description": "Skill: 150 150 162 175"
+      "description": "Skill: 150 150 162 175",
+      "group": 0
     },
     {
       "id": 26420,
@@ -22442,7 +22705,8 @@
       "icon": "inv_misc_missilelarge_blue",
       "name": "Large Blue Rocket",
       "quality": 1,
-      "description": "Skill: 175 175 187 200"
+      "description": "Skill: 175 175 187 200",
+      "group": 0
     },
     {
       "id": 26421,
@@ -22450,7 +22714,8 @@
       "icon": "inv_misc_missilelarge_green",
       "name": "Large Green Rocket",
       "quality": 1,
-      "description": "Skill: 175 175 187 200"
+      "description": "Skill: 175 175 187 200",
+      "group": 0
     },
     {
       "id": 26422,
@@ -22458,7 +22723,8 @@
       "icon": "inv_misc_missilelarge_red",
       "name": "Large Red Rocket",
       "quality": 1,
-      "description": "Skill: 175 175 187 200"
+      "description": "Skill: 175 175 187 200",
+      "group": 0
     },
     {
       "id": 26423,
@@ -22466,7 +22732,8 @@
       "icon": "inv_misc_missilesmallcluster_blue",
       "name": "Blue Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 225 225 237 250"
+      "description": "Skill: 225 225 237 250",
+      "group": 0
     },
     {
       "id": 26424,
@@ -22474,7 +22741,8 @@
       "icon": "inv_misc_missilesmallcluster_green",
       "name": "Green Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 225 225 237 250"
+      "description": "Skill: 225 225 237 250",
+      "group": 0
     },
     {
       "id": 26425,
@@ -22482,7 +22750,8 @@
       "icon": "inv_misc_missilesmallcluster_red",
       "name": "Red Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 225 225 237 250"
+      "description": "Skill: 225 225 237 250",
+      "group": 0
     },
     {
       "id": 23507,
@@ -22490,7 +22759,8 @@
       "icon": "spell_holy_holybolt",
       "name": "Snake Burst Firework",
       "quality": 1,
-      "description": "Skill: 250 250 260 270"
+      "description": "Skill: 250 250 260 270",
+      "group": 0
     },
     {
       "id": 26426,
@@ -22498,7 +22768,8 @@
       "icon": "inv_misc_missilelargecluster_blue",
       "name": "Large Blue Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 275 275 280 285"
+      "description": "Skill: 275 275 280 285",
+      "group": 0
     },
     {
       "id": 26427,
@@ -22506,7 +22777,8 @@
       "icon": "inv_misc_missilelargecluster_green",
       "name": "Large Green Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 275 275 280 285"
+      "description": "Skill: 275 275 280 285",
+      "group": 0
     },
     {
       "id": 26428,
@@ -22514,7 +22786,8 @@
       "icon": "inv_misc_missilelargecluster_red",
       "name": "Large Red Rocket Cluster",
       "quality": 1,
-      "description": "Skill: 275 275 280 285"
+      "description": "Skill: 275 275 280 285",
+      "group": 0
     },
     {
       "id": 3928,
@@ -22522,7 +22795,8 @@
       "icon": "inv_crate_01",
       "name": "Mechanical Squirrel",
       "quality": 1,
-      "description": "Skill: 75 105 120 135"
+      "description": "Skill: 75 105 120 135",
+      "group": 1
     },
     {
       "id": 26011,
@@ -22530,7 +22804,8 @@
       "icon": "ability_hunter_pet_gorilla",
       "name": "Tranquil Mechanical Yeti",
       "quality": 1,
-      "description": "Skill: 250 320 330 340"
+      "description": "Skill: 250 320 330 340",
+      "group": 1
     },
     {
       "id": 19793,
@@ -22538,7 +22813,8 @@
       "icon": "inv_misc_monsterhead_03",
       "name": "Lifelike Mechanical Toad",
       "quality": 1,
-      "description": "Skill: 265 285 295 305"
+      "description": "Skill: 265 285 295 305",
+      "group": 1
     },
     {
       "id": 15633,
@@ -22546,7 +22822,8 @@
       "icon": "inv_misc_idol_02",
       "name": "Lil' Smoky",
       "quality": 1,
-      "description": "Skill: 205 205 205 205"
+      "description": "Skill: 205 205 205 205",
+      "group": 1
     },
     {
       "id": 15628,
@@ -22554,7 +22831,8 @@
       "icon": "inv_misc_bomb_04",
       "name": "Pet Bombling",
       "quality": 1,
-      "description": "Skill: 205 205 205 205"
+      "description": "Skill: 205 205 205 205",
+      "group": 1
     }
   ],
   "Mining1": [
@@ -22564,7 +22842,8 @@
       "icon": "Trade_Mining",
       "name": "Apprentice",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 2770,
@@ -22572,7 +22851,8 @@
       "icon": "inv_ore_copper_01",
       "name": "Copper Vein",
       "quality": 1,
-      "description": "Skill: 1 25 50 100"
+      "description": "Skill: 1 25 50 100",
+      "group": 0
     },
     {
       "id": 2771,
@@ -22580,7 +22860,8 @@
       "icon": "inv_ore_tin_01",
       "name": "Tin Vein",
       "quality": 1,
-      "description": "Skill: 65 90 115 165"
+      "description": "Skill: 65 90 115 165",
+      "group": 0
     },
     {
       "id": 3340,
@@ -22588,7 +22869,8 @@
       "icon": "inv_ore_thorium_01",
       "name": "Incendicite Mineral Vein",
       "quality": 1,
-      "description": "Skill: 65 90 115 165"
+      "description": "Skill: 65 90 115 165",
+      "group": 0
     },
     {
       "id": 4278,
@@ -22596,7 +22878,8 @@
       "icon": "inv_ore_thorium_01",
       "name": "Lesser Bloodstone Deposit",
       "quality": 1,
-      "description": "Skill: 75 100 125 175"
+      "description": "Skill: 75 100 125 175",
+      "group": 0
     },
     {
       "id": 2775,
@@ -22604,7 +22887,8 @@
       "icon": "inv_stone_16",
       "name": "Silver Vein",
       "quality": 1,
-      "description": "Skill: 75 100 125 175"
+      "description": "Skill: 75 100 125 175",
+      "group": 0
     },
     {
       "id": 0,
@@ -22612,7 +22896,8 @@
       "icon": "Trade_Mining",
       "name": "Journeyman",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 2772,
@@ -22620,7 +22905,8 @@
       "icon": "inv_ore_iron_01",
       "name": "Iron Deposit",
       "quality": 1,
-      "description": "Skill: 125 150 175 225"
+      "description": "Skill: 125 150 175 225",
+      "group": 1
     },
     {
       "id": 5833,
@@ -22628,7 +22914,8 @@
       "icon": "inv_ore_mithril_01",
       "name": "Indurium Mineral Vein",
       "quality": 1,
-      "description": "Skill: 150 175 200 250"
+      "description": "Skill: 150 175 200 250",
+      "group": 1
     },
     {
       "id": 2776,
@@ -22636,7 +22923,8 @@
       "icon": "inv_ore_copper_01",
       "name": "Gold Vein",
       "quality": 1,
-      "description": "Skill: 155 175 205 255"
+      "description": "Skill: 155 175 205 255",
+      "group": 1
     },
     {
       "id": 0,
@@ -22644,7 +22932,8 @@
       "icon": "Trade_Mining",
       "name": "Expert",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 3858,
@@ -22652,7 +22941,8 @@
       "icon": "inv_ore_mithril_02",
       "name": "Mithril Deposit",
       "quality": 1,
-      "description": "Skill: 175 200 225 275"
+      "description": "Skill: 175 200 225 275",
+      "group": 2
     },
     {
       "id": 0,
@@ -22660,7 +22950,8 @@
       "icon": "Trade_Mining",
       "name": "Artisan",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 11370,
@@ -22668,7 +22959,8 @@
       "icon": "inv_ore_mithril_01",
       "name": "Dark Iron Deposit",
       "quality": 1,
-      "description": "Skill: 230 255 280 330"
+      "description": "Skill: 230 255 280 330",
+      "group": 3
     },
     {
       "id": 7911,
@@ -22676,7 +22968,8 @@
       "icon": "inv_ore_truesilver_01",
       "name": "Truesilver Deposit",
       "quality": 1,
-      "description": "Skill: 230 255 280 330"
+      "description": "Skill: 230 255 280 330",
+      "group": 3
     },
     {
       "id": 10620,
@@ -22684,7 +22977,8 @@
       "icon": "inv_ore_thorium_02",
       "name": "Small Thorium Vein",
       "quality": 1,
-      "description": "Skill: 245 270 295 345"
+      "description": "Skill: 245 270 295 345",
+      "group": 3
     },
     {
       "id": 22202,
@@ -22692,7 +22986,8 @@
       "icon": "inv_stone_15",
       "name": "Small Obsidian Chunk",
       "quality": 1,
-      "description": "Skill: 305 330 355 370"
+      "description": "Skill: 305 330 355 370",
+      "group": 3
     },
     {
       "id": 22203,
@@ -22700,7 +22995,8 @@
       "icon": "inv_misc_stonetablet_01",
       "name": "Large Obsidian Chunk",
       "quality": 1,
-      "description": "Skill: 305 330 355 370"
+      "description": "Skill: 305 330 355 370",
+      "group": 3
     }
   ],
   "Smelting1": [
@@ -22710,7 +23006,8 @@
       "icon": "INV_Sword_09",
       "name": "Apprentice",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 2657,
@@ -22718,7 +23015,8 @@
       "icon": "inv_ingot_02",
       "name": "Smelt Copper",
       "quality": 1,
-      "description": "Skill: 1 25 45 70"
+      "description": "Skill: 1 25 45 70",
+      "group": 0
     },
     {
       "id": 3304,
@@ -22726,7 +23024,8 @@
       "icon": "inv_ingot_05",
       "name": "Smelt Tin",
       "quality": 1,
-      "description": "Skill: 65 65 70 75"
+      "description": "Skill: 65 65 70 75",
+      "group": 0
     },
     {
       "id": 2659,
@@ -22734,7 +23033,8 @@
       "icon": "inv_ingot_bronze",
       "name": "Smelt Bronze",
       "quality": 1,
-      "description": "Skill: 65 65 90 115"
+      "description": "Skill: 65 65 90 115",
+      "group": 0
     },
     {
       "id": 2658,
@@ -22742,7 +23042,8 @@
       "icon": "inv_ingot_01",
       "name": "Smelt Silver",
       "quality": 2,
-      "description": "Skill: 75 100 112 125"
+      "description": "Skill: 75 100 112 125",
+      "group": 0
     },
     {
       "id": 0,
@@ -22750,7 +23051,8 @@
       "icon": "INV_Sword_09",
       "name": "Journeyman",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 3307,
@@ -22758,7 +23060,8 @@
       "icon": "inv_ingot_iron",
       "name": "Smelt Iron",
       "quality": 1,
-      "description": "Skill: 125 125 130 140"
+      "description": "Skill: 125 125 130 140",
+      "group": 1
     },
     {
       "id": 3308,
@@ -22766,7 +23069,8 @@
       "icon": "inv_ingot_03",
       "name": "Smelt Gold",
       "quality": 2,
-      "description": "Skill: 155 170 177 185"
+      "description": "Skill: 155 170 177 185",
+      "group": 1
     },
     {
       "id": 3569,
@@ -22774,7 +23078,8 @@
       "icon": "inv_ingot_steel",
       "name": "Smelt Steel",
       "quality": 1,
-      "description": "Skill: 165 165 165 165"
+      "description": "Skill: 165 165 165 165",
+      "group": 1
     },
     {
       "id": 0,
@@ -22782,7 +23087,8 @@
       "icon": "INV_Sword_09",
       "name": "Expert",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 10097,
@@ -22790,7 +23096,8 @@
       "icon": "inv_ingot_06",
       "name": "Smelt Mithril",
       "quality": 1,
-      "description": "Skill: 175 175 175 175"
+      "description": "Skill: 175 175 175 175",
+      "group": 2
     },
     {
       "id": 0,
@@ -22798,7 +23105,8 @@
       "icon": "INV_Sword_09",
       "name": "Artisan",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 14891,
@@ -22806,7 +23114,8 @@
       "icon": "inv_ingot_mithril",
       "name": "Smelt Dark Iron",
       "quality": 1,
-      "description": "Skill: 230 230 230 230"
+      "description": "Skill: 230 230 230 230",
+      "group": 3
     },
     {
       "id": 10098,
@@ -22814,7 +23123,8 @@
       "icon": "inv_ingot_08",
       "name": "Smelt Truesilver",
       "quality": 2,
-      "description": "Skill: 230 230 230 230"
+      "description": "Skill: 230 230 230 230",
+      "group": 3
     },
     {
       "id": 16153,
@@ -22822,7 +23132,8 @@
       "icon": "inv_ingot_07",
       "name": "Smelt Thorium",
       "quality": 1,
-      "description": "Skill: 250 250 250 250"
+      "description": "Skill: 250 250 250 250",
+      "group": 3
     },
     {
       "id": 22967,
@@ -22830,7 +23141,8 @@
       "icon": "inv_ingot_thorium",
       "name": "Smelt Elementium",
       "quality": 5,
-      "description": "Skill: 300 350 362 375"
+      "description": "Skill: 300 350 362 375",
+      "group": 3
     },
     {
       "id": 45451,
@@ -22838,7 +23150,8 @@
       "icon": "INV_Ingot_DreamSteel",
       "name": "Smelt Dreamsteel",
       "quality": 5,
-      "description": "Skill: 300 350 362 375"
+      "description": "Skill: 300 350 362 375",
+      "group": 3
     }
   ],
   "Herbalism1": [
@@ -22965,7 +23278,8 @@
       "icon": "spell_fire_fire",
       "name": "Basic Campfire",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 7751,
@@ -22973,7 +23287,8 @@
       "icon": "inv_misc_fish_07",
       "name": "Brilliant Smallfish",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 2538,
@@ -22981,7 +23296,8 @@
       "icon": "inv_misc_food_18",
       "name": "Charred Wolf Meat",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 15935,
@@ -22989,7 +23305,8 @@
       "icon": "inv_misc_food_46",
       "name": "Crispy Bat Wing",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 21143,
@@ -22997,7 +23314,8 @@
       "icon": "inv_misc_food_62",
       "name": "Gingerbread Cookie",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 8604,
@@ -23005,7 +23323,8 @@
       "icon": "inv_egg_03",
       "name": "Herb Baked Egg",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 2540,
@@ -23013,7 +23332,8 @@
       "icon": "inv_misc_food_18",
       "name": "Roasted Boar Meat",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 7752,
@@ -23021,7 +23341,8 @@
       "icon": "inv_misc_fish_24",
       "name": "Slitherskin Mackerel",
       "quality": 1,
-      "description": "Skill: 1 45 65 85"
+      "description": "Skill: 1 45 65 85",
+      "group": 1
     },
     {
       "id": 6412,
@@ -23029,7 +23350,8 @@
       "icon": "inv_misc_food_68",
       "name": "Kaldorei Spider Kabob",
       "quality": 1,
-      "description": "Skill: 10 50 70 90"
+      "description": "Skill: 10 50 70 90",
+      "group": 1
     },
     {
       "id": 2539,
@@ -23037,7 +23359,8 @@
       "icon": "inv_misc_food_65",
       "name": "Spiced Wolf Meat",
       "quality": 1,
-      "description": "Skill: 10 50 70 90"
+      "description": "Skill: 10 50 70 90",
+      "group": 1
     },
     {
       "id": 6413,
@@ -23045,7 +23368,8 @@
       "icon": "inv_misc_food_10",
       "name": "Scorpid Surprise",
       "quality": 1,
-      "description": "Skill: 20 60 80 100"
+      "description": "Skill: 20 60 80 100",
+      "group": 1
     },
     {
       "id": 2795,
@@ -23053,7 +23377,8 @@
       "icon": "inv_misc_food_48",
       "name": "Beer Basted Boar Ribs",
       "quality": 1,
-      "description": "Skill: 25 60 80 100"
+      "description": "Skill: 25 60 80 100",
+      "group": 1
     },
     {
       "id": 21144,
@@ -23061,7 +23386,8 @@
       "icon": "inv_drink_04",
       "name": "Egg Nog",
       "quality": 1,
-      "description": "Skill: 35 75 95 115"
+      "description": "Skill: 35 75 95 115",
+      "group": 1
     },
     {
       "id": 45054,
@@ -23069,7 +23395,8 @@
       "icon": "inv_drink_04",
       "name": "Maritime Gumbo",
       "quality": 1,
-      "description": "Skill: 35 75 95 115"
+      "description": "Skill: 35 75 95 115",
+      "group": 1
     },
     {
       "id": 6414,
@@ -23077,7 +23404,8 @@
       "icon": "inv_misc_food_60",
       "name": "Roasted Kodo Meat",
       "quality": 1,
-      "description": "Skill: 35 75 95 115"
+      "description": "Skill: 35 75 95 115",
+      "group": 1
     },
     {
       "id": 8607,
@@ -23085,7 +23413,8 @@
       "icon": "inv_misc_food_13",
       "name": "Smoked Bear Meat",
       "quality": 1,
-      "description": "Skill: 40 80 100 120"
+      "description": "Skill: 40 80 100 120",
+      "group": 1
     },
     {
       "id": 6499,
@@ -23093,7 +23422,8 @@
       "icon": "inv_misc_shell_02",
       "name": "Boiled Clams",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 2541,
@@ -23101,7 +23431,8 @@
       "icon": "inv_misc_food_65",
       "name": "Coyote Steak",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 6415,
@@ -23109,7 +23440,8 @@
       "icon": "inv_misc_fish_05",
       "name": "Fillet of Frenzy",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 2542,
@@ -23117,7 +23449,8 @@
       "icon": "inv_misc_food_10",
       "name": "Goretusk Liver Pie",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 7754,
@@ -23125,7 +23458,8 @@
       "icon": "inv_potion_01",
       "name": "Loch Frenzy Delight",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 7753,
@@ -23133,7 +23467,8 @@
       "icon": "inv_misc_fish_32",
       "name": "Longjaw Mud Snapper",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 7827,
@@ -23141,7 +23476,8 @@
       "icon": "inv_misc_fish_27",
       "name": "Rainbow Fin Albacore",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 6416,
@@ -23149,7 +23485,8 @@
       "icon": "inv_misc_bowl_01",
       "name": "Strider Stew",
       "quality": 1,
-      "description": "Skill: 50 90 110 130"
+      "description": "Skill: 50 90 110 130",
+      "group": 1
     },
     {
       "id": 3371,
@@ -23157,7 +23494,8 @@
       "icon": "inv_misc_food_49",
       "name": "Blood Sausage",
       "quality": 1,
-      "description": "Skill: 60 100 120 140"
+      "description": "Skill: 60 100 120 140",
+      "group": 1
     },
     {
       "id": 9513,
@@ -23165,7 +23503,8 @@
       "icon": "inv_drink_milk_05",
       "name": "Thistle Tea",
       "quality": 1,
-      "description": "Skill: 60 100 120 140"
+      "description": "Skill: 60 100 120 140",
+      "group": 1
     },
     {
       "id": 2544,
@@ -23173,7 +23512,8 @@
       "icon": "inv_misc_food_08",
       "name": "Crab Cake",
       "quality": 1,
-      "description": "Skill: 75 115 135 155"
+      "description": "Skill: 75 115 135 155",
+      "group": 1
     },
     {
       "id": 2543,
@@ -23181,7 +23521,8 @@
       "icon": "inv_misc_bowl_01",
       "name": "Westfall Stew",
       "quality": 1,
-      "description": "Skill: 75 115 135 155"
+      "description": "Skill: 75 115 135 155",
+      "group": 1
     }
   ],
   "CookingJourneyman1": [
@@ -23701,7 +24042,8 @@
       "icon": "Spell_Holy_SealOfSacrifice",
       "name": "Apprentice",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 3275,
@@ -23709,7 +24051,8 @@
       "icon": "inv_misc_bandage_15",
       "name": "Linen Bandage",
       "quality": 1,
-      "description": "Skill: 1 30 45 60"
+      "description": "Skill: 1 30 45 60",
+      "group": 0
     },
     {
       "id": 3276,
@@ -23717,7 +24060,8 @@
       "icon": "inv_misc_bandage_18",
       "name": "Heavy Linen Bandage",
       "quality": 1,
-      "description": "Skill: 40 50 75 100"
+      "description": "Skill: 40 50 75 100",
+      "group": 0
     },
     {
       "id": 7934,
@@ -23725,7 +24069,8 @@
       "icon": "inv_misc_slime_01",
       "name": "Anti-Venom",
       "quality": 1,
-      "description": "Skill: 80 80 115 150"
+      "description": "Skill: 80 80 115 150",
+      "group": 0
     },
     {
       "id": 0,
@@ -23733,7 +24078,8 @@
       "icon": "Spell_Holy_SealOfSacrifice",
       "name": "Journeyman",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 3277,
@@ -23741,7 +24087,8 @@
       "icon": "inv_misc_bandage_14",
       "name": "Wool Bandage",
       "quality": 1,
-      "description": "Skill: 80 80 115 150"
+      "description": "Skill: 80 80 115 150",
+      "group": 1
     },
     {
       "id": 3278,
@@ -23749,7 +24096,8 @@
       "icon": "inv_misc_bandage_17",
       "name": "Heavy Wool Bandage",
       "quality": 1,
-      "description": "Skill: 115 115 150 185"
+      "description": "Skill: 115 115 150 185",
+      "group": 1
     },
     {
       "id": 7935,
@@ -23757,7 +24105,8 @@
       "icon": "inv_misc_slime_01",
       "name": "Strong Anti-Venom",
       "quality": 1,
-      "description": "Skill: 130 130 165 200"
+      "description": "Skill: 130 130 165 200",
+      "group": 1
     },
     {
       "id": 7928,
@@ -23765,7 +24114,8 @@
       "icon": "inv_misc_bandage_01",
       "name": "Silk Bandage",
       "quality": 1,
-      "description": "Skill: 150 150 180 210"
+      "description": "Skill: 150 150 180 210",
+      "group": 1
     },
     {
       "id": 0,
@@ -23773,7 +24123,8 @@
       "icon": "Spell_Holy_SealOfSacrifice",
       "name": "Expert",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 7929,
@@ -23781,7 +24132,8 @@
       "icon": "inv_misc_bandage_02",
       "name": "Heavy Silk Bandage",
       "quality": 1,
-      "description": "Skill: 180 180 210 240"
+      "description": "Skill: 180 180 210 240",
+      "group": 2
     },
     {
       "id": 10840,
@@ -23789,7 +24141,8 @@
       "icon": "inv_misc_bandage_19",
       "name": "Mageweave Bandage",
       "quality": 1,
-      "description": "Skill: 210 210 240 270"
+      "description": "Skill: 210 210 240 270",
+      "group": 2
     },
     {
       "id": 0,
@@ -23797,7 +24150,8 @@
       "icon": "Spell_Holy_SealOfSacrifice",
       "name": "Artisan",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 10841,
@@ -23805,7 +24159,8 @@
       "icon": "inv_misc_bandage_20",
       "name": "Heavy Mageweave Bandage",
       "quality": 1,
-      "description": "Skill: 240 240 270 300"
+      "description": "Skill: 240 240 270 300",
+      "group": 3
     },
     {
       "id": 18629,
@@ -23813,7 +24168,8 @@
       "icon": "inv_misc_bandage_11",
       "name": "Runecloth Bandage",
       "quality": 1,
-      "description": "Skill: 260 260 290 320"
+      "description": "Skill: 260 260 290 320",
+      "group": 3
     },
     {
       "id": 18630,
@@ -23821,7 +24177,8 @@
       "icon": "inv_misc_bandage_12",
       "name": "Heavy Runecloth Bandage",
       "quality": 1,
-      "description": "Skill: 290 290 320 350"
+      "description": "Skill: 290 290 320 350",
+      "group": 3
     },
     {
       "id": 23787,
@@ -23829,7 +24186,8 @@
       "icon": "inv_drink_14",
       "name": "Powerful Anti-Venom",
       "quality": 1,
-      "description": "Skill: 300 300 330 360"
+      "description": "Skill: 300 300 330 360",
+      "group": 3
     },
     {
       "id": 10844,
@@ -23837,7 +24195,8 @@
       "icon": "inv_misc_ammo_gunpowder_02",
       "name": "Powerful Smelling Salts",
       "quality": 1,
-      "description": "Skill: 300 300 330 360"
+      "description": "Skill: 300 300 330 360",
+      "group": 3
     }
   ],
   "Survival1": [
@@ -23847,7 +24206,8 @@
       "icon": "Trade_Survival",
       "name": "Apprentice",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 46064,
@@ -23855,7 +24215,8 @@
       "icon": "inv_torch_lit",
       "name": "Dim Torch",
       "quality": 1,
-      "description": "Skill: 1 30 45 60"
+      "description": "Skill: 1 30 45 60",
+      "group": 0
     },
     {
       "id": 47103,
@@ -23863,7 +24224,8 @@
       "icon": "INV_Misc_Flute_01",
       "name": "Driftwood Fishing Pole",
       "quality": 1,
-      "description": "Skill: 10 40 55 70"
+      "description": "Skill: 10 40 55 70",
+      "group": 0
     },
     {
       "id": 47101,
@@ -23871,7 +24233,8 @@
       "icon": "INV_Weapon_ShortBlade_08",
       "name": "Survivalist's Skinning Knife",
       "quality": 1,
-      "description": "Skill: 10 30 45 60"
+      "description": "Skill: 10 30 45 60",
+      "group": 0
     },
     {
       "id": 46072,
@@ -23879,7 +24242,8 @@
       "icon": "Trade_Survival",
       "name": "Traveler's Tent",
       "quality": 2,
-      "description": "Skill: 50 100 125 150"
+      "description": "Skill: 50 100 125 150",
+      "group": 0
     },
     {
       "id": 46074,
@@ -23887,7 +24251,8 @@
       "icon": "trade_herbalism",
       "name": "Simple Woodern Planter",
       "quality": 2,
-      "description": "Skill: 75 100 112 125"
+      "description": "Skill: 75 100 112 125",
+      "group": 0
     },
     {
       "id": 46073,
@@ -23895,7 +24260,8 @@
       "icon": "inv_tradeskillitem_02",
       "name": "Fishing Boat",
       "quality": 2,
-      "description": "Skill: 75 125 150 175"
+      "description": "Skill: 75 125 150 175",
+      "group": 0
     },
     {
       "id": 0,
@@ -23903,7 +24269,8 @@
       "icon": "Trade_Survival",
       "name": "Journeyman",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 46075,
@@ -23911,7 +24278,8 @@
       "icon": "inv_misc_lantern_01",
       "name": "Iron Lantern",
       "quality": 2,
-      "description": "Skill: 90 30 45 60"
+      "description": "Skill: 90 30 45 60",
+      "group": 1
     },
     {
       "id": 46068,
@@ -23919,7 +24287,8 @@
       "icon": "inv_misc_bandage_07",
       "name": "Cleaning Cloth",
       "quality": 1,
-      "description": "Skill: 100 150 175 200"
+      "description": "Skill: 100 150 175 200",
+      "group": 1
     },
     {
       "id": 46066,
@@ -23927,7 +24296,8 @@
       "icon": "inv_boots_fabric_01",
       "name": "Murloc's Flippers",
       "quality": 2,
-      "description": "Skill: 120 150 162 175"
+      "description": "Skill: 120 150 162 175",
+      "group": 1
     },
     {
       "id": 46077,
@@ -23935,7 +24305,8 @@
       "icon": "inv_misc_lantern_01",
       "name": "Repaired Electro-Lantern",
       "quality": 3,
-      "description": "Skill: 120 120 135 150"
+      "description": "Skill: 120 120 135 150",
+      "group": 1
     }
   ],
   "Survival2": [
@@ -23945,7 +24316,8 @@
       "icon": "inv_misc_bag_03",
       "name": "Country Pumpkin Seeds",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 51713,
@@ -23953,7 +24325,8 @@
       "icon": "inv_misc_food_25",
       "name": "Plump Country Pumpkin",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 0
     },
     {
       "id": 51710,
@@ -23961,7 +24334,8 @@
       "icon": "inv_misc_food_25",
       "name": "Plump Country Pumpkin",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 0
     },
     {
       "id": 51707,
@@ -23969,7 +24343,8 @@
       "icon": "inv_misc_bag_04",
       "name": "Mountain Berry Bush Seeds",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 51711,
@@ -23977,7 +24352,8 @@
       "icon": "inv_misc_food_40",
       "name": "Sweet Mountain Berry",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 1
     },
     {
       "id": 51714,
@@ -23985,7 +24361,8 @@
       "icon": "inv_misc_food_40",
       "name": "Sweet Mountain Berry",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 1
     },
     {
       "id": 51708,
@@ -23993,7 +24370,8 @@
       "icon": "inv_misc_bag_06",
       "name": "Striped Melon Seeds",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 51718,
@@ -24001,7 +24379,8 @@
       "icon": "inv_misc_food_22",
       "name": "Juicy Striped Melon",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 2
     },
     {
       "id": 51712,
@@ -24009,7 +24388,8 @@
       "icon": "inv_misc_food_22",
       "name": "Juicy Striped Melon",
       "quality": 1,
-      "description": "3-8"
+      "description": "3-8",
+      "group": 2
     },
     {
       "id": 51716,
@@ -24017,7 +24397,8 @@
       "icon": "inv_misc_bag_04",
       "name": "Magic Mushroom Spores",
       "quality": 1,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 51720,
@@ -24025,7 +24406,8 @@
       "icon": "inv_mushroom_11",
       "name": "Power Mushroom",
       "quality": 1,
-      "description": "2-6"
+      "description": "2-6",
+      "group": 3
     },
     {
       "id": 51717,
@@ -24033,7 +24415,8 @@
       "icon": "inv_mushroom_11",
       "name": "Hardened Mushroom",
       "quality": 1,
-      "description": "2-6"
+      "description": "2-6",
+      "group": 3
     }
   ],
   "Poisons1": [
@@ -24043,7 +24426,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison",
       "quality": 1,
-      "description": "Level: 20 Skill: 1 125 150 175"
+      "description": "Level: 20 Skill: 1 125 150 175",
+      "group": 0
     },
     {
       "id": 8687,
@@ -24051,7 +24435,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison II",
       "quality": 1,
-      "description": "Level: 28 Skill: 120 165 190 215"
+      "description": "Level: 28 Skill: 120 165 190 215",
+      "group": 0
     },
     {
       "id": 8691,
@@ -24059,7 +24444,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison III",
       "quality": 1,
-      "description": "Level: 36 Skill: 160 205 230 255"
+      "description": "Level: 36 Skill: 160 205 230 255",
+      "group": 0
     },
     {
       "id": 11341,
@@ -24067,7 +24453,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison IV",
       "quality": 1,
-      "description": "Level: 44 Skill: 200 245 270 295"
+      "description": "Level: 44 Skill: 200 245 270 295",
+      "group": 0
     },
     {
       "id": 11342,
@@ -24075,7 +24462,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison V",
       "quality": 1,
-      "description": "Level: 52 Skill: 240 285 340 335"
+      "description": "Level: 52 Skill: 240 285 340 335",
+      "group": 0
     },
     {
       "id": 11343,
@@ -24083,7 +24471,8 @@
       "icon": "ability_poisons",
       "name": "Instant Poison VI",
       "quality": 1,
-      "description": "Level: 60 Skill: 280 325 350 375"
+      "description": "Level: 60 Skill: 280 325 350 375",
+      "group": 0
     },
     {
       "id": 2835,
@@ -24091,7 +24480,8 @@
       "icon": "ability_rogue_dualweild",
       "name": "Deadly Poison",
       "quality": 1,
-      "description": "Level: 30 Skill: 130 175 200 225"
+      "description": "Level: 30 Skill: 130 175 200 225",
+      "group": 1
     },
     {
       "id": 2837,
@@ -24099,7 +24489,8 @@
       "icon": "ability_rogue_dualweild",
       "name": "Deadly Poison II",
       "quality": 1,
-      "description": "Level: 38 Skill: 170 215 240 265"
+      "description": "Level: 38 Skill: 170 215 240 265",
+      "group": 1
     },
     {
       "id": 11357,
@@ -24107,7 +24498,8 @@
       "icon": "ability_rogue_dualweild",
       "name": "Deadly Poison III",
       "quality": 1,
-      "description": "Level: 46 Skill: 210 255 280 305"
+      "description": "Level: 46 Skill: 210 255 280 305",
+      "group": 1
     },
     {
       "id": 11358,
@@ -24115,7 +24507,8 @@
       "icon": "ability_rogue_dualweild",
       "name": "Deadly Poison IV",
       "quality": 1,
-      "description": "Level: 54 Skill: 250 295 320 345"
+      "description": "Level: 54 Skill: 250 295 320 345",
+      "group": 1
     },
     {
       "id": 25347,
@@ -24123,7 +24516,8 @@
       "icon": "ability_rogue_dualweild",
       "name": "Deadly Poison V",
       "quality": 1,
-      "description": "Level: 60 Skill: 1 300 325 350"
+      "description": "Level: 60 Skill: 1 300 325 350",
+      "group": 1
     },
     {
       "id": 3420,
@@ -24131,7 +24525,8 @@
       "icon": "ability_poisonsting",
       "name": "Crippling Poison",
       "quality": 1,
-      "description": "Level: 20 Skill: 1 125 150 175"
+      "description": "Level: 20 Skill: 1 125 150 175",
+      "group": 2
     },
     {
       "id": 3421,
@@ -24139,7 +24534,8 @@
       "icon": "ability_poisonsting",
       "name": "Crippling Poison II",
       "quality": 1,
-      "description": "Level: 50 Skill: 230 275 300 325"
+      "description": "Level: 50 Skill: 230 275 300 325",
+      "group": 2
     },
     {
       "id": 5763,
@@ -24147,7 +24543,8 @@
       "icon": "spell_nature_nullifydisease",
       "name": "Mind-numbing Poison",
       "quality": 1,
-      "description": "Level: 24 Skill: 1 150 175 200"
+      "description": "Level: 24 Skill: 1 150 175 200",
+      "group": 2
     },
     {
       "id": 8694,
@@ -24155,7 +24552,8 @@
       "icon": "spell_nature_nullifydisease",
       "name": "Mind-numbing Poison II",
       "quality": 1,
-      "description": "Level: 38 Skill: 1 215 240 265"
+      "description": "Level: 38 Skill: 1 215 240 265",
+      "group": 2
     },
     {
       "id": 11400,
@@ -24163,7 +24561,8 @@
       "icon": "spell_nature_nullifydisease",
       "name": "Mind-numbing Poison III",
       "quality": 1,
-      "description": "Level: 52 Skill: 1 285 310 335"
+      "description": "Level: 52 Skill: 1 285 310 335",
+      "group": 2
     },
     {
       "id": 13220,
@@ -24171,7 +24570,8 @@
       "icon": "inv_misc_herb_16",
       "name": "Wound Poison",
       "quality": 1,
-      "description": "Level: 32 Skill: 1 185 210 235"
+      "description": "Level: 32 Skill: 1 185 210 235",
+      "group": 3
     },
     {
       "id": 51924,
@@ -24179,7 +24579,8 @@
       "icon": "inv_corrosive_01",
       "name": "Corrosive Poison",
       "quality": 1,
-      "description": "Level: 56 Skill: 1 280 305 330"
+      "description": "Level: 56 Skill: 1 280 305 330",
+      "group": 4
     },
     {
       "id": 52576,
@@ -24187,7 +24588,8 @@
       "icon": "inv_corrosive_01",
       "name": "Corrosive Poison II",
       "quality": 1,
-      "description": "Level: 60 Skill: 1 300 325 350"
+      "description": "Level: 60 Skill: 1 300 325 350",
+      "group": 4
     },
     {
       "id": 45878,
@@ -24195,7 +24597,8 @@
       "icon": "Spell_Nature_SlowPoison",
       "name": "Dissolvent Poison",
       "quality": 1,
-      "description": "Level: 52 Skill: 1 285 310 335"
+      "description": "Level: 52 Skill: 1 285 310 335",
+      "group": 5
     },
     {
       "id": 45882,
@@ -24203,7 +24606,8 @@
       "icon": "Spell_Nature_SlowPoison",
       "name": "Dissolvent Poison II",
       "quality": 1,
-      "description": "Level: 60 Skill: 1 325 350 375"
+      "description": "Level: 60 Skill: 1 325 350 375",
+      "group": 5
     },
     {
       "id": 45611,
@@ -24211,7 +24615,8 @@
       "icon": "spell_nature_nullifypoison",
       "name": "Agitating Poison I",
       "quality": 1,
-      "description": "Level: 60 Skill: 1 290 300 310"
+      "description": "Level: 60 Skill: 1 290 300 310",
+      "group": 6
     },
     {
       "id": 6510,
@@ -24219,7 +24624,8 @@
       "icon": "inv_misc_ammo_gunpowder_01",
       "name": "Blinding Powder",
       "quality": 1,
-      "description": "Level: 34 Skill: 1 170 195 220"
+      "description": "Level: 34 Skill: 1 170 195 220",
+      "group": 7
     }
   ],
   "JewelcraftingApprentice1": [
@@ -27595,7 +28001,8 @@
       "icon": "BTNCopperring01",
       "name": "Rough Copper Ring",
       "quality": 1,
-      "description": "Skill: 1 21 30 40"
+      "description": "Skill: 1 21 30 40",
+      "group": 0
     },
     {
       "id": 41039,
@@ -27603,7 +28010,8 @@
       "icon": "INV_Jewelry_Ring_26",
       "name": "Rough Bronze Ring",
       "quality": 1,
-      "description": "Skill: 90 100 107 115"
+      "description": "Skill: 90 100 107 115",
+      "group": 0
     },
     {
       "id": 41067,
@@ -27611,7 +28019,8 @@
       "icon": "INV_Jewelry_Ring_01",
       "name": "Rough Silver Ring",
       "quality": 1,
-      "description": "Skill: 125 135 145 155"
+      "description": "Skill: 125 135 145 155",
+      "group": 0
     },
     {
       "id": 41081,
@@ -27619,7 +28028,8 @@
       "icon": "INV_Jewelry_Ring_27",
       "name": "Rough Iron Ring",
       "quality": 1,
-      "description": "Skill: 150 165 170 175"
+      "description": "Skill: 150 165 170 175",
+      "group": 0
     },
     {
       "id": 41083,
@@ -27627,7 +28037,8 @@
       "icon": "INV_Jewelry_Ring_03",
       "name": "Rough Gold Ring",
       "quality": 1,
-      "description": "Skill: 150 165 170 175"
+      "description": "Skill: 150 165 170 175",
+      "group": 0
     },
     {
       "id": 41219,
@@ -27635,7 +28046,8 @@
       "icon": "INV_Jewelry_Ring_12",
       "name": "Rough Mithril Ring",
       "quality": 1,
-      "description": "Skill: 175 175 177 180"
+      "description": "Skill: 175 175 177 180",
+      "group": 0
     },
     {
       "id": 41233,
@@ -27643,7 +28055,8 @@
       "icon": "INV_Jewelry_Ring_07",
       "name": "Rough Truesilver Ring",
       "quality": 1,
-      "description": "Skill: 200 200 205 210"
+      "description": "Skill: 200 200 205 210",
+      "group": 0
     },
     {
       "id": 41087,
@@ -27651,7 +28064,8 @@
       "icon": "BTNring02",
       "name": "Rough Thorium Ring",
       "quality": 1,
-      "description": "Skill: 235 245 250 255"
+      "description": "Skill: 235 245 250 255",
+      "group": 0
     },
     {
       "id": 41271,
@@ -27659,7 +28073,8 @@
       "icon": "INV_Jewelry_Ring_Gold",
       "name": "Pure Gold Ring",
       "quality": 1,
-      "description": "Skill: ??? 325 335 345"
+      "description": "Skill: ??? 325 335 345",
+      "group": 0
     },
     {
       "id": 29728,
@@ -27667,7 +28082,8 @@
       "icon": "INV_Misc_Bandage_08",
       "name": "Rough Gritted Paper",
       "quality": 1,
-      "description": "Skill: 1 21 25 30"
+      "description": "Skill: 1 21 25 30",
+      "group": 1
     },
     {
       "id": 41029,
@@ -27675,7 +28091,8 @@
       "icon": "INV_Misc_Bandage_10",
       "name": "Coarse Gritted Paper",
       "quality": 1,
-      "description": "Skill: 70 90 95 100"
+      "description": "Skill: 70 90 95 100",
+      "group": 1
     },
     {
       "id": 41201,
@@ -27683,7 +28100,8 @@
       "icon": "INV_Misc_Bandage_18",
       "name": "Heavy Gritted Paper",
       "quality": 1,
-      "description": "Skill: 150 150 155 160"
+      "description": "Skill: 150 150 155 160",
+      "group": 1
     },
     {
       "id": 41229,
@@ -27691,7 +28109,8 @@
       "icon": "INV_Misc_Bandage_17",
       "name": "Solid Gritted Paper",
       "quality": 1,
-      "description": "Skill: 200 200 205 210"
+      "description": "Skill: 200 200 205 210",
+      "group": 1
     },
     {
       "id": 41091,
@@ -27699,7 +28118,8 @@
       "icon": "INV_Misc_LeatherScrap_08",
       "name": "Dense Gritted Paper",
       "quality": 1,
-      "description": "Skill: 250 260 265 270"
+      "description": "Skill: 250 260 265 270",
+      "group": 1
     },
     {
       "id": 41031,
@@ -27707,7 +28127,8 @@
       "icon": "INV_Ore_Tin_01",
       "name": "Rough Gemstone Cluster",
       "quality": 1,
-      "description": "Skill: 35 45 50 55"
+      "description": "Skill: 35 45 50 55",
+      "group": 1
     },
     {
       "id": 41065,
@@ -27715,7 +28136,8 @@
       "icon": "INV_Stone_08",
       "name": "Coarse Gemstone Cluster",
       "quality": 1,
-      "description": "Skill: 125 140 142 145"
+      "description": "Skill: 125 140 142 145",
+      "group": 1
     },
     {
       "id": 41203,
@@ -27723,7 +28145,8 @@
       "icon": "INV_Stone_13",
       "name": "Heavy Gemstone Cluster",
       "quality": 1,
-      "description": "Skill: 150 150 152 155"
+      "description": "Skill: 150 150 152 155",
+      "group": 1
     },
     {
       "id": 41237,
@@ -27731,7 +28154,8 @@
       "icon": "INV_Stone_07",
       "name": "Solid Gemstone Cluster",
       "quality": 1,
-      "description": "Skill: 200 200 205 210"
+      "description": "Skill: 200 200 205 210",
+      "group": 1
     },
     {
       "id": 41770,
@@ -27739,7 +28163,8 @@
       "icon": "INV_Stone_14",
       "name": "Dense Gemstone Cluster",
       "quality": 1,
-      "description": "Skill: 235 240 240 240"
+      "description": "Skill: 235 240 240 240",
+      "group": 1
     }
   ]
 }

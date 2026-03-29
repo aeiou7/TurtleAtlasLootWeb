@@ -8,7 +8,8 @@
       "name": "Lost Crusader's Artifact",
       "quality": 4,
       "description": "Off Hand",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51779,
@@ -17,7 +18,8 @@
       "name": "Greataxe of the Decrepit Crypt",
       "quality": 4,
       "description": "Two-Hand, Axe",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51780,
@@ -26,7 +28,8 @@
       "name": "Ghoulslayer Shotgun",
       "quality": 4,
       "description": "Gun",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51796,
@@ -35,7 +38,8 @@
       "name": "Shield of Consuming Darkness",
       "quality": 4,
       "description": "Off Hand, Shield",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51797,
@@ -44,7 +48,8 @@
       "name": "Claw of the Wildshifter",
       "quality": 4,
       "description": "Main Hand, Fist Weapon",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51799,
@@ -53,7 +58,8 @@
       "name": "Libram of Veracity",
       "quality": 4,
       "description": "Relic, Libram Paladin",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51800,
@@ -62,7 +68,8 @@
       "name": "Totem of Earthstorm",
       "quality": 4,
       "description": "Relic, Totem Shaman",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51798,
@@ -71,7 +78,8 @@
       "name": "Idol of the Wildshifter",
       "quality": 4,
       "description": "Relic, Idol Druid",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51782,
@@ -80,7 +88,8 @@
       "name": "Mindpiercer Band",
       "quality": 4,
       "description": "Ring, Unique",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 0
     },
     {
       "id": 51777,
@@ -89,7 +98,8 @@
       "name": "Necromancer's Visage",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 1
     },
     {
       "id": 51789,
@@ -98,7 +108,8 @@
       "name": "Circlet of Forlorn Spirits",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 1
     },
     {
       "id": 51781,
@@ -107,7 +118,8 @@
       "name": "Necrotic Wake Mantle",
       "quality": 4,
       "description": "Shoulder, Cloth",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 1
     },
     {
       "id": 51784,
@@ -116,7 +128,8 @@
       "name": "Belt of Archaic Power",
       "quality": 4,
       "description": "Waist, Cloth",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 1
     },
     {
       "id": 51788,
@@ -125,7 +138,8 @@
       "name": "Visage of the Forgotten",
       "quality": 4,
       "description": "Head, Leather",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 2
     },
     {
       "id": 51787,
@@ -134,7 +148,8 @@
       "name": "Spaulders of Insight",
       "quality": 4,
       "description": "Shoulder, Leather",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 2
     },
     {
       "id": 51783,
@@ -143,7 +158,8 @@
       "name": "Shadowskin Bracers",
       "quality": 4,
       "description": "Wrist, Leather",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 2
     },
     {
       "id": 51776,
@@ -152,7 +168,8 @@
       "name": "Plagued Mind Leggings",
       "quality": 4,
       "description": "Legs, Leather",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 2
     },
     {
       "id": 51786,
@@ -161,7 +178,8 @@
       "name": "Cryptbone Hauberk",
       "quality": 4,
       "description": "Chest, Mail",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 3
     },
     {
       "id": 51785,
@@ -170,7 +188,8 @@
       "name": "Stoneslate Belt",
       "quality": 4,
       "description": "Waist, Mail",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 3
     },
     {
       "id": 51769,
@@ -179,7 +198,8 @@
       "name": "Crown of the Dark Reaver",
       "quality": 4,
       "description": "Head, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51770,
@@ -188,7 +208,8 @@
       "name": "Shoulderguards of the Dark Reaver",
       "quality": 4,
       "description": "Shoulder, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51771,
@@ -197,7 +218,8 @@
       "name": "Chestplate of the Dark Reaver",
       "quality": 4,
       "description": "Chest, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51772,
@@ -206,7 +228,8 @@
       "name": "Grasp of the Dark Reaver",
       "quality": 4,
       "description": "Hands, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51773,
@@ -215,7 +238,8 @@
       "name": "Girdle of the Dark Reaver",
       "quality": 4,
       "description": "Waist, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51775,
@@ -224,7 +248,8 @@
       "name": "Legguards of the Dark Reaver",
       "quality": 4,
       "description": "Legs, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     },
     {
       "id": 51774,
@@ -233,7 +258,8 @@
       "name": "Sabatons of the Dark Reaver",
       "quality": 4,
       "description": "Feet, Plate",
-      "dropRate": "4%"
+      "dropRate": "4%",
+      "group": 4
     }
   ],
   "Nerubian": [
@@ -244,7 +270,8 @@
       "name": "Tunnel Field Carapace",
       "quality": 4,
       "description": "Chest, Leather",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 51737,
@@ -253,7 +280,8 @@
       "name": "Vestments of Eternal Autumn",
       "quality": 4,
       "description": "Chest, Leather",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 51736,
@@ -262,7 +290,8 @@
       "name": "Plauge-Infected Robe",
       "quality": 4,
       "description": "Chest, Cloth",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 51735,
@@ -271,7 +300,8 @@
       "name": "Scourgelord's Fang",
       "quality": 4,
       "description": "Wand",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 51740,
@@ -280,7 +310,8 @@
       "name": "Crown of Skittering Shadows",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 51734,
@@ -289,7 +320,8 @@
       "name": "Shawl of Haunted Memories",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 51733,
@@ -298,7 +330,8 @@
       "name": "Shadow-Weaver's Cape",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 51732,
@@ -307,7 +340,8 @@
       "name": "Silken Mantle of Dying Hope",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 51731,
@@ -316,7 +350,8 @@
       "name": "Venom Covered Cloak",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 51730,
@@ -325,7 +360,8 @@
       "name": "Shawl of Nerubian Silk",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 12717,
@@ -334,7 +370,8 @@
       "name": "Plans: Lionheart Helm",
       "quality": 4,
       "description": "Skill: 300 320 330 340",
-      "dropRate": "5%"
+      "dropRate": "5%",
+      "group": 2
     },
     {
       "id": 12640,
@@ -342,7 +379,8 @@
       "icon": "inv_helmet_36",
       "name": "Lionheart Helm",
       "quality": 4,
-      "description": "Head, Plate"
+      "description": "Head, Plate",
+      "group": 2
     },
     {
       "id": 22388,
@@ -351,7 +389,8 @@
       "name": "Plans: Titanic Leggings",
       "quality": 4,
       "description": "Skill: 300 320 330 340",
-      "dropRate": "5%"
+      "dropRate": "5%",
+      "group": 3
     },
     {
       "id": 22385,
@@ -359,7 +398,8 @@
       "icon": "inv_pants_04",
       "name": "Titanic Leggings",
       "quality": 4,
-      "description": "Legs, Plate"
+      "description": "Legs, Plate",
+      "group": 3
     },
     {
       "id": 83547,
@@ -368,7 +408,8 @@
       "name": "Plans: Pauldron of Deflection",
       "quality": 4,
       "description": "Skill: 300 320 330 340",
-      "dropRate": "5%"
+      "dropRate": "5%",
+      "group": 4
     },
     {
       "id": 65014,
@@ -376,7 +417,8 @@
       "icon": "INV_Shoulder_01",
       "name": "Pauldron of Deflection",
       "quality": 4,
-      "description": "Shoulder, Plate"
+      "description": "Shoulder, Plate",
+      "group": 4
     },
     {
       "id": 51739,
@@ -385,7 +427,8 @@
       "name": "Little Ball of Spider Web",
       "quality": 1,
       "description": "Pet",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 5
     }
   ],
   "Ostarius": [
@@ -396,7 +439,8 @@
       "name": "Tome of Infalliable Truth",
       "quality": 4,
       "description": "Off Hand, Held In Off-hand",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83481,
@@ -405,7 +449,8 @@
       "name": "Failsafe Activation Key",
       "quality": 4,
       "description": "Off Hand, Held In Off-hand",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83482,
@@ -414,7 +459,8 @@
       "name": "Distress Signal Pulser",
       "quality": 4,
       "description": "Off Hand, Held In Off-hand",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83483,
@@ -423,7 +469,8 @@
       "name": "Crown of Divine Justice",
       "quality": 4,
       "description": "Head, Plate",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83484,
@@ -432,7 +479,8 @@
       "name": "Desert Wind Talisman",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83532,
@@ -441,7 +489,8 @@
       "name": "Bracers of the Crescent Moon",
       "quality": 4,
       "description": "Wrist, Leather",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83530,
@@ -450,7 +499,8 @@
       "name": "Turban of Veiled Mists",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83531,
@@ -459,7 +509,8 @@
       "name": "Clutch of Mending Winds",
       "quality": 4,
       "description": "Waist, Leather",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83487,
@@ -468,7 +519,8 @@
       "name": "Blade of the Fallen Star",
       "quality": 4,
       "description": "Main Hand, Sword",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83486,
@@ -477,7 +529,8 @@
       "name": "Sandstalker's Shroud",
       "quality": 4,
       "description": "Back",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83488,
@@ -486,7 +539,8 @@
       "name": "Uldum Construct Stompers",
       "quality": 4,
       "description": "Feet, Mail",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83485,
@@ -495,7 +549,8 @@
       "name": "Fists of the Makers",
       "quality": 4,
       "description": "Hands, Plate",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 1
     },
     {
       "id": 83235,
@@ -504,7 +559,8 @@
       "name": "Ancient Locking Mechanism",
       "quality": 4,
       "description": "",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 17962,
@@ -513,7 +569,8 @@
       "name": "Blue Sack of Gems",
       "quality": 2,
       "description": "Container random colour",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     }
   ],
   "Concavius": [
@@ -524,7 +581,8 @@
       "name": "Charm of Dark Domination",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83234,
@@ -533,7 +591,8 @@
       "name": "Voidclaw Choker",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83237,
@@ -542,7 +601,8 @@
       "name": "Band of Ancient Lethality",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83238,
@@ -551,7 +611,8 @@
       "name": "Ring of the Abyss Watcher",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83239,
@@ -560,7 +621,8 @@
       "name": "Signet of the Voidwalker",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83240,
@@ -569,7 +631,8 @@
       "name": "Ring of the Whispering Mist",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 83236,
@@ -578,7 +641,8 @@
       "name": "Void-Linked Satchel of Goods",
       "quality": 4,
       "description": "Container",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 7076,
@@ -587,7 +651,8 @@
       "name": "Essence of Earth",
       "quality": 2,
       "description": "Group 1",
-      "dropRate": "[1-2] 25%"
+      "dropRate": "[1-2] 25%",
+      "group": 1
     },
     {
       "id": 7078,
@@ -596,7 +661,8 @@
       "name": "Essence of Fire",
       "quality": 2,
       "description": "Group 1",
-      "dropRate": "[1-2] 25%"
+      "dropRate": "[1-2] 25%",
+      "group": 1
     },
     {
       "id": 7080,
@@ -605,7 +671,8 @@
       "name": "Essence of Water",
       "quality": 2,
       "description": "Group 1",
-      "dropRate": "[1-2] 25%"
+      "dropRate": "[1-2] 25%",
+      "group": 1
     },
     {
       "id": 7082,
@@ -614,7 +681,8 @@
       "name": "Essence of Air",
       "quality": 2,
       "description": "Group 1",
-      "dropRate": "[1-2] 25%"
+      "dropRate": "[1-2] 25%",
+      "group": 1
     },
     {
       "id": 7971,
@@ -623,7 +691,8 @@
       "name": "Black Pearl",
       "quality": 2,
       "description": "Group 2",
-      "dropRate": "[2-3] 20%"
+      "dropRate": "[2-3] 20%",
+      "group": 1
     },
     {
       "id": 12361,
@@ -632,7 +701,8 @@
       "name": "Blue Sapphire",
       "quality": 2,
       "description": "Group 2",
-      "dropRate": "[1-2] 20%"
+      "dropRate": "[1-2] 20%",
+      "group": 1
     },
     {
       "id": 12363,
@@ -641,7 +711,8 @@
       "name": "Arcane Crystal",
       "quality": 2,
       "description": "Group 2",
-      "dropRate": "[1-2] 20%"
+      "dropRate": "[1-2] 20%",
+      "group": 1
     },
     {
       "id": 12364,
@@ -650,7 +721,8 @@
       "name": "Huge Emerald",
       "quality": 2,
       "description": "Group 2",
-      "dropRate": "[1-2] 20%"
+      "dropRate": "[1-2] 20%",
+      "group": 1
     },
     {
       "id": 12800,
@@ -659,7 +731,8 @@
       "name": "Azerothian Diamond",
       "quality": 2,
       "description": "Group 2",
-      "dropRate": "[1-3] 20%"
+      "dropRate": "[1-3] 20%",
+      "group": 1
     },
     {
       "id": 11370,
@@ -668,7 +741,8 @@
       "name": "Dark Iron Ore",
       "quality": 1,
       "description": "Group 3",
-      "dropRate": "[3-6] 20%"
+      "dropRate": "[3-6] 20%",
+      "group": 1
     },
     {
       "id": 13468,
@@ -677,7 +751,8 @@
       "name": "Black Lotus",
       "quality": 2,
       "description": "Group 3",
-      "dropRate": "[1-3] 20%"
+      "dropRate": "[1-3] 20%",
+      "group": 1
     },
     {
       "id": 14256,
@@ -686,7 +761,8 @@
       "name": "Felcloth",
       "quality": 1,
       "description": "Group 3",
-      "dropRate": "[2-4] 20%"
+      "dropRate": "[2-4] 20%",
+      "group": 1
     },
     {
       "id": 15416,
@@ -695,7 +771,8 @@
       "name": "Black Dragonscale",
       "quality": 1,
       "description": "Group 3",
-      "dropRate": "[2-5] 20%"
+      "dropRate": "[2-5] 20%",
+      "group": 1
     },
     {
       "id": 20520,
@@ -704,7 +781,8 @@
       "name": "Dark Rune",
       "quality": 2,
       "description": "Group 3",
-      "dropRate": "[2-4] 20%"
+      "dropRate": "[2-4] 20%",
+      "group": 1
     }
   ],
   "CowKing": [
@@ -715,7 +793,8 @@
       "name": "Fishbringer",
       "quality": 4,
       "description": "Main Hand, Mace",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60487,
@@ -724,7 +803,8 @@
       "name": "Cloak of the Moo Lord",
       "quality": 4,
       "description": "Back",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 60488,
@@ -733,7 +813,8 @@
       "name": "Drape of the Herd",
       "quality": 4,
       "description": "Back",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 60489,
@@ -742,7 +823,8 @@
       "name": "Cap of the Cow Savant",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 60490,
@@ -751,7 +833,8 @@
       "name": "Cowskin Chapeau",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 4144,
@@ -760,7 +843,8 @@
       "name": "Tome of Polymorph: Cow",
       "quality": 3,
       "description": "Book Mage",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 60485,
@@ -769,7 +853,8 @@
       "name": "Sealed Diablo II Lord of Destruction Collectors Edition",
       "quality": 0,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     },
     {
       "id": 60491,
@@ -778,7 +863,8 @@
       "name": "The Moo Stone",
       "quality": 0,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     },
     {
       "id": 51261,
@@ -787,7 +873,8 @@
       "name": "Little Cow",
       "quality": 2,
       "description": "Pet",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 4
     }
   ],
   "Clackora": [
@@ -797,7 +884,8 @@
       "icon": "inv_misc_birdbeck_02",
       "name": "The Abyssal Pincer",
       "quality": 4,
-      "description": "Main Hand, Fist Weapon"
+      "description": "Main Hand, Fist Weapon",
+      "group": 0
     },
     {
       "id": 55495,
@@ -805,7 +893,8 @@
       "icon": "inv_spear_04",
       "name": "Zandalar Predator's Glaive",
       "quality": 4,
-      "description": "Two-Hand, Polearm"
+      "description": "Two-Hand, Polearm",
+      "group": 0
     },
     {
       "id": 55504,
@@ -813,7 +902,8 @@
       "icon": "INV_Generic_Anchor",
       "name": "Anchor of the Wavecutter",
       "quality": 4,
-      "description": "Two-Hand, Mace"
+      "description": "Two-Hand, Mace",
+      "group": 0
     },
     {
       "id": 55498,
@@ -821,7 +911,8 @@
       "icon": "inv_misc_shell_03",
       "name": "Clamshell of the Depths",
       "quality": 4,
-      "description": "Shield"
+      "description": "Shield",
+      "group": 0
     },
     {
       "id": 55502,
@@ -829,7 +920,8 @@
       "icon": "INV_Pants_12",
       "name": "Iceplated Leggings",
       "quality": 4,
-      "description": "Legs, Leather"
+      "description": "Legs, Leather",
+      "group": 0
     },
     {
       "id": 55499,
@@ -837,7 +929,8 @@
       "icon": "INV_Belt_35",
       "name": "Primal Murloc Scale Belt",
       "quality": 4,
-      "description": "Waist, Mail"
+      "description": "Waist, Mail",
+      "group": 0
     },
     {
       "id": 55500,
@@ -845,7 +938,8 @@
       "icon": "INV_Bracer_17",
       "name": "Barnacle Vambraces",
       "quality": 4,
-      "description": "Wrist, Plate"
+      "description": "Wrist, Plate",
+      "group": 0
     },
     {
       "id": 55496,
@@ -853,7 +947,8 @@
       "icon": "INV_Jewelry_Necklace_25",
       "name": "Polychromatic Pearl Necklace",
       "quality": 4,
-      "description": "Neck"
+      "description": "Neck",
+      "group": 0
     },
     {
       "id": 55503,
@@ -861,7 +956,8 @@
       "icon": "INV_Jewelry_Ring_38",
       "name": "Loop of Unceasing Frost",
       "quality": 4,
-      "description": "Ring"
+      "description": "Ring",
+      "group": 0
     },
     {
       "id": 55501,
@@ -869,7 +965,8 @@
       "icon": "INV_Ore_Arcanite_02",
       "name": "Sphere of the Endless Gulch",
       "quality": 4,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 55497,
@@ -877,7 +974,8 @@
       "icon": "INV_QirajIdol_Night",
       "name": "Idol of Ebb and Flow",
       "quality": 4,
-      "description": "Idol Druid"
+      "description": "Idol Druid",
+      "group": 0
     },
     {
       "id": 92020,
@@ -886,7 +984,8 @@
       "name": "Spawn of Cla'ckora",
       "quality": 3,
       "description": "Pet",
-      "dropRate": "5%"
+      "dropRate": "5%",
+      "group": 1
     }
   ],
   "KKazzak": [
@@ -897,7 +996,8 @@
       "name": "Infernal Headcage",
       "quality": 4,
       "description": "Head, Mail",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 17112,
@@ -906,7 +1006,8 @@
       "name": "Empyrean Demolisher",
       "quality": 4,
       "description": "Main Hand, Mace",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 18204,
@@ -915,7 +1016,8 @@
       "name": "Eskhandar's Pelt",
       "quality": 4,
       "description": "Back",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 18543,
@@ -924,7 +1026,8 @@
       "name": "Ring of Entropy",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 19133,
@@ -933,7 +1036,8 @@
       "name": "Fel Infused Leggings",
       "quality": 4,
       "description": "Legs, Cloth",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 0
     },
     {
       "id": 17111,
@@ -942,7 +1046,8 @@
       "name": "Blazefury Medallion",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 19135,
@@ -951,7 +1056,8 @@
       "name": "Blacklight Bracer",
       "quality": 4,
       "description": "Wrist, Cloth",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 18544,
@@ -960,7 +1066,8 @@
       "name": "Doomhide Gauntlets",
       "quality": 4,
       "description": "Hands, Leather",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 19134,
@@ -969,7 +1076,8 @@
       "name": "Flayed Doomguard Belt",
       "quality": 4,
       "description": "Waist, Leather",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 17113,
@@ -978,7 +1086,8 @@
       "name": "Amberseal Keeper",
       "quality": 4,
       "description": "Staff",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 18665,
@@ -987,7 +1096,8 @@
       "name": "The Eye of Shadow",
       "quality": 4,
       "description": "Trinket",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 18608,
@@ -995,7 +1105,8 @@
       "icon": "INV_Staff_30",
       "name": "Benediction",
       "quality": 4,
-      "description": "Quest Reward Staff Priest"
+      "description": "Quest Reward Staff Priest",
+      "group": 2
     },
     {
       "id": 18609,
@@ -1003,7 +1114,8 @@
       "icon": "INV_Staff_12",
       "name": "Anathema",
       "quality": 4,
-      "description": "Quest Reward Staff Priest"
+      "description": "Quest Reward Staff Priest",
+      "group": 2
     },
     {
       "id": 83545,
@@ -1012,7 +1124,8 @@
       "name": "Pattern: Robe of Sacrifice",
       "quality": 4,
       "description": "Skill: 300 320 330 340",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 3
     },
     {
       "id": 65003,
@@ -1021,7 +1134,8 @@
       "name": "Robe of Sacrifice",
       "quality": 4,
       "description": "Chest, Cloth",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 3
     }
   ],
   "DTaerar": [
@@ -1032,7 +1146,8 @@
       "name": "Unnatural Leather Spaulders",
       "quality": 4,
       "description": "Shoulder, Leather",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 20631,
@@ -1041,7 +1156,8 @@
       "name": "Mendicant's Slippers",
       "quality": 4,
       "description": "Feet, Cloth",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 20634,
@@ -1050,7 +1166,8 @@
       "name": "Boots of Fright",
       "quality": 4,
       "description": "Feet, Leather",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 20632,
@@ -1059,7 +1176,8 @@
       "name": "Mindtear Band",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 20577,
@@ -1068,7 +1186,8 @@
       "name": "Nightmare Blade",
       "quality": 4,
       "description": "One-Hand, Sword",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 65105,
@@ -1077,7 +1196,8 @@
       "name": "Scale of the Wakener",
       "quality": 4,
       "description": "Trinket",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 20579,
@@ -1086,7 +1206,8 @@
       "name": "Green Dragonskin Cloak",
       "quality": 4,
       "description": "Back Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20615,
@@ -1095,7 +1216,8 @@
       "name": "Dragonspur Wraps",
       "quality": 4,
       "description": "Wrist, Leather Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20616,
@@ -1104,7 +1226,8 @@
       "name": "Dragonbone Wristguards",
       "quality": 4,
       "description": "Wrist, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20618,
@@ -1113,7 +1236,8 @@
       "name": "Gloves of Delusional Power",
       "quality": 4,
       "description": "Hands, Cloth Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20617,
@@ -1122,7 +1246,8 @@
       "name": "Ancient Corroded Leggings",
       "quality": 4,
       "description": "Legs, Mail Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20619,
@@ -1131,7 +1256,8 @@
       "name": "Acid Inscribed Greaves",
       "quality": 4,
       "description": "Feet, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20582,
@@ -1140,7 +1266,8 @@
       "name": "Trance Stone",
       "quality": 4,
       "description": "Held In Off-hand Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20644,
@@ -1149,7 +1276,8 @@
       "name": "Nightmare Engulfed Object",
       "quality": 4,
       "description": "This Item Begins a Quest",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 20600,
@@ -1157,7 +1285,8 @@
       "icon": "INV_Jewelry_Ring_37",
       "name": "Malfurion's Signet Ring",
       "quality": 4,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 1
     },
     {
       "id": 20580,
@@ -1166,7 +1295,8 @@
       "name": "Hammer of Bestial Fury",
       "quality": 4,
       "description": "Main Hand, Mace Shared",
-      "dropRate": "8.93%"
+      "dropRate": "8.93%",
+      "group": 2
     },
     {
       "id": 20581,
@@ -1175,7 +1305,8 @@
       "name": "Staff of Rampant Growth",
       "quality": 4,
       "description": "Staff Shared",
-      "dropRate": "9.70%"
+      "dropRate": "9.70%",
+      "group": 2
     },
     {
       "id": 20381,
@@ -1183,7 +1314,8 @@
       "icon": "INV_Misc_MonsterScales_11",
       "name": "Dreamscale",
       "quality": 2,
-      "description": "Trade Goods Skinning (315)"
+      "description": "Trade Goods Skinning (315)",
+      "group": 3
     }
   ],
   "DEmeriss": [
@@ -1194,7 +1326,8 @@
       "name": "Circlet of Restless Dreams",
       "quality": 4,
       "description": "Head, Leather",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20622,
@@ -1203,7 +1336,8 @@
       "name": "Dragonheart Necklace",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20624,
@@ -1212,7 +1346,8 @@
       "name": "Ring of the Unliving",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20621,
@@ -1221,7 +1356,8 @@
       "name": "Boots of the Endless Moor",
       "quality": 4,
       "description": "Feet, Mail",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20599,
@@ -1230,7 +1366,8 @@
       "name": "Polished Ironwood Crossbow",
       "quality": 4,
       "description": "Crossbow",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 65100,
@@ -1239,7 +1376,8 @@
       "name": "Dragonspur Boots",
       "quality": 4,
       "description": "Feet, Leather",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 65101,
@@ -1248,7 +1386,8 @@
       "name": "Dragonbone Waistguard",
       "quality": 4,
       "description": "Waist, Plate",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20579,
@@ -1257,7 +1396,8 @@
       "name": "Green Dragonskin Cloak",
       "quality": 4,
       "description": "Back Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20615,
@@ -1266,7 +1406,8 @@
       "name": "Dragonspur Wraps",
       "quality": 4,
       "description": "Wrist, Leather Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20616,
@@ -1275,7 +1416,8 @@
       "name": "Dragonbone Wristguards",
       "quality": 4,
       "description": "Wrist, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20618,
@@ -1284,7 +1426,8 @@
       "name": "Gloves of Delusional Power",
       "quality": 4,
       "description": "Hands, Cloth Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20617,
@@ -1293,7 +1436,8 @@
       "name": "Ancient Corroded Leggings",
       "quality": 4,
       "description": "Legs, Mail Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20619,
@@ -1302,7 +1446,8 @@
       "name": "Acid Inscribed Greaves",
       "quality": 4,
       "description": "Feet, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20582,
@@ -1311,7 +1456,8 @@
       "name": "Trance Stone",
       "quality": 4,
       "description": "Held In Off-hand Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20644,
@@ -1320,7 +1466,8 @@
       "name": "Nightmare Engulfed Object",
       "quality": 4,
       "description": "This Item Begins a Quest",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 20600,
@@ -1328,7 +1475,8 @@
       "icon": "INV_Jewelry_Ring_37",
       "name": "Malfurion's Signet Ring",
       "quality": 4,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 1
     },
     {
       "id": 20580,
@@ -1337,7 +1485,8 @@
       "name": "Hammer of Bestial Fury",
       "quality": 4,
       "description": "Main Hand, Mace Shared",
-      "dropRate": "8.93%"
+      "dropRate": "8.93%",
+      "group": 2
     },
     {
       "id": 20581,
@@ -1346,7 +1495,8 @@
       "name": "Staff of Rampant Growth",
       "quality": 4,
       "description": "Staff Shared",
-      "dropRate": "9.70%"
+      "dropRate": "9.70%",
+      "group": 2
     },
     {
       "id": 20381,
@@ -1354,7 +1504,8 @@
       "icon": "INV_Misc_MonsterScales_11",
       "name": "Dreamscale",
       "quality": 2,
-      "description": "Trade Goods Skinning (315)"
+      "description": "Trade Goods Skinning (315)",
+      "group": 3
     }
   ],
   "DLethon": [
@@ -1365,7 +1516,8 @@
       "name": "Deviate Growth Cap",
       "quality": 4,
       "description": "Head, Leather",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20626,
@@ -1374,7 +1526,8 @@
       "name": "Black Bark Wristbands",
       "quality": 4,
       "description": "Wrist, Cloth",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20630,
@@ -1383,7 +1536,8 @@
       "name": "Gauntlets of the Shining Light",
       "quality": 4,
       "description": "Hands, Plate",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20625,
@@ -1392,7 +1546,8 @@
       "name": "Belt of the Dark Bog",
       "quality": 4,
       "description": "Waist, Cloth",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20627,
@@ -1401,7 +1556,8 @@
       "name": "Dark Heart Pants",
       "quality": 4,
       "description": "Legs, Leather",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20629,
@@ -1410,7 +1566,8 @@
       "name": "Malignant Footguards",
       "quality": 4,
       "description": "Feet, Mail",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 65102,
@@ -1419,7 +1576,8 @@
       "name": "Hood of Delusional Power",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "14%"
+      "dropRate": "14%",
+      "group": 0
     },
     {
       "id": 20579,
@@ -1428,7 +1586,8 @@
       "name": "Green Dragonskin Cloak",
       "quality": 4,
       "description": "Back Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20615,
@@ -1437,7 +1596,8 @@
       "name": "Dragonspur Wraps",
       "quality": 4,
       "description": "Wrist, Leather Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20616,
@@ -1446,7 +1606,8 @@
       "name": "Dragonbone Wristguards",
       "quality": 4,
       "description": "Wrist, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20618,
@@ -1455,7 +1616,8 @@
       "name": "Gloves of Delusional Power",
       "quality": 4,
       "description": "Hands, Cloth Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20617,
@@ -1464,7 +1626,8 @@
       "name": "Ancient Corroded Leggings",
       "quality": 4,
       "description": "Legs, Mail Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20619,
@@ -1473,7 +1636,8 @@
       "name": "Acid Inscribed Greaves",
       "quality": 4,
       "description": "Feet, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20582,
@@ -1482,7 +1646,8 @@
       "name": "Trance Stone",
       "quality": 4,
       "description": "Held In Off-hand Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20644,
@@ -1491,7 +1656,8 @@
       "name": "Nightmare Engulfed Object",
       "quality": 4,
       "description": "This Item Begins a Quest",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 20600,
@@ -1499,7 +1665,8 @@
       "icon": "INV_Jewelry_Ring_37",
       "name": "Malfurion's Signet Ring",
       "quality": 4,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 1
     },
     {
       "id": 20580,
@@ -1508,7 +1675,8 @@
       "name": "Hammer of Bestial Fury",
       "quality": 4,
       "description": "Main Hand, Mace Shared",
-      "dropRate": "8.93%"
+      "dropRate": "8.93%",
+      "group": 2
     },
     {
       "id": 20581,
@@ -1517,7 +1685,8 @@
       "name": "Staff of Rampant Growth",
       "quality": 4,
       "description": "Staff Shared",
-      "dropRate": "9.70%"
+      "dropRate": "9.70%",
+      "group": 2
     },
     {
       "id": 20381,
@@ -1525,7 +1694,8 @@
       "icon": "INV_Misc_MonsterScales_11",
       "name": "Dreamscale",
       "quality": 2,
-      "description": "Trade Goods Skinning (315)"
+      "description": "Trade Goods Skinning (315)",
+      "group": 3
     }
   ],
   "DYsondre": [
@@ -1536,7 +1706,8 @@
       "name": "Acid Inscribed Pauldrons",
       "quality": 4,
       "description": "Shoulder, Plate",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20635,
@@ -1545,7 +1716,8 @@
       "name": "Jade Inlaid Vestments",
       "quality": 4,
       "description": "Chest, Cloth",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20638,
@@ -1554,7 +1726,8 @@
       "name": "Leggings of the Demented Mind",
       "quality": 4,
       "description": "Legs, Mail",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20639,
@@ -1563,7 +1736,8 @@
       "name": "Strangely Glyphed Legplates",
       "quality": 4,
       "description": "Legs, Plate",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20636,
@@ -1572,7 +1746,8 @@
       "name": "Hibernation Crystal",
       "quality": 4,
       "description": "Trinket",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20578,
@@ -1581,7 +1756,8 @@
       "name": "Emerald Dragonfang",
       "quality": 4,
       "description": "One-Hand, Dagger",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 65103,
@@ -1590,7 +1766,8 @@
       "name": "Shell of the Great Sleeper",
       "quality": 4,
       "description": "Off Hand, Shield",
-      "dropRate": "13%"
+      "dropRate": "13%",
+      "group": 0
     },
     {
       "id": 20579,
@@ -1599,7 +1776,8 @@
       "name": "Green Dragonskin Cloak",
       "quality": 4,
       "description": "Back Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20615,
@@ -1608,7 +1786,8 @@
       "name": "Dragonspur Wraps",
       "quality": 4,
       "description": "Wrist, Leather Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20616,
@@ -1617,7 +1796,8 @@
       "name": "Dragonbone Wristguards",
       "quality": 4,
       "description": "Wrist, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20618,
@@ -1626,7 +1806,8 @@
       "name": "Gloves of Delusional Power",
       "quality": 4,
       "description": "Hands, Cloth Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20617,
@@ -1635,7 +1816,8 @@
       "name": "Ancient Corroded Leggings",
       "quality": 4,
       "description": "Legs, Mail Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20619,
@@ -1644,7 +1826,8 @@
       "name": "Acid Inscribed Greaves",
       "quality": 4,
       "description": "Feet, Plate Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20582,
@@ -1653,7 +1836,8 @@
       "name": "Trance Stone",
       "quality": 4,
       "description": "Held In Off-hand Shared",
-      "dropRate": "11%"
+      "dropRate": "11%",
+      "group": 1
     },
     {
       "id": 20644,
@@ -1662,7 +1846,8 @@
       "name": "Nightmare Engulfed Object",
       "quality": 4,
       "description": "This Item Begins a Quest",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 20600,
@@ -1670,7 +1855,8 @@
       "icon": "INV_Jewelry_Ring_37",
       "name": "Malfurion's Signet Ring",
       "quality": 4,
-      "description": "Quest Reward Ring"
+      "description": "Quest Reward Ring",
+      "group": 1
     },
     {
       "id": 20580,
@@ -1679,7 +1865,8 @@
       "name": "Hammer of Bestial Fury",
       "quality": 4,
       "description": "Main Hand, Mace Shared",
-      "dropRate": "8.93%"
+      "dropRate": "8.93%",
+      "group": 2
     },
     {
       "id": 20581,
@@ -1688,7 +1875,8 @@
       "name": "Staff of Rampant Growth",
       "quality": 4,
       "description": "Staff Shared",
-      "dropRate": "9.70%"
+      "dropRate": "9.70%",
+      "group": 2
     },
     {
       "id": 20381,
@@ -1696,7 +1884,8 @@
       "icon": "INV_Misc_MonsterScales_11",
       "name": "Dreamscale",
       "quality": 2,
-      "description": "Trade Goods Skinning (315)"
+      "description": "Trade Goods Skinning (315)",
+      "group": 3
     }
   ],
   "DTrash": [
@@ -1745,7 +1934,8 @@
       "name": "Crystal Adorned Crown",
       "quality": 4,
       "description": "Head, Cloth",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18208,
@@ -1754,7 +1944,8 @@
       "name": "Drape of Benediction",
       "quality": 4,
       "description": "Back",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18541,
@@ -1763,7 +1954,8 @@
       "name": "Puissant Cape",
       "quality": 4,
       "description": "Back",
-      "dropRate": "11.71%"
+      "dropRate": "11.71%",
+      "group": 0
     },
     {
       "id": 18547,
@@ -1772,7 +1964,8 @@
       "name": "Unmelting Ice Girdle",
       "quality": 4,
       "description": "Waist, Plate",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18545,
@@ -1781,7 +1974,8 @@
       "name": "Leggings of Arcane Supremacy",
       "quality": 4,
       "description": "Legs, Cloth",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 19131,
@@ -1790,7 +1984,8 @@
       "name": "Snowblind Shoes",
       "quality": 4,
       "description": "Feet, Cloth",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 19130,
@@ -1799,7 +1994,8 @@
       "name": "Cold Snap",
       "quality": 4,
       "description": "Wand",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 17070,
@@ -1808,7 +2004,8 @@
       "name": "Fang of the Mystics",
       "quality": 4,
       "description": "One-Hand, Dagger",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18202,
@@ -1817,7 +2014,8 @@
       "name": "Eskhandar's Left Claw",
       "quality": 4,
       "description": "Off Hand, Fist Weapon",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18542,
@@ -1826,7 +2024,8 @@
       "name": "Typhoon",
       "quality": 4,
       "description": "Two-Hand, Sword",
-      "dropRate": "10%"
+      "dropRate": "10%",
+      "group": 0
     },
     {
       "id": 18704,
@@ -1835,7 +2034,8 @@
       "name": "Mature Blue Dragon Sinew",
       "quality": 4,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 18714,
@@ -1843,7 +2043,8 @@
       "icon": "INV_Misc_Quiver_03",
       "name": "Ancient Sinew Wrapped Lamina",
       "quality": 4,
-      "description": "Quest Reward 18 Slot Quiver Hunter"
+      "description": "Quest Reward 18 Slot Quiver Hunter",
+      "group": 1
     },
     {
       "id": 83544,
@@ -1852,7 +2053,8 @@
       "name": "Pattern: Stormscale Leggings",
       "quality": 4,
       "description": "Skill: 300 320 330 340",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 2
     },
     {
       "id": 65006,
@@ -1860,7 +2062,8 @@
       "icon": "inv_pants_mail_15",
       "name": "Pattern: Stormscale Leggings",
       "quality": 4,
-      "description": "Legs, Mail"
+      "description": "Legs, Mail",
+      "group": 2
     }
   ],
   "ASpiritA": [
@@ -1881,7 +2084,8 @@
       "name": "Claw of Taranassz",
       "quality": 3,
       "description": "Dagger",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81361,
@@ -1890,7 +2094,8 @@
       "name": "Dampener's Pauldron's",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81362,
@@ -1899,7 +2104,8 @@
       "name": "Azure-Scale Sabatons",
       "quality": 3,
       "description": "Plate",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81364,
@@ -1908,7 +2114,8 @@
       "name": "Scale of Malygos",
       "quality": 3,
       "description": "Trinket",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81363,
@@ -1917,7 +2124,8 @@
       "name": "Staff of Azure Domination",
       "quality": 4,
       "description": "Two-Hand, Staff",
-      "dropRate": "2%"
+      "dropRate": "2%",
+      "group": 1
     }
   ],
   "Kargron": [
@@ -1928,7 +2136,8 @@
       "name": "Kargron's Leggings",
       "quality": 3,
       "description": "Leather, Legs",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81366,
@@ -1937,7 +2146,8 @@
       "name": "Blackrock Clan Mantle",
       "quality": 3,
       "description": "Plate, Shoulder",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81367,
@@ -1946,7 +2156,8 @@
       "name": "Band of the Old Horde",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81368,
@@ -1955,7 +2166,8 @@
       "name": "Blackshackle Bracers",
       "quality": 3,
       "description": "Mail, Wrist",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81369,
@@ -1964,7 +2176,8 @@
       "name": "Sword of the Blademaster",
       "quality": 4,
       "description": "Sword",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "Xalvic": [
@@ -1975,7 +2188,8 @@
       "name": "Footpads of the Corruptor",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81371,
@@ -1984,7 +2198,8 @@
       "name": "Gnarltwist Vest",
       "quality": 3,
       "description": "Mail",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81372,
@@ -1993,7 +2208,8 @@
       "name": "The Black Claw",
       "quality": 3,
       "description": "Fist Weapon",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81373,
@@ -2002,7 +2218,8 @@
       "name": "Shawl of the Satyr",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81374,
@@ -2011,7 +2228,8 @@
       "name": "Trickster's Necklace",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "Mallon": [
@@ -2022,7 +2240,8 @@
       "name": "Staff of the Lost Druid",
       "quality": 3,
       "description": "Staff",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81376,
@@ -2031,7 +2250,8 @@
       "name": "Moontouched Girdle",
       "quality": 3,
       "description": "Plate",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81377,
@@ -2040,7 +2260,8 @@
       "name": "Enfused Moon Crown",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81378,
@@ -2049,7 +2270,8 @@
       "name": "Eveningstar Gloves",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81379,
@@ -2058,7 +2280,8 @@
       "name": "Shard of the Moon",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "Grugthok": [
@@ -2069,7 +2292,8 @@
       "name": "Gordunni War Harness",
       "quality": 3,
       "description": "Plate",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81381,
@@ -2078,7 +2302,8 @@
       "name": "Isildien Ley-Stave",
       "quality": 3,
       "description": "Held In Off-hand",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81382,
@@ -2087,7 +2312,8 @@
       "name": "Gordunni War Beads",
       "quality": 3,
       "description": "Neck",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81383,
@@ -2096,7 +2322,8 @@
       "name": "The Ogre Truncheon",
       "quality": 3,
       "description": "Mace",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 81384,
@@ -2105,7 +2332,8 @@
       "name": "Grug'thok's Sash",
       "quality": 4,
       "description": "Leather",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "WanderingKnight": [
@@ -2154,7 +2382,8 @@
       "name": "Tome of the First Scripture",
       "quality": 3,
       "description": "Held In Off-hand",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83262,
@@ -2163,7 +2392,8 @@
       "name": "Scarlet Wanderer's Hammer",
       "quality": 3,
       "description": "Mace",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83263,
@@ -2172,7 +2402,8 @@
       "name": "Cuffs of the Justicar",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83264,
@@ -2181,7 +2412,8 @@
       "name": "Ring of Sacrifice",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60437,
@@ -2190,7 +2422,8 @@
       "name": "Righteous Crusader's Helmet",
       "quality": 4,
       "description": "Plate",
-      "dropRate": "0.2%"
+      "dropRate": "0.2%",
+      "group": 1
     }
   ],
   "Zareth": [
@@ -2201,7 +2434,8 @@
       "name": "Demon Hunter's Blindfold",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83266,
@@ -2210,7 +2444,8 @@
       "name": "Sandals of the Demon Stalker",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83267,
@@ -2219,7 +2454,8 @@
       "name": "Bracers of Demonic Hunt",
       "quality": 3,
       "description": "Mail",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83268,
@@ -2228,7 +2464,8 @@
       "name": "Demon Watcher's Ring",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83269,
@@ -2237,7 +2474,8 @@
       "name": "Terrorblade Glaive",
       "quality": 4,
       "description": "Sword",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "Jalakar": [
@@ -2248,7 +2486,8 @@
       "name": "Vilebranch Grips",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 51024,
@@ -2257,7 +2496,8 @@
       "name": "Cursed Idol",
       "quality": 3,
       "description": "Trinket",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 51025,
@@ -2266,7 +2506,8 @@
       "name": "Vilebranch Seer's Dress",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83273,
@@ -2275,7 +2516,8 @@
       "name": "The Dire Clasp",
       "quality": 3,
       "description": "Mail",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83274,
@@ -2284,7 +2526,8 @@
       "name": "Charmed Voodoo Collar",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "Ashbeard": [
@@ -2295,7 +2538,8 @@
       "name": "Lens of the Gorge Explorer",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83277,
@@ -2304,7 +2548,8 @@
       "name": "Dark Iron Adventurer Shawl",
       "quality": 3,
       "description": "Cloth",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83278,
@@ -2313,7 +2558,8 @@
       "name": "Ash Explorer Pauldrons",
       "quality": 3,
       "description": "Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83279,
@@ -2322,7 +2568,8 @@
       "name": "Everflame Torch",
       "quality": 3,
       "description": "Mace",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 83275,
@@ -2331,7 +2578,8 @@
       "name": "Ashbeard's Lucky Telescope",
       "quality": 4,
       "description": "Trinket",
-      "dropRate": "0.5%"
+      "dropRate": "0.5%",
+      "group": 1
     }
   ],
   "AdmiralBareanWestwind": [
@@ -2342,7 +2590,8 @@
       "name": "Fleetmaster's Cane",
       "quality": 3,
       "description": "Staff",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60384,
@@ -2351,7 +2600,8 @@
       "name": "Fleet Scimitar",
       "quality": 3,
       "description": "Main Hand, Sword",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60385,
@@ -2360,7 +2610,8 @@
       "name": "Westwind's Bicorne",
       "quality": 3,
       "description": "Cloth, Head",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60386,
@@ -2369,7 +2620,8 @@
       "name": "Sash of the Northrend Expedition",
       "quality": 3,
       "description": "Cloth, Waist",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60387,
@@ -2378,7 +2630,8 @@
       "name": "Sivaxis Tundra Shard",
       "quality": 3,
       "description": "Off Hand",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60388,
@@ -2387,7 +2640,8 @@
       "name": "Mariner's Cuffs",
       "quality": 3,
       "description": "Mail, Wrist",
-      "dropRate": "17%"
+      "dropRate": "17%",
+      "group": 0
     },
     {
       "id": 60389,
@@ -2396,7 +2650,8 @@
       "name": "The Frigid Star Ring",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 1
     },
     {
       "id": 60390,
@@ -2405,7 +2660,8 @@
       "name": "Jacket of the Scarlet Admiral",
       "quality": 4,
       "description": "Leather, Chest",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 1
     }
   ],
   "ShadeMage": [
@@ -2554,7 +2810,8 @@
       "name": "Scrapmetal Helm",
       "quality": 2,
       "description": "Head, Plate",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61574,
@@ -2563,7 +2820,8 @@
       "name": "Polished Gear",
       "quality": 2,
       "description": "Ring",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61572,
@@ -2572,7 +2830,8 @@
       "name": "Gartside Family Wrench",
       "quality": 3,
       "description": "Main Hand, Mace",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "Bonecruncher": [
@@ -2661,7 +2920,8 @@
       "name": "Vambracers of Kin'Tozo",
       "quality": 3,
       "description": "Wrist, Plate",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60439,
@@ -2670,7 +2930,8 @@
       "name": "Chieftain's Mantle",
       "quality": 3,
       "description": "Shoulder, Leather",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60440,
@@ -2679,7 +2940,8 @@
       "name": "Bloodscalp Longbow",
       "quality": 3,
       "description": "Bow",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60441,
@@ -2688,7 +2950,8 @@
       "name": "The Mojo Ring",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 0
     },
     {
       "id": 60442,
@@ -2697,7 +2960,8 @@
       "name": "Hak'thalz of Legacy",
       "quality": 4,
       "description": "Main Hand, Axe",
-      "dropRate": "2%"
+      "dropRate": "2%",
+      "group": 1
     }
   ],
   "ProfessorLysander": [
@@ -2746,7 +3010,8 @@
       "name": "Explorer's Shoulders",
       "quality": 2,
       "description": "Shoulder, Leather",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61587,
@@ -2755,7 +3020,8 @@
       "name": "Old Hunter's Boots",
       "quality": 2,
       "description": "Feet, Leather",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61588,
@@ -2764,7 +3030,8 @@
       "name": "Arugal Family Sigil",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "WidowoftheWoods": [
@@ -2775,7 +3042,8 @@
       "name": "Forgotten Veil",
       "quality": 2,
       "description": "Head, Cloth",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61576,
@@ -2784,7 +3052,8 @@
       "name": "Lover's Ring",
       "quality": 2,
       "description": "Ring",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61589,
@@ -2793,7 +3062,8 @@
       "name": "Widow's Kiss",
       "quality": 3,
       "description": "One-Hand, Dagger",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "Ripjaw": [
@@ -2804,7 +3074,8 @@
       "name": "Outlaw's Pirate Hat",
       "quality": 2,
       "description": "Head, Leather",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61536,
@@ -2813,7 +3084,8 @@
       "name": "Mystical Girdle",
       "quality": 2,
       "description": "Waist, Cloth",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61537,
@@ -2822,7 +3094,8 @@
       "name": "Ripjaw's Tooth",
       "quality": 3,
       "description": "One-Hand, Dagger",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "Rukthok": [
@@ -2862,7 +3135,8 @@
       "name": "Glowing Black Pearl",
       "quality": 3,
       "description": "Trinket",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61532,
@@ -2871,7 +3145,8 @@
       "name": "Giants Heavy Mace",
       "quality": 3,
       "description": "Two-Hand, Mace",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61534,
@@ -2880,7 +3155,8 @@
       "name": "Fisher's Harpoon",
       "quality": 3,
       "description": "Two-Hand, Polearm",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61533,
@@ -2889,7 +3165,8 @@
       "name": "Ring of the Forgotten Hero",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "2%"
+      "dropRate": "2%",
+      "group": 1
     }
   ],
   "Embereye": [
@@ -2929,7 +3206,8 @@
       "name": "Pirate's Scimitar",
       "quality": 2,
       "description": "Main Hand, Sword",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61530,
@@ -2938,7 +3216,8 @@
       "name": "Ring of the Deep Sea",
       "quality": 2,
       "description": "Ring",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61528,
@@ -2947,7 +3226,8 @@
       "name": "Aquis' Bindings",
       "quality": 3,
       "description": "Wrist, Mail",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "Letashaz": [
@@ -2958,7 +3238,8 @@
       "name": "Dwarven Pickaxe",
       "quality": 3,
       "description": "Two-Hand, Axe",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61543,
@@ -2967,7 +3248,8 @@
       "name": "Miner's Vest",
       "quality": 3,
       "description": "Chest, Leather",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61544,
@@ -2976,7 +3258,8 @@
       "name": "Shawl of the Magician",
       "quality": 3,
       "description": "Back",
-      "dropRate": "33%"
+      "dropRate": "33%",
+      "group": 0
     },
     {
       "id": 61541,
@@ -2985,7 +3268,8 @@
       "name": "Letashaz's Right Claw",
       "quality": 4,
       "description": "Main Hand, Fist Weapon",
-      "dropRate": "2%"
+      "dropRate": "2%",
+      "group": 1
     }
   ],
   "Stoneshell": [
@@ -3054,7 +3338,8 @@
       "name": "Sanctified Helm",
       "quality": 2,
       "description": "Head, Plate",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61551,
@@ -3063,7 +3348,8 @@
       "name": "Mathrengyl's Lost Staff",
       "quality": 2,
       "description": "Two-Hand, Staff",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 61549,
@@ -3072,7 +3358,8 @@
       "name": "Swiftfeather Quiver",
       "quality": 3,
       "description": "Quiver",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "BarkskinFisher": [
@@ -3094,7 +3381,8 @@
       "name": "Leggings of the Fallen Knight",
       "quality": 2,
       "description": "Legs, Plate",
-      "dropRate": "30%"
+      "dropRate": "30%",
+      "group": 0
     },
     {
       "id": 61548,
@@ -3103,7 +3391,8 @@
       "name": "Witch Doctor's Mask",
       "quality": 2,
       "description": "Head, Cloth",
-      "dropRate": "30%"
+      "dropRate": "30%",
+      "group": 0
     },
     {
       "id": 61545,
@@ -3112,7 +3401,8 @@
       "name": "Shadeflayer's Sigil",
       "quality": 3,
       "description": "Ring",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 61547,
@@ -3121,7 +3411,8 @@
       "name": "Totem of Bad Mojo",
       "quality": 3,
       "description": "Relic, Totem Shaman",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     }
   ],
   "M0L1Y": [

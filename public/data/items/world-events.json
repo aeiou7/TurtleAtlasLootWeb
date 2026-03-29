@@ -7,7 +7,8 @@
       "icon": "INV_Box_01",
       "name": "Crimson Templar",
       "quality": 6,
-      "description": "Fire"
+      "description": "Fire",
+      "group": 0
     },
     {
       "id": 20657,
@@ -16,7 +17,8 @@
       "name": "Crystal Tipped Stiletto",
       "quality": 3,
       "description": "One-Hand, Dagger",
-      "dropRate": "2.31%"
+      "dropRate": "2.31%",
+      "group": 0
     },
     {
       "id": 20655,
@@ -25,7 +27,8 @@
       "name": "Abyssal Cloth Handwraps",
       "quality": 2,
       "description": "Hands, Cloth, random stats",
-      "dropRate": "13.03%"
+      "dropRate": "13.03%",
+      "group": 0
     },
     {
       "id": 20656,
@@ -34,7 +37,8 @@
       "name": "Abyssal Mail Sabatons",
       "quality": 2,
       "description": "Feet, Mail random stats",
-      "dropRate": "12.89%"
+      "dropRate": "12.89%",
+      "group": 0
     },
     {
       "id": 20513,
@@ -43,7 +47,8 @@
       "name": "Abyssal Crest",
       "quality": 2,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 0
     },
     {
       "id": 0,
@@ -51,7 +56,8 @@
       "icon": "INV_Box_01",
       "name": "Azure Templar",
       "quality": 6,
-      "description": "Water"
+      "description": "Water",
+      "group": 1
     },
     {
       "id": 20654,
@@ -60,7 +66,8 @@
       "name": "Amethyst War Staff",
       "quality": 3,
       "description": "Staff",
-      "dropRate": "2.38%"
+      "dropRate": "2.38%",
+      "group": 1
     },
     {
       "id": 20653,
@@ -69,7 +76,8 @@
       "name": "Abyssal Plate Gauntlets",
       "quality": 2,
       "description": "Hands, Plate random stats",
-      "dropRate": "13.61%"
+      "dropRate": "13.61%",
+      "group": 1
     },
     {
       "id": 20652,
@@ -78,7 +86,8 @@
       "name": "Abyssal Cloth Slippers",
       "quality": 2,
       "description": "Feet, Cloth random stats",
-      "dropRate": "12.94%"
+      "dropRate": "12.94%",
+      "group": 1
     },
     {
       "id": 20513,
@@ -87,7 +96,8 @@
       "name": "Abyssal Crest",
       "quality": 2,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 0,
@@ -95,7 +105,8 @@
       "icon": "INV_Box_01",
       "name": "Hoary Templar",
       "quality": 6,
-      "description": "Air"
+      "description": "Air",
+      "group": 2
     },
     {
       "id": 20660,
@@ -104,7 +115,8 @@
       "name": "Stonecutting Glaive",
       "quality": 3,
       "description": "Polearm",
-      "dropRate": "2.22%"
+      "dropRate": "2.22%",
+      "group": 2
     },
     {
       "id": 20659,
@@ -113,7 +125,8 @@
       "name": "Abyssal Mail Handguards",
       "quality": 2,
       "description": "Hands, Mail random stats",
-      "dropRate": "12.64%"
+      "dropRate": "12.64%",
+      "group": 2
     },
     {
       "id": 20658,
@@ -122,7 +135,8 @@
       "name": "Abyssal Leather Boots",
       "quality": 2,
       "description": "Feet, Leather random stats",
-      "dropRate": "13.16%"
+      "dropRate": "13.16%",
+      "group": 2
     },
     {
       "id": 20513,
@@ -131,7 +145,8 @@
       "name": "Abyssal Crest",
       "quality": 2,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 0,
@@ -139,7 +154,8 @@
       "icon": "INV_Box_01",
       "name": "Earthen Templar",
       "quality": 6,
-      "description": "Earth"
+      "description": "Earth",
+      "group": 3
     },
     {
       "id": 20663,
@@ -148,7 +164,8 @@
       "name": "Deep Strike Bow",
       "quality": 3,
       "description": "Bow",
-      "dropRate": "2.55%"
+      "dropRate": "2.55%",
+      "group": 3
     },
     {
       "id": 20661,
@@ -157,7 +174,8 @@
       "name": "Abyssal Leather Gloves",
       "quality": 2,
       "description": "Hands, Leather random stats",
-      "dropRate": "13.16%"
+      "dropRate": "13.16%",
+      "group": 3
     },
     {
       "id": 20662,
@@ -166,7 +184,8 @@
       "name": "Abyssal Plate Greaves",
       "quality": 2,
       "description": "Feet, Plate random stats",
-      "dropRate": "12.93%"
+      "dropRate": "12.93%",
+      "group": 3
     },
     {
       "id": 20513,
@@ -175,7 +194,8 @@
       "name": "Abyssal Crest",
       "quality": 2,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     }
   ],
   "AbyssalDukes": [
@@ -185,7 +205,8 @@
       "icon": "INV_Box_01",
       "name": "The Duke of Cynders",
       "quality": 6,
-      "description": "Fire"
+      "description": "Fire",
+      "group": 0
     },
     {
       "id": 20665,
@@ -194,7 +215,8 @@
       "name": "Abyssal Leather Leggings",
       "quality": 3,
       "description": "Legs, Leather random stats",
-      "dropRate": "22.50%"
+      "dropRate": "22.50%",
+      "group": 0
     },
     {
       "id": 20666,
@@ -203,7 +225,8 @@
       "name": "Hardened Steel Warhammer",
       "quality": 3,
       "description": "Main Hand, Mace",
-      "dropRate": "30.47%"
+      "dropRate": "30.47%",
+      "group": 0
     },
     {
       "id": 20514,
@@ -212,7 +235,8 @@
       "name": "Abyssal Signet",
       "quality": 3,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 0
     },
     {
       "id": 20664,
@@ -221,7 +245,8 @@
       "name": "Abyssal Cloth Sash",
       "quality": 2,
       "description": "Waist, Cloth random stats",
-      "dropRate": "27.08%"
+      "dropRate": "27.08%",
+      "group": 0
     },
     {
       "id": 0,
@@ -229,7 +254,8 @@
       "icon": "INV_Box_01",
       "name": "The Duke of Fathoms",
       "quality": 6,
-      "description": "Water"
+      "description": "Water",
+      "group": 1
     },
     {
       "id": 20668,
@@ -238,7 +264,8 @@
       "name": "Abyssal Mail Legguards",
       "quality": 3,
       "description": "Legs, Mail random stats",
-      "dropRate": "22.40%"
+      "dropRate": "22.40%",
+      "group": 1
     },
     {
       "id": 20669,
@@ -247,7 +274,8 @@
       "name": "Darkstone Claymore",
       "quality": 3,
       "description": "Two-Hand, Sword",
-      "dropRate": "29.62%"
+      "dropRate": "29.62%",
+      "group": 1
     },
     {
       "id": 20514,
@@ -256,7 +284,8 @@
       "name": "Abyssal Signet",
       "quality": 3,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 20667,
@@ -265,7 +294,8 @@
       "name": "Abyssal Leather Belt",
       "quality": 2,
       "description": "Waist, Leather random stats",
-      "dropRate": "29.04%"
+      "dropRate": "29.04%",
+      "group": 1
     },
     {
       "id": 0,
@@ -273,7 +303,8 @@
       "icon": "INV_Box_01",
       "name": "The Duke of Zephyrs",
       "quality": 6,
-      "description": "Air"
+      "description": "Air",
+      "group": 2
     },
     {
       "id": 20674,
@@ -282,7 +313,8 @@
       "name": "Abyssal Cloth Pants",
       "quality": 3,
       "description": "Legs, Cloth random stats",
-      "dropRate": "21.83%"
+      "dropRate": "21.83%",
+      "group": 2
     },
     {
       "id": 20675,
@@ -291,7 +323,8 @@
       "name": "Soulrender",
       "quality": 3,
       "description": "One-Hand, Axe",
-      "dropRate": "29.73%"
+      "dropRate": "29.73%",
+      "group": 2
     },
     {
       "id": 20514,
@@ -300,7 +333,8 @@
       "name": "Abyssal Signet",
       "quality": 3,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 20673,
@@ -309,7 +343,8 @@
       "name": "Abyssal Plate Girdle",
       "quality": 2,
       "description": "Waist, Plate random stats",
-      "dropRate": "27.11%"
+      "dropRate": "27.11%",
+      "group": 2
     },
     {
       "id": 0,
@@ -317,7 +352,8 @@
       "icon": "INV_Box_01",
       "name": "The Duke of Shards",
       "quality": 6,
-      "description": "Earth"
+      "description": "Earth",
+      "group": 3
     },
     {
       "id": 20671,
@@ -326,7 +362,8 @@
       "name": "Abyssal Plate Legplates",
       "quality": 3,
       "description": "Legs, Plate random stats",
-      "dropRate": "22.63%"
+      "dropRate": "22.63%",
+      "group": 3
     },
     {
       "id": 20672,
@@ -335,7 +372,8 @@
       "name": "Sparkling Crystal Wand",
       "quality": 3,
       "description": "Wand",
-      "dropRate": "28.90%"
+      "dropRate": "28.90%",
+      "group": 3
     },
     {
       "id": 20514,
@@ -344,7 +382,8 @@
       "name": "Abyssal Signet",
       "quality": 3,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     },
     {
       "id": 20670,
@@ -353,7 +392,8 @@
       "name": "Abyssal Mail Clutch",
       "quality": 2,
       "description": "Waist, Mail random stats",
-      "dropRate": "28.16%"
+      "dropRate": "28.16%",
+      "group": 3
     }
   ],
   "AbyssalLords": [
@@ -363,7 +403,8 @@
       "icon": "INV_Box_01",
       "name": "Prince Skaldrenox",
       "quality": 6,
-      "description": "Fire"
+      "description": "Fire",
+      "group": 0
     },
     {
       "id": 20682,
@@ -372,7 +413,8 @@
       "name": "Elemental Focus Band",
       "quality": 4,
       "description": "Ring",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 0
     },
     {
       "id": 83562,
@@ -381,7 +423,8 @@
       "name": "Skaldrenox's Rage",
       "quality": 4,
       "description": "Polearm, Two-Hand",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 0
     },
     {
       "id": 20681,
@@ -390,7 +433,8 @@
       "name": "Abyssal Leather Bracers",
       "quality": 3,
       "description": "Wrist, Leather random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 0
     },
     {
       "id": 20680,
@@ -399,7 +443,8 @@
       "name": "Abyssal Mail Pauldrons",
       "quality": 3,
       "description": "Shoulder, Mail random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 0
     },
     {
       "id": 20515,
@@ -408,7 +453,8 @@
       "name": "Abyssal Scepter",
       "quality": 4,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 0
     },
     {
       "id": 83554,
@@ -417,7 +463,8 @@
       "name": "Abyssal Flame",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 0
     },
     {
       "id": 0,
@@ -425,7 +472,8 @@
       "icon": "INV_Box_01",
       "name": "Lord Skwol",
       "quality": 6,
-      "description": "Water"
+      "description": "Water",
+      "group": 1
     },
     {
       "id": 20685,
@@ -434,7 +482,8 @@
       "name": "Wavefront Necklace",
       "quality": 4,
       "description": "Neck",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 83563,
@@ -443,7 +492,8 @@
       "name": "Pearl of the Tides",
       "quality": 4,
       "description": "Trinket",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20684,
@@ -452,7 +502,8 @@
       "name": "Abyssal Mail Armguards",
       "quality": 3,
       "description": "Wrist, Mail random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20683,
@@ -461,7 +512,8 @@
       "name": "Abyssal Plate Epaulets",
       "quality": 3,
       "description": "Shoulder, Plate random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20515,
@@ -470,7 +522,8 @@
       "name": "Abyssal Scepter",
       "quality": 4,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 83557,
@@ -479,7 +532,8 @@
       "name": "Abyssal Wave",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 1
     },
     {
       "id": 0,
@@ -487,7 +541,8 @@
       "icon": "INV_Box_01",
       "name": "High Marshal Whirlaxis",
       "quality": 6,
-      "description": "Air"
+      "description": "Air",
+      "group": 1
     },
     {
       "id": 20691,
@@ -496,7 +551,8 @@
       "name": "Windshear Cape",
       "quality": 4,
       "description": "Back",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 83564,
@@ -505,7 +561,8 @@
       "name": "Tempest's Rage",
       "quality": 4,
       "description": "One-Hand Sword",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20690,
@@ -514,7 +571,8 @@
       "name": "Abyssal Cloth Wristbands",
       "quality": 3,
       "description": "Wrist, Cloth random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20689,
@@ -523,7 +581,8 @@
       "name": "Abyssal Leather Shoulders",
       "quality": 3,
       "description": "Shoulder, Mail random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 20515,
@@ -532,7 +591,8 @@
       "name": "Abyssal Scepter",
       "quality": 4,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 83556,
@@ -541,7 +601,8 @@
       "name": "Abyssal Wind",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 1
     },
     {
       "id": 0,
@@ -549,7 +610,8 @@
       "icon": "INV_Box_01",
       "name": "Baron Kazum",
       "quality": 6,
-      "description": "Earth"
+      "description": "Earth",
+      "group": 2
     },
     {
       "id": 20688,
@@ -558,7 +620,8 @@
       "name": "Earthen Guard",
       "quality": 4,
       "description": "Shield",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 2
     },
     {
       "id": 83565,
@@ -567,7 +630,8 @@
       "name": "Blackstone Crown",
       "quality": 4,
       "description": "Head, Mail",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 2
     },
     {
       "id": 20686,
@@ -576,7 +640,8 @@
       "name": "Abyssal Cloth Amice",
       "quality": 3,
       "description": "Shoulder, Cloth random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 2
     },
     {
       "id": 20687,
@@ -585,7 +650,8 @@
       "name": "Abyssal Plate Vambraces",
       "quality": 3,
       "description": "Wrist, Plate random stats",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 2
     },
     {
       "id": 20515,
@@ -594,7 +660,8 @@
       "name": "Abyssal Scepter",
       "quality": 4,
       "description": "Quest Item",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 83555,
@@ -603,7 +670,8 @@
       "name": "Abyssal Slate",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "40%"
+      "dropRate": "40%",
+      "group": 2
     }
   ],
   "ElementalInvasion": [
@@ -613,7 +681,8 @@
       "icon": "Spell_Fire_Elemental_Totem",
       "name": "Baron Charr",
       "quality": 6,
-      "description": "Fire, Un'goro Crater"
+      "description": "Fire, Un'goro Crater",
+      "group": 0
     },
     {
       "id": 83550,
@@ -622,7 +691,8 @@
       "name": "Primordial Flame",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 0
     },
     {
       "id": 18671,
@@ -631,7 +701,8 @@
       "name": "Baron Charr's Sceptre",
       "quality": 3,
       "description": "Main Hand, Mace",
-      "dropRate": "21%"
+      "dropRate": "21%",
+      "group": 0
     },
     {
       "id": 80850,
@@ -640,7 +711,8 @@
       "name": "Circlet of the Living Volcano",
       "quality": 3,
       "description": "Head, Cloth",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 0
     },
     {
       "id": 18672,
@@ -649,7 +721,8 @@
       "name": "Elemental Ember",
       "quality": 2,
       "description": "Held In Off-hand",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 0
     },
     {
       "id": 80849,
@@ -658,7 +731,8 @@
       "name": "Living Ember Pendant",
       "quality": 2,
       "description": "Neck",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 0
     },
     {
       "id": 0,
@@ -666,7 +740,8 @@
       "icon": "Spell_Fire_Elemental_Totem",
       "name": "Princess Tempestria",
       "quality": 6,
-      "description": "Water, Winterspring"
+      "description": "Water, Winterspring",
+      "group": 1
     },
     {
       "id": 83552,
@@ -675,7 +750,8 @@
       "name": "Unmelting Ice",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 18678,
@@ -684,7 +760,8 @@
       "name": "Tempestria's Frozen Necklace",
       "quality": 3,
       "description": "Neck",
-      "dropRate": "30%"
+      "dropRate": "30%",
+      "group": 1
     },
     {
       "id": 80843,
@@ -693,7 +770,8 @@
       "name": "Tideturner Boots",
       "quality": 3,
       "description": "Feet, Cloth",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 1
     },
     {
       "id": 18679,
@@ -702,7 +780,8 @@
       "name": "Frigid Ring",
       "quality": 2,
       "description": "Ring",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 1
     },
     {
       "id": 80844,
@@ -711,7 +790,8 @@
       "name": "Tempestria's Frozen Heart",
       "quality": 2,
       "description": "Held In Off-hand",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 1
     },
     {
       "id": 21548,
@@ -720,7 +800,8 @@
       "name": "Pattern: Stormshroud Gloves",
       "quality": 3,
       "description": "Leatherworking (300)",
-      "dropRate": "20%"
+      "dropRate": "20%",
+      "group": 1
     },
     {
       "id": 0,
@@ -728,7 +809,8 @@
       "icon": "Spell_Fire_Elemental_Totem",
       "name": "Avalanchion",
       "quality": 6,
-      "description": "Earth, Azshara"
+      "description": "Earth, Azshara",
+      "group": 2
     },
     {
       "id": 83551,
@@ -737,7 +819,8 @@
       "name": "Evershifting Stone",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 2
     },
     {
       "id": 18673,
@@ -746,7 +829,8 @@
       "name": "Avalanchion's Stony Hide",
       "quality": 3,
       "description": "Shield",
-      "dropRate": "30%"
+      "dropRate": "30%",
+      "group": 2
     },
     {
       "id": 80851,
@@ -755,7 +839,8 @@
       "name": "Earthclad Bracers",
       "quality": 3,
       "description": "Wrist, Plate",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 2
     },
     {
       "id": 18674,
@@ -764,7 +849,8 @@
       "name": "Hardened Stone Band",
       "quality": 2,
       "description": "Ring",
-      "dropRate": "50%"
+      "dropRate": "50%",
+      "group": 2
     },
     {
       "id": 80852,
@@ -773,7 +859,8 @@
       "name": "Earthshard Necklace",
       "quality": 2,
       "description": "Neck",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 2
     },
     {
       "id": 0,
@@ -781,7 +868,8 @@
       "icon": "Spell_Fire_Elemental_Totem",
       "name": "The Windreaver",
       "quality": 6,
-      "description": "Air, Silithus"
+      "description": "Air, Silithus",
+      "group": 3
     },
     {
       "id": 83553,
@@ -790,7 +878,8 @@
       "name": "Unyielding Gust",
       "quality": 4,
       "description": "Misc",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 3
     },
     {
       "id": 18676,
@@ -799,7 +888,8 @@
       "name": "Sash of the Windreaver",
       "quality": 3,
       "description": "Waist, Mail",
-      "dropRate": "25%"
+      "dropRate": "25%",
+      "group": 3
     },
     {
       "id": 80853,
@@ -808,7 +898,8 @@
       "name": "Thunderstruck Talisman",
       "quality": 3,
       "description": "Neck",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 3
     },
     {
       "id": 18677,
@@ -817,7 +908,8 @@
       "name": "Zephyr Cloak",
       "quality": 2,
       "description": "Back",
-      "dropRate": "58%"
+      "dropRate": "58%",
+      "group": 3
     },
     {
       "id": 80854,
@@ -826,7 +918,8 @@
       "name": "Wind Kissed Crystal",
       "quality": 2,
       "description": "Held In Off-hand",
-      "dropRate": "15%"
+      "dropRate": "15%",
+      "group": 3
     },
     {
       "id": 21548,
@@ -835,7 +928,8 @@
       "name": "Pattern: Stormshroud Gloves",
       "quality": 3,
       "description": "Leatherworking (300)",
-      "dropRate": "31%"
+      "dropRate": "31%",
+      "group": 3
     }
   ],
   "GurubashiArena": [
@@ -846,7 +940,8 @@
       "name": "Arena Wristguards",
       "quality": 3,
       "description": "Wrist, Cloth",
-      "dropRate": "5.0%"
+      "dropRate": "5.0%",
+      "group": 0
     },
     {
       "id": 18710,
@@ -855,7 +950,8 @@
       "name": "Arena Bracers",
       "quality": 3,
       "description": "Wrist, Leather",
-      "dropRate": "6.4%"
+      "dropRate": "6.4%",
+      "group": 0
     },
     {
       "id": 18711,
@@ -864,7 +960,8 @@
       "name": "Arena Bands",
       "quality": 3,
       "description": "Wrist, Mail",
-      "dropRate": "6.0%"
+      "dropRate": "6.0%",
+      "group": 0
     },
     {
       "id": 18712,
@@ -873,7 +970,8 @@
       "name": "Arena Vambraces",
       "quality": 3,
       "description": "Wrist, Plate",
-      "dropRate": "6.8%"
+      "dropRate": "6.8%",
+      "group": 0
     },
     {
       "id": 18706,
@@ -882,7 +980,8 @@
       "name": "Arena Master",
       "quality": 2,
       "description": "This Item Begins a Quest, Trinket",
-      "dropRate": "100%"
+      "dropRate": "100%",
+      "group": 1
     },
     {
       "id": 19024,
@@ -890,7 +989,8 @@
       "icon": "INV_Misc_ArmorKit_04",
       "name": "Arena Grand Master",
       "quality": 3,
-      "description": "Quest Reward Trinket"
+      "description": "Quest Reward Trinket",
+      "group": 1
     }
   ],
   "FishingExtravaganza": [
@@ -900,7 +1000,8 @@
       "icon": "INV_Box_01",
       "name": "First Prize",
       "quality": 6,
-      "description": "Master Angler"
+      "description": "Master Angler",
+      "group": 0
     },
     {
       "id": 19970,
@@ -908,7 +1009,8 @@
       "icon": "INV_Fishingpole_01",
       "name": "Arcanite Fishing Pole",
       "quality": 3,
-      "description": "Fishing Pole"
+      "description": "Fishing Pole",
+      "group": 0
     },
     {
       "id": 19979,
@@ -916,7 +1018,8 @@
       "icon": "Trade_Fishing",
       "name": "Hook of the Master Angler",
       "quality": 3,
-      "description": "Trinket"
+      "description": "Trinket",
+      "group": 0
     },
     {
       "id": 0,
@@ -924,7 +1027,8 @@
       "icon": "INV_Box_01",
       "name": "Rare Fish",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 19805,
@@ -932,7 +1036,8 @@
       "icon": "INV_Misc_Fish_08",
       "name": "Keefer's Angelfish",
       "quality": 2,
-      "description": "Rare Fish"
+      "description": "Rare Fish",
+      "group": 1
     },
     {
       "id": 19803,
@@ -940,7 +1045,8 @@
       "icon": "INV_Misc_Fish_10",
       "name": "Brownell's Blue Striped Racer",
       "quality": 2,
-      "description": "Rare Fish"
+      "description": "Rare Fish",
+      "group": 1
     },
     {
       "id": 19806,
@@ -948,7 +1054,8 @@
       "icon": "INV_Misc_Fish_09",
       "name": "Dezian Queenfish",
       "quality": 2,
-      "description": "Rare Fish"
+      "description": "Rare Fish",
+      "group": 1
     },
     {
       "id": 19808,
@@ -956,7 +1063,8 @@
       "icon": "INV_Misc_Fish_27",
       "name": "Rockhide Strongfish",
       "quality": 2,
-      "description": "One-Hand, Mace Rare Fish"
+      "description": "One-Hand, Mace Rare Fish",
+      "group": 1
     },
     {
       "id": 0,
@@ -964,7 +1072,8 @@
       "icon": "INV_Box_01",
       "name": "Rare Fish Rewards",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 19972,
@@ -972,7 +1081,8 @@
       "icon": "INV_Helmet_31",
       "name": "Lucky Fishing Hat",
       "quality": 2,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 2
     },
     {
       "id": 19969,
@@ -980,7 +1090,8 @@
       "icon": "INV_Boots_09",
       "name": "Nat Pagle's Extreme Anglin' Boots",
       "quality": 2,
-      "description": "Feet, Cloth"
+      "description": "Feet, Cloth",
+      "group": 2
     },
     {
       "id": 19971,
@@ -988,7 +1099,8 @@
       "icon": "INV_Fabric_Mageweave_02",
       "name": "High Test Eternium Fishing Line",
       "quality": 2,
-      "description": "Binds when picked up"
+      "description": "Binds when picked up",
+      "group": 2
     }
   ],
   "ChildrensWeek": [
@@ -998,7 +1110,8 @@
       "icon": "INV_Belt_25",
       "name": "Piglet's Collar",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 0
     },
     {
       "id": 23015,
@@ -1006,7 +1119,8 @@
       "icon": "INV_Box_PetCarrier_01",
       "name": "Rat Cage",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 0
     },
     {
       "id": 23002,
@@ -1014,7 +1128,8 @@
       "icon": "INV_Crate_03",
       "name": "Turtle Box",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 0
     },
     {
       "id": 23022,
@@ -1022,7 +1137,8 @@
       "icon": "INV_Misc_Bag_10_Black",
       "name": "Curmudgeon's Payoff",
       "quality": 1,
-      "description": "Container"
+      "description": "Container",
+      "group": 0
     }
   ],
   "Valentineday": [
@@ -1033,7 +1149,8 @@
       "name": "Bouquet of Red Roses",
       "quality": 2,
       "description": "Held In Off-hand",
-      "dropRate": "0.43%"
+      "dropRate": "0.43%",
+      "group": 0
     },
     {
       "id": 0,
@@ -1041,7 +1158,8 @@
       "icon": "INV_ValentinesBoxOfChocolates02",
       "name": "Gift of Adoration",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 22279,
@@ -1049,7 +1167,8 @@
       "icon": "INV_Chest_Cloth_50",
       "name": "Lovely Black Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 22235,
@@ -1057,7 +1176,8 @@
       "icon": "INV_Ammo_Arrow_02",
       "name": "Truesilver Shafted Arrow",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 1
     },
     {
       "id": 22200,
@@ -1065,7 +1185,8 @@
       "icon": "INV_Ammo_Arrow_02",
       "name": "Silver Shafted Arrow",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 1
     },
     {
       "id": 22261,
@@ -1073,7 +1194,8 @@
       "icon": "INV_Crate_03",
       "name": "Love Fool",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 22218,
@@ -1081,7 +1203,8 @@
       "icon": "INV_Misc_Dust_04",
       "name": "Handful of Rose Petals",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 21813,
@@ -1089,7 +1212,8 @@
       "icon": "INV_ValentinesCandySack",
       "name": "Bag of Candies",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 0,
@@ -1097,7 +1221,8 @@
       "icon": "INV_Box_02",
       "name": "Box of Chocolates",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 22237,
@@ -1105,7 +1230,8 @@
       "icon": "INV_ValentinesChocolate04",
       "name": "Dark Desire",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 22238,
@@ -1113,7 +1239,8 @@
       "icon": "INV_ValentinesChocolate02",
       "name": "Very Berry Cream",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 22236,
@@ -1121,7 +1248,8 @@
       "icon": "INV_ValentinesChocolate01",
       "name": "Buttermilk Delight",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 22239,
@@ -1129,7 +1257,8 @@
       "icon": "INV_ValentinesChocolate03",
       "name": "Sweet Surprise",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 22276,
@@ -1137,7 +1266,8 @@
       "icon": "INV_Chest_Cloth_24",
       "name": "Lovely Red Dress",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     },
     {
       "id": 22278,
@@ -1145,7 +1275,8 @@
       "icon": "INV_Chest_Cloth_23",
       "name": "Lovely Blue Dress",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     },
     {
       "id": 22280,
@@ -1153,7 +1284,8 @@
       "icon": "INV_Chest_Cloth_17",
       "name": "Lovely Purple Dress",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     },
     {
       "id": 22277,
@@ -1161,7 +1293,8 @@
       "icon": "INV_Shirt_Red_01",
       "name": "Red Dinner Suit",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     },
     {
       "id": 22281,
@@ -1169,7 +1302,8 @@
       "icon": "INV_Shirt_Blue_01",
       "name": "Blue Dinner Suit",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     },
     {
       "id": 22282,
@@ -1177,7 +1311,8 @@
       "icon": "INV_Shirt_Purple_01",
       "name": "Purple Dinner Suit",
       "quality": 1,
-      "description": "Quest Reward Chest"
+      "description": "Quest Reward Chest",
+      "group": 2
     }
   ],
   "Halloween1": [
@@ -1187,7 +1322,8 @@
       "icon": "INV_Misc_Food_59",
       "name": "Pumpkin Bag",
       "quality": 2,
-      "description": "16 Slot Bag"
+      "description": "16 Slot Bag",
+      "group": 0
     },
     {
       "id": 18633,
@@ -1195,7 +1331,8 @@
       "icon": "INV_Misc_Food_26",
       "name": "Styleen's Sour Suckerpop",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 18632,
@@ -1203,7 +1340,8 @@
       "icon": "INV_Misc_Food_30",
       "name": "Moonbrook Riot Taffy",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 18635,
@@ -1211,7 +1349,8 @@
       "icon": "INV_Misc_Food_27",
       "name": "Bellara's Nutterbar",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 20557,
@@ -1219,7 +1358,8 @@
       "icon": "INV_Misc_Food_59",
       "name": "Hallow's End Pumpkin Treat",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 20389,
@@ -1227,7 +1367,8 @@
       "icon": "INV_Misc_Food_30",
       "name": "Candy Corn",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 20388,
@@ -1235,7 +1376,8 @@
       "icon": "INV_Misc_Food_26",
       "name": "Lollipop",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 20390,
@@ -1243,7 +1385,8 @@
       "icon": "INV_Misc_Food_27",
       "name": "Candy Bar",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 0,
@@ -1251,7 +1394,8 @@
       "icon": "INV_Misc_Bag_11",
       "name": "Treat Bag",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 20410,
@@ -1259,7 +1403,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Bat",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20409,
@@ -1267,7 +1412,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Ghost",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20399,
@@ -1275,7 +1421,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Leper Gnome",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20398,
@@ -1283,7 +1430,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Ninja",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20397,
@@ -1291,7 +1439,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Pirate",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20413,
@@ -1299,7 +1448,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Random",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20411,
@@ -1307,7 +1457,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Skeleton",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 20414,
@@ -1315,7 +1466,8 @@
       "icon": "INV_Wand_12",
       "name": "Hallowed Wand - Wisp",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     }
   ],
   "Halloween2": [
@@ -1325,7 +1477,8 @@
       "icon": "INV_Misc_Bag_11",
       "name": "Treat Bag",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 20561,
@@ -1333,7 +1486,8 @@
       "icon": "INV_Misc_Head_Dwarf_01",
       "name": "Flimsy Male Dwarf Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20391,
@@ -1341,7 +1495,8 @@
       "icon": "INV_Misc_Head_Gnome_01",
       "name": "Flimsy Male Gnome Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20566,
@@ -1349,7 +1504,8 @@
       "icon": "INV_Misc_Head_Scourge_01",
       "name": "Flimsy Male Human Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20564,
@@ -1357,7 +1513,8 @@
       "icon": "Ability_Ambush",
       "name": "Flimsy Male Nightelf Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20570,
@@ -1365,7 +1522,8 @@
       "icon": "Ability_Warrior_WarCry",
       "name": "Flimsy Male Orc Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20572,
@@ -1373,7 +1531,8 @@
       "icon": "INV_Misc_Head_Tauren_01",
       "name": "Flimsy Male Tauren Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20568,
@@ -1381,7 +1540,8 @@
       "icon": "INV_Misc_Head_Troll_01",
       "name": "Flimsy Male Troll Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 20573,
@@ -1389,7 +1549,8 @@
       "icon": "INV_Misc_Head_Undead_01",
       "name": "Flimsy Male Undead Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 0,
@@ -1397,7 +1558,8 @@
       "icon": "INV_Misc_Bag_11",
       "name": "Treat Bag",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 1
     },
     {
       "id": 20562,
@@ -1405,7 +1567,8 @@
       "icon": "INV_Misc_Head_Dwarf_02",
       "name": "Flimsy Female Dwarf Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20392,
@@ -1413,7 +1576,8 @@
       "icon": "INV_Misc_Head_Gnome_02",
       "name": "Flimsy Female Gnome Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20565,
@@ -1421,7 +1585,8 @@
       "icon": "INV_Misc_Head_Human_02",
       "name": "Flimsy Female Human Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20563,
@@ -1429,7 +1594,8 @@
       "icon": "INV_Misc_Head_Elf_02",
       "name": "Flimsy Female Nightelf Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20569,
@@ -1437,7 +1603,8 @@
       "icon": "INV_Misc_Head_Orc_02",
       "name": "Flimsy Female Orc Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20571,
@@ -1445,7 +1612,8 @@
       "icon": "INV_Misc_Head_Tauren_02",
       "name": "Flimsy Female Tauren Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20567,
@@ -1453,7 +1621,8 @@
       "icon": "INV_Misc_Head_Troll_02",
       "name": "Flimsy Female Troll Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     },
     {
       "id": 20574,
@@ -1461,7 +1630,8 @@
       "icon": "INV_Misc_Head_Undead_02",
       "name": "Flimsy Female Undead Mask",
       "quality": 1,
-      "description": "Head"
+      "description": "Head",
+      "group": 1
     }
   ],
   "Winterviel1": [
@@ -1471,7 +1641,8 @@
       "icon": "INV_Helmet_68",
       "name": "Green Winter Hat",
       "quality": 2,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 21524,
@@ -1479,7 +1650,8 @@
       "icon": "INV_Helmet_67",
       "name": "Red Winter Hat",
       "quality": 2,
-      "description": "Head"
+      "description": "Head",
+      "group": 0
     },
     {
       "id": 17712,
@@ -1487,7 +1659,8 @@
       "icon": "Spell_Frost_FrostWard",
       "name": "Winter Veil Disguise Kit",
       "quality": 1,
-      "description": "Quest Reward Misc"
+      "description": "Quest Reward Misc",
+      "group": 1
     },
     {
       "id": 17202,
@@ -1495,7 +1668,8 @@
       "icon": "INV_Ammo_Snowball",
       "name": "Snowball",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 21212,
@@ -1503,7 +1677,8 @@
       "icon": "INV_Misc_Branch_01",
       "name": "Fresh Holly",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 21519,
@@ -1511,7 +1686,8 @@
       "icon": "INV_Misc_Herb_09",
       "name": "Mistletoe",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 0,
@@ -1519,7 +1695,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Gaily Wrapped Present",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21301,
@@ -1527,7 +1704,8 @@
       "icon": "INV_Holiday_Christmas_Present_03",
       "name": "Green Helper Box",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 21308,
@@ -1535,7 +1713,8 @@
       "icon": "INV_Misc_Bell_01",
       "name": "Jingling Bell",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 21305,
@@ -1543,7 +1722,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Red Helper Box",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 21309,
@@ -1551,7 +1731,8 @@
       "icon": "INV_Misc_Bag_17",
       "name": "Snowman Kit",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 0,
@@ -1559,7 +1740,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Festive Gift",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21328,
@@ -1567,7 +1749,8 @@
       "icon": "INV_Wand_02",
       "name": "Wand of Holiday Cheer",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 2
     },
     {
       "id": 0,
@@ -1575,7 +1758,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Smokywood Pastures Special Gift",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 17706,
@@ -1583,7 +1767,8 @@
       "icon": "INV_Scroll_06",
       "name": "Plans: Edge of Winter",
       "quality": 2,
-      "description": "Blacksmithing (190)"
+      "description": "Blacksmithing (190)",
+      "group": 2
     },
     {
       "id": 17725,
@@ -1591,7 +1776,8 @@
       "icon": "INV_Misc_Note_01",
       "name": "Formula: Enchant Weapon - Winter's Might",
       "quality": 2,
-      "description": "Enchanting (190)"
+      "description": "Enchanting (190)",
+      "group": 2
     },
     {
       "id": 17720,
@@ -1599,7 +1785,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Snowmaster 9000",
       "quality": 2,
-      "description": "Engineering (190)"
+      "description": "Engineering (190)",
+      "group": 2
     },
     {
       "id": 17722,
@@ -1607,7 +1794,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Gloves of the Greatfather",
       "quality": 2,
-      "description": "Leatherworking (190)"
+      "description": "Leatherworking (190)",
+      "group": 2
     },
     {
       "id": 17709,
@@ -1615,7 +1803,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Elixir of Frost Power",
       "quality": 1,
-      "description": "Alchemy (190)"
+      "description": "Alchemy (190)",
+      "group": 2
     },
     {
       "id": 17724,
@@ -1623,7 +1812,8 @@
       "icon": "INV_Scroll_03",
       "name": "Pattern: Green Holiday Shirt",
       "quality": 1,
-      "description": "Tailoring (190)"
+      "description": "Tailoring (190)",
+      "group": 2
     },
     {
       "id": 21325,
@@ -1631,7 +1821,8 @@
       "icon": "Ability_Hunter_Pet_Gorilla",
       "name": "Mechanical Greench",
       "quality": 2,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 3
     },
     {
       "id": 21213,
@@ -1639,7 +1830,8 @@
       "icon": "INV_Misc_Branch_01",
       "name": "Preserved Holly",
       "quality": 2,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 0,
@@ -1647,7 +1839,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Gently Shaken Gift",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 4
     },
     {
       "id": 21235,
@@ -1655,7 +1848,8 @@
       "icon": "INV_Misc_Food_50",
       "name": "Winter Veil Roast",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 4
     },
     {
       "id": 21241,
@@ -1663,7 +1857,8 @@
       "icon": "INV_Drink_16",
       "name": "Winter Veil Eggnog",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 4
     }
   ],
   "Winterviel2": [
@@ -1673,7 +1868,8 @@
       "icon": "INV_Holiday_Christmas_Present_01",
       "name": "Smokywood Pastures",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 17201,
@@ -1681,7 +1877,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Egg Nog",
       "quality": 1,
-      "description": "Cooking (35)"
+      "description": "Cooking (35)",
+      "group": 0
     },
     {
       "id": 17200,
@@ -1689,7 +1886,8 @@
       "icon": "INV_Scroll_03",
       "name": "Recipe: Gingerbread Cookie",
       "quality": 1,
-      "description": "Cooking (1)"
+      "description": "Cooking (1)",
+      "group": 0
     },
     {
       "id": 17344,
@@ -1697,7 +1895,8 @@
       "icon": "INV_Misc_Food_61",
       "name": "Candy Cane",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 0
     },
     {
       "id": 17406,
@@ -1705,7 +1904,8 @@
       "icon": "INV_Misc_Food_03",
       "name": "Holiday Cheesewheel",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 0
     },
     {
       "id": 17407,
@@ -1713,7 +1913,8 @@
       "icon": "INV_Misc_Food_10",
       "name": "Graccu's Homemade Meat Pie",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 0
     },
     {
       "id": 17408,
@@ -1721,7 +1922,8 @@
       "icon": "INV_Misc_Food_49",
       "name": "Spicy Beefstick",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 0
     },
     {
       "id": 17404,
@@ -1729,7 +1931,8 @@
       "icon": "INV_Drink_15",
       "name": "Blended Bean Brew",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 0
     },
     {
       "id": 17405,
@@ -1737,7 +1940,8 @@
       "icon": "INV_Drink_Milk_05",
       "name": "Green Garden Tea",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 0
     },
     {
       "id": 17196,
@@ -1745,7 +1949,8 @@
       "icon": "INV_Drink_10",
       "name": "Holiday Spirits",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 0
     },
     {
       "id": 17403,
@@ -1753,7 +1958,8 @@
       "icon": "INV_Drink_11",
       "name": "Steamwheedle Fizzy Spirits",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 0
     },
     {
       "id": 17402,
@@ -1761,7 +1967,8 @@
       "icon": "INV_Drink_13",
       "name": "Greatfather's Winter Ale",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 0
     },
     {
       "id": 17194,
@@ -1769,7 +1976,8 @@
       "icon": "INV_Misc_Bag_11",
       "name": "Holiday Spices",
       "quality": 1,
-      "description": "Trade Goods"
+      "description": "Trade Goods",
+      "group": 0
     },
     {
       "id": 17303,
@@ -1777,7 +1985,8 @@
       "icon": "INV_Holiday_Christmas_Wrapping_03",
       "name": "Blue Ribboned Wrapping Paper",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 17304,
@@ -1785,7 +1994,8 @@
       "icon": "INV_Holiday_Christmas_Wrapping_01",
       "name": "Green Ribboned Wrapping Paper",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 17307,
@@ -1793,7 +2003,8 @@
       "icon": "INV_Holiday_Christmas_Wrapping_02",
       "name": "Purple Ribboned Wrapping Paper",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 1
     },
     {
       "id": 51249,
@@ -1801,7 +2012,8 @@
       "icon": "Ability_Mount_WhiteDireWolf",
       "name": "Snowball",
       "quality": 3,
-      "description": "Mount"
+      "description": "Mount",
+      "group": 2
     }
   ],
   "Noblegarden": [
@@ -1811,7 +2023,8 @@
       "icon": "INV_Egg_03",
       "name": "Brightly Colored Egg",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 0
     },
     {
       "id": 19028,
@@ -1819,7 +2032,8 @@
       "icon": "INV_Chest_Cloth_04",
       "name": "Elegant Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 0
     },
     {
       "id": 6833,
@@ -1827,7 +2041,8 @@
       "icon": "INV_Shirt_08",
       "name": "White Tuxedo Shirt",
       "quality": 1,
-      "description": "Shirt"
+      "description": "Shirt",
+      "group": 0
     },
     {
       "id": 6835,
@@ -1835,7 +2050,8 @@
       "icon": "INV_Pants_01",
       "name": "Black Tuxedo Pants",
       "quality": 1,
-      "description": "Legs"
+      "description": "Legs",
+      "group": 0
     },
     {
       "id": 7807,
@@ -1843,7 +2059,8 @@
       "icon": "INV_Misc_Food_27",
       "name": "Candy Bar",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 7808,
@@ -1851,7 +2068,8 @@
       "icon": "INV_Misc_Food_29",
       "name": "Chocolate Square",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 7806,
@@ -1859,7 +2077,8 @@
       "icon": "INV_Misc_Food_26",
       "name": "Lollipop",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     }
   ],
   "HarvestFestival": [
@@ -1869,7 +2088,8 @@
       "icon": "INV_Misc_Horn_03",
       "name": "Bounty of the Harvest",
       "quality": 1,
-      "description": "Quest Reward Misc"
+      "description": "Quest Reward Misc",
+      "group": 0
     },
     {
       "id": 20009,
@@ -1877,7 +2097,8 @@
       "icon": "INV_Misc_Book_07",
       "name": "For the Light!",
       "quality": 1,
-      "description": "Quest Reward Misc Alliance"
+      "description": "Quest Reward Misc Alliance",
+      "group": 0
     },
     {
       "id": 20010,
@@ -1885,7 +2106,8 @@
       "icon": "INV_Misc_Book_06",
       "name": "The Horde's Hellscream",
       "quality": 1,
-      "description": "Quest Reward Misc Horde"
+      "description": "Quest Reward Misc Horde",
+      "group": 0
     },
     {
       "id": 19995,
@@ -1893,7 +2115,8 @@
       "icon": "INV_Misc_Food_60",
       "name": "Harvest Boar",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 19996,
@@ -1901,7 +2124,8 @@
       "icon": "INV_Misc_Fish_19",
       "name": "Harvest Fish",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 19994,
@@ -1909,7 +2133,8 @@
       "icon": "INV_Misc_Food_41",
       "name": "Harvest Fruit",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 1
     },
     {
       "id": 19997,
@@ -1917,7 +2142,8 @@
       "icon": "INV_Drink_04",
       "name": "Harvest Nectar",
       "quality": 1,
-      "description": "Drink"
+      "description": "Drink",
+      "group": 1
     }
   ],
   "ScourgeInvasionEvent1": [
@@ -1927,7 +2153,8 @@
       "icon": "INV_Potion_26",
       "name": "Blessed Wizard Oil",
       "quality": 2,
-      "description": "Binds when picked up"
+      "description": "Binds when picked up",
+      "group": 0
     },
     {
       "id": 23122,
@@ -1935,7 +2162,8 @@
       "icon": "INV_Stone_SharpeningStone_02",
       "name": "Consecrated Sharpening Stone",
       "quality": 2,
-      "description": "Binds when picked up"
+      "description": "Binds when picked up",
+      "group": 0
     },
     {
       "id": 22999,
@@ -1943,7 +2171,8 @@
       "icon": "INV_Shirt_GuildTabard_01",
       "name": "Tabard of the Argent Dawn",
       "quality": 1,
-      "description": "Tabard"
+      "description": "Tabard",
+      "group": 0
     },
     {
       "id": 22484,
@@ -1951,7 +2180,8 @@
       "icon": "INV_Stone_02",
       "name": "Necrotic Rune",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 0
     },
     {
       "id": 0,
@@ -1959,7 +2189,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Regalia of Undead Cleansing",
       "quality": 6,
-      "description": "Cloth"
+      "description": "Cloth",
+      "group": 1
     },
     {
       "id": 23085,
@@ -1967,7 +2198,8 @@
       "icon": "INV_Chest_Cloth_04",
       "name": "Robe of Undead Cleansing",
       "quality": 3,
-      "description": "Chest, Cloth"
+      "description": "Chest, Cloth",
+      "group": 1
     },
     {
       "id": 23091,
@@ -1975,7 +2207,8 @@
       "icon": "INV_Bracer_12",
       "name": "Bracers of Undead Cleansing",
       "quality": 3,
-      "description": "Wrist, Cloth"
+      "description": "Wrist, Cloth",
+      "group": 1
     },
     {
       "id": 23084,
@@ -1983,7 +2216,8 @@
       "icon": "INV_Gauntlets_16",
       "name": "Gloves of Undead Cleansing",
       "quality": 3,
-      "description": "Hands, Cloth"
+      "description": "Hands, Cloth",
+      "group": 1
     },
     {
       "id": 0,
@@ -1991,7 +2225,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Undead Slayer's Armor",
       "quality": 6,
-      "description": "Leather"
+      "description": "Leather",
+      "group": 2
     },
     {
       "id": 23089,
@@ -1999,7 +2234,8 @@
       "icon": "INV_Chest_Leather_06",
       "name": "Tunic of Undead Slaying",
       "quality": 3,
-      "description": "Chest, Leather"
+      "description": "Chest, Leather",
+      "group": 2
     },
     {
       "id": 23093,
@@ -2007,7 +2243,8 @@
       "icon": "INV_Bracer_08",
       "name": "Wristwraps of Undead Slaying",
       "quality": 3,
-      "description": "Wrist, Leather"
+      "description": "Wrist, Leather",
+      "group": 2
     },
     {
       "id": 23081,
@@ -2015,7 +2252,8 @@
       "icon": "INV_Gauntlets_06",
       "name": "Handwraps of Undead Slaying",
       "quality": 3,
-      "description": "Hands, Leather"
+      "description": "Hands, Leather",
+      "group": 2
     },
     {
       "id": 23194,
@@ -2023,7 +2261,8 @@
       "icon": "INV_Misc_Token_ArgentDawn",
       "name": "Lesser Mark of the Dawn",
       "quality": 1,
-      "description": "Consumable"
+      "description": "Consumable",
+      "group": 3
     },
     {
       "id": 23195,
@@ -2031,7 +2270,8 @@
       "icon": "INV_Misc_Token_ArgentDawn2",
       "name": "Mark of the Dawn",
       "quality": 1,
-      "description": "Consumable"
+      "description": "Consumable",
+      "group": 3
     },
     {
       "id": 23196,
@@ -2039,7 +2279,8 @@
       "icon": "INV_Misc_Token_ArgentDawn3",
       "name": "Greater Mark of the Dawn",
       "quality": 1,
-      "description": "Consumable"
+      "description": "Consumable",
+      "group": 3
     },
     {
       "id": 0,
@@ -2047,7 +2288,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Garb of the Undead Slayer",
       "quality": 6,
-      "description": "Mail"
+      "description": "Mail",
+      "group": 4
     },
     {
       "id": 23088,
@@ -2055,7 +2297,8 @@
       "icon": "INV_Chest_Chain_08",
       "name": "Chestguard of Undead Slaying",
       "quality": 3,
-      "description": "Chest, Mail"
+      "description": "Chest, Mail",
+      "group": 4
     },
     {
       "id": 23092,
@@ -2063,7 +2306,8 @@
       "icon": "INV_Bracer_16",
       "name": "Wristguards of Undead Slaying",
       "quality": 3,
-      "description": "Wrist, Mail"
+      "description": "Wrist, Mail",
+      "group": 4
     },
     {
       "id": 23082,
@@ -2071,7 +2315,8 @@
       "icon": "INV_Gauntlets_11",
       "name": "Handguards of Undead Slaying",
       "quality": 3,
-      "description": "Hands, Mail"
+      "description": "Hands, Mail",
+      "group": 4
     },
     {
       "id": 0,
@@ -2079,7 +2324,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Battlegear of Undead Slaying",
       "quality": 6,
-      "description": "Plate"
+      "description": "Plate",
+      "group": 5
     },
     {
       "id": 23087,
@@ -2087,7 +2333,8 @@
       "icon": "INV_Chest_Plate10",
       "name": "Breastplate of Undead Slaying",
       "quality": 3,
-      "description": "Chest, Plate"
+      "description": "Chest, Plate",
+      "group": 5
     },
     {
       "id": 23090,
@@ -2095,7 +2342,8 @@
       "icon": "INV_Bracer_14",
       "name": "Bracers of Undead Slaying",
       "quality": 3,
-      "description": "Wrist, Plate"
+      "description": "Wrist, Plate",
+      "group": 5
     },
     {
       "id": 23078,
@@ -2103,7 +2351,8 @@
       "icon": "INV_Gauntlets_29",
       "name": "Gauntlets of Undead Slaying",
       "quality": 3,
-      "description": "Hands, Plate"
+      "description": "Hands, Plate",
+      "group": 5
     }
   ],
   "ScourgeInvasionEvent2": [
@@ -2113,7 +2362,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Balzaphon",
       "quality": 6,
-      "description": "Stratholme"
+      "description": "Stratholme",
+      "group": 0
     },
     {
       "id": 23126,
@@ -2122,7 +2372,8 @@
       "name": "Waistband of Balzaphon",
       "quality": 3,
       "description": "Waist, Cloth",
-      "dropRate": "27.38%"
+      "dropRate": "27.38%",
+      "group": 0
     },
     {
       "id": 23125,
@@ -2131,7 +2382,8 @@
       "name": "Chains of the Lich",
       "quality": 3,
       "description": "Neck",
-      "dropRate": "19.89%"
+      "dropRate": "19.89%",
+      "group": 0
     },
     {
       "id": 23124,
@@ -2140,7 +2392,8 @@
       "name": "Staff of Balzaphon",
       "quality": 3,
       "description": "Staff",
-      "dropRate": "24.74%"
+      "dropRate": "24.74%",
+      "group": 0
     },
     {
       "id": 0,
@@ -2148,7 +2401,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Lord Blackwood",
       "quality": 6,
-      "description": "Scholomance"
+      "description": "Scholomance",
+      "group": 1
     },
     {
       "id": 23132,
@@ -2157,7 +2411,8 @@
       "name": "Lord Blackwood's Blade",
       "quality": 3,
       "description": "One-Hand, Sword",
-      "dropRate": "12.83%"
+      "dropRate": "12.83%",
+      "group": 1
     },
     {
       "id": 23156,
@@ -2166,7 +2421,8 @@
       "name": "Blackwood's Thigh",
       "quality": 3,
       "description": "Held In Off-hand",
-      "dropRate": "45.21%"
+      "dropRate": "45.21%",
+      "group": 1
     },
     {
       "id": 23139,
@@ -2175,7 +2431,8 @@
       "name": "Lord Blackwood's Buckler",
       "quality": 3,
       "description": "Shield",
-      "dropRate": "38.75%"
+      "dropRate": "38.75%",
+      "group": 1
     },
     {
       "id": 0,
@@ -2183,7 +2440,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Revanchion",
       "quality": 6,
-      "description": "Dire Maul"
+      "description": "Dire Maul",
+      "group": 2
     },
     {
       "id": 23127,
@@ -2192,7 +2450,8 @@
       "name": "Cloak of Revanchion",
       "quality": 3,
       "description": "Back",
-      "dropRate": "38.49%"
+      "dropRate": "38.49%",
+      "group": 2
     },
     {
       "id": 23129,
@@ -2201,7 +2460,8 @@
       "name": "Bracers of Mending",
       "quality": 3,
       "description": "Wrist, Cloth",
-      "dropRate": "39.61%"
+      "dropRate": "39.61%",
+      "group": 2
     },
     {
       "id": 23128,
@@ -2210,7 +2470,8 @@
       "name": "The Shadow's Grasp",
       "quality": 3,
       "description": "Hands, Cloth",
-      "dropRate": "21.81%"
+      "dropRate": "21.81%",
+      "group": 2
     },
     {
       "id": 0,
@@ -2218,7 +2479,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Scorn",
       "quality": 6,
-      "description": "Scarlet Monastery - Graveyard"
+      "description": "Scarlet Monastery - Graveyard",
+      "group": 3
     },
     {
       "id": 23169,
@@ -2227,7 +2489,8 @@
       "name": "Scorn's Icy Choker",
       "quality": 3,
       "description": "Neck",
-      "dropRate": "27.49%"
+      "dropRate": "27.49%",
+      "group": 3
     },
     {
       "id": 23170,
@@ -2236,7 +2499,8 @@
       "name": "The Frozen Clutch",
       "quality": 3,
       "description": "Hands, Mail",
-      "dropRate": "56.15%"
+      "dropRate": "56.15%",
+      "group": 3
     },
     {
       "id": 23168,
@@ -2245,7 +2509,8 @@
       "name": "Scorn's Focal Dagger",
       "quality": 3,
       "description": "One-Hand, Dagger",
-      "dropRate": "16.36%"
+      "dropRate": "16.36%",
+      "group": 3
     },
     {
       "id": 0,
@@ -2253,7 +2518,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Sever",
       "quality": 6,
-      "description": "Shadowfang Keep"
+      "description": "Shadowfang Keep",
+      "group": 4
     },
     {
       "id": 23173,
@@ -2262,7 +2528,8 @@
       "name": "Abomination Skin Leggings",
       "quality": 3,
       "description": "Legs, Cloth",
-      "dropRate": "76.87%"
+      "dropRate": "76.87%",
+      "group": 4
     },
     {
       "id": 23171,
@@ -2271,7 +2538,8 @@
       "name": "The Axe of Severing",
       "quality": 3,
       "description": "Two-Hand, Axe",
-      "dropRate": "22.94%"
+      "dropRate": "22.94%",
+      "group": 4
     },
     {
       "id": 0,
@@ -2279,7 +2547,8 @@
       "icon": "INV_Jewelry_Talisman_13",
       "name": "Lady Falther'ess",
       "quality": 6,
-      "description": "Razorfen Downs"
+      "description": "Razorfen Downs",
+      "group": 5
     },
     {
       "id": 23178,
@@ -2288,7 +2557,8 @@
       "name": "Mantle of Lady Falther'ess",
       "quality": 3,
       "description": "Back",
-      "dropRate": "61.24%"
+      "dropRate": "61.24%",
+      "group": 5
     },
     {
       "id": 23177,
@@ -2297,7 +2567,8 @@
       "name": "Lady Falther'ess' Finger",
       "quality": 3,
       "description": "Wand",
-      "dropRate": "38.17%"
+      "dropRate": "38.17%",
+      "group": 5
     }
   ],
   "LunarFestival1": [
@@ -2307,7 +2578,8 @@
       "icon": "INV_Misc_ElvenCoins",
       "name": "Coin of Ancestry",
       "quality": 1,
-      "description": "Use to purchase rewards"
+      "description": "Use to purchase rewards",
+      "group": 0
     },
     {
       "id": 21157,
@@ -2315,7 +2587,8 @@
       "icon": "INV_Chest_Cloth_57",
       "name": "Festive Green Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 21538,
@@ -2323,7 +2596,8 @@
       "icon": "INV_Chest_Cloth_58",
       "name": "Festive Pink Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 21539,
@@ -2331,7 +2605,8 @@
       "icon": "INV_Chest_Cloth_59",
       "name": "Festive Purple Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 21541,
@@ -2339,7 +2614,8 @@
       "icon": "INV_Chest_Cloth_53",
       "name": "Festive Black Pant Suit",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 21544,
@@ -2347,7 +2623,8 @@
       "icon": "INV_Chest_Cloth_52",
       "name": "Festive Blue Pant Suit",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 21543,
@@ -2355,7 +2632,8 @@
       "icon": "INV_Chest_Cloth_54",
       "name": "Festive Teal Pant Suit",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 0,
@@ -2363,7 +2641,8 @@
       "icon": "INV_Misc_LuckyMoneyEnvelope",
       "name": "Lucky Red Envelope",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21744,
@@ -2371,7 +2650,8 @@
       "icon": "INV_Misc_MissileLargeCluster_White",
       "name": "Lucky Rocket Cluster",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 2
     },
     {
       "id": 21745,
@@ -2379,7 +2659,8 @@
       "icon": "INV_Misc_Gem_Pearl_04",
       "name": "Elder's Moonstone",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 2
     },
     {
       "id": 21540,
@@ -2387,7 +2668,8 @@
       "icon": "INV_Misc_Lantern_01",
       "name": "Elune's Lantern",
       "quality": 2,
-      "description": "Quest Reward Misc"
+      "description": "Quest Reward Misc",
+      "group": 3
     },
     {
       "id": 21536,
@@ -2395,7 +2677,8 @@
       "icon": "INV_Misc_Gem_Pearl_04",
       "name": "Elune Stone",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 3
     },
     {
       "id": 0,
@@ -2403,7 +2686,8 @@
       "icon": "INV_Box_02",
       "name": "Lunar Festival Fireworks Pack",
       "quality": 6,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21558,
@@ -2411,7 +2695,8 @@
       "icon": "INV_Misc_MissileSmall_Blue",
       "name": "Small Blue Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21559,
@@ -2419,7 +2704,8 @@
       "icon": "INV_Misc_MissileSmall_Green",
       "name": "Small Green Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21557,
@@ -2427,7 +2713,8 @@
       "icon": "INV_Misc_MissileSmall_Red",
       "name": "Small Red Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21561,
@@ -2435,7 +2722,8 @@
       "icon": "INV_Misc_MissileSmall_White",
       "name": "Small White Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21562,
@@ -2443,7 +2731,8 @@
       "icon": "INV_Misc_MissileSmall_Yellow",
       "name": "Small Yellow Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21589,
@@ -2451,7 +2740,8 @@
       "icon": "INV_Misc_MissileLarge_Blue",
       "name": "Large Blue Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21590,
@@ -2459,7 +2749,8 @@
       "icon": "INV_Misc_MissileLarge_Green",
       "name": "Large Green Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21592,
@@ -2467,7 +2758,8 @@
       "icon": "INV_Misc_MissileLarge_Red",
       "name": "Large Red Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21593,
@@ -2475,7 +2767,8 @@
       "icon": "INV_Misc_MissileLarge_White",
       "name": "Large White Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21595,
@@ -2483,7 +2776,8 @@
       "icon": "INV_Misc_MissileLarge_Yellow",
       "name": "Large Yellow Rocket",
       "quality": 1,
-      "description": "Fireworks"
+      "description": "Fireworks",
+      "group": 3
     },
     {
       "id": 21537,
@@ -2491,7 +2785,8 @@
       "icon": "INV_Misc_Food_DimSum",
       "name": "Festival Dumplings",
       "quality": 1,
-      "description": "Consumable"
+      "description": "Consumable",
+      "group": 4
     },
     {
       "id": 21713,
@@ -2499,7 +2794,8 @@
       "icon": "INV_Musket_02",
       "name": "Elune's Candle",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 4
     }
   ],
   "LunarFestival2": [
@@ -2509,7 +2805,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Firework Launcher",
       "quality": 2,
-      "description": "Engineering (225)"
+      "description": "Engineering (225)",
+      "group": 0
     },
     {
       "id": 21722,
@@ -2517,7 +2814,8 @@
       "icon": "INV_Scroll_06",
       "name": "Pattern: Festival Dress",
       "quality": 2,
-      "description": "Tailoring (250)"
+      "description": "Tailoring (250)",
+      "group": 1
     },
     {
       "id": 21154,
@@ -2525,7 +2823,8 @@
       "icon": "INV_Chest_Cloth_56",
       "name": "Festival Dress",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 1
     },
     {
       "id": 0,
@@ -2533,7 +2832,8 @@
       "icon": "INV_Scroll_03",
       "name": "Small Rocket Recipes",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 2
     },
     {
       "id": 21724,
@@ -2541,7 +2841,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Small Blue Rocket",
       "quality": 2,
-      "description": "Engineering (125)"
+      "description": "Engineering (125)",
+      "group": 2
     },
     {
       "id": 21725,
@@ -2549,7 +2850,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Small Green Rocket",
       "quality": 2,
-      "description": "Engineering (125)"
+      "description": "Engineering (125)",
+      "group": 2
     },
     {
       "id": 21726,
@@ -2557,7 +2859,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Small Red Rocket",
       "quality": 2,
-      "description": "Engineering (125)"
+      "description": "Engineering (125)",
+      "group": 2
     },
     {
       "id": 0,
@@ -2565,7 +2868,8 @@
       "icon": "INV_Scroll_04",
       "name": "Large Rocket Recipes",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 3
     },
     {
       "id": 21727,
@@ -2573,7 +2877,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Blue Rocket",
       "quality": 2,
-      "description": "Engineering (175)"
+      "description": "Engineering (175)",
+      "group": 3
     },
     {
       "id": 21728,
@@ -2581,7 +2886,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Green Rocket",
       "quality": 2,
-      "description": "Engineering (175)"
+      "description": "Engineering (175)",
+      "group": 3
     },
     {
       "id": 21729,
@@ -2589,7 +2895,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Red Rocket",
       "quality": 2,
-      "description": "Engineering (175)"
+      "description": "Engineering (175)",
+      "group": 3
     },
     {
       "id": 21737,
@@ -2597,7 +2904,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Cluster Launcher",
       "quality": 2,
-      "description": "Engineering (275)"
+      "description": "Engineering (275)",
+      "group": 4
     },
     {
       "id": 21723,
@@ -2605,7 +2913,8 @@
       "icon": "INV_Scroll_06",
       "name": "Pattern: Festive Red Pant Suit",
       "quality": 2,
-      "description": "Tailoring (250)"
+      "description": "Tailoring (250)",
+      "group": 5
     },
     {
       "id": 21542,
@@ -2613,7 +2922,8 @@
       "icon": "INV_Chest_Cloth_55",
       "name": "Festival Suit",
       "quality": 1,
-      "description": "Chest"
+      "description": "Chest",
+      "group": 5
     },
     {
       "id": 0,
@@ -2621,7 +2931,8 @@
       "icon": "INV_Scroll_05",
       "name": "Cluster Rocket Recipes",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 6
     },
     {
       "id": 21730,
@@ -2629,7 +2940,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Blue Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (225)"
+      "description": "Engineering (225)",
+      "group": 6
     },
     {
       "id": 21731,
@@ -2637,7 +2949,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Green Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (225)"
+      "description": "Engineering (225)",
+      "group": 6
     },
     {
       "id": 21732,
@@ -2645,7 +2958,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Red Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (225)"
+      "description": "Engineering (225)",
+      "group": 6
     },
     {
       "id": 0,
@@ -2653,7 +2967,8 @@
       "icon": "INV_Scroll_06",
       "name": "Large Cluster Rocket Recipes",
       "quality": 6,
-      "description": ""
+      "description": "",
+      "group": 7
     },
     {
       "id": 21733,
@@ -2661,7 +2976,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Blue Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (275)"
+      "description": "Engineering (275)",
+      "group": 7
     },
     {
       "id": 21734,
@@ -2669,7 +2985,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Green Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (275)"
+      "description": "Engineering (275)",
+      "group": 7
     },
     {
       "id": 21735,
@@ -2677,7 +2994,8 @@
       "icon": "INV_Scroll_06",
       "name": "Schematic: Large Red Rocket Cluster",
       "quality": 2,
-      "description": "Engineering (275)"
+      "description": "Engineering (275)",
+      "group": 7
     }
   ],
   "MidsummerFestival": [
@@ -2687,7 +3005,8 @@
       "icon": "INV_Bracer_09",
       "name": "Cinder Bracers",
       "quality": 2,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 0
     },
     {
       "id": 23323,
@@ -2695,7 +3014,8 @@
       "icon": "INV_Helmet_08",
       "name": "Crown of the Fire Festival",
       "quality": 1,
-      "description": "Head, Cloth"
+      "description": "Head, Cloth",
+      "group": 1
     },
     {
       "id": 23324,
@@ -2703,7 +3023,8 @@
       "icon": "INV_Shoulder_23",
       "name": "Mantle of the Fire Festival",
       "quality": 1,
-      "description": "Shoulder, Cloth"
+      "description": "Shoulder, Cloth",
+      "group": 1
     },
     {
       "id": 23083,
@@ -2711,7 +3032,8 @@
       "icon": "INV_Potion_33",
       "name": "Captured Flame",
       "quality": 1,
-      "description": "Pet"
+      "description": "Pet",
+      "group": 2
     },
     {
       "id": 23247,
@@ -2719,7 +3041,8 @@
       "icon": "INV_SummerFest_FireFlower",
       "name": "Burning Blossom",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 2
     },
     {
       "id": 23246,
@@ -2727,7 +3050,8 @@
       "icon": "INV_SummerFest_FireDrink",
       "name": "Fiery Festival Brew",
       "quality": 1,
-      "description": "Misc"
+      "description": "Misc",
+      "group": 2
     },
     {
       "id": 23435,
@@ -2735,7 +3059,8 @@
       "icon": "INV_Misc_Food_10",
       "name": "Elderberry Pie",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 23327,
@@ -2743,7 +3068,8 @@
       "icon": "INV_Misc_Food_11",
       "name": "Fire-toasted Bun",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 23326,
@@ -2751,7 +3077,8 @@
       "icon": "INV_Misc_Food_53",
       "name": "Midsummer Sausage",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     },
     {
       "id": 23211,
@@ -2759,7 +3086,8 @@
       "icon": "INV_SummerFest_Smorc",
       "name": "Toasted Smorc",
       "quality": 1,
-      "description": "Food"
+      "description": "Food",
+      "group": 2
     }
   ]
 }
