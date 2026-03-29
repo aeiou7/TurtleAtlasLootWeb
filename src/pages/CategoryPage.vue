@@ -3,6 +3,7 @@ import { ref, computed, watch, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useDataStore } from '@/stores/dataStore'
 import { getCategoryByKey, type NavMenuItem, type CategoryInfo } from '@/types'
+import CategoryIcon from '@/components/icons/CategoryIcon.vue'
 
 const props = defineProps<{ category: string }>()
 const route = useRoute()
@@ -129,8 +130,9 @@ function navigateTo(item: NavMenuItem) {
       <span class="text-[var(--text-primary)]">{{ categoryInfo.label }}</span>
     </div>
 
-    <h1 class="text-2xl font-bold text-[var(--accent)] mb-6">
-      {{ categoryInfo.icon }} {{ categoryInfo.label }}
+    <h1 class="text-2xl font-bold text-[var(--accent)] mb-6 flex items-center gap-2">
+      <CategoryIcon :category="categoryInfo.key" class="w-7 h-7" />
+      {{ categoryInfo.label }}
     </h1>
 
     <div v-if="!ready" class="text-[var(--text-secondary)]">Loading...</div>

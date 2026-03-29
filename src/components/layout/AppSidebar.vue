@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
 import { CATEGORIES } from '@/types'
+import CategoryIcon from '@/components/icons/CategoryIcon.vue'
 
 defineProps<{ open: boolean }>()
 defineEmits<{ close: [] }>()
@@ -44,7 +45,7 @@ function isActive(categoryKey: string): boolean {
         ]"
         @click="$emit('close')"
       >
-        <span class="text-lg">{{ cat.icon }}</span>
+        <CategoryIcon :category="cat.key" class="w-5 h-5" />
         <span>{{ cat.label }}</span>
       </router-link>
     </nav>

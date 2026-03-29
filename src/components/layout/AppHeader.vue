@@ -29,7 +29,7 @@ function doSearch() {
 
     <!-- Logo / Title -->
     <router-link to="/" class="flex items-center gap-2 shrink-0">
-      <span class="text-xl font-bold text-[var(--accent)]">🐢 AtlasLoot</span>
+      <span class="text-xl font-bold text-[var(--accent)]">AtlasLoot</span>
       <span class="text-sm text-[var(--text-secondary)] hidden sm:inline">Turtle WoW</span>
     </router-link>
 
