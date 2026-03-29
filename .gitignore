@@ -20,3 +20,6 @@ start-dev.mjs
 .vscode/
 *.swp
 *.tsbuildinfo
+
+# Copilot instructions (local-only)
+.github/copilot-instructions.md
