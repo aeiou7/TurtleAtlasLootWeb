@@ -49,5 +49,19 @@ function doSearch() {
         </button>
       </div>
     </form>
+
+    <!-- Ko-fi button -->
+    <a
+      href="https://ko-fi.com/W7W0U43YC"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="shrink-0"
+    >
+      <img
+        src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
+        alt="Buy Me a Coffee at ko-fi.com"
+        class="h-9 border-0"
+      />
+    </a>
   </header>
 </template>
