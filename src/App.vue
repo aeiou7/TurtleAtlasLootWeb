@@ -15,7 +15,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col">
+  <div class="h-screen flex flex-col">
     <AppHeader @toggle-sidebar="sidebarOpen = !sidebarOpen" />
     <div class="flex flex-1 overflow-hidden">
       <AppSidebar :open="sidebarOpen" @close="sidebarOpen = false" />
