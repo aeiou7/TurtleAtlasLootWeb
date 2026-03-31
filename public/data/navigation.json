@@ -830,6 +830,12 @@
       "icon": "INV_Jewelry_Ring_03"
     },
     {
+      "name": "Other Professions",
+      "lootpage": "OTHERPROFESSIONS",
+      "isHeader": true,
+      "icon": "INV_Misc_Book_09"
+    },
+    {
       "name": "Herbalism",
       "lootpage": "Herbalism1",
       "icon": "Trade_Herbalism"

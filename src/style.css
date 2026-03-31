@@ -10,16 +10,22 @@
   --q5: #ff8000; /* legendary */
   --q6: #ff0000; /* header/artifact */
 
-  /* Theme */
-  --bg-primary: #1a1a2e;
-  --bg-secondary: #16213e;
-  --bg-tertiary: #0f3460;
-  --bg-card: #1e2a4a;
-  --text-primary: #e0e0e0;
-  --text-secondary: #a0a0a0;
-  --accent: #d4a844;
-  --accent-dim: #8b6914;
-  --border: #2a3a5c;
+  /* Theme — inspired by Raidres dark neutral palette */
+  --bg-body: #1a1d22;
+  --bg-primary: #1a1d22;
+  --bg-secondary: #202225;
+  --bg-tertiary: #2c2e33;
+  --bg-card: #232328;
+  --bg-hover: #2a2a30;
+  --text-primary: #e5e5e5;
+  --text-secondary: #a6a7ab;
+  --accent: #0c8599;
+  --accent-hover: #0ea5bf;
+  --accent-dim: #065a68;
+  --border: #2d2d34;
+  --border-card-top: rgba(0, 0, 0, 0.06);
+  --border-card-bottom: rgba(255, 255, 255, 0.04);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 * {
@@ -28,8 +34,8 @@
 
 body {
   margin: 0;
-  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-  background-color: var(--bg-primary);
+  font-family: 'Rubik', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-body);
   color: var(--text-primary);
   min-height: 100vh;
 }
@@ -59,11 +65,11 @@ body {
   background: var(--bg-primary);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--border);
+  background: #3a3a42;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--accent-dim);
+  background: #4a4a54;
 }
 
 /* Link styling */
@@ -72,5 +78,5 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #f0c050;
+  color: var(--accent-hover);
 }

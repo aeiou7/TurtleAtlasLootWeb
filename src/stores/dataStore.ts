@@ -43,6 +43,9 @@ export const useDataStore = defineStore('data', () => {
   // Quality overrides from tooltip dump (more accurate than addon data)
   const qualityMap = ref<Record<string, number> | null>(null)
 
+  // Item filter data: itemId -> [slot, subType, name] for equippable items
+  const filterData = ref<Record<string, [string, string, string]> | null>(null)
+
   // UI state: expanded groups per category (persists across navigation)
   const expandedGroups = ref<Record<string, string[]>>({})
 
@@ -91,6 +94,16 @@ export const useDataStore = defineStore('data', () => {
     if (tooltipSources.value) return tooltipSources.value
     tooltipSources.value = await fetchJson<Record<string, string>>('/data/tooltip-sources.json')
     return tooltipSources.value
+  }
+
+  async function loadFilterData(): Promise<Record<string, [string, string, string]>> {
+    if (filterData.value) return filterData.value
+    try {
+      filterData.value = await fetchJson<Record<string, [string, string, string]>>('/data/tooltips/item-filter-data.json')
+    } catch {
+      filterData.value = {}
+    }
+    return filterData.value!
   }
 
   async function loadItemData(dataFile: string): Promise<LootTable> {
@@ -336,6 +349,7 @@ export const useDataStore = defineStore('data', () => {
     loadButtonRegistry,
     loadTableRegister,
     loadTooltipSources,
+    loadFilterData,
     loadItemData,
     loadAllItemData,
     findLootPage,

@@ -130,8 +130,8 @@ function navigateTo(item: NavMenuItem) {
       <span class="text-[var(--text-primary)]">{{ categoryInfo.label }}</span>
     </div>
 
-    <h1 class="text-2xl font-bold text-[var(--accent)] mb-6 flex items-center gap-2">
-      <CategoryIcon :category="categoryInfo.key" class="w-7 h-7" />
+    <h1 class="text-2xl font-bold text-white mb-6 flex items-center gap-2">
+      <CategoryIcon :category="categoryInfo.key" class="w-7 h-7 text-[var(--accent)]" />
       {{ categoryInfo.label }}
     </h1>
 
@@ -152,7 +152,7 @@ function navigateTo(item: NavMenuItem) {
           >
             <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
-          <span class="text-lg font-semibold text-[var(--accent)] group-hover/hdr:text-[var(--text-primary)] transition-colors">
+          <span class="text-lg font-semibold text-white group-hover/hdr:text-[var(--accent)] transition-colors">
             {{ group.header!.name || group.header!.lootpage }}
           </span>
           <span class="text-xs text-[var(--text-secondary)] ml-1">({{ group.items.length }})</span>
@@ -167,9 +167,9 @@ function navigateTo(item: NavMenuItem) {
             v-for="item in group.items"
             :key="item.lootpage"
             @click="navigateTo(item)"
-            class="bg-[var(--bg-card)] border border-[var(--border)] rounded-lg p-4 text-left hover:border-[var(--accent)] transition-colors group"
+            class="bg-[var(--bg-card)] border-t border-b border-t-[var(--border-card-top)] border-b-[var(--border-card-bottom)] border-x-0 rounded-lg p-4 text-left shadow-[var(--shadow-card)] hover:bg-[var(--bg-hover)] transition-colors group"
           >
-            <div class="font-medium text-[var(--text-primary)] group-hover:text-[var(--accent)] transition-colors truncate">
+            <div class="font-medium text-[var(--text-primary)] group-hover:text-white transition-colors truncate">
               {{ item.name || item.lootpage }}
             </div>
             <div v-if="item.extra" class="text-xs text-[var(--text-secondary)] mt-1">

@@ -30,7 +30,7 @@ function isActive(categoryKey: string): boolean {
     ]"
   >
     <nav class="p-3">
-      <div class="text-xs uppercase tracking-wider text-[var(--text-secondary)] mb-2 px-3">
+      <div class="text-xs uppercase tracking-wider text-[var(--text-secondary)] mb-2 px-3 font-medium">
         Categories
       </div>
       <router-link
@@ -40,8 +40,8 @@ function isActive(categoryKey: string): boolean {
         :class="[
           'flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm transition-colors',
           isActive(cat.key)
-            ? 'bg-[var(--bg-tertiary)] text-[var(--accent)]'
-            : 'text-[var(--text-primary)] hover:bg-[var(--bg-primary)] hover:text-[var(--accent)]',
+            ? 'bg-[var(--bg-tertiary)] text-white'
+            : 'text-[var(--text-primary)] hover:bg-[var(--bg-tertiary)] hover:text-white',
         ]"
         @click="$emit('close')"
       >
@@ -55,7 +55,7 @@ function isActive(categoryKey: string): boolean {
         href="https://github.com/MrDobby92/TurtleAtlasLootWeb/issues"
         target="_blank"
         rel="noopener noreferrer"
-        class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-primary)] hover:text-[var(--accent)] transition-colors"
+        class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)] hover:text-white transition-colors"
         @click="$emit('close')"
       >
         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">

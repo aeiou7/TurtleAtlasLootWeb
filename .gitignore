@@ -1,6 +1,7 @@
 node_modules/
 dist/
 *.local
+
 .env
 .env.*
 !.env.example
@@ -23,3 +24,6 @@ start-dev.mjs
 
 # Copilot instructions (local-only)
 .github/copilot-instructions.md
+
+# examples folder (local-only, used for testing and prototyping)
+.examples/

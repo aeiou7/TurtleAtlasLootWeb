@@ -16,7 +16,7 @@ function doSearch() {
 </script>
 
 <template>
-  <header class="bg-[var(--bg-secondary)] border-b border-[var(--border)] px-4 py-3 flex items-center gap-3 sm:gap-4 shrink-0 z-20">
+  <header class="bg-[rgba(0,0,0,0.4)] backdrop-blur-sm border-b border-[var(--border)] px-4 py-3 flex items-center gap-3 sm:gap-4 shrink-0 z-20">
     <!-- Mobile menu button -->
     <button
       class="md:hidden text-[var(--text-secondary)] hover:text-[var(--accent)] p-1"
@@ -29,7 +29,7 @@ function doSearch() {
 
     <!-- Logo / Title -->
     <router-link to="/" class="flex items-center gap-2 shrink-0">
-      <span class="text-xl font-bold text-[var(--accent)]">AtlasLoot</span>
+      <span class="text-xl font-bold text-white">AtlasLoot</span>
       <span class="text-sm text-[var(--text-secondary)] hidden sm:inline">Turtle WoW</span>
     </router-link>
 

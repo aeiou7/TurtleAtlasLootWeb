@@ -44,7 +44,7 @@ const {
 
 <template>
   <div>
-    <h2 v-if="title" class="text-lg font-semibold text-[var(--accent)] mb-4">{{ title }}</h2>
+    <h2 v-if="title" class="text-lg font-semibold text-white mb-4">{{ title }}</h2>
 
     <!-- Grouped layout: column-fill (top-to-bottom, then next column) on desktop -->
     <div :class="isGrouped ? 'md:columns-2 gap-3 space-y-3 md:space-y-0' : ''">
@@ -52,7 +52,7 @@ const {
         v-for="(group, gIdx) in groupedItems"
         :key="gIdx"
         :class="isGrouped
-          ? 'break-inside-avoid mb-3 rounded-lg bg-[var(--bg-card)] border border-[var(--border)] p-2'
+          ? 'break-inside-avoid mb-3 rounded-lg bg-[var(--bg-card)] border-t border-b border-t-[var(--border-card-top)] border-b-[var(--border-card-bottom)] border-x-0 p-2 shadow-[var(--shadow-card)]'
           : ''"
       >
         <div class="space-y-0.5">
@@ -69,7 +69,7 @@ const {
             <!-- Regular item row -->
             <div
               v-else
-              class="flex items-center gap-3 py-1.5 px-3 rounded hover:bg-[var(--bg-tertiary)] transition-colors group/row cursor-default"
+              class="flex items-center gap-3 py-1.5 px-3 rounded hover:bg-[var(--bg-hover)] transition-colors group/row cursor-default"
               @mouseenter="onItemMouseEnter(item, $event)"
               @mousemove="onItemMouseMove($event)"
               @mouseleave="onItemMouseLeave()"
