@@ -234,6 +234,11 @@
       "lootpage": "UKHGnarlmoon",
       "name": "[RAID] Upper Karazhan Halls",
       "extra": "Deadwind Pass"
+    },
+    {
+      "name": "[RAID] Timbermaw Hold",
+      "lootpage": "THKarrshtheSentinel",
+      "extra": "Azshara"
     }
   ],
   "crafting": [
@@ -2064,6 +2069,11 @@
       "extra": "Azshara",
       "lootpage": "Clackora",
       "icon": "INV_Misc_Birdbeck_02"
+    },
+    {
+      "name": "Rare Mobs",
+      "lootpage": "ShadeMage",
+      "extra": "Various Locations"
     }
   ],
   "worldEvents": [
