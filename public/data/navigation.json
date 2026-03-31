@@ -1,6 +1,11 @@
 {
   "dungeons": [
     {
+      "name": "Dungeons",
+      "lootpage": "DUNGEONS_HEADER",
+      "isHeader": true
+    },
+    {
       "lootpage": "RFCTaragaman",
       "name": "[13-18] Ragefire Chasm",
       "extra": "Orgrimmar"
@@ -174,6 +179,11 @@
       "lootpage": "KCMarrowspike",
       "name": "[60] Karazhan Crypt",
       "extra": "Deadwind Pass"
+    },
+    {
+      "name": "Raids",
+      "lootpage": "RAIDS_HEADER",
+      "isHeader": true
     },
     {
       "lootpage": "ZGJeklik",
