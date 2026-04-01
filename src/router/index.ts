@@ -14,6 +14,11 @@ const router = createRouter({
       component: () => import('@/pages/SearchPage.vue'),
     },
     {
+      path: '/item-finder',
+      name: 'itemFinder',
+      component: () => import('@/pages/ItemFinderPage.vue'),
+    },
+    {
       path: '/:category',
       name: 'category',
       component: () => import('@/pages/CategoryPage.vue'),

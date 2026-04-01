@@ -48,6 +48,26 @@ function isActive(categoryKey: string): boolean {
         <CategoryIcon :category="cat.key" class="w-5 h-5" />
         <span>{{ cat.label }}</span>
       </router-link>
+
+      <!-- Tools section -->
+      <div class="text-xs uppercase tracking-wider text-[var(--text-secondary)] mt-4 mb-2 px-3 font-medium">
+        Tools
+      </div>
+      <router-link
+        to="/item-finder"
+        :class="[
+          'flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm transition-colors',
+          route.name === 'itemFinder'
+            ? 'bg-[var(--bg-tertiary)] text-white'
+            : 'text-[var(--text-primary)] hover:bg-[var(--bg-tertiary)] hover:text-white',
+        ]"
+        @click="$emit('close')"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M3 3a1 1 0 011-1h12a1 1 0 011 1v3a1 1 0 01-.293.707L12 11.414V15a1 1 0 01-.293.707l-2 2A1 1 0 018 17v-5.586L3.293 6.707A1 1 0 013 6V3z" clip-rule="evenodd" />
+        </svg>
+        <span>Item Finder</span>
+      </router-link>
     </nav>
 
     <div class="mt-auto p-3 border-t border-[var(--border)]">
