@@ -18,19 +18,8 @@ const slotFilter = ref('')
 const typeFilter = ref('')
 const dataFileToCategoryKey = new Map(CATEGORIES.map(category => [category.dataFile, category.key] as const))
 
-const SLOT_OPTIONS = [
-  'Head', 'Shoulder', 'Chest', 'Back', 'Wrist', 'Hands', 'Waist', 'Legs', 'Feet',
-  'Neck', 'Finger', 'Trinket',
-  'Main Hand', 'Off Hand', 'One-Hand', 'Two-Hand', 'Ranged', 'Held In Off-hand',
-  'Shirt', 'Tabard', 'Relic',
-]
-
-// Dynamic type options based on what's available for the selected slot
-const availableTypes = ref<string[]>([])
-
-// Whether any filter (text or dropdowns) is active
 const hasActiveFilter = computed(() => {
-  return (query.value && query.value.length >= 2) || slotFilter.value || typeFilter.value
+  return query.value && query.value.length >= 2
 })
 
 function itemQuality(item: LootItem): number {
@@ -45,14 +34,8 @@ const {
 
 async function doSearch() {
   const q = query.value
-  const slot = slotFilter.value
-  const type = typeFilter.value
 
-  if (!q && !slot && !type) {
-    results.value = []
-    return
-  }
-  if (q && q.length < 2 && !slot && !type) {
+  if (!q || q.length < 2) {
     results.value = []
     return
   }
@@ -68,8 +51,9 @@ async function doSearch() {
     store.loadTableRegister(),
   ])
 
-  const lowerQ = q ? q.toLowerCase() : ''
+  const lowerQ = q.toLowerCase()
   const found: typeof results.value = []
+  const seenIds = new Set<number>()
 
   for (const [dataFile, tables] of Object.entries(allData)) {
     const categoryKey = dataFileToCategoryKey.get(dataFile)
@@ -79,31 +63,27 @@ async function doSearch() {
       const tableTitle = store.resolveLootTableLabel(tableKey, resolverCategory)
 
       for (const item of items) {
-        if (item.quality === 6) continue // skip headers
+        if (item.quality === 6 || !item.name) continue
 
-        // Text filter
-        if (lowerQ && !item.name.toLowerCase().includes(lowerQ)) continue
+        if (!item.name.toLowerCase().includes(lowerQ)) continue
 
-        // Equipment slot/type filter
-        if (slot || type) {
-          const meta = filterMap[String(item.id)]
-          if (!meta) continue
-          if (slot && meta[0] !== slot) continue
-          if (type && meta[1] !== type) continue
-        }
+        // Validate against name collisions using filter data
+        const entry = filterMap[String(item.id)]
+        if (entry && entry.n && entry.n !== item.name) continue
+
+        // Deduplicate by item ID
+        if (seenIds.has(item.id)) continue
+        seenIds.add(item.id)
 
         found.push({ ...item, tableKey, tableTitle })
       }
     }
   }
 
-  // Sort: exact matches first, then by quality desc, then alphabetically
   found.sort((a, b) => {
-    if (lowerQ) {
-      const aExact = a.name.toLowerCase() === lowerQ ? 0 : 1
-      const bExact = b.name.toLowerCase() === lowerQ ? 0 : 1
-      if (aExact !== bExact) return aExact - bExact
-    }
+    const aExact = a.name.toLowerCase() === lowerQ ? 0 : 1
+    const bExact = b.name.toLowerCase() === lowerQ ? 0 : 1
+    if (aExact !== bExact) return aExact - bExact
     const qA = store.resolveQuality(a.id, a.quality)
     const qB = store.resolveQuality(b.id, b.quality)
     if (qB !== qA) return qB - qA
@@ -114,38 +94,9 @@ async function doSearch() {
   searching.value = false
 }
 
-async function updateAvailableTypes() {
-  if (!slotFilter.value) {
-    availableTypes.value = []
-    return
-  }
-  const filterMap = await store.loadFilterData()
-  const types = new Set<string>()
-  for (const [, meta] of Object.entries(filterMap)) {
-    if (meta[0] === slotFilter.value && meta[1]) {
-      types.add(meta[1])
-    }
-  }
-  availableTypes.value = [...types].sort()
-}
-
-function onSlotChange() {
-  typeFilter.value = ''
-  updateAvailableTypes()
-  syncQueryParams()
-  doSearch()
-}
-
-function onTypeChange() {
-  syncQueryParams()
-  doSearch()
-}
-
 function syncQueryParams() {
   const params: Record<string, string> = {}
   if (query.value) params.q = query.value
-  if (slotFilter.value) params.slot = slotFilter.value
-  if (typeFilter.value) params.type = typeFilter.value
   router.replace({ path: '/search', query: params })
 }
 
@@ -156,21 +107,13 @@ function onQueryInput() {
 
 onMounted(() => {
   query.value = (route.query.q as string) ?? ''
-  slotFilter.value = (route.query.slot as string) ?? ''
-  typeFilter.value = (route.query.type as string) ?? ''
-  if (slotFilter.value) updateAvailableTypes()
   if (hasActiveFilter.value) doSearch()
 })
 
 watch(() => route.query, (newQuery) => {
   const newQ = (newQuery.q as string) ?? ''
-  const newSlot = (newQuery.slot as string) ?? ''
-  const newType = (newQuery.type as string) ?? ''
-  if (newQ !== query.value || newSlot !== slotFilter.value || newType !== typeFilter.value) {
+  if (newQ !== query.value) {
     query.value = newQ
-    slotFilter.value = newSlot
-    typeFilter.value = newType
-    if (slotFilter.value) updateAvailableTypes()
     if (hasActiveFilter.value) doSearch()
     else results.value = []
   }
@@ -187,13 +130,12 @@ watch(() => route.query, (newQuery) => {
     </div>
 
     <h1 class="text-2xl font-bold text-white mb-4">
-      Search &amp; Filter
+      Search
     </h1>
 
-    <!-- Filter bar -->
-    <div class="flex flex-wrap items-end gap-3 mb-6 p-3 bg-[var(--bg-card)] border border-[var(--border)] rounded-lg">
-      <!-- Text search -->
-      <div class="flex-1 min-w-[180px]">
+    <!-- Search bar -->
+    <div class="mb-6 p-3 bg-[var(--bg-card)] border border-[var(--border)] rounded-lg">
+      <div class="flex-1">
         <label class="block text-xs text-[var(--text-secondary)] mb-1">Item name</label>
         <input
           v-model="query"
@@ -203,32 +145,11 @@ watch(() => route.query, (newQuery) => {
           class="w-full px-3 py-1.5 text-sm bg-[var(--bg-secondary)] border border-[var(--border)] rounded text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:border-[var(--accent)]"
         />
       </div>
-
-      <!-- Slot filter -->
-      <div class="min-w-[150px]">
-        <label class="block text-xs text-[var(--text-secondary)] mb-1">Equipment Slot</label>
-        <select
-          v-model="slotFilter"
-          @change="onSlotChange"
-          class="w-full px-3 py-1.5 text-sm bg-[var(--bg-secondary)] border border-[var(--border)] rounded text-[var(--text-primary)] focus:outline-none focus:border-[var(--accent)]"
-        >
-          <option value="">All Slots</option>
-          <option v-for="s in SLOT_OPTIONS" :key="s" :value="s">{{ s }}</option>
-        </select>
-      </div>
-
-      <!-- Type filter -->
-      <div class="min-w-[150px]">
-        <label class="block text-xs text-[var(--text-secondary)] mb-1">Armor / Weapon Type</label>
-        <select
-          v-model="typeFilter"
-          @change="onTypeChange"
-          :disabled="!slotFilter"
-          class="w-full px-3 py-1.5 text-sm bg-[var(--bg-secondary)] border border-[var(--border)] rounded text-[var(--text-primary)] focus:outline-none focus:border-[var(--accent)] disabled:opacity-50"
-        >
-          <option value="">All Types</option>
-          <option v-for="t in availableTypes" :key="t" :value="t">{{ t }}</option>
-        </select>
+      <div class="mt-2 text-xs text-[var(--text-secondary)]">
+        Looking for advanced filters?
+        <router-link to="/item-finder" class="text-[var(--accent)] hover:text-white transition-colors">
+          Try Item Finder →
+        </router-link>
       </div>
     </div>
 

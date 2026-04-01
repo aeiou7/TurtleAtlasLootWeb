@@ -69,6 +69,16 @@ export function getCategoryByKey(key: string): CategoryInfo | undefined {
   return CATEGORIES.find(c => c.key === key)
 }
 
+// Item filter data from parse_tooltips.py (used by Item Finder)
+export interface ItemFilterEntry {
+  s: string       // equipment slot
+  t: string       // armor/weapon subType
+  n: string       // item name (for collision validation)
+  rl?: number     // required level
+  st?: Record<string, number>  // base stats (str, agi, sta, int, spi, armor, firRes, natRes, froRes, shaRes, arcRes, dps)
+  eq?: Record<string, number>  // equip effects (ap, sp, heal, mp5, hp5, crit, spCrit, hit, spHit, def, dodge, parry, block, haste)
+}
+
 // Tooltip data from the TooltipDumper addon
 export interface TooltipLine {
   left: string

@@ -10,7 +10,7 @@ const searchQuery = ref('')
 function doSearch() {
   const q = searchQuery.value.trim()
   if (q) {
-    router.push({ name: 'search', query: { q } })
+    router.push({ name: 'itemFinder', query: { q } })
   }
 }
 </script>
@@ -28,7 +28,7 @@ function doSearch() {
     </button>
 
     <!-- Logo / Title -->
-    <router-link to="/" class="flex items-center gap-2 shrink-0">
+    <router-link to="/" class="flex items-center gap-2 shrink-0 hidden sm:flex">
       <span class="text-xl font-bold text-white">AtlasLoot</span>
       <span class="text-sm text-[var(--text-secondary)] hidden sm:inline">Turtle WoW</span>
     </router-link>
@@ -60,11 +60,8 @@ function doSearch() {
       <img
         src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
         alt="Buy Me a Coffee at ko-fi.com"
-        class="h-9 border-0 hidden sm:block"
+        class="h-9 border-0"
       />
-      <svg class="w-6 h-6 sm:hidden text-[#ff5e5b]" viewBox="0 0 24 24" fill="currentColor">
-        <path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311z"/>
-      </svg>
     </a>
   </header>
 </template>
