@@ -2,7 +2,7 @@
 import { ref, watch, onMounted, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useDataStore } from '@/stores/dataStore'
-import type { LootItem } from '@/types'
+import { CATEGORIES, type LootItem } from '@/types'
 import { qualityClass } from '@/utils/icons'
 import ItemIcon from '@/components/loot/ItemIcon.vue'
 import ItemTooltip from '@/components/loot/ItemTooltip.vue'
@@ -16,6 +16,7 @@ const results = ref<Array<LootItem & { tableKey: string; tableTitle: string }>>(
 const query = ref('')
 const slotFilter = ref('')
 const typeFilter = ref('')
+const dataFileToCategoryKey = new Map(CATEGORIES.map(category => [category.dataFile, category.key] as const))
 
 const SLOT_OPTIONS = [
   'Head', 'Shoulder', 'Chest', 'Back', 'Wrist', 'Hands', 'Waist', 'Legs', 'Feet',
@@ -59,17 +60,24 @@ async function doSearch() {
   searching.value = true
   results.value = []
 
-  const [allData, register, filterMap] = await Promise.all([
+  const [allData, filterMap] = await Promise.all([
     store.loadAllItemData(),
-    store.loadTableRegister(),
     store.loadFilterData(),
+    store.loadNavigation(),
+    store.loadButtonRegistry(),
+    store.loadTableRegister(),
   ])
 
   const lowerQ = q ? q.toLowerCase() : ''
   const found: typeof results.value = []
 
-  for (const [, tables] of Object.entries(allData)) {
+  for (const [dataFile, tables] of Object.entries(allData)) {
+    const categoryKey = dataFileToCategoryKey.get(dataFile)
+    const resolverCategory = categoryKey === 'crafting' ? categoryKey : undefined
+
     for (const [tableKey, items] of Object.entries(tables)) {
+      const tableTitle = store.resolveLootTableLabel(tableKey, resolverCategory)
+
       for (const item of items) {
         if (item.quality === 6) continue // skip headers
 
@@ -84,8 +92,7 @@ async function doSearch() {
           if (type && meta[1] !== type) continue
         }
 
-        const title = register?.[tableKey]?.title ?? tableKey
-        found.push({ ...item, tableKey, tableTitle: title })
+        found.push({ ...item, tableKey, tableTitle })
       }
     }
   }

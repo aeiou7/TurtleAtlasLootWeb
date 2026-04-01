@@ -14,6 +14,7 @@ const ready = ref(false)
 const allBossItems = ref<Record<string, LootItem[]>>({})
 
 const categoryInfo = computed<CategoryInfo | undefined>(() => getCategoryByKey(props.category))
+const isCraftingCategory = computed(() => props.category === 'crafting')
 
 /** The dungeon/instance title derived from the navigation entry that links to this chain. */
 const chainTitle = computed(() => {
@@ -29,15 +30,26 @@ const chainTitle = computed(() => {
 })
 
 const pageTitle = computed(() => {
+  if (isCraftingCategory.value) {
+    return store.resolveLootTableLabel(props.pageKey, 'crafting')
+  }
   if (chainTitle.value) return chainTitle.value
-  const reg = store.tableRegister?.[props.pageKey]
-  if (reg) return reg.title
-  const btn = store.buttonRegistry?.[props.pageKey]
-  if (btn?.title) return btn.title
-  return props.pageKey
+  return store.resolveLootTableLabel(props.pageKey)
 })
 
 const backPage = computed(() => store.buttonRegistry?.[props.pageKey]?.backPage)
+
+function formatBossLabel(pageKey: string): string {
+  const title = isCraftingCategory.value
+    ? store.resolveLootTableLabel(pageKey, 'crafting')
+    : store.resolveLootTableLabel(pageKey)
+
+  if (!isCraftingCategory.value && title.includes(' - ')) {
+    return title.split(' - ').slice(1).join(' - ')
+  }
+
+  return title
+}
 
 /** Walk the nextPage chain from the first boss to build an ordered boss list. */
 const bossList = computed(() => {
@@ -56,12 +68,8 @@ const bossList = computed(() => {
   const seen = new Set<string>()
   while (cur && !seen.has(cur)) {
     seen.add(cur)
-    const title =
-      store.tableRegister?.[cur]?.title ??
-      reg[cur]?.title ??
-      cur
+    const label = formatBossLabel(cur)
     // Strip the dungeon prefix ("Molten Core - Ragnaros" → "Ragnaros")
-    const label = title.includes(' - ') ? title.split(' - ').slice(1).join(' - ') : title
     list.push({ key: cur, label })
     cur = reg[cur]?.nextPage
   }

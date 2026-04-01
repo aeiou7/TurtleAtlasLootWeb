@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
 import type {
+  CategoryKey,
   LootTable,
   NavigationData,
   ButtonRegistryEntry,
@@ -55,6 +56,42 @@ export const useDataStore = defineStore('data', () => {
 
   function setExpandedGroups(category: string, expanded: string[]) {
     expandedGroups.value[category] = expanded
+  }
+
+  function findNavigationLabel(pageKey: string, categoryKey: CategoryKey): string | null {
+    if (!navigation.value) return null
+    const entry = navigation.value[categoryKey].find(item => item.lootpage === pageKey)
+    return entry?.name ?? null
+  }
+
+  function resolveLootTableLabel(pageKey: string, categoryKey?: CategoryKey): string {
+    if (categoryKey) {
+      const exactNavigationLabel = findNavigationLabel(pageKey, categoryKey)
+      if (exactNavigationLabel) return exactNavigationLabel
+    }
+
+    if (categoryKey === 'crafting' && buttonRegistry.value) {
+      const seen = new Set<string>()
+      let current = pageKey
+
+      while (!seen.has(current)) {
+        seen.add(current)
+        const prevPage = buttonRegistry.value[current]?.prevPage
+        if (!prevPage) break
+
+        current = prevPage
+        const navigationLabel = findNavigationLabel(current, 'crafting')
+        if (navigationLabel) return navigationLabel
+      }
+    }
+
+    const registerTitle = tableRegister.value?.[pageKey]?.title
+    if (registerTitle) return registerTitle
+
+    const buttonTitle = buttonRegistry.value?.[pageKey]?.title
+    if (buttonTitle) return buttonTitle
+
+    return pageKey
   }
 
   async function loadNavigation() {
@@ -356,6 +393,7 @@ export const useDataStore = defineStore('data', () => {
     getTooltip,
     getSpellTooltip,
     resolveQuality,
+    resolveLootTableLabel,
     getExpandedGroups,
     setExpandedGroups,
     init,
